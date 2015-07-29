@@ -1,6 +1,5 @@
 # HackSoc 2015/16 site
 
-Testing.
 
 To replace : http://www.hacksocnotts.co.uk/
 
@@ -12,12 +11,9 @@ To replace : http://www.hacksocnotts.co.uk/
 * cd {ThisRepo} 
 * **Make changes**
 * Jekyll serve # To test the changes
-* Make a pull request 
+* Make a pull request
 
 
 ## Created with Jekyll
 
 A free and open-source blogging platform [Jekyll](http://jekyllrb.com).
-
-
-
