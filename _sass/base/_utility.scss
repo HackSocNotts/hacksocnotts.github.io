@@ -1,0 +1,40 @@
+// Mix-ins
+%padding-small {
+  padding: $padding-x-small $padding-x-small * 2;
+  @media (max-width: 1000px) {
+    padding: $padding-x-small;
+  }
+}
+
+%padding-regular {
+  padding: $padding-small $padding-large;
+  @media (max-width: 1000px) {
+    padding: $padding-small * 1.5 $padding-large / 1.6;
+  }
+}
+
+%link-hover {
+  color: darken($link-color, 15%);
+  text-decoration: underline;
+}
+
+// Buttons
+.button {
+  border: 1px solid;
+  border-radius: .3em;
+  display: inline-block;
+  margin: 1em 0;
+  padding: .5em .75em;
+}
+
+a.button:hover {
+  background: $link-color;
+  border: 1px solid $link-color;
+  color: $background-color;
+  text-decoration: none;
+}
+
+// States
+.disabled {
+  opacity: .7;
+}

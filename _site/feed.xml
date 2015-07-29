@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HackSoc</title>
+    <atom:link href="http://www.hacksocnotts.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://www.hacksocnotts.github.io/</link>
+    <description>University of Nottingham Hack Society, HackSoc</description>
+    <pubDate>Wed, 29 Jul 2015 17:40:59 +0100</pubDate>
+    
+      <item>
+        <title>Spring Schedule 2014.</title>
+        <link>http://www.hacksocnotts.github.io//2014/02/10/spring-events.html</link>
+        <guid isPermaLink="true">http://www.hacksocnotts.github.io//2014/02/10/spring-events.html</guid>
+        <description>&lt;p&gt;We’re going to go with two types of event, and will alternate them every week.&lt;/p&gt;
+
+&lt;h3 id=&quot;week-1--casual-hack-and-talks&quot;&gt;Week 1 – Casual Hack and Talks&lt;/h3&gt;
+&lt;p&gt;We’ll be meeting somewhere (location tbc week before event) for an evening of hacking and talks. Lightning talk slots open for anyone brave. If you have a topic you want covered, suggest it and we’ll try to do so or find someone who can! The next one of these will be in the Hub, CS, Jubilee on the 13th, and will be our Hardware Hacking workshop, going over Arduino, Makey Makey, Pi and AR.Drone in detail.&lt;/p&gt;
+
+&lt;h3 id=&quot;week-2--beginners-java&quot;&gt;Week 2 – Beginners Java&lt;/h3&gt;
+&lt;p&gt;This will run throughout the semester, and will take you from absolutely no experience, up to producing Android apps (we hope). The pace will be set by the attendees so everyone can follow along, and we hope to have you all hacking in no time! The first one of these will be on the 20th of February, in the Hub, CS, Jubilee.&lt;/p&gt;
+
+&lt;p&gt;So to summarise:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;13th – Hardware talk,&lt;/li&gt;
+  &lt;li&gt;20th – Beginners Java,&lt;/li&gt;
+  &lt;li&gt;27th – Talk/Casual Hack&lt;/li&gt;
+  &lt;li&gt;6th- Beginners Java continued.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;AND SO ON INFINITUM
+If a session isn’t on due to exams/other event/catastrophe/viral outbreak, we will notify everyone via email and Facebook.&lt;/p&gt;
+
+&lt;p&gt;Room locations and topics will be confirmed the week prior to an event.
+For any questions, to request a topic or to volunteer to give a talk, please email mail@hacksocnotts.co.uk or comment on Facebook.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Feb 2014 00:00:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>HackSoc Hackday.</title>
+        <link>http://www.hacksocnotts.github.io//2014/02/01/hacksoc-hackday.html</link>
+        <guid isPermaLink="true">http://www.hacksocnotts.github.io//2014/02/01/hacksoc-hackday.html</guid>
+        <description>&lt;p&gt;First batch of tickets is now out for our second hackathon!&lt;/p&gt;
+
+&lt;p&gt;Join us in Nottingham for a 24 hour hackathon!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hack for 24 hours,&lt;/li&gt;
+  &lt;li&gt;Great location and facilities,&lt;/li&gt;
+  &lt;li&gt;Food and drink provided throughout, with 4 meals,&lt;/li&gt;
+  &lt;li&gt;Awesome sponsors,&lt;/li&gt;
+  &lt;li&gt;Swag and prizes!&lt;/li&gt;
+  &lt;li&gt;Tickets open to all students. Questions? Tweet @hacksocnotts or email mail@hacksocnotts.co.uk&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Sponsored by:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Facebook&lt;/li&gt;
+  &lt;li&gt;Twilio&lt;/li&gt;
+  &lt;li&gt;SendGrid&lt;/li&gt;
+  &lt;li&gt;Capital One&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;In association with the University of Nottingham Students Union.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>End of Semester one.</title>
+        <link>http://www.hacksocnotts.github.io//2014/01/10/end-of-semester-1.html</link>
+        <guid isPermaLink="true">http://www.hacksocnotts.github.io//2014/01/10/end-of-semester-1.html</guid>
+        <description>&lt;h3 id=&quot;hello-everyone-what-a-semester&quot;&gt;Hello everyone! What a semester!&lt;/h3&gt;
+&lt;p&gt;The response to HackSoc has been incredible. Myself and the rest of the exec have been overwhelmed with the enthusiasm.&lt;/p&gt;
+
+&lt;p&gt;Just wanted to drop a quick post out thanking you all for a fantastic semester.&lt;/p&gt;
+
+&lt;p&gt;As previously noted, we’re going to try and bring in some huge improvements for next year. As part of that, we bought on a new exec member earlier in the semester (thanks for all who voted) and have changed our event schedule. Details of the new schedule will materialise over Christmas.&lt;/p&gt;
+
+&lt;p&gt;So I wanted to do a quick recap of all the awesome stuff that has happened this year:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We have attended 9 national hackathons and had prize winning hacks at 5! Some of the hacks we’ve attended have been some of the biggest to ever be held in the UK, such as Hacked.io.&lt;/li&gt;
+  &lt;li&gt;We grew from 35 to 150+ members in 8 months. This still boggles my mind, we never expected this kind of uptake. It’s a bit of a rocky road adjusting to the rapid growth, but I hope the improvements next semester appeal and keep you coming to events!&lt;/li&gt;
+  &lt;li&gt;We invested £1000 in equipment and hardware for members to use. Don’t forget about this equipment! We have stuff appropriate for all levels, and adding a physical element to your projects is great fun and increases the speed you can learn new concepts.&lt;/li&gt;
+  &lt;li&gt;We held 7 talks, on topics ranging from beginners Python to musical programming. Next semester we’re going to fix the schedule to provide more talks targetted at different ability levels, so any beginners who found it too hard, or experienced members who found it boring, stick with it! Thanks to all of our guest speakers.&lt;/li&gt;
+  &lt;li&gt;We held the first ever hackathon in the University. Hackday attracted over 70 hackers throughout the night, and we had some cracking talks and hacks produced. Hackday 2.0 in semester 2 will be bigger and better, details to be announced soon!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So once again, a big thank you to you all for being involved. If you have any comments, feedback, talk requests (or offers), please email mail@hacksocnotts.co.uk.&lt;/p&gt;
+
+&lt;p&gt;Have a fantastic holiday, and good luck in the January exams!&lt;/p&gt;
+
+&lt;p&gt;Joe&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Jan 2014 00:00:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>Over The Air 2013</title>
+        <link>http://www.hacksocnotts.github.io//2013/12/01/over-the-air-2013.html</link>
+        <guid isPermaLink="true">http://www.hacksocnotts.github.io//2013/12/01/over-the-air-2013.html</guid>
+        <description>&lt;p&gt;Over The Air was my first Hackathon (despite being on the exec for HackSoc) and after going, I severely regret not going to any previously.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post-photos/over-the-air-2013-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It was hosted in Bletchley Park, and we were actually hacking inside the manor (finally my life as a computer science student was complete).&lt;/p&gt;
+
+&lt;p&gt;The event had a huge roster of talks, loads of big name sponsors, meals for us (including a very much welcomed fry up on Saturday morning), and even porta-showers, alongside the 36 hours of hacking (from 10AM till 12PM the next day). Unfortunately I was too engrossed in our hacks to get out of my seat for the duration of the hackathon (even my “bed” for the “night”, 90 whole minutes, was made out of the chairs I was sitting on), but there were some great talks, and even a tour of the museum.&lt;/p&gt;
+
+&lt;p&gt;Oh, and when I say there was a lot of talks, there was a lot of talks. At at one time there was 5 different talks taking place in various locations around the manor house and Marquee, and I’m gutted that I didn’t get time to go to any (Seriously, check out all these talks, incredible!).&lt;/p&gt;
+
+&lt;p&gt;The venue was, obviously, fantastic, with a fridge in the main corridor next to the tea/coffee facilities, we had everything we needed to keep up going through the event (we were also tactically positioned near the toilets to increase our hack time!) We were able to set up in (I think) any of the rooms in the downstairs of the manor, or even in the huge Marquee outside that was filled with bean bags (that some lucky folk were able to take home after the event).&lt;/p&gt;
+
+&lt;p&gt;As for HackSoc, we were set up in the billiards room (see picture below), which meant all sorts of people would pass us, giving them the opportunity to ask us about our crazy app ideas. Just outside of the billiards were the guys from the O2 Labs, who were both playing with a 3D printer (which I’d never seen in person before), and even scanning people’s faces, so that they could print them in 3D at home (our very own George Hallam got himself scanned). They were even nice enough to let George and I get exclusive access to an application they had been working on, BlipDrop, which was was an app that allowed you to record short videos and pin them to your location. Only people that were in a certain radius of your pin could then view them, until they eventually expired (think of some sort of electronic geo-caching mixed with SnapChat, very cool!)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post-photos/over-the-air-2013-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The HackSoc Notts Nest&lt;/p&gt;
+
+&lt;p&gt;We went to this event with a casual attitude – let’s try to make a lot of small, fun apps, of varying usefulness. This meant that we could enter ourselves into all sorts of different categories (of which there was a large number, of varying prize pool sizes). We thought we could probably get around 6 done with the 5 members of HackSoc that went – how wrong we were.&lt;/p&gt;
+
+&lt;p&gt;In the end, we worked on 3 individual apps, and by the end of the Hackathon, we had 1 completed (well, completed is a strong word) app. Something that I wasn’t prepared for was the presentations at the end of the event, to demonstrate our applications to the other participants of the event. We had 90 seconds to explain what our application could do, why it was useful, and why it was awesome!&lt;/p&gt;
+
+&lt;p&gt;With Paula, George and I all being Hackathon virgins, we almost backed out of giving a presentation because our apps “weren’t good enough”, however I’m really glad that I gave my presentation, and the crowd seemed to be really responsive to all of HackSoc’s ideas (which was nice, after pouring 36 hours of our lives into them).&lt;/p&gt;
+
+&lt;h3 id=&quot;app-1-areuin--ryan-shaw-and-paula-besson&quot;&gt;App 1. AreUIn? – Ryan Shaw and Paula Besson&lt;/h3&gt;
+
+&lt;p&gt;A lot of the student houses in Nottingham are rather large and it is sometimes difficult to know (at a moments notice), where or not your house mates are in the house or not. 
+This can make it awkward when you are leaving and need to set the burglar alarm, and a host of other problems. AreUIn was a hack that used the NFC chips in the student cards at the University of Nottingham to allow house members to scan in as they entered the house, which would then light up lights in an LED strip located in the house that would then display your in-or-out status. 
+The hack was going well until the morning of the second day when we managed to break both the Raspberry Pi we were using, and the LED light strip. Luckily the judges had been round prior to that and they were impressed enough with the concept and implementation that this hack went on to win Best Hardware Hack at the awards ceremony, winning us Two brand new Arduino Yúns.&lt;/p&gt;
+
+&lt;h3 id=&quot;app-2-watchbog--joe-nash&quot;&gt;App 2. WatchBog – Joe Nash&lt;/h3&gt;
+
+&lt;p&gt;Why waste precious money on burglar alarms or securing your house when you have a perfectly good toilet to protect you! Wait.. what? WatchBog was an ingenious hack idea that use an Arduino, Accelerometer and Servo to measure the ripples in the water of your toilet, to detect whether or not someone was walking around in your house (think that scene from Jurassic Park). 
+You could then even trigger the toilet to flush using the Servo, to hopefully scare away the burglar, and keep all your possessions safe! The hack would have gone on to include extra features such as if you had multiple toilets in the house and both were rippling a similar amount, you could assume that there was an external force (for instance an earthquake or lorry driving by) and not set of the alarm. 
+Unfortunately WatchBog was not a prize winner, but it was great fun to explain to people, and got a few laughs!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post-photos/over-the-air-2013-3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There might be burglar in your house! Or a T-Rex!&lt;/p&gt;
+
+&lt;h3 id=&quot;app-3-eureka-shower-epiphany-aide--craig-knott-and-george-hallam&quot;&gt;App 3. Eureka, Shower Epiphany Aide – Craig Knott and George Hallam&lt;/h3&gt;
+
+&lt;p&gt;We all know that our best ideas come to us at the worst times. The most prominent being when you’re in the shower, you’re all wet and soapy, have had a brilliant idea, but can’t write it down and end up forgetting it. Eureka was an app designed specifically to counter this problem. You could bring your phone into the shower with you (obviously not the wet part!) and tell the app that begin listening to you. 
+The app would then passively listen until it heard the keyword “Eureka!” (which we all know we shout when we’ve had a great idea), at which point it would prompt you for your idea, and then record your next few sentences of genius idea. After finishing your idea, you could shout “Eureka!” again to tell your device to stop recording, and read your idea back to you. 
+Once you had finished in the shower you had the opportunity to “Hide My Shame” and delete your terrible idea forever, or send it to members of your contacts list (so that they could tell you to delete it instead!). Eureka went on to win the Audience Favourite award, bagging HackSoc two FireFox OS development phones, and 3 Makey-Makeys!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post-photos/over-the-air-2013-4.jpg&quot; alt=&quot;George&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;George demonstrating how to use the app!&lt;/p&gt;
+
+&lt;p&gt;All in all, the event was great fun, the food was good, and it was great to speak to real-world hackers and see all the other fantastic ideas and apps that people had come up with in the 36 hours. 
+Oh, and the free t-shirts weren’t too shabby either!&lt;/p&gt;
+
+&lt;p&gt;Let’s hope that Over The Air can secure Bletchley Park again next year!&lt;/p&gt;
+
+&lt;p&gt;Written by Craig Knott, General Secretary of HackSoc, former Hackathon Virgin, and now aspiring FireFox OS Developer.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>Hacked.io</title>
+        <link>http://www.hacksocnotts.github.io//2013/10/27/hackedio.html</link>
+        <guid isPermaLink="true">http://www.hacksocnotts.github.io//2013/10/27/hackedio.html</guid>
+        <description>&lt;p&gt;5 students from HackSoc took place in &lt;a href=&quot;www.hacked.io&quot;&gt;Hacked.io&lt;/a&gt; over the 20th and 21st of July. A huge event, 500 people at the O2 in London, with great sponsors and prizes. Very friendly and constructive atmosphere built around “Learn, Build, Share” and we were well accommodated for with free food and drink for the entire event.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately we didn’t win anything this time, but great fun was had by all, and much learnt! (and of course, enough free tee-shirts to open a shop)
+Recap of the event after the break!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/BPpWxd8CYAA1Oh3.jpg:large&quot; alt=&quot;Jamie, Tosin, Adam, Joe and Simon&quot; /&gt;
+&lt;img src=&quot;http://i.imgur.com/9eZ4rPl.jpg&quot; alt=&quot;Erm...&quot; /&gt;
+&lt;em&gt;Jamie, Tosin, Adam, Joe and Simon&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The organisers had promised the first 100 attendees prizes. Given that it was starting at 9am, we didn’t anticipate winning anything, convinced people would arrive at ungodly hours or camp overnight. 
+Weirdly enough, the first guy arrived at 8am, leaving HackSoc in second place in the queue at 8.15. Good start to the day, with two &lt;a href=&quot;http://www.campus-party.eu/2013/index-cpeu.html&quot;&gt;Campus Party Europe&lt;/a&gt; tickets and a couple of boxes of cheap Meccano rip off to keep us amused.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/BPmw0hbCAAA4HfR.jpg:large&quot; alt=&quot;Construction prize&quot; /&gt;
+&lt;em&gt;The “small construction kit” prize&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Some misery was anticipated at the “THUNDER” PAT testing station. PAT testing the laptop chargers of 500 people? Not a job I’d want. Fortunately this PAT testing never materialised and cables were only checked for breaks. Incomers were given an ID card and a NFC wristband (which later turned out to have no security on it at all and so became the target of some hacks).&lt;/p&gt;
+
+&lt;p&gt;Usually a gig venue, &lt;a href=&quot;http://www.theo2.co.uk/indigo2/index.html&quot;&gt;Indig02&lt;/a&gt; had been decked out with long tables and swanky purple and blue lighting. The stage was covered in sofas and beanbags and the tables addorned with mysterious presents warning us not to open them until told to. Snackbar was already open, but “snackbar” doesn’t do it justice as it was essentially an open, always stocked caffeine and suger buffet, completely free. HackSoc snagged a seat in the stalls and was soon joined by TermiSoc Chairman, Simon Cotts (his write up of the event is here).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/BPmvXDiCcAAKpLs.jpg:large&quot; alt=&quot;Venue&quot; /&gt;
+&lt;em&gt;Venue&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Massive buzz as the event started. The organisers have obviously done festivals before or something, because this was a level above presenting at other Hackathons HackSoc has attended. Sponsors came up and introduced themselves, directing us to the their tables; the organisers then set the tone of the event, which was to be very much focused on collaboration and sharing. Business pitches were also firmly banned from the final presentations. We would be presenting our hacks, what we had done and achieved, in 90 seconds. No one cared about the business plan, just the hacks. Big supporter of this approach; learn cool stuff, build cool stuff, no ugly competitive attitudes and empty words.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/BPmvrYaCUAAZRmK.jpg:large&quot; alt=&quot;Gifts&quot; /&gt;
+&lt;em&gt;Mysterious gifts – Later turned out to be a DIY wooden wolf model&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Throughout Saturday there were many great talks by the sponsors and even some attendees. Sponsors wandered around and had a lot of interaction with the hackers; they didn’t just sit aloofly at their tables, and seemed to genuinely enjoy seeing what we were doing. One of the Microsoft staff took great enjoyment in one of our toy projects flailing pathetically and completely failing to do the task it was designed to do. Lunch and dinner were provided for free by the event, with half of our group enjoying a spot of Thai at Thai Silk and the other nomming on a burger at GBK.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vine.co/v/hmEXiT7EeLV&quot;&gt;Vine - Getting Started&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Overnight we all broke that most sacred of Hackathon oaths and grabbed a bit of sleep, but awoke refreshed in time to watch the teams present their hacks. Presentations were very impressive, with over 70 hacks presented, including hacks by two groups of children! Phillips HUE lights were abused, as were puns on the name; a HUEge success for the Phillips development team, this being their first hackathon.&lt;/p&gt;
+
+&lt;p&gt;To finish; amazing event, amazing people, amazing free swag! Very inspiring, and definitely the best we’ve participated in so far. Massive thanks to the organisers (The Lab, Geeks of London) and the sponsors (PayPal, BBC R&amp;amp;D, Microsoft, Nokia Music, Heroku, MailJet, TechSmith, GitHub, Phillips and any others I forget to mention!).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vine.co/v/hmE5AnrMx2n&quot;&gt;Our nest&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Simon’s blog post here: &lt;a href=&quot;http://simoncotts.co.uk/&quot;&gt;http://simoncotts.co.uk/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Blog post by organisers here: &lt;a href=&quot;https://thelab.o2.com/2013/07/eat-drink-and-hack-sleeping-optional/?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=eat-drink-and-hack-sleeping-optional&quot;&gt;https://thelab.o2.com/2013/07/eat-drink-and-hack-sleeping-optional/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Much better set of photos here: &lt;a href=&quot;http://www.flickr.com/photos/martin_88/sets/72157634714365425/&quot;&gt;http://www.flickr.com/photos/martin_88/sets/72157634714365425/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 27 Oct 2013 00:00:00 +0100</pubDate>
+      </item>
+    
+      <item>
+        <title>Space Apps London</title>
+        <link>http://www.hacksocnotts.github.io//2013/04/15/Space-Apps-London.html</link>
+        <guid isPermaLink="true">http://www.hacksocnotts.github.io//2013/04/15/Space-Apps-London.html</guid>
+        <description>&lt;p&gt;The NASA Space Apps Challenge, hosted by Google in London was an incredible event with a huge variety of software developers/ engineers and designers.&lt;/p&gt;
+
+&lt;p&gt;The venue was as you would expect from Google, funky, strange and a little weird. A super-sized Lego head was a particular highlight.&lt;/p&gt;
+
+&lt;p&gt;The team from Nottingham bagged our space early, and we dug in for the long hall.&lt;/p&gt;
+
+&lt;p&gt;Working with horribly typed NASA data sets, we created an Android app to demonstrate the scale of the Voyager project.&lt;/p&gt;
+
+&lt;p&gt;A midnight McDonalds trip, a Google hangout with an astronaut and a rant from Joe to NASA big wigs made this a very entertaining event!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Apr 2013 00:00:00 +0100</pubDate>
+      </item>
+    
+  </channel>
+</rss>
