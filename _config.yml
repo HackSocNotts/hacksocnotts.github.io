@@ -11,10 +11,10 @@ theme:
   description: "University of Nottingham Hack Society, HackSoc" # used by search engines
 
   # Header and footer text
+  # <p>Help us create this website by <a target=\"_blank\" href="https://github.com/HackSocNotts/HackSocNotts.github.io">submitting a change!</a></p>
   header_text: >
      <p>Hacking and Programming society at the University of Nottingham</p>
 
-     <p>Help us create this website by <a target=\"_blank\" href="https://github.com/HackSocNotts/HackSocNotts.github.io">submitting a change!</a></p>
   header_text_feature_image:
   footer_text: >
    Created by members of <a href="https://github.com/orgs/HackSocNotts/people">HackSoc</a>
