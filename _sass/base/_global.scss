@@ -159,3 +159,15 @@ img[align=left] {
 img[align=right] {
   margin-left: 3%;
 }
+
+@media (max-width: 600px) {
+  .mobile-hidden {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  p {
+    margin-bottom: 0;
+  }
+}
