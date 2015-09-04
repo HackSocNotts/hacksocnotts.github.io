@@ -15,7 +15,7 @@ We attend national events on a regular basis, including: Hackin’ In the City, 
 
 * **President:** Luke Geeson
 * **Treasurer:** Richard Davies
-* **General Secretary:** James Tanna
+* **General Secretary:** Jamie Tanna
 * **Hack Secretary:** Gregor Engelmann
 * **Media Secretary:** Harry Mumford-Turner
 
