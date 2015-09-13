@@ -27,7 +27,7 @@ Special thanks to the following for their support.
 * University of Nottingham
 * School of Computer Science,
 
-If you are interested in being involved with the society, whether it be a traditional sponsorship deal or co-hosting a hackathon or other event, please get in touch at mail@hacksocnotts.co.uk
+If you are interested in being involved with the society, whether it be a traditional sponsorship deal or co-hosting a hackathon or other event, please get in touch at team@hacksocnotts.co.uk
 
 
 ### Useful Links
