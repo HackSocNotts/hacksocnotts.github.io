@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Welcome to Hacksoc!
+author: Luke Geeson (HackSoc 2015-16 President)
 
-feature-img: "img/welcomehacksoc.png"
+feature-img: "img/post-photos/welcomehacksoc.png"
 ---
 
 HackSoc is the programming and technology society. Do you want to learn about tech, share ideas, and build cool software and hardware? well that's what we do! ...
@@ -26,7 +27,7 @@ HackSoc is the programming and technology society. If you want to learn about te
 
 A hackathon is a 24 hour long programming event. Hundreds of passionate students come together, form teams, share ideas, and help each other build innovative applications. University courses usually focus on theory but hackathons give students the chance to practice what they learn. These events always have free swag, free food, and developers from cool companies like Facebook and PayPal to teach you stuff.
 
-![another image](/img/brumhack.png){: .center-image}
+![another image](/img/post-photos/brumhack.png){: .center-image}
 
 ### Sounds scary, I wouldn't want to be a drag :(
 
@@ -34,7 +35,7 @@ Not at all! Hackathons are all about community inclusion, we want loads of peopl
 
 In fact, at my first hackathon I was worried about exactly this! I was worried that I wouldn't be able to help the team. Fortunately, everyone was massively supportive and helped me out. I didn't make anything but it was awesome to be part of such a great community which nurtures this deep curiosity to learn! Needless to say I was hooked.
 
-![My first Hackathon at Studenthack2014!](/img/studenthack14.png){: .center-image}
+![My first Hackathon at Studenthack2014!](/img/post-photos/studenthack14.png){: .center-image}
 
 ### I don't do Computer Science or I can't program :(
 
@@ -67,5 +68,3 @@ We welcome to students of all abilities. 40% of our members are not computer sci
 + visit our site at: hacksocnotts.co.uk/
 
 ### Next week: The Hacksoc TechFest!
-
-Luke Geeson, President :)

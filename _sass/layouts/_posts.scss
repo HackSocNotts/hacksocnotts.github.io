@@ -12,6 +12,10 @@ article {
     text-align: center;
   }
 
+  h1.title {
+    text-shadow: 1px 1px #555;
+  }
+
   a:hover {
     @extend %link-hover;
   }
