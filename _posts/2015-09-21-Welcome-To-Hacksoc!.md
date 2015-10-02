@@ -46,7 +46,7 @@ That's fine, we love new people! we don't assume any knowledge and can take you 
 We have lots planned this year, including:
 
 1. HackSoc TechFest: 1st October, 7.30pm The Hub
-2. Goldman-sachs Guest speaker event: 5th October, 7.30pm, C60
+2. Goldman-sachs Guest speaker event: 8th October, 7.30pm, C60
 3. Local Hack day, 10th October, 10am - 10pm, The Hub
 4. Member talks on github and more! 15th October, 7.30pm, The Hub
 5. Member talks on Travis, golang and more!, 22nd October, 7.30pm, The Hub
