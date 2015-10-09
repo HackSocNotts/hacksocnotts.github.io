@@ -28,6 +28,7 @@ theme:
   facebook: "groups/hacksocNotts"
   github: "HackSocNotts"
   twitter: "hacksocnotts"
+  slack: "hacksocnotts"
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"

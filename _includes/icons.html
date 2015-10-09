@@ -14,6 +14,14 @@
 </li>
 {% endif %}
 
+{% if site.theme.slack %}
+<li>
+	<a target="_blank" href="https://{{ site.theme.slack }}.slack.com" title="Join the community on slack">
+		<i class="fa fa-fw fa-slack"></i>
+	</a>
+</li>
+{% endif %}
+
 {% if site.theme.facebook %}
 <li>
 	<a target="_blank" href="https://www.facebook.com/{{ site.theme.facebook }}" title="{{ site.theme.str_follow_on }} Facebook">
