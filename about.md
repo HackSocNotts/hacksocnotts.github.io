@@ -14,7 +14,7 @@ We attend national events on a regular basis, including: Hackin’ In the City, 
 ### The Exec for 2015/16
 
 * **President:** Luke Geeson (`psylg1` or on slack, [`@lukeg101`](https://hacksocnotts.slack.com/messages/@lukeg101))
-* **Treasurer:** Richard Davies (`psyrwd` or on slack, [`@flaxenphoenix`](https://hacksocnotts.slack.com/messages/@flaxenphoenix))
+* **Treasurer:** Richard Davies (`psyrwd` or on slack, [`@rwdrich`](https://hacksocnotts.slack.com/messages/@rwdrich))
 * **General Secretary:** Jamie Tanna (`psyjvta` or on slack, [`@jamietanna`](https://hacksocnotts.slack.com/messages/@jamietanna))
 * **Hack Secretary:** Gregor Engelmann (`psxge` or on slack, [`@greg0re`](https://hacksocnotts.slack.com/messages/@greg0re))
 * **Media Secretary:** Harry Mumford-Turner (`psyhm1` or on slack, [`@harrymt`](https://hacksocnotts.slack.com/messages/@harrymt))
