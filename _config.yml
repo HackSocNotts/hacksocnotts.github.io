@@ -53,6 +53,8 @@ paginate_path: "page:num"
 
 # BUILD SETTINGS
 markdown: kramdown
+kramdown:
+  input: GFM
 highlighter: pygments
 sass:
   sass_dir: _sass
