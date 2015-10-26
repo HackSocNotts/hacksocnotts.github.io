@@ -152,7 +152,7 @@ number2 = int(number2_input)
 print number1 + number2
 {% endhighlight %}
 
-Note the line indicating `number1_input = int(number1)` - this is called *casting* (casting: coercing a variable of one type to another). In programming, variables usually have a *type* (type: a classification identifying what valid data can be put into it [[1]]) such as:
+Note the line indicating `input = int(number1_input)` - this is called *casting* (casting: coercing a variable of one type to another). In programming, variables usually have a *type* (type: a classification identifying what valid data can be put into it [[1]]) such as:
 
 - `string`: a sequence of characters
 - `int` or `integer`: a whole number
