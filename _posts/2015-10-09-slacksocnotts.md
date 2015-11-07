@@ -7,13 +7,15 @@ excerpt: <p>Introducing yet another communication platform to use!</p>
 
 ## Introducing Slack
 
+tl;dr - Request access via [this Google Form](https://docs.google.com/forms/d/1c5XEaYYUUCC-ze3yj2r2LzcLoTqEsrfHhoI3C2L-p94/viewform).
+
 Since August, the exec have been using into something called [Slack](http://slack.com), which is a communication platform for teams. We've found it's been a great way to organise the society, but have decided it would be even better if we were able to open it up to the society so that we're able to socialise and communicate with you through it as well.
 
 Although we use [our Facebook group](https://www.facebook.com/groups/hacksocNotts/) for a lot of posts, we've found that due to a large number of our members being from Ningbo, or just not being on Facebook, they will miss out a lot on the posts. To try and fix this, we've started using [Google Calendar](http://hacksocnotts.co.uk/calendar/) for events, so everyone is able to get the notifications, whether they use Facebook or not.
 
 But on top of that, we also want to get everyone into a more social environment, being able to ask and answer questions as they need. By not selecting Facebook, members can retain their privacy, and also join a single Hacksoc-centric set of groups which will allow them to *converse* with other members.
 
-So we've now opened up [hacksocnotts.slack.com](https://hacksocnotts.slack.com) for the general public! You'll need to get an administrator to provide you access, so will need to enter your email address in [this Google Form](https://docs.google.com/forms/d/1c5XEaYYUUCC-ze3yj2r2LzcLoTqEsrfHhoI3C2L-p94/viewform) and we'll add you as soon as we get a moment.
+So we've now opened up [hacksocnotts.slack.com](https://hacksocnotts.slack.com) for the general public! You'll need to get an administrator to provide you access, so will need to enter your email address in **[this Google Form](https://docs.google.com/forms/d/1c5XEaYYUUCC-ze3yj2r2LzcLoTqEsrfHhoI3C2L-p94/viewform)** and we'll add you as soon as we get a moment.
 
 ![Slack overview](/img/slack-overview.png)
 
