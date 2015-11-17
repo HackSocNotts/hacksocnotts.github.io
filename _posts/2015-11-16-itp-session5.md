@@ -196,7 +196,7 @@ def dead(why):
     print "You dead."
     print "..."
     print "How?", why
-    sys.exit(0)
+    exit(0)
 
 def zombies():
     dead("You get eaten by zombies")
