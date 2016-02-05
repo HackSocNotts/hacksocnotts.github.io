@@ -4,7 +4,7 @@ url: "http://www.hacksocnotts.github.io" # the base hostname & protocol for your
 
 gems:
   - jekyll-paginate
-
+  - rouge
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -57,9 +57,8 @@ paginate_path: "page:num"
 
 # BUILD SETTINGS
 markdown: kramdown
-kramdown:
-  input: GFM
-highlighter: pygments
+highlighter: rouge
+
 sass:
   sass_dir: _sass
   style: :compressed
