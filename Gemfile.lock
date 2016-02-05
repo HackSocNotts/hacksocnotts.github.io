@@ -16,6 +16,7 @@ GEM
     rb-fsevent (0.9.7)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
+    rouge (1.10.1)
     yajl-ruby (1.2.1)
 
 PLATFORMS
@@ -26,6 +27,7 @@ DEPENDENCIES
   jekyll-watch
   kramdown
   pygments.rb
+  rouge
 
 BUNDLED WITH
    1.11.2
