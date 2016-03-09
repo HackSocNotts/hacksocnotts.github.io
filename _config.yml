@@ -20,7 +20,7 @@ theme:
 
   header_text_feature_image:
   footer_text: >
-   Created by members of <a href="//github.com/orgs/HackSocNotts/people">HackSoc</a>
+   Created by members of <a href="//github.com/orgs/HackSocNotts/people">HackSoc</a>, and available under the terms of the <a href="https://github.com/HackSocNotts/HackSocNotts.github.io/blob/master/LICENSE">GNU General Public License v3</a>.
 
   # Icons
   rss: false
