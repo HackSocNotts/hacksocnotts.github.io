@@ -59,7 +59,7 @@ The new constitution can be found [here](https://github.com/HackSocNotts/constit
 I'm pleased to announce the new hacksoc committee for the following year is as follows:
 
 + _President_: Richard Davies
-+ _Treasure_: Jonathan Dilks
++ _Treasurer_: Jonathan Dilks
 + _General Secretary(s)_: Bety Mehide and Benjamin Charlton
 + _Hack Secretary_: Gregor Engelmann
 + _Outreach and Inclusivity Secretary_: Amy Dickens
