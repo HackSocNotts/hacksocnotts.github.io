@@ -50,7 +50,7 @@ We've also voted on some changes to the constitution, these include:
 
 The new constitution can be found [here](https://github.com/HackSocNotts/constitution/blob/master/hacksocConstitution-09-03-2016.pdf)
 
-![Jamie helping out at our local hack day!](/img/richLHD.jpg){: .center-image}
+![Rich and his stickers!](/img/richLHD.jpg){: .center-image}
 
 ---
 
