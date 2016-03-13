@@ -25,13 +25,13 @@ We've done alot this year, including attending many hackathons, running many tec
 
 ### What does it all mean?
  
-+ _Record Member numbers:_ HackSoc has had the largest intake so far with 172* members! This is the most the society has ever had. We are now regarded as a _large_ society in the grand scheme of the students union, this is fantastic and we will definitely be doing more stuff with the University in the future.
++ _Record Member numbers:_ HackSoc has had the largest intake so far with 172\* members! This is the most the society has ever had. We are now regarded as a _large_ society in the grand scheme of the students union, this is fantastic and we will definitely be doing more stuff with the University in the future.
 + _Low attrition rates:_ We have also had the lowest attrition rates so far for the regular events we run (including the tech [talks](https://github.com/lukeg101/Talks) and guest speakers) which is fantastic. On average we have had 15 people at each regular event, with record highs in the first 2 weeks and moreso around special events such as _HackNotts_ and _Women In Technology_.
 + _Engaging with the Real World:_ As a society we began to engage more with the local technology community which is something we didn't real do before. This involved going to the monthly meetups with [_TechNottingham_](http://www.technottingham.com/) and also specific events including _mobileNotts_ and _Hack24_ (next week). This was an important goal of mine as I wanted to build the community both within the university and expand it to the wider one.
 + _spread the love:_ This has been the second year that [_MLH_](https://www.mlh.io) has existed in the EU and HackSoc has been to many of the hackathons this year, including BrumHack, HackLondon, Hack The Holidays, StudentHack, HackCambridge and of course running HackNotts! As a result, we came 6th in the MLH EU [standings](https://mlh.io/standings/f2015-eu) for the fall season. This is great for a society of our size and shows that we definitely deserve our place in the hacking community!
 + _Address all the issues!_: This year we have been quite successful with some of the events we have run which have aimed to address some of the important issues in the tech industry and further afield. Notably, We ran an MLH [_Local Hack Day_](https://localhackday.mlh.io/) here at the university which was an attempt to dispell myths about hacking and allow people from all over the east midlands to have a go at hacking and [_Women in Technology_](http://2016.inspirewit.com/) which aimed to discuss the issues surrounding the repesentation of Women in the Tech industry.
 
-*This is accurate as of _10/03/2016_
+\*This is accurate as of _10/03/2016_
 
 ![Tim and Gregor from MLH doing the live stream!](/img/timgregorLHD.jpg){: .center-image}
 
