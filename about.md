@@ -11,7 +11,7 @@ HackSoc is a society for those interested in all aspects of programming, based a
 We attend national events on a regular basis, including: Hackin’ In the City, Space Apps & Hacked.io.
 
  
-### The Exec for 2015/16
+### The Exec for 2016/17
 
 * **President:** Richard Davies (`psyrwd` or on slack, [`@rwdrich`](https://hacksocnotts.slack.com/messages/@rwdrich))
 * **Treasurer:** Jonathan Dilks (`psyjd3` or on slack, [`@dilks`](https://hacksocnotts.slack.com/messages/@dilks))

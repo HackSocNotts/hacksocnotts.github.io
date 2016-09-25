@@ -4,7 +4,7 @@ title: Calendar
 permalink: /calendar/
 ---
 
-### Hacksoc's 2015-16 Calendar
+### Hacksoc's 2016-17 Calendar
 
 We've officially released our calendar for the year's events!
 
