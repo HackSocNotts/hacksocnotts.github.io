@@ -14,7 +14,7 @@ We attend national events on a regular basis, including: Hackin’ In the City, 
 ### The Exec for 2015/16
 
 * **President:** Richard Davies (`psyrwd` or on slack, [`@rwdrich`](https://hacksocnotts.slack.com/messages/@rwdrich))
-* **Treasurer:** Jonathan Dilks (`psyjd3` or on slack, [`@jonathandilks`](https://hacksocnotts.slack.com/messages/@jonathandilks))
+* **Treasurer:** Jonathan Dilks (`psyjd3` or on slack, [`@dilks`](https://hacksocnotts.slack.com/messages/@dilks))
 * **General Secretary:** Bety Mehide (`leybm3` or on slack, [`@betymehide`](https://hacksocnotts.slack.com/messages/@betymehide)) and Benjamin Charlton (`psybc3` or on slack, [`@kuldr`](https://hacksocnotts.slack.com/messages/@kuldr))
 * **Hack Secretary:** Gregor Engelmann (`psxge` or on slack, [`@greg0re`](https://hacksocnotts.slack.com/messages/@greg0re))
 * **Graphics and Publications Secretary:** Houman Brinjcargorabi (`psyhb2` or on slack, [`@houms`](https://hacksocnotts.slack.com/messages/@houms))
