@@ -26,7 +26,7 @@ To replace : http://www.hacksocnotts.co.uk/
    layout: post
    title: Name of Post
    
-   feature-img: "img/sample_feature_img.png" # Note if you dont want a header image, delete this line
+   feature-img: "img/sample_feature_img.png" # Note if you don’t want a header image, delete this line
    ---
 ```
 * Run Jekyll to locally test
@@ -36,7 +36,7 @@ To replace : http://www.hacksocnotts.co.uk/
 * Once happy with your post, commit the changes
 	* `git add <blog_file>` i.e. `git add _posts/2013-04-15-Space-Apps-London.md`
 	* `git commit -m "Added post about Hacksoc storming SpaceApps London"`
-	*  This should make them go live immidiately if you commit directly to the repo
+	*  This should make them go live immediately if you commit directly to the repo
 		* (Or if you submit a pull request - changes should go live after the pull request is accepted!)
 * If problems occur, look at the output and build status on Travis CI, as well as the output from the local Jekyll server
 	* GitHub may send your email or info@hacksocnotts.co.uk with failure information (although it's not always very helpful)
