@@ -7,7 +7,7 @@ gems:
   - rouge
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+theme_specific:
   # Meta
   title: HackSoc
   avatar: 'avatar.png'
