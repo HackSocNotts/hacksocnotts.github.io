@@ -25,13 +25,13 @@ To replace : http://www.hacksocnotts.co.uk/
    ---
    layout: post
    title: Name of Post
-   
+
    feature-img: "img/sample_feature_img.png" # Note if you don’t want a header image, delete this line
    ---
 ```
 * Run Jekyll to locally test
 	* On your first time running Jekyll run: `bundle install` to get Ruby dependencies
-	* `bundle exec jekyll serve﻿⁠⁠⁠⁠`
+	* `bundle exec jekyll serve`
 	* Browse to [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
 * Once happy with your post, commit the changes
 	* `git add <blog_file>` i.e. `git add _posts/2013-04-15-Space-Apps-London.md`
