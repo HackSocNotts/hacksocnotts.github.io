@@ -11,6 +11,7 @@ Contributing to Hacktoberfest? Please add your name and Github username below an
 
 - Jamie Tanna ([`@jamietanna`](https://github.com/jamietanna))
 - Anna Dodson ([`@AnnaDodson`](https://github.com/AnnaDodson)) I want to contribute to some local projects and at least one code submission. Either fixes or a new feature.
+- Tanin Rojanapiansatith ([`@landtanin`](https://github.com/landtanin)) Take this opportunity to learn how to contribute to OpenSource projects and ... Hacktoberfest t-shirt!!!
 
 If you have a project that you'd like contributions for, please add it below:
 
