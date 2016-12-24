@@ -10,17 +10,12 @@ HackSoc is a society for those interested in all aspects of programming, based a
 
 We attend national events on a regular basis, including: Hackin’ In the City, Space Apps & Hacked.io.
 
- 
+
 ### The Exec for 2016/17
 
-* **President:** Richard Davies (`psyrwd` or on slack, [`@rwdrich`](https://hacksocnotts.slack.com/messages/@rwdrich))
-* **Treasurer:** Jonathan Dilks (`psyjd3` or on slack, [`@dilks`](https://hacksocnotts.slack.com/messages/@dilks))
-* **General Secretary:** Bety Mehide (`leybm3` or on slack, [`@betymehide`](https://hacksocnotts.slack.com/messages/@betymehide)) and Benjamin Charlton (`psybc3` or on slack, [`@kuldr`](https://hacksocnotts.slack.com/messages/@kuldr))
-* **Hack Secretary:** Gregor Engelmann (`psxge` or on slack, [`@greg0re`](https://hacksocnotts.slack.com/messages/@greg0re))
-* **Graphics and Publications Secretary:** Houman Brinjcargorabi (`psyhb2` or on slack, [`@houms`](https://hacksocnotts.slack.com/messages/@houms))
-* **Outreach and Inclusivity Secretary:** Amy Dickens (`psxad2` or on slack, [`@amyd`](https://hacksocnotts.slack.com/messages/@amyd))
-* **Infrastructure Secretary:** Casper Oakley (`psyco` or on slack, [`@casperoakley`](https://hacksocnotts.slack.com/messages/@casperoakley))
-
+{% for exec in site.data.exec %}
+* **{{exec.role_name}}**: {{ exec.name }} (`{{ exec.email }}` on email, or [`@{{exec.slack_name}}`](https://hacksocnotts.slack.com/messages/@{{exec.slack_name}}) on Slack)
+{% endfor %}
 
 ### Sponsors
 
