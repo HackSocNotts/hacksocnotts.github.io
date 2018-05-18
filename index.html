@@ -15,7 +15,7 @@ layout: default
     <div class="post-teaser">
       <header>
         <h1>
-          <a class="post-link" href="{{ post.url | remove_first: '/' | prepend: site.baseurl }}">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
             {{ post.title }}
           </a>
         </h1>
@@ -25,7 +25,7 @@ layout: default
       </header>
       <div class="excerpt">
         {{ post.excerpt }}
-        <a class="button" href="{{ post.url | remove_first: '/' | prepend: site.baseurl }}">
+        <a class="button" href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
           {{ site.theme_specific.str_continue_reading }}
         </a>
       </div>
