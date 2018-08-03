@@ -33,9 +33,15 @@
     "import/no-webpack-loader-syntax": 0,
     "import/extensions": 0,
     "react/forbid-prop-types": 0,
-    "react/jsx-filename-extension": [2, { "extensions": [".js"] }],
+    "react/jsx-filename-extension": [2, { "extensions": [".jsx"] }],
     "react/no-unused-prop-types": 0,
     "react/sort-comp": 0,
-    "react/require-default-props": 0
+    "react/require-default-props": 0,
+    "object-curly-newline": ["error", {
+      "ObjectExpression": { "multiline": true, "minProperties": 3, "consistent": true },
+      "ObjectPattern": { "multiline": true, "minProperties": 3 },
+      "ImportDeclaration": "never",
+      "ExportDeclaration": { "multiline": true, "minProperties": 3 }
+  }]
   }
 }
