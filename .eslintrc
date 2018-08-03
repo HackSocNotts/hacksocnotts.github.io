@@ -22,7 +22,7 @@
       "switches": "never",
       "classes": "never"
     }],
-    "semi": [2, "never"],
+    "semi": [2, "always"],
     "jsx-a11y/alt-text": 1,
     "jsx-a11y/label-has-for": 1,
     "jsx-a11y/no-static-element-interactions": 1,
