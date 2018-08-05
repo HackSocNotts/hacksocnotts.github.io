@@ -1,10 +1,10 @@
-import _ from 'lodash'
-import PropTypes from 'prop-types'
-import React from 'react'
+import _ from 'lodash';
+import PropTypes from 'prop-types';
+import React from 'react';
 import { Link } from 'react-router-dom';
-import { Container, Image, Menu } from 'semantic-ui-react'
+import { Container, Image, Menu } from 'semantic-ui-react';
 
-import logo from 'resources/logo.png'
+import logo from 'resources/logo.png';
 
 const NavbarDesktop = ({ leftItems, rightItems }) => (
   <Menu fixed='top' inverted color='green'>
@@ -18,11 +18,11 @@ const NavbarDesktop = ({ leftItems, rightItems }) => (
       </Menu.Menu>
     </Container>
   </Menu>
-)
+);
 
 NavbarDesktop.propTypes = {
   leftItems: PropTypes.arrayOf(PropTypes.object),
   rightItems: PropTypes.arrayOf(PropTypes.object),
-}
+};
 
-export default NavbarDesktop
+export default NavbarDesktop;

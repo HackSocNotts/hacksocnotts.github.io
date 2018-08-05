@@ -1,9 +1,9 @@
-import PropTypes from 'prop-types'
-import React from 'react'
-import { Icon, Image, Menu, Sidebar } from 'semantic-ui-react'
+import PropTypes from 'prop-types';
+import React from 'react';
+import { Icon, Image, Menu, Sidebar } from 'semantic-ui-react';
 
-import logo from 'resources/logo.png'
-import * as styles from './NavbarMobile.less'
+import logo from 'resources/logo.png';
+import * as styles from './NavbarMobile.less';
 
 const homeItem = {
   as: 'a',
@@ -37,7 +37,7 @@ const NavbarMobile = ({ children, leftItems, onPusherClick, onToggle, rightItems
       {children}
     </Sidebar.Pusher>
   </Sidebar.Pushable>
-)
+);
 
 NavbarMobile.propTypes = {
   children: PropTypes.node,
@@ -46,6 +46,6 @@ NavbarMobile.propTypes = {
   onToggle: PropTypes.func.isRequired,
   rightItems: PropTypes.arrayOf(PropTypes.object),
   visible: PropTypes.bool.isRequired,
-}
+};
 
-export default NavbarMobile
+export default NavbarMobile;
