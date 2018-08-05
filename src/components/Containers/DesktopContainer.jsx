@@ -10,6 +10,8 @@ import { Responsive,
   Image,
   Menu } from 'semantic-ui-react';
 
+import { Link } from 'react-router-dom';
+
 import { COLORS } from 'semantic-ui-react/src/lib/SUI';
 
 import logo from 'resources/logo.png';
@@ -74,10 +76,10 @@ class DesktopContainer extends Component {
               className={!fixed ? styles.noBorder : null}
             >
               <Container>
-                <Menu.Item as='a' active>
+                <Menu.Item as={Link} to='/' active={window.location.pathname === '/'}>
                   { fixed ? <Image size='mini' src={logo} /> : 'Home'}
                 </Menu.Item>
-                {_.map(leftItems, item => <Menu.Item {...item} />)}
+                {_.map(leftItems, item => <Menu.Item {...item} active={window.location.pathname === item.to} />)}
                 <Menu.Menu position='right'>
                   {_.map(rightItems, item => <Menu.Item {...item} />)}
                 </Menu.Menu>
@@ -106,6 +108,7 @@ DesktopContainer.propTypes = {
     image: PropTypes.string,
     fullHeight: PropTypes.bool,
   }),
+  location: PropTypes.any,
 };
 
 /* eslint-disable arrow-body-style */
