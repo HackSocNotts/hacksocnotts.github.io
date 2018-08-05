@@ -30,6 +30,9 @@ const navigationInitialState = {
   pusher: {
     visible: false,
   },
+  navbar: {
+    fixed: false,
+  },
 };
 
 export default navigationInitialState;

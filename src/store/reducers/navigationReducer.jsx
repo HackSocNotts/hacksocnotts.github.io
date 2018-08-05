@@ -11,6 +11,14 @@ const reducer = (state = navigationIntialState, action) => {
       if (state.pusher.visible) newState.pusher.visible = false;
       break;
 
+    case 'SHOW_FIXED_MENU':
+      newState.navbar.fixed = true;
+      break;
+
+    case 'HIDE_FIXED_MENU':
+      newState.navbar.fixed = false;
+      break;
+
     default:
       break;
   }
