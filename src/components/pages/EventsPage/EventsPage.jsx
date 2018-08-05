@@ -1,14 +1,19 @@
 import React from 'react';
 
+import { ResponsiveContainer } from '../../Containers';
+import EventsPageHeading from './EventsPageHeading';
+import { Footer } from '../../Footer';
+
+const backgroundProp = {
+  overlay: null,
+  image: null,
+  fullHeight: false,
+};
+
 const EventsPage = () => (
-  <div>
-    <h1>
-      HackSoc Nottingham
-    </h1>
-    <h2>
-      Events
-    </h2>
-  </div>
+  <ResponsiveContainer heading={EventsPageHeading} background={backgroundProp}>
+    <Footer />
+  </ResponsiveContainer>
 );
 
 export default EventsPage;
