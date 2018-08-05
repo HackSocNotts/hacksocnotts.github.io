@@ -4,12 +4,24 @@ import React from 'react';
 import DesktopContainer from './DesktopContainer';
 import MobileContainer from './MobileContainer';
 
-const ResponsiveContainer = ({ children, heading }) => (
+const defaultProps = {
+  background: {
+    overlay: null,
+    image: null,
+    fullHeight: false,
+  },
+};
+
+const ResponsiveContainer = ({
+  children,
+  heading,
+  background,
+} = defaultProps) => (
   <div>
-    <DesktopContainer heading={heading}>
+    <DesktopContainer heading={heading} background={background}>
       {children}
     </DesktopContainer>
-    <MobileContainer heading={heading}>
+    <MobileContainer heading={heading} background={background}>
       {children}
     </MobileContainer>
   </div>
@@ -18,6 +30,11 @@ const ResponsiveContainer = ({ children, heading }) => (
 ResponsiveContainer.propTypes = {
   children: PropTypes.node,
   heading: PropTypes.func,
+  background: PropTypes.shape({
+    overlay: PropTypes.string,
+    image: PropTypes.string,
+    fullHeight: PropTypes.bool,
+  }),
 };
 
 export default ResponsiveContainer;

@@ -13,7 +13,6 @@ import { Responsive,
 import { COLORS } from 'semantic-ui-react/src/lib/SUI';
 
 import logo from 'resources/logo.png';
-import background from 'resources/background.jpg';
 
 import * as styles from './DesktopContainer.less';
 
@@ -39,8 +38,17 @@ class DesktopContainer extends Component {
       showFixedMenu,
       hideFixedMenu,
       heading,
+      background,
     } = this.props;
-    const backgroundOverlay = 'rgba(0, 0, 0, 0.6)';
+
+    const segmentStyles = {};
+    if (background.image) {
+      segmentStyles.background = `linear-gradient(${background.overlay}, ${background.overlay}),
+      url(${background.image}) no-repeat`;
+    }
+    if (background.fullHeight) {
+      segmentStyles.minHeight = window.innerHeight;
+    }
 
     return (
       <Responsive minWidth={Responsive.onlyTablet.minWidth}>
@@ -53,11 +61,7 @@ class DesktopContainer extends Component {
             inverted
             textAlign='center'
             className={styles.segment}
-            style={{
-              background: `linear-gradient(${backgroundOverlay}, ${backgroundOverlay}),
-                url(${background}) no-repeat`, // Add to Less somehow
-              minHeight: window.innerHeight, // Convert to async listener
-            }}
+            style={segmentStyles}
             vertical
           >
             <Menu
@@ -97,6 +101,11 @@ DesktopContainer.propTypes = {
   heading: PropTypes.func,
   showFixedMenu: PropTypes.func,
   hideFixedMenu: PropTypes.func,
+  background: PropTypes.shape({
+    overlay: PropTypes.string,
+    image: PropTypes.string,
+    fullHeight: PropTypes.bool,
+  }),
 };
 
 /* eslint-disable arrow-body-style */

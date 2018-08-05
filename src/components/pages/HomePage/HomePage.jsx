@@ -3,18 +3,25 @@ import React from 'react';
 import { Segment,
   Grid,
   Header,
-  List,
   Divider,
   Container,
   Image,
   Button } from 'semantic-ui-react';
 
+import backgroundImage from 'resources/background.jpg';
+
 import { ResponsiveContainer } from '../../Containers';
 import HomePageHeading from './HomePageHeading';
 import { Footer } from '../../Footer';
 
+const backgroundProp = {
+  overlay: 'rgba(0, 0, 0, 0.6)',
+  image: backgroundImage,
+  fullHeight: true,
+};
+
 const HomePage = () => (
-  <ResponsiveContainer heading={HomePageHeading}>
+  <ResponsiveContainer heading={HomePageHeading} background={backgroundProp}>
     <Segment style={{ padding: '8em 0em' }} vertical>
       <Grid container stackable verticalAlign='middle'>
         <Grid.Row>
