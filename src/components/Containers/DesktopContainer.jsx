@@ -7,9 +7,13 @@ import { Responsive,
   Visibility,
   Segment,
   Container,
+  Image,
   Menu } from 'semantic-ui-react';
 
 import { COLORS } from 'semantic-ui-react/src/lib/SUI';
+
+import logo from 'resources/logo.png';
+import background from 'resources/background.jpg';
 
 import * as styles from './DesktopContainer.less';
 
@@ -36,6 +40,7 @@ class DesktopContainer extends Component {
       hideFixedMenu,
       heading,
     } = this.props;
+    const backgroundOverlay = 'rgba(0, 0, 0, 0.6)';
 
     return (
       <Responsive minWidth={Responsive.onlyTablet.minWidth}>
@@ -48,6 +53,11 @@ class DesktopContainer extends Component {
             inverted
             textAlign='center'
             className={styles.segment}
+            style={{
+              background: `linear-gradient(${backgroundOverlay}, ${backgroundOverlay}),
+                url(${background}) no-repeat`, // Add to Less somehow
+              minHeight: window.innerHeight, // Convert to async listener
+            }}
             vertical
           >
             <Menu
@@ -57,10 +67,11 @@ class DesktopContainer extends Component {
               secondary={!fixed}
               size='large'
               color={!fixed ? 'white' : 'green'}
+              className={!fixed ? styles.noBorder : null}
             >
               <Container>
                 <Menu.Item as='a' active>
-                  Home
+                  { fixed ? <Image size='mini' src={logo} /> : 'Home'}
                 </Menu.Item>
                 {_.map(leftItems, item => <Menu.Item {...item} />)}
                 <Menu.Menu position='right'>
