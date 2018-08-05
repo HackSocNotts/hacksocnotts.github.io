@@ -1,14 +1,19 @@
 import React from 'react';
 
+import { ResponsiveContainer } from '../../Containers';
+import NewsPageHeading from './NewsPageHeading';
+import { Footer } from '../../Footer';
+
+const backgroundProp = {
+  overlay: null,
+  image: null,
+  fullHeight: false,
+};
+
 const NewsPage = () => (
-  <div>
-    <h1>
-      HackSoc Nottingham
-    </h1>
-    <h2>
-      News
-    </h2>
-  </div>
+  <ResponsiveContainer heading={NewsPageHeading} background={backgroundProp}>
+    <Footer />
+  </ResponsiveContainer>
 );
 
 export default NewsPage;
