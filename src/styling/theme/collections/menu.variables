@@ -1,3 +1,21 @@
 /*******************************
     User Variable Overrides
 *******************************/
+
+/* White */
+ui.menu .white.active.item,
+.ui.white.menu .active.item {
+  border-color: @white !important;
+  color: @white !important;
+}
+
+.ui.inverted.menu .white.active.item,
+.ui.inverted.white.menu {
+  background-color: @white;
+}
+.ui.inverted.white.menu .item:before {
+  background-color: @invertedColoredDividerBackground;
+}
+.ui.inverted.white.menu .active.item {
+  background-color: @invertedColoredActiveBackground !important;
+}
