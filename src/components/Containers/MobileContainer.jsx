@@ -1,4 +1,6 @@
+import _ from 'lodash';
 import PropTypes from 'prop-types';
+import { connect } from 'react-redux';
 import React, { Component } from 'react';
 
 import { Responsive,
@@ -8,8 +10,9 @@ import { Responsive,
   Container,
   Icon } from 'semantic-ui-react';
 
+import { Link } from 'react-router-dom';
+
 import * as styles from './MobileContainer.less';
-import HomePageHeading from '../pages/HomePage/HomePageHeading';
 
 class MobileContainer extends Component {
   state = {};
@@ -27,8 +30,20 @@ class MobileContainer extends Component {
   }
 
   render() {
-    const { chidlren, heading } = this.props;
+    const {
+      children,
+      heading,
+      leftItems,
+      rightItems,
+      background,
+    } = this.props;
     const { sidebarOpened } = this.state;
+
+    const segmentStyles = {};
+    if (background.image) {
+      segmentStyles.background = `linear-gradient(${background.overlay}, ${background.overlay}),
+      url(${background.image}) no-repeat`;
+    }
 
     return (
       <Responsive maxWidth={Responsive.onlyMobile.maxWidth}>
@@ -40,9 +55,11 @@ class MobileContainer extends Component {
             vertical
             visible={sidebarOpened}
           >
-            <Menu.Item as='a' active>
+            <Menu.Item as={Link} to='/' active={window.location.pathname === '/'}>
               Home
             </Menu.Item>
+            {_.map(leftItems, item => <Menu.Item {...item} active={window.location.pathname === item.to} />)}
+            {_.map(rightItems, item => <Menu.Item {...item} />)}
           </Sidebar>
 
           <Sidebar.Pusher
@@ -54,6 +71,7 @@ class MobileContainer extends Component {
               inverted
               textAlign='center'
               className={styles.segment}
+              style={segmentStyles}
               vertical
             >
               <Container>
@@ -71,7 +89,7 @@ class MobileContainer extends Component {
               {heading({ mobile: true })}
             </Segment>
 
-            {chidlren}
+            {children}
           </Sidebar.Pusher>
         </Sidebar.Pushable>
       </Responsive>
@@ -80,8 +98,31 @@ class MobileContainer extends Component {
 }
 
 MobileContainer.propTypes = {
-  chidlren: PropTypes.node,
+  children: PropTypes.node,
+  leftItems: PropTypes.arrayOf(PropTypes.object),
+  rightItems: PropTypes.arrayOf(PropTypes.object),
   heading: PropTypes.func,
+  background: PropTypes.shape({
+    overlay: PropTypes.string,
+    image: PropTypes.string,
+    fullHeight: PropTypes.bool,
+  }),
 };
 
-export default MobileContainer;
+/* eslint-disable arrow-body-style */
+const mapStateToProps = (state) => {
+  return {
+    leftItems: state.navigation.leftItems,
+    rightItems: state.navigation.rightItems,
+    fixed: state.navigation.navbar.fixed,
+  };
+};
+
+const mapDispatchToProps = () => {
+  return {
+
+  };
+};
+/* eslint-enable */
+
+export default connect(mapStateToProps, mapDispatchToProps)(MobileContainer);
