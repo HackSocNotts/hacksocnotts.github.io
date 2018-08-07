@@ -4,6 +4,7 @@ import 'styling/semantic.less';
 import { HomePage, NewsPage, EventsPage, CalendarPage } from './components';
 import { store } from './store';
 import { loadEvents } from './store/actions/events';
+import { loadNews } from './store/actions/news';
 
 const App = () => (
   <BrowserRouter>
@@ -19,5 +20,6 @@ const App = () => (
 
 // Dispatch OnLoad Actions
 store.dispatch(loadEvents());
+store.dispatch(loadNews());
 
 export default App;
