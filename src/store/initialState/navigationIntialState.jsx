@@ -16,6 +16,13 @@ const navigationInitialState = {
       icon: 'calendar alternate outline',
       key: 'events',
     },
+    {
+      as: Link,
+      to: '/calendar',
+      content: 'Calendar',
+      icon: 'calendar alternate outline',
+      key: 'calendar',
+    },
   ],
   rightItems: [
     {
