@@ -20,7 +20,7 @@ export function loadNewsRequests() {
 }
 
 export function loadNewsSuccess(news) {
-  return { 
+  return {
     type: LOAD_NEWS_SUCCESS,
     payload: news,
   };
