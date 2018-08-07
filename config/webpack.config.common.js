@@ -179,6 +179,10 @@ module.exports = {
           }
         ]
       },
+      { 
+        test: /\.css$/,
+        loader: "style-loader!css-loader"
+      },
     ],
   },
   // Some libraries import Node modules but don't use them in the browser.
