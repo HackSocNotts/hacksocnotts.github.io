@@ -1,0 +1,16 @@
+{
+  "events": [
+    {
+      "name": "Example Event",
+      "date": "2018-09-01",
+      "location": "The Hub",
+      "description": "exampleEvent/exampleEvent.md"
+    },
+    {
+      "name": "Example Event 2",
+      "date": "2018-09-02",
+      "location": "The Hub",
+      "description": "exampleEvent/exampleEvent.md"
+    }
+  ]
+}
