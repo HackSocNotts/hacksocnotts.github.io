@@ -1,0 +1,1 @@
+export eventsService from './eventsService';
