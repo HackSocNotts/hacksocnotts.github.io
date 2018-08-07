@@ -2,6 +2,8 @@ import React from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import 'styling/semantic.less';
 import { HomePage, NewsPage, EventsPage, CalendarPage } from './components';
+import { store } from './store';
+import { loadEvents } from './store/actions/events';
 
 const App = () => (
   <BrowserRouter>
@@ -14,5 +16,8 @@ const App = () => (
     </Switch>
   </BrowserRouter>
 );
+
+// Dispatch OnLoad Actions
+store.dispatch(loadEvents());
 
 export default App;
