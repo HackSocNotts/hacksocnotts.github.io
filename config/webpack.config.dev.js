@@ -31,6 +31,7 @@ module.exports = configMerge(commonConfig, {
   // This means they will be the "root" imports that are included in JS bundle.
   // The first two entry points enable "hot" CSS and auto-refreshes for JS.
   entry: [
+    'babel-polyfill',
     'react-hot-loader/patch',
     require.resolve('react-dev-utils/webpackHotDevClient'),
     // Finally, this is your app's code:
