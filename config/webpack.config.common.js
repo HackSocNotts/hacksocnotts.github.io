@@ -168,6 +168,17 @@ module.exports = {
           name: 'static/media/[name].[hash:8].[ext]',
         },
       },
+      {
+        test: /\.md$/,
+        use: [
+          {
+            loader: "html-loader"
+          },
+          {
+            loader: "markdown-loader"
+          }
+        ]
+      },
     ],
   },
   // Some libraries import Node modules but don't use them in the browser.
