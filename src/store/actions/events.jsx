@@ -29,13 +29,14 @@ export function loadEventsSuccess(events) {
 export function loadEventsFailure(error) {
   return {
     type: LOAD_EVENTS_FAILURE,
-    errror: error,
+    error,
   };
 }
 
 export function loadEvents() {
   // Function for the Thunk middleware
   return (dispatch) => {
+    dispatch({ type: LOAD_EVENTS });
     // Let REDUX know that load events has been requested
     dispatch(loadEventsRequest());
 
