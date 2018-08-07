@@ -1,0 +1,9 @@
+{
+  "posts": [
+    {
+      "name": "Example Post",
+      "date": "2018-09-01",
+      "description": "examplePost/examplePost.md"
+    }
+  ]
+}
