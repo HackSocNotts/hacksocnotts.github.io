@@ -1,14 +1,14 @@
 import * as eventsManifest from '_events/eventsManifest.json';
 
 const retrieveEvents = () => {
-  const promises = eventsManifest.events.map(async (event) => {
+  const now = new Date();
+
+  const events = eventsManifest.events.filter((event) => {
     const eventDate = new Date(event.date);
-    const now = new Date();
+    return (now.getMonth() < eventDate.getMonth() || now.getFullYear() < eventDate.getFullYear());
+  });
 
-    if (now > eventDate) {
-      return;
-    }
-
+  const promises = events.map(async (event) => {
     try {
       const description = await import(`../_events/${event.description}`);
       return Promise.resolve({
