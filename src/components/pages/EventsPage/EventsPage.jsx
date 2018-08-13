@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
+import { isMoment } from 'core/propTypes';
 
 import * as styles from './EventsPage.less';
 
@@ -44,8 +45,8 @@ class EventsPage extends Component {
 EventsPage.propTypes = {
   events: PropTypes.arrayOf(PropTypes.shape({
     name: PropTypes.string,
-    start: PropTypes.instanceOf(Date),
-    end: PropTypes.instanceOf(Date),
+    start: isMoment,
+    end: isMoment,
     location: PropTypes.string,
     summary: PropTypes.string,
     description: PropTypes.string,
