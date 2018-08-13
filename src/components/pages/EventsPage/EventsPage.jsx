@@ -2,6 +2,8 @@ import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 
+import * as styles from './EventsPage.less';
+
 import { ResponsiveContainer } from '../../Containers';
 import EventsPageHeading from './EventsPageHeading';
 import { Footer } from '../../Footer';
@@ -30,7 +32,9 @@ class EventsPage extends Component {
   render() {
     return (
       <ResponsiveContainer heading={EventsPageHeading} background={this.backgroundProp}>
-        {this.makeEvents()}
+        <div className={styles.eventsContainer}>
+          {this.makeEvents()}
+        </div>
         <Footer />
       </ResponsiveContainer>
     );
