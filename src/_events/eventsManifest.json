@@ -2,15 +2,27 @@
   "events": [
     {
       "name": "Example Event",
-      "date": "2018-09-01",
+      "start": "2019-06-01 18:00:00",
+      "end": "2019-06-01 19:30:00",
       "location": "The Hub",
-      "description": "exampleEvent/exampleEvent.md"
+      "summary": "exampleEvent/summary.md",
+      "description": "exampleEvent/description.md"
     },
     {
       "name": "Example Event 2",
-      "date": "2018-09-02",
+      "start": "2018-09-02 18:00:00",
+      "end": "2018-09-02 19:30:00",
       "location": "The Hub",
-      "description": "exampleEvent/exampleEvent.md"
+      "summary": "exampleEvent/summary.md",
+      "description": "exampleEvent/description.md"
+    },
+    {
+      "name": "Try-it event",
+      "start": "2017-07-02 18:00:00",
+      "end": "2017-07-02 19:30:00",
+      "location": "The Hub",
+      "summary": "exampleEvent/summary.md",
+      "description": "exampleEvent/description.md"
     }
   ]
 }
