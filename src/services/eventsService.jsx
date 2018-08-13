@@ -1,3 +1,4 @@
+import * as moment from 'moment';
 import * as eventsManifest from '_events/eventsManifest.json';
 
 const retrieveEvents = () => {
@@ -12,8 +13,8 @@ const retrieveEvents = () => {
     try {
       const summary = await import(`../_events/${event.summary}`);
       const description = await import(`../_events/${event.description}`);
-      const start = new Date(event.start);
-      const end = new Date(event.end);
+      const start = moment(event.start);
+      const end = moment(event.end);
       return Promise.resolve({
         ...event,
         start,
