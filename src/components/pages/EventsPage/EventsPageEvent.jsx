@@ -1,45 +1,26 @@
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
+import Markdown from 'markdown-to-jsx';
 import { Container } from 'semantic-ui-react';
+import * as moment from 'moment';
 import { isMoment } from 'core/propTypes';
 
 import * as styles from './EventsPageEvent.less';
 
 export default class EventsPageEvent extends Component {
-  makeDateHeading() {
+  duartionDiff() {
     const { event } = this.props;
 
-    let dateHeadline;
-
-    if (event.start.format('YYYY MM DD') === event.end.format('YYYY MM DD')) {
-      dateHeadline = (
-        <span>
-          <h2>
-            {event.start.format('dddd, MMMM Do YYYY')}
-          </h2>
-          <h3>
-            {event.start.format('H:mm')}
-            &nbsp;–&nbsp;
-            {event.end.format('H:mm')}
-          </h3>
-        </span>
-      );
-    } else {
-      dateHeadline = (
-        <span>
-          <h3>
-            From:&nbsp;
-            {event.start.format('dddd, MMMM Do YYYY, H:mm')}
-          </h3>
-          <h3>
-            To:&nbsp;
-            {event.end.format('dddd, MMMM Do YYYY, H:mm')}
-          </h3>
-        </span>
+    if (event.start.format('YYYY MM DD') !== event.end.format('YYYY MM DD')) {
+      const duration = moment.duration(event.end.diff(event.start));
+      return (
+        <sup>
+          +
+          {Math.round(duration.asDays())}
+        </sup>
       );
     }
-
-    return dateHeadline;
   }
 
   render() {
@@ -50,11 +31,24 @@ export default class EventsPageEvent extends Component {
         <h1>
           {event.name}
         </h1>
-        {this.makeDateHeading()}
-        <h4>
+        <p className={styles.date}>
+          {event.start.format('dddd, MMMM Do YYYY')}
+        </p>
+        <p className={styles.time}>
+          {event.start.format('h:mm a')}
+          &nbsp;–&nbsp;
+          {event.end.format('h:mm a')}
+          {this.duartionDiff()}
+        </p>
+        <p className={styles.location}>
           {event.location}
-        </h4>
-        {event.summary}
+        </p>
+        <Markdown>
+          {event.summary}
+        </Markdown>
+        <Link to={`/event/${event.id}`} className={styles.link}>
+          View Event
+        </Link>
       </Container>
     );
   }
