@@ -1,3 +1,4 @@
+import _ from 'lodash';
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
@@ -17,24 +18,13 @@ class EventsPage extends Component {
     fullHeight: false,
   };
 
-  makeEvents() {
+  render() {
     const { events } = this.props;
 
-    const eventsToReturn = [];
-
-    for (let i = 0; i < events.length; i++) {
-      const event = events[i];
-      eventsToReturn.push(<EventsPageEvent event={event} key={i} />);
-    }
-
-    return eventsToReturn;
-  }
-
-  render() {
     return (
       <ResponsiveContainer heading={EventsPageHeading} background={this.backgroundProp}>
         <div className={styles.eventsContainer}>
-          {this.makeEvents()}
+          {_.map(events, event => <EventsPageEvent event={event} key={event.id} />)}
         </div>
         <Footer />
       </ResponsiveContainer>
