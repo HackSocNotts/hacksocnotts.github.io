@@ -28,7 +28,7 @@ export default class EventsPageEvent extends Component {
 
     return (
       <Container className={styles.container}>
-        <h1>
+        <h1 className={styles.title}>
           {event.name}
         </h1>
         <p className={styles.date}>
@@ -42,8 +42,11 @@ export default class EventsPageEvent extends Component {
         </p>
         <p className={styles.location}>
           {event.location}
+          <a className={styles.locationMapLink} href={event.mapLink} target='_blank' rel='noopener noreferrer'>
+            &nbsp;(map)
+          </a>
         </p>
-        <Markdown>
+        <Markdown className={styles.summary}>
           {event.summary}
         </Markdown>
         <Link to={`/event/${event.id}`} className={styles.link}>
@@ -60,6 +63,7 @@ EventsPageEvent.propTypes = {
     start: isMoment,
     end: isMoment,
     location: PropTypes.string,
+    mapLink: PropTypes.string,
     summary: PropTypes.string,
     description: PropTypes.string,
   }),
