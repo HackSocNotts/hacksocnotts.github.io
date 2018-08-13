@@ -8,6 +8,8 @@ import CalendarPageHeading from './CalendarPageHeading';
 import { ResponsiveContainer } from '../../Containers';
 import Footer from '../../Footer/Footer';
 
+import * as styles from './CalendarPage.less';
+
 BigCalendar.setLocalizer(BigCalendar.momentLocalizer(moment));
 
 const events = [
@@ -127,9 +129,10 @@ export default class CalendarPage extends Component {
   render() {
     return (
       <ResponsiveContainer heading={CalendarPageHeading} background={this.backgroundProp}>
-        <Container style={{ height: (window.innerHeight - 200) }}>
+        <Container style={{ height: (window.innerHeight - 200) }} className={styles.calendarContainer}>
           <BigCalendar
             events={events}
+            toolbar={false}
           />
         </Container>
         <Footer />
