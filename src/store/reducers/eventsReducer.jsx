@@ -1,5 +1,5 @@
 import { eventsInitialState } from '../initialState';
-import { LOAD_EVENTS_SUCCESS, LOAD_EVENTS_FAILURE } from '../actions/events';
+import { LOAD_EVENTS_SUCCESS, LOAD_EVENTS_FAILURE, ACTIVATE_EVENT_SUCCESS } from '../actions/events';
 
 const reducer = (state = eventsInitialState, action) => {
   const newState = { ...state };
@@ -11,6 +11,10 @@ const reducer = (state = eventsInitialState, action) => {
 
     case LOAD_EVENTS_FAILURE:
       newState.error = action.error;
+      break;
+
+    case ACTIVATE_EVENT_SUCCESS:
+      newState.activeEvent = state.items.filter(event => event.id === action.payload)[0];
       break;
 
     default:
