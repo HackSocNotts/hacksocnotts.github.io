@@ -1,22 +1,26 @@
 import React from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { Route, Switch } from 'react-router-dom';
+import { ConnectedRouter } from 'connected-react-router';
+import { Provider } from 'react-redux';
 import 'styling/semantic.less';
-import { HomePage, NewsPage, EventsPage, CalendarPage } from './components';
-import { store } from './store';
+import { HomePage, NewsPage, EventsPage, CalendarPage, EventPage } from './components';
+import { store, history } from './store';
 import { loadEvents } from './store/actions/events';
 import { loadNews } from './store/actions/news';
 
 const App = () => (
-  <BrowserRouter>
-    <Switch>
-      <Route path='/' component={HomePage} exact />
-      <Route path='/news' component={NewsPage} />
-      <Route path='/events' component={EventsPage} />
-      <Route path='/calendar' component={CalendarPage} />
-      <Route path='/event/:id' component={EventPage} />
-      <Route component={HomePage} />
-    </Switch>
-  </BrowserRouter>
+  <Provider store={store}>
+    <ConnectedRouter history={history}>
+      <Switch>
+        <Route path='/' component={HomePage} exact />
+        <Route path='/news' component={NewsPage} />
+        <Route path='/events' component={EventsPage} />
+        <Route path='/calendar' component={CalendarPage} />
+        <Route path='/event/:id' component={EventPage} />
+        <Route component={HomePage} />
+      </Switch>
+    </ConnectedRouter>
+  </Provider>
 );
 
 // Dispatch OnLoad Actions
