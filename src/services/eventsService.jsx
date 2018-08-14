@@ -13,6 +13,7 @@ const retrieveEvents = () => {
     try {
       const summary = await import(`../_events/${event.summary}`);
       const description = await import(`../_events/${event.description}`);
+      const banner = await import(`../_events/${event.banner}`);
       const start = moment(event.start);
       const end = moment(event.end);
       return Promise.resolve({
@@ -21,6 +22,7 @@ const retrieveEvents = () => {
         end,
         summary,
         description,
+        banner,
       });
     } catch (err) {
       return Promise.reject(err);
