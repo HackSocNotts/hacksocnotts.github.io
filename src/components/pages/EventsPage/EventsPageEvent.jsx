@@ -66,6 +66,6 @@ EventsPageEvent.propTypes = {
     mapLink: PropTypes.string,
     summary: PropTypes.string,
     description: PropTypes.string,
-    banner: PropTypes.string,
+    banner: PropTypes.any,
   }),
 };
