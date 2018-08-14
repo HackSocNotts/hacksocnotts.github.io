@@ -10,12 +10,13 @@ import { ResponsiveContainer } from '../../Containers';
 import EventsPageHeading from './EventsPageHeading';
 import { Footer } from '../../Footer';
 import EventsPageEvent from './EventsPageEvent';
+import backgroundImage from '../../../resources/events.jpg'; 
 
 class EventsPage extends Component {
   backgroundProp = {
-    overlay: null,
-    image: null,
-    fullHeight: false,
+    overlay: 'rgba(0, 0, 0, 0.7)',
+    image: backgroundImage,
+    halfHeight: true,
   };
 
   render() {
