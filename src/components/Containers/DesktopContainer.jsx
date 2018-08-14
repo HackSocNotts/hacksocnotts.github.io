@@ -51,6 +51,9 @@ class DesktopContainer extends Component {
     if (background.fullHeight) {
       segmentStyles.minHeight = window.innerHeight;
     }
+    if (background.halfHeight) {
+      segmentStyles.minHeight = window.innerHeight / 2;
+    }
 
     return (
       <Responsive minWidth={Responsive.onlyTablet.minWidth}>
@@ -107,6 +110,7 @@ DesktopContainer.propTypes = {
     overlay: PropTypes.string,
     image: PropTypes.string,
     fullHeight: PropTypes.bool,
+    halfHeight: PropTypes.bool,
   }),
   location: PropTypes.any,
 };
