@@ -1,5 +1,6 @@
 const eventsInitialState = {
   items: [],
+  activeEvent: {},
   count: 0,
 };
 
