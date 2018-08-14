@@ -10,7 +10,7 @@ import { ResponsiveContainer } from '../../Containers';
 import EventsPageHeading from './EventsPageHeading';
 import { Footer } from '../../Footer';
 import EventsPageEvent from './EventsPageEvent';
-import backgroundImage from '../../../resources/events.jpg'; 
+import backgroundImage from '../../../resources/events.jpg';
 
 class EventsPage extends Component {
   backgroundProp = {
@@ -41,6 +41,7 @@ EventsPage.propTypes = {
     location: PropTypes.string,
     summary: PropTypes.string,
     description: PropTypes.string,
+    banner: PropTypes.string,
   })),
 };
 
