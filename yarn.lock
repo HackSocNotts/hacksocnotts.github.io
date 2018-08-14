@@ -191,6 +191,10 @@
   version "7.0.0-beta.56"
   resolved "https://registry.yarnpkg.com/@babel/helper-plugin-utils/-/helper-plugin-utils-7.0.0-beta.56.tgz#e5f63cae8b3b716825d64e69ad8b59d71cd2080c"
 
+"@babel/helper-plugin-utils@7.0.0-rc.1":
+  version "7.0.0-rc.1"
+  resolved "https://registry.yarnpkg.com/@babel/helper-plugin-utils/-/helper-plugin-utils-7.0.0-rc.1.tgz#3e277eae59818e7d4caf4174f58a7a00d441336e"
+
 "@babel/helper-regex@7.0.0-beta.40":
   version "7.0.0-beta.40"
   resolved "https://registry.yarnpkg.com/@babel/helper-regex/-/helper-regex-7.0.0-beta.40.tgz#b47018ecca8ff66bb390c34a95ff71bc01495833"
@@ -301,6 +305,13 @@
   dependencies:
     "@babel/plugin-syntax-export-default-from" "7.0.0-beta.40"
 
+"@babel/plugin-proposal-export-namespace-from@^7.0.0-rc.1":
+  version "7.0.0-rc.1"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-proposal-export-namespace-from/-/plugin-proposal-export-namespace-from-7.0.0-rc.1.tgz#6483305f41d0609517e9a87deb34935a1f0a756e"
+  dependencies:
+    "@babel/helper-plugin-utils" "7.0.0-rc.1"
+    "@babel/plugin-syntax-export-namespace-from" "7.0.0-rc.1"
+
 "@babel/plugin-proposal-object-rest-spread@7.0.0-beta.40":
   version "7.0.0-beta.40"
   resolved "https://registry.yarnpkg.com/@babel/plugin-proposal-object-rest-spread/-/plugin-proposal-object-rest-spread-7.0.0-beta.40.tgz#ce35d2240908e52706a612eb26d67db667cd700f"
@@ -344,6 +355,12 @@
 "@babel/plugin-syntax-export-default-from@7.0.0-beta.40":
   version "7.0.0-beta.40"
   resolved "https://registry.yarnpkg.com/@babel/plugin-syntax-export-default-from/-/plugin-syntax-export-default-from-7.0.0-beta.40.tgz#6457a80bd22779eaf61f41b1d322d84d7e2deb65"
+
+"@babel/plugin-syntax-export-namespace-from@7.0.0-rc.1":
+  version "7.0.0-rc.1"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-syntax-export-namespace-from/-/plugin-syntax-export-namespace-from-7.0.0-rc.1.tgz#907af14aeba94df928eddac287bab5c9d750fdd2"
+  dependencies:
+    "@babel/helper-plugin-utils" "7.0.0-rc.1"
 
 "@babel/plugin-syntax-jsx@7.0.0-beta.40":
   version "7.0.0-beta.40"
