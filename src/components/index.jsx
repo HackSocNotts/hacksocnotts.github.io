@@ -3,4 +3,5 @@ export {
   NewsPage,
   EventsPage,
   CalendarPage,
+  EventPage,
 } from './pages';

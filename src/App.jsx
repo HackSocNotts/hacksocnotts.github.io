@@ -13,6 +13,7 @@ const App = () => (
       <Route path='/news' component={NewsPage} />
       <Route path='/events' component={EventsPage} />
       <Route path='/calendar' component={CalendarPage} />
+      <Route path='/event/:id' component={EventPage} />
       <Route component={HomePage} />
     </Switch>
   </BrowserRouter>
