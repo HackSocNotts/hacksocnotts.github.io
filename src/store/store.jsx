@@ -2,10 +2,9 @@ import { createBrowserHistory } from 'history';
 import { createStore, combineReducers, applyMiddleware, compose } from 'redux';
 import { connectRouter, routerMiddleware } from 'connected-react-router';
 import thunk from 'redux-thunk';
-import createWaitForState from 'redux-wait-for-state';
+import waitForState, { setStore } from './waitForState';
 import reducers from './reducers';
 
-const { waitForState, setStore } = createWaitForState();
 
 const history = createBrowserHistory();
 

@@ -1,5 +1,5 @@
 import { eventsService } from '../../services';
-import { waitForState } from '../store';
+import waitForState from '../waitForState';
 
 /**
  * action types
