@@ -14,7 +14,7 @@ We attend national events on a regular basis, including: Hackin’ In the City, 
 ### The Exec for 2016/17
 
 {% for exec in site.data.exec %}
-* **{{exec.role_name}}**: {{ exec.name }} (`{{ exec.email }}` on email, or [`@{{exec.slack_name}}`](https://hacksocnotts.slack.com/messages/@{{exec.slack_name}}) on Slack)
+* **{{exec.role_name}}**: {{ exec.name }} {% if exec.email %}([`{{ exec.email }}`](mailto:{{exec.email}})){% endif %}
 {% endfor %}
 
 ### Sponsors
