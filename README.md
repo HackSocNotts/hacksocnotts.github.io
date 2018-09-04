@@ -1,4 +1,4 @@
-# HackSoc 2015/16 site
+# hacksocnotts.co.uk
 
 
 To replace : http://www.hacksocnotts.co.uk/
