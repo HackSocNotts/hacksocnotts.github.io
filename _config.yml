@@ -63,4 +63,9 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-exclude: [vendor]
+exclude:
+    - vendor
+    - Gemfile*
+    - TODO
+    - LICENSE*
+    - README*
