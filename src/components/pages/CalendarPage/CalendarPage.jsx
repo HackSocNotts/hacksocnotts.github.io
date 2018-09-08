@@ -40,13 +40,15 @@ class CalendarPage extends Component {
 
   render() {
     const { events } = this.state;
+    const { router } = this.context;
+
     return (
       <ResponsiveContainer heading={CalendarPageHeading} background={this.backgroundProp}>
         <Container style={{ height: (window.innerHeight - 200) }} className={styles.calendarContainer}>
           <BigCalendar
             events={events}
             defaultView={BigCalendar.Views.MONTH}
-            // onSelectEvent={event => alert(event.title)}
+            onSelectEvent={event => router.history.push(`/event/${event.id}`)}
           />
         </Container>
         <Footer />
@@ -54,6 +56,11 @@ class CalendarPage extends Component {
     );
   }
 }
+
+CalendarPage.contextTypes = {
+  router: PropTypes.object.isRequired,
+};
+
 
 CalendarPage.propTypes = {
   events: PropTypes.arrayOf(PropTypes.shape({
