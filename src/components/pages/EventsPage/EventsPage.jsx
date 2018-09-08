@@ -22,10 +22,12 @@ class EventsPage extends Component {
   render() {
     const { events } = this.props;
 
+    const sortedEvents = _.orderBy(events, event => event.start, ['asc']);
+
     return (
       <ResponsiveContainer heading={EventsPageHeading} background={this.backgroundProp}>
         <div className={styles.eventsContainer}>
-          {_.map(events, event => <EventsPageEvent event={event} key={event.id} />)}
+          {_.map(sortedEvents, event => <EventsPageEvent event={event} key={event.id} />)}
         </div>
         <Footer />
       </ResponsiveContainer>
