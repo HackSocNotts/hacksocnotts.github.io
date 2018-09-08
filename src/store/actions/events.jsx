@@ -72,7 +72,6 @@ export function activateEventFailure(error) {
 }
 
 export function activateEvent(eventId) {
-
   return (dispatch) => {
     dispatch({
       type: ACTIVATE_EVENT,
