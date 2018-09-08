@@ -43,8 +43,8 @@ class EventPage extends Component {
 }
 
 EventPage.propTypes = {
-  match: PropTypes.any,
-  activateEvent: PropTypes.func,
+  match: PropTypes.any.isRequired,
+  activateEvent: PropTypes.func.isRequired,
   activeEvent: PropTypes.shape({
     name: PropTypes.string,
     start: isMoment,
@@ -53,7 +53,7 @@ EventPage.propTypes = {
     summary: PropTypes.string,
     description: PropTypes.string,
     banner: PropTypes.string,
-  }),
+  }).isRequired,
 };
 
 /* eslint-disable arrow-body-style */
