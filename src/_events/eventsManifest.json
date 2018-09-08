@@ -54,6 +54,17 @@
       "summary": "hacknotts-2018/summary.md",
       "description": "hacknotts-2018/description.md",
       "banner": "hacknotts-2018/banner.jpg"
+    },
+    {
+      "id": "hacktoberfest-2018",
+      "name": "Hacktoberfest Open Hack Day",
+      "start": "2018-10-13 12:00:00",
+      "end": "2018-10-13 18:00:00",
+      "location": "School of Computer Science",
+      "mapLink": "https://www.google.co.uk/maps/place/School+of+Computer+Science/@52.9533603,-1.1892748,17.15z/data=!4m5!3m4!1s0x4879c209bfffffff:0xaf426646771a25ac!8m2!3d52.953357!4d-1.18736",
+      "summary": "hacktoberfest-2018/summary.md",
+      "description": "hacktoberfest-2018/description.md",
+      "banner": "hacktoberfest-2018/banner.png"
     }
   ]
 }
