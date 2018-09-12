@@ -1,21 +1,38 @@
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
+import Markdown from 'markdown-to-jsx';
 import { connect } from 'react-redux';
 import { Container, Header } from 'semantic-ui-react';
+import * as moment from 'moment';
 import { isMoment } from 'core/propTypes';
 import { events } from 'store/actions';
 import { ResponsiveContainer } from '../../Containers';
+import { Footer } from '../../Footer';
 
 import * as styles from './EventPage.less';
 
 class EventPage extends Component {
+  duartionDiff() {
+    const { activeEvent } = this.props;
+
+    if (activeEvent.start.format('YYYY MM DD') !== activeEvent.end.format('YYYY MM DD')) {
+      const duration = moment.duration(activeEvent.end.diff(activeEvent.start));
+      return (
+        <sup>
+          +
+          {Math.round(duration.asDays())}
+        </sup>
+      );
+    }
+  }
+
   componentDidMount() {
     const { match, activateEvent } = this.props;
     activateEvent(match.params.id);
   }
 
   render() {
-    const { match, activeEvent } = this.props;
+    const { activeEvent } = this.props;
 
     const headerBackground = {
       overlay: 'rgba(0, 0, 0, 0.7)',
@@ -36,7 +53,30 @@ class EventPage extends Component {
 
     return (
       <ResponsiveContainer heading={heading} background={headerBackground}>
-        {match.params.id}
+        <Container className={styles.container}>
+          <h1 className={styles.title}>
+            {activeEvent.name}
+          </h1>
+          <p className={styles.date}>
+            {activeEvent.start.format('dddd, MMMM Do YYYY')}
+          </p>
+          <p className={styles.time}>
+            {activeEvent.start.format('h:mm a')}
+            &nbsp;–&nbsp;
+            {activeEvent.end.format('h:mm a')}
+            {this.duartionDiff()}
+          </p>
+          <p className={styles.location}>
+            {activeEvent.location}
+            <a className={styles.locationMapLink} href={activeEvent.mapLink} target='_blank' rel='noopener noreferrer'>
+              &nbsp;(map)
+            </a>
+          </p>
+          <Markdown className={styles.summary}>
+            {activeEvent.description}
+          </Markdown>
+        </Container>
+        <Footer />
       </ResponsiveContainer>
     );
   }
