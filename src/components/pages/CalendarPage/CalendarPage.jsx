@@ -1,4 +1,3 @@
-import _ from 'lodash';
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
@@ -25,16 +24,14 @@ class CalendarPage extends Component {
     fullHeight: false,
   };
 
-  static getDerivedStateFromProps(nextProps, prevState) {
+  static getDerivedStateFromProps(nextProps) {
     const { events } = nextProps;
-    console.log(events);
     const newEvents = events.map(event => ({
       ...event,
       title: event.name,
       start: new Date(event.start),
       end: new Date(event.end),
     }));
-    console.log(newEvents);
     return { events: newEvents };
   }
 
