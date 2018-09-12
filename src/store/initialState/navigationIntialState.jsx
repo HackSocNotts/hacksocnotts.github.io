@@ -2,13 +2,13 @@ import { Link } from 'react-router-dom';
 
 const navigationInitialState = {
   leftItems: [
-    {
-      as: Link,
-      to: '/news',
-      content: 'News',
-      icon: 'newspaper outline',
-      key: 'news',
-    },
+    // {
+    //   as: Link,
+    //   to: '/news',
+    //   content: 'News',
+    //   icon: 'newspaper outline',
+    //   key: 'news',
+    // },
     {
       as: Link,
       to: '/events',
