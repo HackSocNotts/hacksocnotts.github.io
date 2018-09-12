@@ -4,13 +4,13 @@ It's Hacktoberfest 2018! Let's celebrate open source over food, drinks, learning
 
 ## Agenda
 
-12:00 Welcome w/ Lunch
-12:30 Intro to Hacktoberfest: the celebration, prizes, and instructions
-12:40 Intro to open source
-13:00 Workshop: how to contribute to open source
-13:00 Hack Time
-17:00 Demos
-18:00 End
+18:00 Welcome
+18:30 Intro to Hacktoberfest: the celebration, prizes, and instructions
+18:45 Intro to open source
+19:00 Workshop: how to contribute to open source
+19:00 Hack Time
+23:00 Demos
+00:00 End
 
 ## What's Hacktoberfest?
 
@@ -18,10 +18,10 @@ Hacktoberfest — brought to you by DigitalOcean in partnership with GitHub and 
 
 Can't make it to this event? Hacktoberfest is virtual and open to participants from around the globe. (Sign up to participate today)[https://hacktoberfest.digitalocean.com/].
 
-Rules and Prizes
+## Rules and Prizes
 
 First sign up on the Hacktoberfest site. If you open up five pull requests between October 1 and October 31, you'll win a free, limited edition Hacktoberfest T-shirt. (Pull requests do not have to be merged and accepted; as long as they've been opened between the very start of October 1 and the very end of October 31, they count towards a free T-shirt.)
-
+  
 Connect with other Hacktoberfest participants (Hacktobefestants?) by using the hashtag, #hacktoberfest, on your social media platform of choice.
 
 New to DigitalOcean? Receive USD $10 in infrastructure credit at (do.co/hacktoberfest2018)[https://do.co/hacktoberfest2018].
