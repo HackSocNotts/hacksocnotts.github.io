@@ -1,7 +1,9 @@
 import PropTypes from 'prop-types';
 import React from 'react';
 
-import { Container, Header } from 'semantic-ui-react';
+import { Container, Header, Image } from 'semantic-ui-react';
+
+import logo from 'resources/logo.png';
 
 import * as styles from './HomePageHeading.less';
 
@@ -9,7 +11,13 @@ const HomePageHeading = ({ mobile } = { mobile: false }) => (
   <Container text>
     <Header
       as='h1'
-      content='HackSoc Nottingham'
+      content={(
+        <React.Fragment>
+          <Image size='small' src={logo} className={styles.logo} />
+          <br />
+          HackSoc Nottingham
+        </React.Fragment>
+      )}
       inverted
       className={mobile ? styles.mobileHeader1 : styles.desktopHeader1}
     />
