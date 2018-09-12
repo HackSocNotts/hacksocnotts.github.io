@@ -16,7 +16,7 @@ It's Hacktoberfest 2018! Let's celebrate open source over food, drinks, learning
 
 Hacktoberfest — brought to you by DigitalOcean in partnership with GitHub and Twilio — is a month-long celebration of open source software. Maintainers are invited to guide would-be contributors towards issues that will help move the project forward, and contributors get the opportunity to give back to both projects they like, and ones they've just discovered. No contribution is too small—bug fixes and documentation updates are valid ways of participating.
 
-Can't make it to this event? Hacktoberfest is virtual and open to participants from around the globe. (Sign up to participate today)[https://hacktoberfest.digitalocean.com/].
+Can't make it to this event? Hacktoberfest is virtual and open to participants from around the globe. [Sign up to participate today](https://hacktoberfest.digitalocean.com/).
 
 ## Rules and Prizes
 
@@ -24,4 +24,4 @@ First sign up on the Hacktoberfest site. If you open up five pull requests betwe
   
 Connect with other Hacktoberfest participants (Hacktobefestants?) by using the hashtag, #hacktoberfest, on your social media platform of choice.
 
-New to DigitalOcean? Receive USD $10 in infrastructure credit at (do.co/hacktoberfest2018)[https://do.co/hacktoberfest2018].
+New to DigitalOcean? Receive USD $10 in infrastructure credit at [do.co/hacktoberfest2018](https://do.co/hacktoberfest2018).
