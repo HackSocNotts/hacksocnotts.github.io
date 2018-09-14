@@ -4,13 +4,13 @@ import { connect } from 'react-redux';
 import { isMoment } from 'core/propTypes';
 import moment from 'moment';
 import BigCalendar from 'react-big-calendar';
-import 'react-big-calendar/lib/css/react-big-calendar.css';
-import { Container } from 'semantic-ui-react';
+import { Container, Popup } from 'semantic-ui-react';
 
 import CalendarPageHeading from './CalendarPageHeading';
 import { ResponsiveContainer } from '../../Containers';
 import Footer from '../../Footer/Footer';
 
+import './styles.css';
 import * as styles from './CalendarPage.less';
 
 BigCalendar.setLocalizer(BigCalendar.momentLocalizer(moment));
@@ -35,6 +35,21 @@ class CalendarPage extends Component {
     return { events: newEvents };
   }
 
+  event = ({ event }) => (
+    <React.Fragment>
+      <Popup
+        key={event.id}
+        trigger={(
+          <strong>
+            {event.title}
+          </strong>
+        )}
+        header={event.title}
+        content={event.summary && `${event.summary}`}
+      />
+    </React.Fragment>
+  );
+
   render() {
     const { events } = this.state;
     const { router } = this.context;
@@ -46,6 +61,10 @@ class CalendarPage extends Component {
             events={events}
             defaultView={BigCalendar.Views.MONTH}
             onSelectEvent={event => router.history.push(`/event/${event.id}`)}
+            views={['month']}
+            components={{
+              event: this.event,
+            }}
           />
         </Container>
         <Footer />
