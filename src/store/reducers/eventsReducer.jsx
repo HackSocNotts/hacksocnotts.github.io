@@ -14,6 +14,7 @@ const reducer = (state = eventsInitialState, action) => {
       break;
 
     case ACTIVATE_EVENT_SUCCESS:
+      /* eslint-disable prefer-destructuring */
       newState.activeEvent = state.items.filter(event => event.id === action.payload)[0];
       break;
 
