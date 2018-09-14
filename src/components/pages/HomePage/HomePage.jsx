@@ -10,7 +10,7 @@ import { Segment,
 
 import backgroundImage from 'resources/background.jpg';
 import AaronOsher from 'resources/team/AaronOsher.jpg';
-import AmmarKhazal from 'resources/team/AmmarKhazal.png';
+import AmmarKhazal from 'resources/team/AmmarKhazal.jpeg';
 import HelenaWong from 'resources/team/HelenaWong.png';
 import PrimozFabiani from 'resources/team/PrimozFabiani.png';
 import TobyJones from 'resources/team/TobyJones.jpg';
@@ -213,9 +213,9 @@ const HomePage = () => (
               {/* <a href='https://twitter.com/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='twitter' className={styles.twitter} />
               </a> */}
-              {/* <a href='https://linkedin.com/in/' target='_blank' rel='noopener noreferrer'>
+              <a href='https://www.linkedin.com/in/ammarkhazal/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
-              </a> */}
+              </a>
             </p>
           </Grid.Column>
         </Grid.Row>
