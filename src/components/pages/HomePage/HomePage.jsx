@@ -11,7 +11,6 @@ import { Segment,
 import backgroundImage from 'resources/background.jpg';
 import AaronOsher from 'resources/team/AaronOsher.jpg';
 import AmmarKhazal from 'resources/team/AmmarKhazal.jpeg';
-import HelenaWong from 'resources/team/HelenaWong.png';
 import PrimozFabiani from 'resources/team/PrimozFabiani.png';
 import TobyJones from 'resources/team/TobyJones.jpg';
 
