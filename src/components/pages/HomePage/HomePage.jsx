@@ -38,7 +38,7 @@ const HomePage = () => (
             </Header>
             <p className={styles.p}>
             A part of the University of Nottingham Students&apos;​ Union, HackSoc is centered around
-            getting its members building, learning and sharing new tech. Every week we have programming
+            getting its members building, learning, and sharing new tech. Every week we have programming
             tutorials for complete beginners, advanced topics with guest speakers, and throughout the year
             we travel to hackathons to team up with other students from around the world.
             </p>
@@ -50,14 +50,14 @@ const HomePage = () => (
               Who can join?
             </Header>
             <p className={styles.p}>
-              HackSoc is open to all. From newbies to seasoned developers, as long as you&apos;re interested in tech
+              HackSoc is open to all. From newbies to seasoned developers, as long as you&apos;re interested in tech,
               HackSoc is for you.
             </p>
             <Header as='h4' className={styles.h4}>
               Newbies
             </Header>
             <p className={styles.p}>
-              Anyone with little or no knowledge of programming, zero experience is required!
+              Anyone with little or no knowledge of programming; no experience required!
             </p>
           </Grid.Column>
           <Grid.Column floated='right' width={8}>
@@ -89,7 +89,7 @@ const HomePage = () => (
               HackNotts
             </Header>
             <p className={styles.p}>
-              HackNotts is a 24 hour hackathon from Nov 24-25 at the University of Nottingham in
+              HackNotts is a 24 hour hackathon from Nov 24-25 at the University of Nottingham, in
               England. Over 150 students will team up to learn about tech and create cool stuff.
             </p>
           </Grid.Column>
@@ -158,7 +158,7 @@ const HomePage = () => (
               </a> */}
             </p>
           </Grid.Column>
-          <Grid.Column width={3}>
+          {/* <Grid.Column width={3}>
             <Image src={HelenaWong} size='medium' />
             <p>
               <span className={styles.p}>
@@ -169,15 +169,15 @@ const HomePage = () => (
               <br />
               {/* <a href='mailto:@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
-              </a> */}
-              {/* <a href='https://twitter.com/' target='_blank' rel='noopener noreferrer'>
+              </a>
+              <a href='https://twitter.com/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='twitter' className={styles.twitter} />
-              </a> */}
-              {/* <a href='https://linkedin.com/in/' target='_blank' rel='noopener noreferrer'>
+              </a>
+              <a href='https://linkedin.com/in/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
-              </a> */}
+              </a>
             </p>
-          </Grid.Column>
+          </Grid.Column> */}
           <Grid.Column width={3}>
             <Image src={TobyJones} size='medium' />
             <p>
