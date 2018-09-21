@@ -4,4 +4,5 @@ export {
   EventsPage,
   CalendarPage,
   EventPage,
+  Error404Page,
 } from './pages';

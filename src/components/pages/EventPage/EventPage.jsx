@@ -31,8 +31,8 @@ class EventPage extends Component {
     /* eslint-disable react/destructuring-assignment */
     const { router } = this.context;
     const eventId = nextProps.match.params.id;
-    if (nextProps.events.length !== 0 && nextProps.events.filter(event => event.id === eventId).length < 1) {
-      router.history.push('/');
+    if (nextProps.events.length && nextProps.events.filter(event => event.id === eventId).length < 1) {
+      router.history.push('/page-not-found');
     }
     /* eslint-enable */
   }
