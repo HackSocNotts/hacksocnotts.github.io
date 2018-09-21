@@ -34,7 +34,11 @@ export function loadEventsSuccess(events) {
 export function loadEventsFailure(error) {
   return {
     type: LOAD_EVENTS_FAILURE,
-    error,
+    error: {
+      name: error.name,
+      message: error.message,
+      stack: error.stack,
+    },
   };
 }
 
