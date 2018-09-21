@@ -26,6 +26,17 @@ class EventPage extends Component {
     }
   }
 
+  /* eslint-disable camelcase */
+  UNSAFE_componentWillReceiveProps(nextProps) {
+    /* eslint-disable react/destructuring-assignment */
+    const { router } = this.context;
+    const eventId = nextProps.match.params.id;
+    if (nextProps.events.length !== 0 && nextProps.events.filter(event => event.id === eventId).length < 1) {
+      router.history.push('/');
+    }
+    /* eslint-enable */
+  }
+
   componentDidMount() {
     const { match, activateEvent } = this.props;
     activateEvent(match.params.id);
@@ -82,6 +93,10 @@ class EventPage extends Component {
   }
 }
 
+EventPage.contextTypes = {
+  router: PropTypes.object.isRequired,
+};
+
 EventPage.propTypes = {
   match: PropTypes.any.isRequired,
   activateEvent: PropTypes.func.isRequired,
@@ -94,6 +109,15 @@ EventPage.propTypes = {
     description: PropTypes.string,
     banner: PropTypes.string,
   }).isRequired,
+  events: PropTypes.arrayOf(PropTypes.shape({
+    name: PropTypes.string,
+    start: isMoment,
+    end: isMoment,
+    location: PropTypes.string,
+    summary: PropTypes.string,
+    description: PropTypes.string,
+    banner: PropTypes.string,
+  })).isRequired,
 };
 
 /* eslint-disable arrow-body-style */
