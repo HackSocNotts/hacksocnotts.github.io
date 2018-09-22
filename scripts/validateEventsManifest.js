@@ -203,7 +203,7 @@ for (const event of json.events) {
 
 Promise.all(checkPromises)
   .then(() => {
-    builder.writeTo('./EventsManifest.xml')
+    builder.writeTo(`${process.argv[3]}/EventsMainfest/EventsManifest.xml`)
     if (suite._testCases.filter(test => test._failure).length) process.exit(1);
   })
   .catch((err) => console.log(err));
