@@ -21,7 +21,6 @@ jobs:
           - v1-dependencies-{{ checksum "package.json" }}
           # fallback to using the latest cache if no exact match is found
           - v1-dependencies-
-      - run: npm install --no-save less
       - run: yarn install
       - save_cache:
           paths:
@@ -36,6 +35,10 @@ jobs:
           command: |
             mkdir -p ~/reports
             node_modules/.bin/eslint ./src/ --ext .js,.jsx --format junit --output-file ~/reports/eslint/results.xml
+          when: always
+      # Events Manifest
+      - run:
+          command: |
             node scripts/validateEventsManifest.js src/_events/eventsManifest.json ~/reports/eventsManifest/results.xml
           when: always
       - store_test_results:
