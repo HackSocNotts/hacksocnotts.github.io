@@ -195,9 +195,15 @@ const checkSchema = async (event) => {
   /* END BANNER VALIDATORS */
 };
 
+const checkPromises = [];
+
 for (const event of json.events) {
-  checkSchema(event)
-    .then(() => builder.writeTo('./EventsManifest.xml'))
-    .catch((err) => console.log(err));
+  checkPromises.push(checkSchema(event));
 }
-console.log('Done');
+
+Promise.all(checkPromises)
+  .then(() => {
+    builder.writeTo('./EventsManifest.xml')
+    if (suite._testCases.filter(test => test._failure).length) process.exit(1);
+  })
+  .catch((err) => console.log(err));
