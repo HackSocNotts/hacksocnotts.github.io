@@ -1,6 +1,6 @@
 [Direct Link](https://www.technottingham.com/events/tech-nottingham-oct-2018)
 
-![Tech Nottingham Event Image](https://static1.squarespace.com/static/53428a5fe4b0fa0c16894821/t/5b9f6e7c03ce64f586f83255/1537175231381/Tech-Nott-banner-Oct-2018.png?format=1500w)
+![Tech Nottingham Event Image](https://static1.squarespace.com/static/53428a5fe4b0fa0c16894821/t/5b9f6e7c03ce64f586f83255/1537175231381/Tech-Nott-banner-Oct-2018.png?format=500w)
 
 This month we have two fantastic talks from Dylan Beattie and Seren Davies. Plus we've got free food and drinks provided at the event thanks to our sponsors.
 
