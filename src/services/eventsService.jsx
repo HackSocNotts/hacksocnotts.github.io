@@ -2,11 +2,11 @@ import * as moment from 'moment';
 import * as eventsManifest from '_events/eventsManifest.json';
 
 const retrieveEvents = () => {
-  const now = new Date();
+  const now = moment();
 
   const events = eventsManifest.events.filter((event) => {
-    const eventDate = new Date(event.start);
-    return (now.getMonth() < eventDate.getMonth() || now.getFullYear() < eventDate.getFullYear());
+    const eventDate = moment(event.start);
+    return (now.isBefore(eventDate));
   });
 
   const promises = events.map(async (event) => {
