@@ -109,6 +109,17 @@
       "summary": "hacktoberfest-2018/summary.md",
       "description": "hacktoberfest-2018/description.md",
       "banner": "hacktoberfest-2018/banner.png"
+    },
+    {
+      "id": "being-part-of-the-community-and-how-to-talk-really-really-good",
+      "name": "Being part of the community and how to talk really, really good.",
+      "start": "2018-10-25 18:30:00",
+      "end": "2018-10-25 20:00:00",
+      "location": "The Hub, School of Computer Science",
+      "mapLink": "https://www.google.co.uk/maps/place/52%C2%B057'12.6%22N+1%C2%B011'14.1%22W/@52.953488,-1.1877845,17.15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d52.9534883!4d-1.1872358",
+      "summary": "being-part-of-the-community-and-how-to-talk-really-really-good/summary.md",
+      "description": "being-part-of-the-community-and-how-to-talk-really-really-good/description.md",
+      "banner": "being-part-of-the-community-and-how-to-talk-really-really-good/banner.jpg"
     }
   ]
 }
