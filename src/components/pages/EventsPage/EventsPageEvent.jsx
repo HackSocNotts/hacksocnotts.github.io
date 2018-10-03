@@ -47,10 +47,13 @@ export default class EventsPageEvent extends Component {
           </a>
         </p>
         <Markdown className={styles.summary}>
-          {event.summary}
+          {event.summary.trim()}
         </Markdown>
         <Link to={`/event/${event.id}`} className={styles.link}>
-          View Event
+          <p>
+            <br />
+            View Event
+          </p>
         </Link>
       </Container>
     );
