@@ -18,18 +18,4 @@ Second, add your event to the [eventsManifest.json](src/_events/eventsManifest.j
 - `summary` and `description`: Paths to the summary and description files in the `src/_events/yourEvent` directory
 - `banner`: A path to the banner image for the event
 
-Finally, add your event to the [EventsManifest.xml](EventsManifest.xml) file, and add the following lines as tests, replacing `yourEventID` with the unique ID you've chosen for your event:
-```xml
-<testcase classname="yourEventID" name="SUMMARY_FILE_EXISTS"/>
-<testcase classname="yourEventID" name="SUMMARY_FILE_IS_FILE"/>
-<testcase classname="yourEventID" name="DESCRIPTION_IS_STRING"/>
-<testcase classname="yourEventID" name="DESCRIPTION_FILE_IS_MARKDOWN"/>
-<testcase classname="yourEventID" name="DESCRIPTION_FILE_EXISTS"/>
-<testcase classname="yourEventID" name="DESCRIPTION_FILE_IS_FILE"/>
-<testcase classname="yourEventID" name="BANNER_IS_STRING"/>
-<testcase classname="yourEventID" name="BANNER_FILE_IS_VALID_IMAGE"/>
-<testcase classname="yourEventID" name="BANNER_FILE_EXISTS"/>
-<testcase classname="yourEventID" name="BANNER_FILE_IS_FILE"/>
-```
-
 Once you're happy with your event, simply [sumbit a Pull Request](https://github.com/HackSocNotts/hacksocnotts.co.uk/pulls)!
