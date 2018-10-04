@@ -10,8 +10,8 @@ HackNotts is our annual hackathon, hosted in the School of Computer Science on J
 
 You're allowed to attend HackNotts if you are:
 
-- A high school student,
-- An undergraduate or postgraduate student, or
+- At least 18 years old,
+- A highschool, undergraduate or postgraduate student, or
 - A graduate who is less than a year out of university
 
 ## Do I need to have a team?
