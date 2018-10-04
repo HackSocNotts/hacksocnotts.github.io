@@ -23,6 +23,15 @@ const navigationInitialState = {
       icon: 'calendar alternate outline',
       key: 'calendar',
     },
+    {
+      as: 'a',
+      href: 'https://www.su.nottingham.ac.uk/societies/society/hack/',
+      content: 'Join',
+      icon: 'user secret',
+      key: 'join',
+      target: '_blank',
+      rel: 'noopener noreferrer',
+    },
   ],
   rightItems: [
     {
