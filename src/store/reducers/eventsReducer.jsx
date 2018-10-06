@@ -5,7 +5,8 @@ const reducer = (state = eventsInitialState, action) => {
   const newState = { ...state };
   switch (action.type) {
     case LOAD_EVENTS_SUCCESS:
-      newState.items = action.payload;
+      newState.items = action.payload.events;
+      newState.futureItems = action.payload.futureEvents;
       newState.count = action.payload.length;
       break;
 
