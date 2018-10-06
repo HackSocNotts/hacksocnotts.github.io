@@ -124,7 +124,7 @@ EventPage.propTypes = {
 const mapStateToProps = (state) => {
   return {
     activeEvent: state.events.activeEvent,
-    events: state.events.futureItems,
+    events: state.events.items,
   };
 };
 
