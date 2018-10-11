@@ -5,7 +5,7 @@ const retrieveEvents = () => {
   const now = moment();
 
   const events = eventsManifest.events.filter((event) => {
-    const eventDate = moment(event.start);
+    const eventDate = moment(event.end);
     return (now.isBefore(eventDate));
   });
 
