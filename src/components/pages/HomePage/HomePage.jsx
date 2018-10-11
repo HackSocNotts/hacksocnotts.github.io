@@ -13,6 +13,9 @@ import AaronOsher from 'resources/team/AaronOsher.jpg';
 import AmmarKhazal from 'resources/team/AmmarKhazal.jpeg';
 import PrimozFabiani from 'resources/team/PrimozFabiani.png';
 import TobyJones from 'resources/team/TobyJones.jpg';
+import JohnMercer from 'resources/team/JohnMercer.jpg';
+import DanielCordell from 'resources/team/DanielCordell.jpg';
+import KashDadhich from 'resources/team/KashDadhich.jpg';
 
 import { ResponsiveContainer } from '../../Containers';
 import HomePageHeading from './HomePageHeading';
@@ -115,9 +118,9 @@ const HomePage = () => (
         </p>
       </Container>
       <Divider hidden />
-      <Grid container stackable centered>
+      <Grid stackable centered>
         <Grid.Row>
-          <Grid.Column width={3}>
+          <Grid.Column width={2}>
             <Image src={AaronOsher} size='medium' />
             <p>
               <span className={styles.p}>
@@ -137,7 +140,7 @@ const HomePage = () => (
               </a>
             </p>
           </Grid.Column>
-          <Grid.Column width={3}>
+          <Grid.Column width={2}>
             <Image src={PrimozFabiani} size='medium' />
             <p>
               <span className={styles.p}>
@@ -155,6 +158,20 @@ const HomePage = () => (
               {/* <a href='https://linkedin.com/in/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
               </a> */}
+            </p>
+          </Grid.Column>
+          <Grid.Column width={2}>
+            <Image src={JohnMercer} size='medium' />
+            <p>
+              <span className={styles.p}>
+                John Mercer
+              </span>
+              <br />
+              Treasurer
+              <br />
+              <a href='https://www.linkedin.com/in/john-kendal-mercer/' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='linkedin' className={styles.linkedIn} />
+              </a>
             </p>
           </Grid.Column>
           {/* <Grid.Column width={3}>
@@ -177,7 +194,7 @@ const HomePage = () => (
               </a>
             </p>
           </Grid.Column> */}
-          <Grid.Column width={3}>
+          <Grid.Column width={2}>
             <Image src={TobyJones} size='medium' />
             <p>
               <span className={styles.p}>
@@ -197,7 +214,21 @@ const HomePage = () => (
               </a>
             </p>
           </Grid.Column>
-          <Grid.Column width={3}>
+          <Grid.Column width={2}>
+            <Image src={DanielCordell} size='medium' />
+            <p>
+              <span className={styles.p}>
+                Daniel Cordell
+              </span>
+              <br />
+              Dev Officer
+              <br />
+              <a href='https://www.linkedin.com/in/daniel-cordell/' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='linkedin' className={styles.linkedIn} />
+              </a>
+            </p>
+          </Grid.Column>
+          <Grid.Column width={2}>
             <Image src={AmmarKhazal} size='medium' />
             <p>
               <span className={styles.p}>
@@ -213,6 +244,20 @@ const HomePage = () => (
                 <Icon link name='twitter' className={styles.twitter} />
               </a> */}
               <a href='https://www.linkedin.com/in/ammarkhazal/' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='linkedin' className={styles.linkedIn} />
+              </a>
+            </p>
+          </Grid.Column>
+          <Grid.Column width={2}>
+            <Image src={KashDadhich} size='medium' />
+            <p>
+              <span className={styles.p}>
+                Kash Dadhich
+              </span>
+              <br />
+              Social Media &amp; Communications Officer
+              <br />
+              <a href='https://www.linkedin.com/in/aakash-dadhich-5a3706131/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
               </a>
             </p>
