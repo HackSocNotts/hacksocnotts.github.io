@@ -89,6 +89,17 @@
       "banner": "tech-nottingham-october-2018/banner.png"
     },
     {
+      "id": "tech-nottingham-jurassic-park-what-went-wrong",
+      "name": "Jurassic Park - What went wrong?",
+      "start": "2018-10-18 18:30:00",
+      "end": "2018-10-18 21:00:00",
+      "location": "Antenna",
+      "mapLink": "http://maps.google.com/?q=Beck%20Street%20Nottingham,%20England,%20NG1%201EQ%20United%20Kingdom",
+      "summary": "tech-nottingham-jurassic-park-what-went-wrong/summary.md",
+      "description": "tech-nottingham-jurassic-park-what-went-wrong/description.md",
+      "banner": "tech-nottingham-jurassic-park-what-went-wrong/banner.png"
+    },
+    {
       "id": "hacknotts-2018",
       "name": "HackNotts 2018",
       "start": "2018-11-24 10:00:00",
