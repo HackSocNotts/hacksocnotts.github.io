@@ -49,7 +49,7 @@ EventsPage.propTypes = {
 
 /* eslint-disable arrow-body-style */
 const mapStateToProps = state => ({
-  events: state.events.items,
+  events: state.events.futureItems,
 });
 
 const mapDispatchToProps = () => ({});

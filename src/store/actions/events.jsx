@@ -1,3 +1,4 @@
+import * as moment from 'moment';
 import { eventsService } from '../../services';
 import waitForState from '../waitForState';
 
@@ -24,10 +25,13 @@ export function loadEventsRequest() {
   };
 }
 
-export function loadEventsSuccess(events) {
+export function loadEventsSuccess(events, futureEvents) {
   return {
     type: LOAD_EVENTS_SUCCESS,
-    payload: events,
+    payload: {
+      events,
+      futureEvents,
+    },
   };
 }
 
@@ -50,7 +54,14 @@ export function loadEvents() {
     dispatch(loadEventsRequest());
 
     eventsService.retrieveEvents()
-      .then(events => dispatch(loadEventsSuccess(events)))
+      .then((events) => {
+        const now = moment();
+        const futureEvents = events.filter((event) => {
+          const eventDate = moment(event.start);
+          return (now.isBefore(eventDate));
+        });
+        dispatch(loadEventsSuccess(events, futureEvents));
+      })
       .catch(error => dispatch(loadEventsFailure(error)));
   };
 }
