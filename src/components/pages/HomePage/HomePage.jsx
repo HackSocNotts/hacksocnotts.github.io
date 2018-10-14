@@ -169,31 +169,14 @@ const HomePage = () => (
               <br />
               Treasurer
               <br />
+			  <a href='mailto:treasurer@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='mail' color='green' />
+			  </a>
               <a href='https://www.linkedin.com/in/john-kendal-mercer/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
               </a>
             </p>
           </Grid.Column>
-          {/* <Grid.Column width={3}>
-            <Image src={HelenaWong} size='medium' />
-            <p>
-              <span className={styles.p}>
-                Helena Maria Wong
-              </span>
-              <br />
-              Treasurer
-              <br />
-              {/* <a href='mailto:@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='mail' color='green' />
-              </a>
-              <a href='https://twitter.com/' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='twitter' className={styles.twitter} />
-              </a>
-              <a href='https://linkedin.com/in/' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='linkedin' className={styles.linkedIn} />
-              </a>
-            </p>
-          </Grid.Column> */}
           <Grid.Column width={2}>
             <Image src={TobyJones} size='medium' />
             <p>
@@ -203,7 +186,7 @@ const HomePage = () => (
               <br />
               Hack Secretary
               <br />
-              <a href='mailto:toby@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+              <a href='mailto:hacksecretary@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
               </a>
               <a href='https://twitter.com/monotron_' target='_blank' rel='noopener noreferrer'>
@@ -223,6 +206,12 @@ const HomePage = () => (
               <br />
               Dev Officer
               <br />
+			  <a href='mailto:daniel@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='mail' color='green' />
+              </a>
+              <a href='https://twitter.com/crdlpls' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='twitter' className={styles.twitter} />
+              </a>
               <a href='https://www.linkedin.com/in/daniel-cordell/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
               </a>
@@ -257,6 +246,12 @@ const HomePage = () => (
               <br />
               Social Media &amp; Communications Officer
               <br />
+			  <a href='mailto:social-media@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='mail' color='green' />
+              </a>
+              <a href='https://twitter.com/kashdadhich' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='twitter' className={styles.twitter} />
+              </a>
               <a href='https://www.linkedin.com/in/aakash-dadhich-5a3706131/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
               </a>
