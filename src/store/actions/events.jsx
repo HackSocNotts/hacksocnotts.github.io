@@ -57,7 +57,7 @@ export function loadEvents() {
       .then((events) => {
         const now = moment();
         const futureEvents = events.filter((event) => {
-          const eventDate = moment(event.start);
+          const eventDate = moment(event.end);
           return (now.isBefore(eventDate));
         });
         dispatch(loadEventsSuccess(events, futureEvents));
