@@ -169,7 +169,7 @@ const HomePage = () => (
               <br />
               Treasurer
               <br />
-              <a href='mailto:treasurer@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+              <a href='mailto:john@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
               </a>
               <a href='https://www.linkedin.com/in/john-kendal-mercer/' target='_blank' rel='noopener noreferrer'>
@@ -186,7 +186,7 @@ const HomePage = () => (
               <br />
               Hack Secretary
               <br />
-              <a href='mailto:hacksecretary@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+              <a href='mailto:toby@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
               </a>
               <a href='https://twitter.com/monotron_' target='_blank' rel='noopener noreferrer'>
@@ -246,7 +246,7 @@ const HomePage = () => (
               <br />
               Social Media &amp; Communications Officer
               <br />
-              <a href='mailto:social-media@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+              <a href='mailto:aakash@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
               </a>
               <a href='https://twitter.com/kashdadhich' target='_blank' rel='noopener noreferrer'>
