@@ -99,15 +99,15 @@ const HomePage = () => (
                 </li>
               </ul>
               <p>
-                For role descriptions 
+                For role descriptions
                 <a href='https://github.com/HackSocNotts/constitution/raw/master/hacksocConstitution.pdf'>
-                  take a look at our constitution.
+                  &nbsp;take a look at our constitution.
                 </a>
               </p>
               <p>
                 If you would like to apply for any of these,
                 <a href='https://goo.gl/forms/u3KZRigx8MAS5qTl2'>
-                  please nominate yourself on our google form.
+                  &nbsp;please nominate yourself on our google form.
                 </a>
               </p>
             </p>
