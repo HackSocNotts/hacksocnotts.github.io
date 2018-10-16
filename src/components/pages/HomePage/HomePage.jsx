@@ -84,21 +84,31 @@ const HomePage = () => (
               Elections
             </Header>
             <p className={styles.p}>
-              <p>We have committee elections open this week for:</p>
-              <ul>
-                <li>Graphics Officer (appointed by committee)</li>
-                <li>Welfare and Inclusivity Secretary</li>
-                <li>Speaker Acquisition Secretary</li>
-              </ul>
-              <p>For role descriptions 
-                <a href='https://github.com/HackSocNotts/constitution/raw/master/hacksocConstitution.pdf'>
-                  take a look at our constitution
-                </a>.
+              <p>
+                We have committee elections open this week for:
               </p>
-              <p>If you would like to apply for any of these, 
+              <ul>
+                <li>
+                  Graphics Officer (appointed by committee)
+                </li>
+                <li>
+                  Welfare and Inclusivity Secretary
+                </li>
+                <li>
+                  Speaker Acquisition Secretary
+                </li>
+              </ul>
+              <p>
+                For role descriptions 
+                <a href='https://github.com/HackSocNotts/constitution/raw/master/hacksocConstitution.pdf'>
+                  take a look at our constitution.
+                </a>
+              </p>
+              <p>
+                If you would like to apply for any of these,
                 <a href='https://goo.gl/forms/u3KZRigx8MAS5qTl2'>
-                  please nominate yourself on our google form
-                </a>.
+                  please nominate yourself on our google form.
+                </a>
               </p>
             </p>
           </Grid.Column>
