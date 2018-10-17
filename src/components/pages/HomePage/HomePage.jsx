@@ -78,6 +78,41 @@ const HomePage = () => (
             </p>
           </Grid.Column>
         </Grid.Row>
+        <Grid.Row>
+          <Grid.Column>
+            <Header as='h3' className={styles.h3}>
+              Elections
+            </Header>
+            <p className={styles.p}>
+              <p>
+                We have committee elections open this week for:
+              </p>
+              <ul>
+                <li>
+                  Graphics Officer (appointed by committee)
+                </li>
+                <li>
+                  Welfare and Inclusivity Secretary
+                </li>
+                <li>
+                  Speaker Acquisition Secretary
+                </li>
+              </ul>
+              <p>
+                For role descriptions
+                <a href='https://github.com/HackSocNotts/constitution/raw/master/hacksocConstitution.pdf'>
+                  &nbsp;take a look at our constitution.
+                </a>
+              </p>
+              <p>
+                If you would like to apply for any of these,
+                <a href='https://goo.gl/forms/u3KZRigx8MAS5qTl2'>
+                  &nbsp;please nominate yourself on our google form.
+                </a>
+              </p>
+            </p>
+          </Grid.Column>
+        </Grid.Row>
       </Grid>
     </Segment>
     <Divider horizontal className={styles.h3}>
