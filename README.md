@@ -1,4 +1,4 @@
-# HackSoc Website [![CircleCI](https://circleci.com/gh/HackSocNotts/hacksocnotts.co.uk/tree/master.svg?style=svg)](https://circleci.com/gh/HackSocNotts/hacksocnotts.co.uk/tree/master)
+# HackSoc Website [![CircleCI](https://img.shields.io/circleci/project/github/HackSocNotts/hacksocnotts.co.uk/master.svg?style=flat-square)](hackscocnotts.co.uk) ![Requires.io](https://img.shields.io/requires/github/HackSocNotts/hacksocnotts.co.uk.svg?style=flat-square)  ![GitHub issues](https://img.shields.io/github/issues/hacksocnotts/hacksocnotts.co.uk.svg?style=flat-square) ![GitHub pull requests](https://img.shields.io/github/issues-pr/hacksocnotts/hacksocnotts.co.uk.svg?style=flat-square) ![GitHub](https://img.shields.io/github/license/hacksocnotts/hacksocnotts.co.uk.svg?style=flat-square)
 The current website for HackSoc at the University of Nottingham.
 
 ## How it's made
