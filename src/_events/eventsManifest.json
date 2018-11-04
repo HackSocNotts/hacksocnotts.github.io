@@ -186,6 +186,17 @@
       "summary": "intro-to-javascript/summary.md",
       "description": "intro-to-javascript/description.md",
       "banner": "intro-to-javascript/banner.jpg"
+    },
+    {
+      "id": "tech-nottingham-november-2018",
+      "name": "HackSoc Storms Tech Nottingham",
+      "start": "2018-11-12 18:30:00",
+      "end": "2018-11-12 21:00:00",
+      "location": "Antenna",
+      "mapLink": "http://maps.google.com/?q=Beck%20Street%20Nottingham,%20England,%20NG1%201EQ%20United%20Kingdom",
+      "summary": "tech-nottingham-november-2018/summary.md",
+      "description": "tech-nottingham-november-2018/description.md",
+      "banner": "tech-nottingham-november-2018/banner.png"
     }
   ]
 }

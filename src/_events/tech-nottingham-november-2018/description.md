@@ -1,0 +1,1 @@
+[Direct Link](https://www.technottingham.com/events/tech-nottingham-nov-2018)
