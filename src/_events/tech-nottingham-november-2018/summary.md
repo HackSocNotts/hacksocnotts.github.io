@@ -1,1 +1,1 @@
-Join us for the November edition of Tech Nottingham where they have two fantastic talks from Dylan Beattie and Seren Davies.
+This month we have two fantastic talks from Tessa Cooper from FutureLearn, and local community member Jamie Tanna from Capital One.
