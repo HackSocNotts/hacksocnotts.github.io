@@ -133,6 +133,83 @@
       "banner": "being-part-of-the-community-and-how-to-talk-really-really-good/banner.jpg"
     },
     {
+      "id": "intro-to-javascript-1",
+      "name": "Intro to JavaScript (1)",
+      "start": "2018-11-06 18:30:00",
+      "end": "2018-11-06 20:00:00",
+      "location": "A32 - Ada Lovelace Lab",
+      "mapLink": "https://www.google.co.uk/maps/place/52%C2%B057'12.6%22N+1%C2%B011'14.1%22W/@52.953488,-1.1877845,17.15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d52.9534883!4d-1.1872358",
+      "summary": "intro-to-javascript/summary.md",
+      "description": "intro-to-javascript/description.md",
+      "banner": "intro-to-javascript/banner.jpg"
+    },
+    {
+      "id": "intro-to-javascript-2",
+      "name": "Intro to JavaScript (2)",
+      "start": "2018-11-13 18:30:00",
+      "end": "2018-11-13 20:00:00",
+      "location": "A32 - Ada Lovelace Lab",
+      "mapLink": "https://www.google.co.uk/maps/place/52%C2%B057'12.6%22N+1%C2%B011'14.1%22W/@52.953488,-1.1877845,17.15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d52.9534883!4d-1.1872358",
+      "summary": "intro-to-javascript/summary.md",
+      "description": "intro-to-javascript/description.md",
+      "banner": "intro-to-javascript/banner.jpg"
+    },
+    {
+      "id": "intro-to-javascript-3",
+      "name": "Intro to JavaScript (3)",
+      "start": "2018-11-27 18:30:00",
+      "end": "2018-11-27 20:00:00",
+      "location": "A32 - Ada Lovelace Lab",
+      "mapLink": "https://www.google.co.uk/maps/place/52%C2%B057'12.6%22N+1%C2%B011'14.1%22W/@52.953488,-1.1877845,17.15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d52.9534883!4d-1.1872358",
+      "summary": "intro-to-javascript/summary.md",
+      "description": "intro-to-javascript/description.md",
+      "banner": "intro-to-javascript/banner.jpg"
+    },
+    {
+      "id": "intro-to-javascript-4",
+      "name": "Intro to JavaScript (4)",
+      "start": "2018-12-04 18:30:00",
+      "end": "2018-12-04 20:00:00",
+      "location": "A32 - Ada Lovelace Lab",
+      "mapLink": "https://www.google.co.uk/maps/place/52%C2%B057'12.6%22N+1%C2%B011'14.1%22W/@52.953488,-1.1877845,17.15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d52.9534883!4d-1.1872358",
+      "summary": "intro-to-javascript/summary.md",
+      "description": "intro-to-javascript/description.md",
+      "banner": "intro-to-javascript/banner.jpg"
+    },
+    {
+      "id": "intro-to-javascript-5",
+      "name": "TBD Intro to JavaScript (5)",
+      "start": "2018-12-11 18:30:00",
+      "end": "2018-12-11 20:00:00",
+      "location": "A32 - Ada Lovelace Lab",
+      "mapLink": "https://www.google.co.uk/maps/place/52%C2%B057'12.6%22N+1%C2%B011'14.1%22W/@52.953488,-1.1877845,17.15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d52.9534883!4d-1.1872358",
+      "summary": "intro-to-javascript/summary.md",
+      "description": "intro-to-javascript/description.md",
+      "banner": "intro-to-javascript/banner.jpg"
+    },
+    {
+      "id": "tech-nottingham-november-2018",
+      "name": "HackSoc Storms Tech Nottingham",
+      "start": "2018-11-12 18:30:00",
+      "end": "2018-11-12 21:00:00",
+      "location": "Antenna",
+      "mapLink": "http://maps.google.com/?q=Beck%20Street%20Nottingham,%20England,%20NG1%201EQ%20United%20Kingdom",
+      "summary": "tech-nottingham-november-2018/summary.md",
+      "description": "tech-nottingham-november-2018/description.md",
+      "banner": "tech-nottingham-november-2018/banner.png"
+    },
+    {
+      "id": "mlh-localhackday-2018",
+      "name": "MLH Local Hack Day",
+      "start": "2018-12-01 09:00:00",
+      "end": "2018-12-01 21:00:00",
+      "location": "School of Computer Science",
+      "mapLink": "https://www.google.co.uk/maps/place/52%C2%B057'12.6%22N+1%C2%B011'14.1%22W/@52.953488,-1.1877845,17.15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d52.9534883!4d-1.1872358",
+      "summary": "mlh-localhackday-2018/summary.md",
+      "description": "mlh-localhackday-2018/description.md",
+      "banner": "mlh-localhackday-2018/banner.jpg"
+    },
+    {
       "id": "talking-to-alexa",
       "name": "Talking to Alexa",
       "start": "2018-10-25 18:30:00",
