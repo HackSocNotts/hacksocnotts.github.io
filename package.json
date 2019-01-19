@@ -9,7 +9,8 @@
     "build": "node scripts/build.js",
     "build:analyze": "cross-env ANALYZE=true node scripts/build.js",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "ics": "node scripts/generateICS.js"
   },
   "dependencies": {
     "babel-eslint": "^8.2.6",
@@ -20,6 +21,7 @@
     "eslint-plugin-jsx-a11y": "^6.1.1",
     "eslint-plugin-mocha": "^5.1.0",
     "eslint-plugin-react": "^7.10.0",
+    "ics": "^2.10.0",
     "markdown-to-jsx": "^6.7.0",
     "moment": "^2.22.2",
     "react": "^16.5.0",
