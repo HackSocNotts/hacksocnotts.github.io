@@ -8,7 +8,9 @@ const CopyrightRow = () => (
       width={6}
       floated='left'
     >
-      Copyright &copy; 2018 HackSoc Nottingham. All Rights Reserved.
+      Copyright &copy;&nbsp;
+      {(new Date()).getFullYear()}
+      &nbsp;HackSoc Nottingham. All Rights Reserved.
     </Grid.Column>
     <Grid.Column
       width={10}
