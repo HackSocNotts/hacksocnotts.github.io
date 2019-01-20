@@ -6,3 +6,5 @@ Quorum is an open source fork of the Ethereum blockchain based on the Go Ethereu
 
 ## TechMarketplace Decentralized App
 By interacting with the codebase of a fully-functional decentralized application, you will learn the structure of a dApp and how to write functions in Solidity, the Contract-Oriented language. They will leave the workshop understanding how all of these pieces fit together.
+
+Learn more about **MLH Localhost** at https://mlhlocal.host
