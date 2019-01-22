@@ -36,9 +36,9 @@ const navigationInitialState = {
   rightItems: [
     {
       as: 'a',
-      content: 'inspireWiT',
-      href: 'http://inspirewit.com',
-      key: 'inspirewit',
+      content: 'Marings',
+      href: 'https://margins.tech',
+      key: 'margins',
       target: '_blank',
       rel: 'noopener noreferrer',
       className: 'ui purple',
