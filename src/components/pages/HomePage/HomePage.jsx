@@ -178,26 +178,6 @@ const HomePage = () => (
             </p>
           </Grid.Column>
           <Grid.Column width={2}>
-            <Image src={TobyJones} size='medium' />
-            <p>
-              <span className={styles.p}>
-                Toby Jones
-              </span>
-              <br />
-              Hack Secretary
-              <br />
-              <a href='mailto:toby@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='mail' color='green' />
-              </a>
-              <a href='https://twitter.com/monotron_' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='twitter' className={styles.twitter} />
-              </a>
-              <a href='https://linkedin.com/in/toby-jones-a82165151' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='linkedin' className={styles.linkedIn} />
-              </a>
-            </p>
-          </Grid.Column>
-          <Grid.Column width={2}>
             <Image src={DanielCordell} size='medium' />
             <p>
               <span className={styles.p}>
