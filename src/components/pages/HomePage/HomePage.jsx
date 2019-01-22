@@ -97,11 +97,10 @@ const HomePage = () => (
           </Grid.Column>
           <Grid.Column className={styles.flagshipGrid}>
             <Header as='h3' className={styles.h3}>
-              inspireWiT
+              Margins
             </Header>
             <p className={styles.p}>
-              inspireWiT Conference is a technology-focused day for women and people of all
-              gender minorities—inspiring everyone!
+              Margins Conference, the successor to WiT and inspireWiT is a technology-focused day for marginalised groups and all gender minorities—inspiring everyone!
             </p>
           </Grid.Column>
         </Grid.Row>
