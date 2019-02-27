@@ -1,0 +1,1 @@
+This month we have two fantastic talks from Mark Goodwin and Cara Holland.
