@@ -20,9 +20,9 @@ If you have any dietary requirements, such as being vegan, gluten free, or lacto
 
 If you want to join the HackSoc Committee for 2019/2020 (which we strongly encourgate), you can nominate yourself at [hacksoc.net/nomintate](https://hacksoc.net/nominate). Being a member of commitee is a great way to build you CV, get experience working with companies and beurocratic structures (the Student's Union) as well as event organising.
 
-Additionally, if you'd like to see the HackSoc [constitution](https://hacksoc.net/constitution) change, you can submit ammendments at [hacksoc.net/ammend](https://hacksoc.net/ammend).
+Additionally, if you'd like to see the HackSoc [constitution](https://hacksoc.net/constitution) change, you can submit amendments at [hacksoc.net/amend](https://hacksoc.net/amend).
 
-Note that nominations and ammendment submissions will close at 23:59 on Friday March 29th. No further ammendments or nominations will be accepted after this point.
+Note that nominations and ammendment submissions will close at 23:59 on Friday March 29th. No further amendments or nominations will be accepted after this point.
 
 ## Agenda
 
@@ -43,6 +43,6 @@ Here is the agenda for the meeting:
 
 You can submit nominations [here](https://hacksoc.net/nominate).
 
-You can submit constitutional ammendmets [here](https://hacksoc.net/ammend).
+You can submit constitutional amendments [here](https://hacksoc.net/amend).
 
 Nominations and ammendments close at 23:59 on March 29th, 2019.
