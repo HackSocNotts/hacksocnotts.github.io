@@ -1,3 +1,3 @@
-Leah Jane Jervis
+__The event is for current University of Nottingham Students' Union members only.__
 
-I will discuss the application process of applying for an industrial placement that suits you and the qualities that employers look for outside of the technical scope, the benefits of doing a placement year and how i personally found it beneficial, inclusive of what I did for my placement year.
+Join us for Leah Jane Jervis talking about her experience on industrial placement, and some helpful advice for your own applications.
