@@ -296,6 +296,50 @@
       "summary": "mlh-localhost-learn-c-sharp-with-unity-feb-2019/summary.md",
       "description": "mlh-localhost-learn-c-sharp-with-unity-feb-2019/description.md",
       "banner": "mlh-localhost-learn-c-sharp-with-unity-feb-2019/banner.jpg"
+    },
+    {
+      "id": "tech-nottingham-march-2019",
+      "name": "HackSoc Storms Tech Nottingham",
+      "start": "2019-03-11 18:00:00",
+      "end": "2019-03-11 21:00:00",
+      "location": "Antenna",
+      "mapLink": "http://maps.google.com/?q=Beck%20Street%20Nottingham,%20England,%20NG1%201EQ%20United%20Kingdom",
+      "summary": "tech-nottingham-march-2019/summary.md",
+      "description": "tech-nottingham-march-2019/description.md",
+      "banner": "tech-nottingham-march-2019/banner.png"
+    },    
+    {
+      "id": "intro-to-placements",
+      "name": "Introduction into Placements & My Personal Experience",
+      "start": "2019-03-05 18:30:00",
+      "end": "2019-03-05 20:00:00",
+      "location": "The Hub",
+      "mapLink": "https://www.google.co.uk/maps/place/52%C2%B057'12.6%22N+1%C2%B011'14.1%22W/@52.953488,-1.1877845,17.15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d52.9534883!4d-1.1872358",
+      "summary": "intro-to-placements/summary.md",
+      "description": "intro-to-placements/description.md",
+      "banner": "intro-to-placements/banner.jpg"
+    },    
+    {
+      "id": "cyber-security-1",
+      "name": "Cyber Security (Wireless Security) Workshop 1",
+      "start": "2019-03-12 18:30:00",
+      "end": "2019-03-12 20:00:00",
+      "location":"A32 - Ada Lovelace Lab",
+      "mapLink": "https://www.google.co.uk/maps/place/School+of+Computer+Science/@52.9533603,-1.1892748,17.15z/data=!4m5!3m4!1s0x4879c209bfffffff:0xaf426646771a25ac!8m2!3d52.953357!4d-1.18736",
+      "summary": "cyber-security-1/summary.md",
+      "description": "cyber-security-1/description.md",
+      "banner": "cyber-security-1/banner.jpg"
+    },    
+    {
+      "id": "cyber-security-2",
+      "name": "Cyber Security (Wireless Security) Workshop 2",
+      "start": "2019-03-19 18:30:00",
+      "end": "2019-03-19 20:00:00",
+      "location":"A32 - Ada Lovelace Lab",
+      "mapLink": "https://www.google.co.uk/maps/place/School+of+Computer+Science/@52.9533603,-1.1892748,17.15z/data=!4m5!3m4!1s0x4879c209bfffffff:0xaf426646771a25ac!8m2!3d52.953357!4d-1.18736",
+      "summary": "cyber-security-2/summary.md",
+      "description": "cyber-security-2/description.md",
+      "banner": "cyber-security-2/banner.jpg"
     }
   ]
 }
