@@ -1,5 +1,5 @@
 ## Workshop Overview
-Cyber Security Workshop (Wireless Security) is a series of workshops which you will learn to identify existing vulnerabilities in 802.11 networks and execute organized attacks in a controlled environment.
+Cyber Security Workshop (Wireless Security) is a series of workshops which you will learn to identify existing vulnerabilities in 802.11 networks and carry out penetration testing exercises in a controlled environmnet.
 
 ## Workshop Pre-Requisites
 All students are required to have a solid understanding of TCP/IP and the OSI model as well as a reasonable level of familiarity with Linux in order to complete the workshop.
@@ -11,5 +11,3 @@ Session 1:
 - Packets and Network Interaction
 - Linux Wireless Stack and Drivers
 - Aircrack-ng Essentials
-- Cracking WEP with Connected Clients
-- Cracking Clientless WEP Networks
