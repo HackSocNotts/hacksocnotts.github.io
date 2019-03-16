@@ -348,9 +348,9 @@
       "end": "2019-04-02 20:00:00",
       "location":"A32 Lab",
       "mapLink": "https://www.google.co.uk/maps/place/School+of+Computer+Science/@52.9533603,-1.1892748,17.15z/data=!4m5!3m4!1s0x4879c209bfffffff:0xaf426646771a25ac!8m2!3d52.953357!4d-1.18736",
-      "summary": "cpp/summary.md",
-      "description": "cpp/description.md",
-      "banner": "cpp/banner.jpg"
+      "summary": "cpp-workshop/summary.md",
+      "description": "cpp-workshop/description.md",
+      "banner": "cpp-workshop/banner.jpg"
     },
     {
       "id": "cpp-2",
@@ -359,9 +359,9 @@
       "end": "2019-04-09 20:00:00",
       "location":"A32 Lab",
       "mapLink": "https://www.google.co.uk/maps/place/School+of+Computer+Science/@52.9533603,-1.1892748,17.15z/data=!4m5!3m4!1s0x4879c209bfffffff:0xaf426646771a25ac!8m2!3d52.953357!4d-1.18736",
-      "summary": "cpp/summary.md",
-      "description": "cpp/description.md",
-      "banner": "cpp/banner.jpg"
+      "summary": "cpp-workshop/summary.md",
+      "description": "cpp-workshop/description.md",
+      "banner": "cpp-workshop/banner.jpg"
     },
     {
       "id": "cpp-3",
@@ -370,9 +370,9 @@
       "end": "2019-04-11 20:00:00",
       "location":"A32 Lab",
       "mapLink": "https://www.google.co.uk/maps/place/School+of+Computer+Science/@52.9533603,-1.1892748,17.15z/data=!4m5!3m4!1s0x4879c209bfffffff:0xaf426646771a25ac!8m2!3d52.953357!4d-1.18736",
-      "summary": "cpp/summary.md",
-      "description": "cpp/description.md",
-      "banner": "cpp/banner.jpg"
+      "summary": "cpp-workshop/summary.md",
+      "description": "cpp-workshop/description.md",
+      "banner": "cpp-workshop/banner.jpg"
     }
   ]
 }
