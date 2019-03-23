@@ -15,3 +15,6 @@ yarn-error.log*
 
 # VSCode
 /.vscode
+
+# Events manifest
+/src/_events/eventsManifest.json
