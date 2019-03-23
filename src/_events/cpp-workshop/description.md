@@ -1,3 +1,6 @@
+### About Panagiotis
+I'm Panagiotis and I am a first year Computer Science Student. I've been working with C++ for the 5 years. I competed at the National Computer Science competitions in Greece, placed 18th, where I used C++ to solve problems with algorithms and data structures. I find C++ to be one of the most well structured languages out there and as such I'd be glad to guide you through it. 
+
 ### What's this worshop all about?
 
 In this workshop we will go over the basics of C++ as well as some good practices on how to write good code with it. Although prior programming experience isn't required for this workshop, if you know a language like C, Java or Javascript it should make things a bit easier for you.
