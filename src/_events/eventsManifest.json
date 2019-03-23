@@ -373,6 +373,17 @@
       "summary": "cpp-workshop/summary.md",
       "description": "cpp-workshop/description.md",
       "banner": "cpp-workshop/banner.jpg"
+    },
+    {
+      "id": "deep-learning",
+      "name": "Deep Learning Workshop - CNNs, Cats, and Convex Losses",
+      "start": "2019-04-02 18:30:00",
+      "end": "2019-04-02 20:00:00",
+      "location":"A32 Lab",
+      "mapLink": "https://www.google.co.uk/maps/place/School+of+Computer+Science/@52.9533603,-1.1892748,17.15z/data=!4m5!3m4!1s0x4879c209bfffffff:0xaf426646771a25ac!8m2!3d52.953357!4d-1.18736",
+      "summary": "deep-learning/summary.md",
+      "description": "deep-learning/description.md",
+      "banner": "deep-learning/banner.jpg"
     }
   ]
 }
