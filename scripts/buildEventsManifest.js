@@ -31,7 +31,10 @@ const generateManifest = () => {
 function BuildEventsManifestPlugin() { }
 
 BuildEventsManifestPlugin.prototype.apply = (compiler) => {
-  compiler.plugin('before-run', () => generateManifest());
+  compiler.plugin('before-run', (compiler, callback) => {
+    generateManifest()
+    callback()
+  });
   compiler.plugin('watch-run', (compiler, callback) => {
     generateManifest()
     callback()
