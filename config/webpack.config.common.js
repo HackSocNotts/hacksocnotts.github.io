@@ -52,6 +52,10 @@ module.exports = {
     rules: [
       // Process JS with Babel.
       {
+        test: /\.(yml|yaml)$/,
+        loader: 'ignore-loader',
+      },
+      {
         test: /\.(js|jsx)$/,
         include: paths.appSrc,
         loader: require.resolve('babel-loader'),
