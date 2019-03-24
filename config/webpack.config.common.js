@@ -2,6 +2,7 @@ const autoprefixer = require('autoprefixer')
 const ExtractTextPlugin = require('extract-text-webpack-plugin')
 const path = require('path')
 const ModuleScopePlugin = require('react-dev-utils/ModuleScopePlugin')
+const BuildEventsManifestPlugin = require('../scripts/buildEventsManifest')
 
 const paths = require('./paths')
 
@@ -197,6 +198,7 @@ module.exports = {
   },
   plugins: [
     extractLess,
+    new BuildEventsManifestPlugin(),
   ],
   resolve: {
     alias: {
