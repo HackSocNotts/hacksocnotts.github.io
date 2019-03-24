@@ -200,7 +200,7 @@ const checkSchema = async (event) => {
 
 const checkPromises = [];
 
-for (const event of json.events) {
+for (const event of json) {
   checkPromises.push(checkSchema(event));
 }
 
