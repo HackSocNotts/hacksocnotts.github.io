@@ -67,12 +67,12 @@ module.exports = function (proxy, allowedHost) {
     // src/node_modules is not ignored to support absolute imports
     // https://github.com/facebookincubator/create-react-app/issues/1065
     watchOptions: {
-      ignored: new RegExp(
+      ignored: [new RegExp(
         `^(?!${path
           .normalize(`${paths.appSrc}/`)
           .replace(/[\\]+/g, '\\\\')}).+[\\\\/]node_modules[\\\\/]`,
         'g'
-      ),
+      ), /\/src\/_events\/eventsManifest.json/g],
     },
     // Enable HTTPS if the HTTPS environment variable is set to 'true'
     https: protocol === 'https',
