@@ -38,4 +38,7 @@ BuildEventsManifestPlugin.prototype.apply = (compiler) => {
   });
 }
 
-module.exports = BuildEventsManifestPlugin;
+module.exports = {
+  plugin: BuildEventsManifestPlugin,
+  builder: generateManifest,
+};
