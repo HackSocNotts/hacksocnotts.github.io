@@ -14,11 +14,28 @@ const generateManifest = () => {
         manifest.push(item);
       }
     } catch (e) {
-      console.error(e);
+      if (dir !== 'eventsManifest.json') {
+        throw new Error('No manifest.yml in ' + dir);
+      }
     }
   }
 
-  fs.writeFileSync(`${eventsDir}/eventsManifest.json`, JSON.stringify(manifest));
+  const manifestPath = `${eventsDir}/eventsManifest.json`;
+  const manifestJSON = JSON.stringify(manifest);
+
+  if (!fs.existsSync(manifestPath) || (fs.existsSync(manifestPath) && fs.readFileSync(manifestPath) !== manifestJSON)) {
+    fs.writeFileSync(manifestPath, manifestJSON);
+  }
 }
 
-module.exports = generateManifest;
+function BuildEventsManifestPlugin() { }
+
+BuildEventsManifestPlugin.prototype.apply = (compiler) => {
+  compiler.plugin('before-run', () => generateManifest());
+  compiler.plugin('watch-run', (compiler, callback) => {
+    generateManifest()
+    callback()
+  });
+}
+
+module.exports = BuildEventsManifestPlugin;
