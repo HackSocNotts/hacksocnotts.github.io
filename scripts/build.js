@@ -121,7 +121,6 @@ function build(previousFileSizes) {
         )
         return reject(new Error(messages.warnings.join('\n\n')))
       }
-      require('./buildEventsManifest')
       require('./generateICS')(paths.appBuild)
       return resolve({
         stats,

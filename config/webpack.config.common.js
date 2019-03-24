@@ -2,7 +2,6 @@ const autoprefixer = require('autoprefixer')
 const ExtractTextPlugin = require('extract-text-webpack-plugin')
 const path = require('path')
 const ModuleScopePlugin = require('react-dev-utils/ModuleScopePlugin')
-const { plugin: BuildEventsManifestPlugin } = require('../scripts/buildEventsManifest')
 
 const paths = require('./paths')
 
@@ -52,10 +51,6 @@ module.exports = {
     // { parser: { requireEnsure: false } },
     rules: [
       // Process JS with Babel.
-      {
-        test: /\.(yml|yaml)$/,
-        loader: 'ignore-loader',
-      },
       {
         test: /\.(js|jsx)$/,
         include: paths.appSrc,
@@ -198,7 +193,6 @@ module.exports = {
   },
   plugins: [
     extractLess,
-    new BuildEventsManifestPlugin(),
   ],
   resolve: {
     alias: {
