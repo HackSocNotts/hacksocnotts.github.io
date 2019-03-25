@@ -1,6 +1,9 @@
 const fs = require('fs');
 const fetch = require('node-fetch');
 var builder = require('junit-report-builder');
+const { builder: buildManifest } = require('./buildEventsManifest');
+
+buildManifest();
 
 const suite = builder.testSuite().name('Events Manifest Validator');
 
@@ -197,7 +200,7 @@ const checkSchema = async (event) => {
 
 const checkPromises = [];
 
-for (const event of json.events) {
+for (const event of json) {
   checkPromises.push(checkSchema(event));
 }
 

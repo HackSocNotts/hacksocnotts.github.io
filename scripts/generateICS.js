@@ -21,7 +21,7 @@ const getGeo = (mapLink) => {
 };
 
 const saveICS = (path) => {
-  const events = json.events.map(event => ({
+  const events = json.map(event => ({
     start: toICSDate(event.start),
     end: toICSDate(event.end),
     title: event.name,

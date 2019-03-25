@@ -1,0 +1,45 @@
+- id: intro-to-python-1
+  name: Intro to Python (1)
+  start: '2018-10-02 18:30:00'
+  end: '2018-10-02 20:00:00'
+  location: A32 - Ada Lovelace Lab
+  mapLink: https://www.google.co.uk/maps/place/52%C2%B057'12.6%22N+1%C2%B011'14.1%22W/@52.953488,-1.1877845,17.15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d52.9534883!4d-1.1872358
+  summary: intro-to-python/summary.md
+  description: intro-to-python/description.md
+  banner: intro-to-python/banner.jpg
+- id: intro-to-python-2
+  name: Intro to Python (2)
+  start: '2018-10-09 18:30:00'
+  end: '2018-10-09 20:00:00'
+  location: A32 - Ada Lovelace Lab
+  mapLink: https://www.google.co.uk/maps/place/52%C2%B057'12.6%22N+1%C2%B011'14.1%22W/@52.953488,-1.1877845,17.15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d52.9534883!4d-1.1872358
+  summary: intro-to-python/summary.md
+  description: intro-to-python/description.md
+  banner: intro-to-python/banner.jpg
+- id: intro-to-python-3
+  name: Intro to Python (3)
+  start: '2018-10-16 18:30:00'
+  end: '2018-10-16 20:00:00'
+  location: A32 - Ada Lovelace Lab
+  mapLink: https://www.google.co.uk/maps/place/52%C2%B057'12.6%22N+1%C2%B011'14.1%22W/@52.953488,-1.1877845,17.15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d52.9534883!4d-1.1872358
+  summary: intro-to-python/summary.md
+  description: intro-to-python/description.md
+  banner: intro-to-python/banner.jpg
+- id: intro-to-python-4
+  name: Intro to Python (4)
+  start: '2018-10-23 18:30:00'
+  end: '2018-10-23 20:00:00'
+  location: A32 - Ada Lovelace Lab
+  mapLink: https://www.google.co.uk/maps/place/52%C2%B057'12.6%22N+1%C2%B011'14.1%22W/@52.953488,-1.1877845,17.15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d52.9534883!4d-1.1872358
+  summary: intro-to-python/summary.md
+  description: intro-to-python/description.md
+  banner: intro-to-python/banner.jpg
+- id: intro-to-python-5
+  name: Intro to Python (5)
+  start: '2018-10-30 18:30:00'
+  end: '2018-10-30 20:00:00'
+  location: A32 - Ada Lovelace Lab
+  mapLink: https://www.google.co.uk/maps/place/52%C2%B057'12.6%22N+1%C2%B011'14.1%22W/@52.953488,-1.1877845,17.15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d52.9534883!4d-1.1872358
+  summary: intro-to-python/summary.md
+  description: intro-to-python/description.md
+  banner: intro-to-python/banner.jpg
