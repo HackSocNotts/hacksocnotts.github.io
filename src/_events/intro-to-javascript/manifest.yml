@@ -1,0 +1,45 @@
+- id: intro-to-javascript-1
+  name: Intro to JavaScript (1)
+  start: '2018-11-06 18:30:00'
+  end: '2018-11-06 20:00:00'
+  location: A32 - Ada Lovelace Lab
+  mapLink: https://www.google.co.uk/maps/place/52%C2%B057'12.6%22N+1%C2%B011'14.1%22W/@52.953488,-1.1877845,17.15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d52.9534883!4d-1.1872358
+  summary: intro-to-javascript/summary.md
+  description: intro-to-javascript/description.md
+  banner: intro-to-javascript/banner.jpg
+- id: intro-to-javascript-2
+  name: Intro to JavaScript (2)
+  start: '2018-11-13 18:30:00'
+  end: '2018-11-13 20:00:00'
+  location: A32 - Ada Lovelace Lab
+  mapLink: https://www.google.co.uk/maps/place/52%C2%B057'12.6%22N+1%C2%B011'14.1%22W/@52.953488,-1.1877845,17.15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d52.9534883!4d-1.1872358
+  summary: intro-to-javascript/summary.md
+  description: intro-to-javascript/description.md
+  banner: intro-to-javascript/banner.jpg
+- id: intro-to-javascript-3
+  name: Intro to JavaScript (3)
+  start: '2018-11-27 18:30:00'
+  end: '2018-11-27 20:00:00'
+  location: A32 - Ada Lovelace Lab
+  mapLink: https://www.google.co.uk/maps/place/52%C2%B057'12.6%22N+1%C2%B011'14.1%22W/@52.953488,-1.1877845,17.15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d52.9534883!4d-1.1872358
+  summary: intro-to-javascript/summary.md
+  description: intro-to-javascript/description.md
+  banner: intro-to-javascript/banner.jpg
+- id: intro-to-javascript-4
+  name: Intro to JavaScript (4)
+  start: '2018-12-04 18:30:00'
+  end: '2018-12-04 20:00:00'
+  location: A32 - Ada Lovelace Lab
+  mapLink: https://www.google.co.uk/maps/place/52%C2%B057'12.6%22N+1%C2%B011'14.1%22W/@52.953488,-1.1877845,17.15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d52.9534883!4d-1.1872358
+  summary: intro-to-javascript/summary.md
+  description: intro-to-javascript/description.md
+  banner: intro-to-javascript/banner.jpg
+- id: intro-to-javascript-5
+  name: TBD Intro to JavaScript (5)
+  start: '2018-12-11 18:30:00'
+  end: '2018-12-11 20:00:00'
+  location: A32 - Ada Lovelace Lab
+  mapLink: https://www.google.co.uk/maps/place/52%C2%B057'12.6%22N+1%C2%B011'14.1%22W/@52.953488,-1.1877845,17.15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d52.9534883!4d-1.1872358
+  summary: intro-to-javascript/summary.md
+  description: intro-to-javascript/description.md
+  banner: intro-to-javascript/banner.jpg
