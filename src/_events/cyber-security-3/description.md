@@ -8,5 +8,5 @@ All students are required to have a solid understanding of TCP/IP and the OSI mo
 Session 3:
 
 * Post Exploitation Techniques
-* How to implement advanced penetration testing method using Kali Linux
+* How to implement advanced penetration testing methods using Kali Linux
 * A Career in Cyber Security
