@@ -6,8 +6,9 @@ All students are required to have a solid understanding of TCP/IP and the OSI mo
 Additionally, a modern laptop or desktop that can boot and run Kali Linux and specific hardware are required to complete workshop exercises. (Hardware provided in the workshop)
 
 Session 1:
-- IEEE 802.11
-- Wireless Networks
-- Packets and Network Interaction
-- Linux Wireless Stack and Drivers
-- Aircrack-ng Essentials
+
+* IEEE 802.11
+* Wireless Networks
+* Packets and Network Interaction
+* Linux Wireless Stack and Drivers
+* Aircrack-ng Essentials
