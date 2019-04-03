@@ -176,6 +176,8 @@ const HomePage = () => (
               </a>
             </p>
           </Grid.Column>
+        </Grid.Row>
+        <Grid.Row>
           <Grid.Column width={2}>
             <Image src={DanielCordell} size='medium' />
             <p>
@@ -192,46 +194,6 @@ const HomePage = () => (
                 <Icon link name='twitter' className={styles.twitter} />
               </a>
               <a href='https://www.linkedin.com/in/daniel-cordell/' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='linkedin' className={styles.linkedIn} />
-              </a>
-            </p>
-          </Grid.Column>
-          <Grid.Column width={2}>
-            <Image src={AmmarKhazal} size='medium' />
-            <p>
-              <span className={styles.p}>
-                Ammar Khazal
-              </span>
-              <br />
-              Outreach and Inclusivity Secretary
-              <br />
-              <a href='mailto:ammar@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='mail' color='green' />
-              </a>
-              {/* <a href='https://twitter.com/' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='twitter' className={styles.twitter} />
-              </a> */}
-              <a href='https://www.linkedin.com/in/ammarkhazal/' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='linkedin' className={styles.linkedIn} />
-              </a>
-            </p>
-          </Grid.Column>
-          <Grid.Column width={2}>
-            <Image src={KashDadhich} size='medium' />
-            <p>
-              <span className={styles.p}>
-                Kash Dadhich
-              </span>
-              <br />
-              Social Media &amp; Communications Officer
-              <br />
-              <a href='mailto:aakash@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='mail' color='green' />
-              </a>
-              <a href='https://twitter.com/kashdadhich' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='twitter' className={styles.twitter} />
-              </a>
-              <a href='https://www.linkedin.com/in/aakash-dadhich-5a3706131/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
               </a>
             </p>
