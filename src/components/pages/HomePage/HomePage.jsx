@@ -198,6 +198,20 @@ const HomePage = () => (
               </a>
             </p>
           </Grid.Column>
+          <Grid.Column width={2}>
+            <Image src={ZainAli} size='medium' />
+            <p>
+              <span className={styles.p}>
+                Zain Ali
+              </span>
+              <br />
+              Graphics Officer
+              <br />
+              <a href='mailto:zain@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='mail' color='green' />
+              </a>
+            </p>
+          </Grid.Column>
         </Grid.Row>
       </Grid>
     </Segment>
