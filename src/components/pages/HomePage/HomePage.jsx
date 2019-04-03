@@ -10,11 +10,10 @@ import { Segment,
 
 import backgroundImage from 'resources/background.jpg';
 import AaronOsher from 'resources/team/AaronOsher.jpg';
-import AmmarKhazal from 'resources/team/AmmarKhazal.jpeg';
 import PrimozFabiani from 'resources/team/PrimozFabiani.png';
 import JohnMercer from 'resources/team/JohnMercer.jpg';
 import DanielCordell from 'resources/team/DanielCordell.jpg';
-import KashDadhich from 'resources/team/KashDadhich.jpg';
+import ZainAli from 'resources/team/ZainAli.jpg';
 
 import { ResponsiveContainer } from '../../Containers';
 import HomePageHeading from './HomePageHeading';
