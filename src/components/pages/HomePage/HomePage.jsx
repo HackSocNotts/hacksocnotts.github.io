@@ -178,7 +178,7 @@ const HomePage = () => (
           </Grid.Column>
         </Grid.Row>
         <Grid.Row>
-        <Grid.Column width={2}>
+           <Grid.Column width={2}>
             <Image src={HaniMomeninia} size='medium' />
             <p>
               <span className={styles.p}>
