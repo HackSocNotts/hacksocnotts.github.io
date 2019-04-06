@@ -14,6 +14,7 @@ import PrimozFabiani from 'resources/team/PrimozFabiani.png';
 import JohnMercer from 'resources/team/JohnMercer.jpg';
 import DanielCordell from 'resources/team/DanielCordell.jpg';
 import ZainAli from 'resources/team/ZainAli.jpg';
+import HaniMomeninia from 'resources/team/HaniMomeninia.jpeg';
 
 import { ResponsiveContainer } from '../../Containers';
 import HomePageHeading from './HomePageHeading';
@@ -177,6 +178,26 @@ const HomePage = () => (
           </Grid.Column>
         </Grid.Row>
         <Grid.Row>
+          <Grid.Column width={2}>
+            <Image src={HaniMomeninia} size='medium' />
+            <p>
+              <span className={styles.p}>
+                Hani Momeninia
+              </span>
+              <br />
+              Cyber Security Secretary
+              <br />
+              <a href='mailto:hani@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='mail' color='green' />
+              </a>
+              <a href='https://twitter.com/Hani_Momeninia' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='twitter' className={styles.twitter} />
+              </a>
+              <a href='https://www.linkedin.com/in/hanimomeninia/' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='linkedin' className={styles.linkedIn} />
+              </a>
+            </p>
+          </Grid.Column>
           <Grid.Column width={2}>
             <Image src={DanielCordell} size='medium' />
             <p>
