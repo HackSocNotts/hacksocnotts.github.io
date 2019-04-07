@@ -15,6 +15,7 @@ import PrimozFabiani from 'resources/team/PrimozFabiani.png';
 import JohnMercer from 'resources/team/JohnMercer.jpg';
 import DanielCordell from 'resources/team/DanielCordell.jpg';
 import KashDadhich from 'resources/team/KashDadhich.jpg';
+import SamuelKing from 'resources/team/SamuelKing.jpeg'
 
 import { ResponsiveContainer } from '../../Containers';
 import HomePageHeading from './HomePageHeading';
@@ -197,23 +198,23 @@ const HomePage = () => (
             </p>
           </Grid.Column>
           <Grid.Column width={2}>
-            <Image src={AmmarKhazal} size='medium' />
+            <Image src={SamuelKing} size='medium' />
             <p>
               <span className={styles.p}>
-                Ammar Khazal
+                SamuelKing
               </span>
               <br />
-              Outreach and Inclusivity Secretary
+              Speaker Acquisition Secretary
               <br />
-              <a href='mailto:ammar@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+              <a href='mailto:samuel@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
               </a>
-              {/* <a href='https://twitter.com/' target='_blank' rel='noopener noreferrer'>
+              <a href='https://twitter.com/King_of_Sams_' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='twitter' className={styles.twitter} />
-              </a> */}
-              <a href='https://www.linkedin.com/in/ammarkhazal/' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='linkedin' className={styles.linkedIn} />
               </a>
+              {/*<a href='https://www.linkedin.com/in/' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='linkedin' className={styles.linkedIn} />
+              </a>*/}
             </p>
           </Grid.Column>
           <Grid.Column width={2}>
