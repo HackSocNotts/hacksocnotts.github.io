@@ -1,0 +1,1 @@
+Take a break from your disertation writing, or appreciate your lack of coursework and join us for April's Edition of Tech Notingham with talks by  Tessa Cooper and Aimee Gamble-Milner.
