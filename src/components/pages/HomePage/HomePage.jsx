@@ -10,12 +10,12 @@ import { Segment,
 
 import backgroundImage from 'resources/background.jpg';
 import AaronOsher from 'resources/team/AaronOsher.jpg';
-import AmmarKhazal from 'resources/team/AmmarKhazal.jpeg';
 import PrimozFabiani from 'resources/team/PrimozFabiani.png';
 import JohnMercer from 'resources/team/JohnMercer.jpg';
 import DanielCordell from 'resources/team/DanielCordell.jpg';
-import KashDadhich from 'resources/team/KashDadhich.jpg';
-import SamuelKing from 'resources/team/SamuelKing.jpeg'
+import SamuelKing from 'resources/team/SamuelKing.jpeg';
+import ZainAli from 'resources/team/ZainAli.jpg';
+import HaniMomeninia from 'resources/team/HaniMomeninia.jpeg';
 
 import { ResponsiveContainer } from '../../Containers';
 import HomePageHeading from './HomePageHeading';
@@ -177,22 +177,24 @@ const HomePage = () => (
               </a>
             </p>
           </Grid.Column>
+        </Grid.Row>
+        <Grid.Row>
           <Grid.Column width={2}>
-            <Image src={DanielCordell} size='medium' />
+            <Image src={HaniMomeninia} size='medium' />
             <p>
               <span className={styles.p}>
-                Daniel Cordell
+                Hani Momeninia
               </span>
               <br />
-              Dev Officer
+              Cyber Security Secretary
               <br />
-              <a href='mailto:daniel@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+              <a href='mailto:hani@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
               </a>
-              <a href='https://twitter.com/crdlpls' target='_blank' rel='noopener noreferrer'>
+              <a href='https://twitter.com/Hani_Momeninia' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='twitter' className={styles.twitter} />
               </a>
-              <a href='https://www.linkedin.com/in/daniel-cordell/' target='_blank' rel='noopener noreferrer'>
+              <a href='https://www.linkedin.com/in/hanimomeninia/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
               </a>
             </p>
@@ -218,22 +220,39 @@ const HomePage = () => (
             </p>
           </Grid.Column>
           <Grid.Column width={2}>
-            <Image src={KashDadhich} size='medium' />
+            <Image src={DanielCordell} size='medium' />
             <p>
               <span className={styles.p}>
-                Kash Dadhich
+                Daniel Cordell
               </span>
               <br />
-              Social Media &amp; Communications Officer
+              Dev Officer
               <br />
-              <a href='mailto:aakash@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+              <a href='mailto:daniel@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
               </a>
-              <a href='https://twitter.com/kashdadhich' target='_blank' rel='noopener noreferrer'>
+              <a href='https://twitter.com/crdlpls' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='twitter' className={styles.twitter} />
               </a>
-              <a href='https://www.linkedin.com/in/aakash-dadhich-5a3706131/' target='_blank' rel='noopener noreferrer'>
+              <a href='https://www.linkedin.com/in/daniel-cordell/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
+              </a>
+              {/*<a href='https://www.linkedin.com/in/' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='linkedin' className={styles.linkedIn} />
+              </a>*/}
+            </p>
+          </Grid.Column>
+          <Grid.Column width={2}>
+            <Image src={ZainAli} size='medium' />
+            <p>
+              <span className={styles.p}>
+                Zain Ali
+              </span>
+              <br />
+              Graphics Officer
+              <br />
+              <a href='mailto:zain@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='mail' color='green' />
               </a>
             </p>
           </Grid.Column>
