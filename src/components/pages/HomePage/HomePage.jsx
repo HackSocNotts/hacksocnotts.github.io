@@ -16,6 +16,7 @@ import DanielCordell from 'resources/team/DanielCordell.jpg';
 import ZainAli from 'resources/team/ZainAli.jpg';
 import HaniMomeninia from 'resources/team/HaniMomeninia.jpeg';
 import SamuelKing from 'resources/team/SamuelKing.jpeg';
+import TaraDilley from 'resources/team/TaraDilley.jpg';
 
 import { ResponsiveContainer } from '../../Containers';
 import HomePageHeading from './HomePageHeading';
@@ -216,6 +217,20 @@ const HomePage = () => (
               </a>
               <a href='https://www.linkedin.com/in/samuel-king-564514184/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
+              </a>
+            </p>
+          </Grid.Column>
+          <Grid.Column>
+            <Image src={TaraDilley} size='medium' />
+            <p>
+              <span className={styles.p}>
+                Tara Dilley
+              </span>
+              <br />
+                Welfare and Inclusivity Secretary
+              <br />
+              <a href='mailto:tara@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='mail' color='green' />
               </a>
             </p>
           </Grid.Column>
