@@ -15,7 +15,7 @@ import JohnMercer from 'resources/team/JohnMercer.jpg';
 import DanielCordell from 'resources/team/DanielCordell.jpg';
 import ZainAli from 'resources/team/ZainAli.jpg';
 import HaniMomeninia from 'resources/team/HaniMomeninia.jpeg';
-import SamuelKing from 'resources/team/SamuelKing.jpeg'
+import SamuelKing from 'resources/team/SamuelKing.jpeg';
 
 import { ResponsiveContainer } from '../../Containers';
 import HomePageHeading from './HomePageHeading';
@@ -253,7 +253,6 @@ const HomePage = () => (
               </a>
             </p>
           </Grid.Column>
-         
         </Grid.Row>
       </Grid>
     </Segment>
