@@ -1,0 +1,9 @@
+- id: browser-security-mark-goodwin
+  name: Building and Breaking with Mark Goodwin
+  start: '2019-04-04 18:30:00'
+  end: '2019-04-04 20:00:00'
+  location: C60 Seminar Room
+  mapLink: https://www.google.co.uk/maps/place/School+of+Computer+Science/@52.9533603,-1.1892748,17.15z/data=!4m5!3m4!1s0x4879c209bfffffff:0xaf426646771a25ac!8m2!3d52.953357!4d-1.18736
+  summary: browser-security-mark-goodwin/summary.md
+  description: browser-security-mark-goodwin/description.md
+  banner: browser-security-mark-goodwin/banner.jpg

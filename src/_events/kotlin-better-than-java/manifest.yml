@@ -1,0 +1,18 @@
+- id: kotlin-better-than-java-1
+  name: Kotlin > Java (1)
+  start: '2019-02-14 18:30:00'
+  end: '2019-02-14 20:00:00'
+  location: A32 - Ada Lovelace Lab
+  mapLink: https://www.google.co.uk/maps/place/School+of+Computer+Science/@52.9533603,-1.1892748,17.15z/data=!4m5!3m4!1s0x4879c209bfffffff:0xaf426646771a25ac!8m2!3d52.953357!4d-1.18736
+  summary: kotlin-better-than-java/summary.md
+  description: kotlin-better-than-java/description.md
+  banner: kotlin-better-than-java/banner.jpg
+- id: kotlin-better-than-java-2
+  name: Kotlin > Java (2)
+  start: '2019-02-21 18:30:00'
+  end: '2019-02-21 20:00:00'
+  location: A32 - Ada Lovelace Lab
+  mapLink: https://www.google.co.uk/maps/place/School+of+Computer+Science/@52.9533603,-1.1892748,17.15z/data=!4m5!3m4!1s0x4879c209bfffffff:0xaf426646771a25ac!8m2!3d52.953357!4d-1.18736
+  summary: kotlin-better-than-java/summary.md
+  description: kotlin-better-than-java/description.md
+  banner: kotlin-better-than-java/banner.jpg
