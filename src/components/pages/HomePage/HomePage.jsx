@@ -15,6 +15,7 @@ import JohnMercer from 'resources/team/JohnMercer.jpg';
 import DanielCordell from 'resources/team/DanielCordell.jpg';
 import ZainAli from 'resources/team/ZainAli.jpg';
 import HaniMomeninia from 'resources/team/HaniMomeninia.jpeg';
+import SamuelKing from 'resources/team/SamuelKing.jpeg';
 import TaraDilley from 'resources/team/TaraDilley.jpg';
 
 import { ResponsiveContainer } from '../../Containers';
@@ -200,6 +201,26 @@ const HomePage = () => (
             </p>
           </Grid.Column>
           <Grid.Column width={2}>
+            <Image src={SamuelKing} size='medium' />
+            <p>
+              <span className={styles.p}>
+                Samuel King
+              </span>
+              <br />
+              Speaker Acquisition Secretary
+              <br />
+              <a href='mailto:samuel@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='mail' color='green' />
+              </a>
+              <a href='https://twitter.com/King_of_Sams_' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='twitter' className={styles.twitter} />
+              </a>
+              <a href='https://www.linkedin.com/in/samuel-king-564514184/' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='linkedin' className={styles.linkedIn} />
+              </a>
+            </p>
+          </Grid.Column>
+          <Grid.Column>
             <Image src={TaraDilley} size='medium' />
             <p>
               <span className={styles.p}>
