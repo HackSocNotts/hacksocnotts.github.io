@@ -220,7 +220,7 @@ const HomePage = () => (
               </a>
             </p>
           </Grid.Column>
-          <Grid.Column>
+          <Grid.Column width={2}>
             <Image src={TaraDilley} size='medium' />
             <p>
               <span className={styles.p}>
