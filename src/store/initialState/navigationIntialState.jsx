@@ -36,9 +36,10 @@ const navigationInitialState = {
   rightItems: [
     {
       as: 'a',
-      content: 'Marings',
+      content: 'margins',
       href: 'https://margins.tech',
       key: 'margins',
+      icon: 'users',
       target: '_blank',
       rel: 'noopener noreferrer',
       className: 'ui purple',

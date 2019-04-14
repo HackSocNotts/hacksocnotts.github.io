@@ -96,10 +96,12 @@ const HomePage = () => (
           </Grid.Column>
           <Grid.Column className={styles.flagshipGrid}>
             <Header as='h3' className={styles.h3}>
-              Margins
+              margins
             </Header>
             <p className={styles.p}>
-              Margins Conference, the successor to WiT and inspireWiT is a technology-focused day for marginalised groups and all gender minorities—inspiring everyone!
+              margins, the successor to Women in Tech and inspireWiT,  is a free one-day conference
+              for people from marginalised backgrounds that work in/with/around technology (or hope
+              to break into the industry!).
             </p>
           </Grid.Column>
         </Grid.Row>
