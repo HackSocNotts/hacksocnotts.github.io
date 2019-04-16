@@ -91,7 +91,7 @@ const HomePage = () => (
             </Header>
             <p className={styles.p}>
               HackNotts is a 24 hour hackathon at the University of Nottingham, in
-              England. Over 150 students will team up to learn about tech and create cool stuff. 
+              England. Over 150 students will team up to learn about tech and create cool stuff.
               Learn more about it&nbsp;
               <a href='https://hacknotts.com' target='_blank' rel='noopener noreferrer'>
                 here
