@@ -91,7 +91,12 @@ const HomePage = () => (
             </Header>
             <p className={styles.p}>
               HackNotts is a 24 hour hackathon at the University of Nottingham, in
-              England. Over 150 students will team up to learn about tech and create cool stuff. Learn more about it <a href='https://hacknotts.com' target='_blank' rel='noopener noreferrer'>here</a>.
+              England. Over 150 students will team up to learn about tech and create cool stuff. 
+              Learn more about it&nbsp;
+              <a href='https://hacknotts.com' target='_blank' rel='noopener noreferrer'>
+                here
+              </a>
+              .
             </p>
           </Grid.Column>
           <Grid.Column className={styles.flagshipGrid}>
@@ -101,7 +106,11 @@ const HomePage = () => (
             <p className={styles.p}>
               margins, the successor to Women in Tech and inspireWiT,  is a free one-day conference
               for people from marginalised backgrounds that work in/with/around technology (or hope
-              to break into the industry!). Learn more about it <a href='https://margins.tech' target='_blank' rel='noopener noreferrer'>here</a>.
+              to break into the industry!). Learn more about it&nbsp;
+              <a href='https://margins.tech' target='_blank' rel='noopener noreferrer'>
+                here
+              </a>
+              .
             </p>
           </Grid.Column>
         </Grid.Row>
