@@ -232,6 +232,9 @@ const HomePage = () => (
               <a href='mailto:tara@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
               </a>
+              <a href='https://twitter.com/tara_dilley' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='twitter' className={styles.twitter} />
+              </a>
             </p>
           </Grid.Column>
           <Grid.Column width={2}>
