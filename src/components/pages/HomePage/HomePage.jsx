@@ -156,9 +156,9 @@ const HomePage = () => (
               {/* <a href='https://twitter.com/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='twitter' className={styles.twitter} />
               </a> */}
-              {/* <a href='https://linkedin.com/in/' target='_blank' rel='noopener noreferrer'>
+              <a href='https://www.linkedin.com/in/primoz-fabiani-095121186' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
-              </a> */}
+              </a>
             </p>
           </Grid.Column>
           <Grid.Column width={2}>
