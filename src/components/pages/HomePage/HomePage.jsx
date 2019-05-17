@@ -17,6 +17,7 @@ import ZainAli from 'resources/team/ZainAli.jpg';
 import HaniMomeninia from 'resources/team/HaniMomeninia.jpeg';
 import SamuelKing from 'resources/team/SamuelKing.jpeg';
 import TaraDilley from 'resources/team/TaraDilley.jpg';
+import MiaMukherjee from 'resources/team/MiaMukherjee.jpg';
 
 import { ResponsiveContainer } from '../../Containers';
 import HomePageHeading from './HomePageHeading';
@@ -234,6 +235,26 @@ const HomePage = () => (
               </a>
               <a href='https://twitter.com/tara_dilley' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='twitter' className={styles.twitter} />
+              </a>
+            </p>
+          </Grid.Column>
+          <Grid.Column width={2}>
+            <Image src={MiaMukherjee} size='medium' />
+            <p>
+              <span className={styles.p}>
+                Mia Mukherjee
+              </span>
+              <br />
+              Social Media and Communications Officer
+              <br />
+              <a href='mailto:mia@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='mail' color='green' />
+              </a>
+              <a href='https://twitter.com/Lepidora_' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='twitter' className={styles.twitter} />
+              </a>
+              <a href='https://www.linkedin.com/in/mia-mukherjee-a7058b156/' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='linkedin' className={styles.linkedIn} />
               </a>
             </p>
           </Grid.Column>
