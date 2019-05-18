@@ -311,7 +311,7 @@ const HomePage = () => (
             <Image src={OctavianSalagean} size='medium' />
             <p>
               <span className={styles.p}>
-                Octavian &quot;Vlad&quot; Salagean
+                Octavian V. Salagean
               </span>
               <br />
               HackNotts Head of Finance
