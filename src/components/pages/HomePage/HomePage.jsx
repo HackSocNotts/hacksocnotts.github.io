@@ -18,6 +18,9 @@ import HaniMomeninia from 'resources/team/HaniMomeninia.jpeg';
 import SamuelKing from 'resources/team/SamuelKing.jpeg';
 import TaraDilley from 'resources/team/TaraDilley.jpg';
 import MiaMukherjee from 'resources/team/MiaMukherjee.jpg';
+import AlexanderDewfall from 'resources/team/AlexanderDewfall.jpg';
+import ViktoriaPopovici from 'resources/team/ViktoriaPopovici.jpg';
+import OctavianSalagean from 'resources/team/OctavianSalagean.jpg';
 
 import { ResponsiveContainer } from '../../Containers';
 import HomePageHeading from './HomePageHeading';
@@ -268,6 +271,8 @@ const HomePage = () => (
               </a>
             </p>
           </Grid.Column>
+        </Grid.Row>
+        <Grid.Row>
           <Grid.Column width={2}>
             <Image src={DanielCordell} size='medium' />
             <p>
@@ -299,6 +304,66 @@ const HomePage = () => (
               <br />
               <a href='mailto:zain@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
+              </a>
+            </p>
+          </Grid.Column>
+          <Grid.Column width={2}>
+            <Image src={OctavianSalagean} size='medium' />
+            <p>
+              <span className={styles.p}>
+                Octavian "Vlad" Salagean
+              </span>
+              <br />
+              HackNotts Head of Finance
+              <br />
+              <a href='mailto:octavian@hacknotts.com' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='mail' color='green' />
+              </a>
+              <a href='https://twitter.com/therebelliovs' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='twitter' className={styles.twitter} />
+              </a>
+              <a href='https://linkedin.com/in/rebelliovs' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='linkedin' className={styles.linkedIn} />
+              </a>
+            </p>
+          </Grid.Column>
+          <Grid.Column width={2}>
+            <Image src={ViktoriaPopovici} size='medium' />
+            <p>
+              <span className={styles.p}>
+                Viktoria Popovici
+              </span>
+              <br />
+              HackNotts Head of Logistics
+              <br />
+              <a href='mailto:viktoria@hacknotts.com' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='mail' color='green' />
+              </a>
+              <a href='https://twitter.com/viki_popovici' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='twitter' className={styles.twitter} />
+              </a>
+              <a href='https://linkedin.com/in/viktoriapopovici' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='linkedin' className={styles.linkedIn} />
+              </a>
+            </p>
+          </Grid.Column>
+          <Grid.Column width={2}>
+            <Image src={AlexanderDewfall} size='medium' />
+            <p>
+              <span className={styles.p}>
+                Alexander Dewfall
+              </span>
+              <br />
+              HackNotts Head of Human Resources
+              <br />
+              <a href='mailto:alexander@hacknotts.com' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='mail' color='green' />
+              </a>
+              <a href='https://twitter.com/AcAksan' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='twitter' className={styles.twitter} />
+              </a>
+              <a href='https://linkedin.com/in/alexander-dewfall-0ab3ba173' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='linkedin' className={styles.linkedIn} />
               </a>
             </p>
           </Grid.Column>
