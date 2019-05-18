@@ -10,7 +10,8 @@
     "build:analyze": "cross-env ANALYZE=true node scripts/build.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "ics": "node scripts/generateICS.js"
+    "ics": "node scripts/generateICS.js",
+    "lint": "node_modules/.bin/eslint ./src/ --ext .js,.jsx"
   },
   "dependencies": {
     "babel-eslint": "^8.2.6",
