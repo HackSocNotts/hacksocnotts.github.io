@@ -10,12 +10,12 @@ import { Segment,
 
 import backgroundImage from 'resources/background.jpg';
 import AaronOsher from 'resources/team/AaronOsher.jpg';
-import PrimozFabiani from 'resources/team/PrimozFabiani.png';
+import PrimozFabiani from 'resources/team/PrimozFabiani.jpg';
 import JohnMercer from 'resources/team/JohnMercer.jpg';
 import DanielCordell from 'resources/team/DanielCordell.jpg';
 import ZainAli from 'resources/team/ZainAli.jpg';
 import HaniMomeninia from 'resources/team/HaniMomeninia.jpeg';
-import SamuelKing from 'resources/team/SamuelKing.jpeg';
+import SamuelKing from 'resources/team/SamuelKing.jpg';
 import TaraDilley from 'resources/team/TaraDilley.jpg';
 import MiaMukherjee from 'resources/team/MiaMukherjee.jpg';
 import AlexanderDewfall from 'resources/team/AlexanderDewfall.jpg';
