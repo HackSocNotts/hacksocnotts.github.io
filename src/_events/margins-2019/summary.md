@@ -1,1 +1,1 @@
-margins is a free one-day conference for people from marginalised backgrounds that work in/with/around technology (or hope to break into the industry!).
+[margins](https://margins.tech) is a free one-day conference for people from marginalised backgrounds that work in/with/around technology (or hope to break into the industry!).
