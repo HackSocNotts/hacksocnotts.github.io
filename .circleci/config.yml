@@ -13,7 +13,7 @@ jobs:
     steps:
       - add_ssh_keys:
           fingerprints:
-            - "22:11:35:49:bc:d1:17:04:28:64:4e:47:58:e6:c6:23"
+            - "5e:1e:3e:ba:ab:53:9a:a2:45:e7:f7:e8:8a:76:23:19"
       - checkout
       # Download and cache dependencies
       - restore_cache:
