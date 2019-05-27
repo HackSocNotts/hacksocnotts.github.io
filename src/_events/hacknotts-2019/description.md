@@ -6,7 +6,7 @@ A [hackathon](https://en.wikipedia.org/wiki/Hackathon) is a collaborative progra
 
 ## What's HackNotts?
 
-[HackNotts](https://hacknotts.com) is our annual hackathon, hosted in the School of Computer Science on Jubilee Campus. This year, the event will be running over the weekend of the 24th and 25th of November, with the opening presentations starting some time around 11am on the Saturday, and the closing presentation will be early in the evening on the Sunday.
+[HackNotts](https://hacknotts.com) is our annual hackathon, hosted in the School of Computer Science on Jubilee Campus. This year, the event will be running over the weekend of the 16th and 17th of November, with the opening presentations starting some time around 11am on the Saturday, and the closing presentation will be early in the evening on the Sunday.
 
 ## Who can attend?
 
