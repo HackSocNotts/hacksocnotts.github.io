@@ -46,13 +46,13 @@ class DesktopContainer extends Component {
     const segmentStyles = {};
     if (background.image) {
       segmentStyles.background = `linear-gradient(${background.overlay}, ${background.overlay}),
-      url(${background.image}) no-repeat`;
+      url(${background.image}) center / cover no-repeat`;
     }
     if (background.fullHeight) {
-      segmentStyles.minHeight = window.innerHeight;
+      segmentStyles.minHeight = `100vh`;
     }
     if (background.halfHeight) {
-      segmentStyles.minHeight = window.innerHeight / 2;
+      segmentStyles.minHeight = `50vh`;
     }
 
     return (
