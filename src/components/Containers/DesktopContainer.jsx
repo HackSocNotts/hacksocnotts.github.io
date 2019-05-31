@@ -49,10 +49,10 @@ class DesktopContainer extends Component {
       url(${background.image}) center / cover no-repeat`;
     }
     if (background.fullHeight) {
-      segmentStyles.minHeight = `100vh`;
+      segmentStyles.minHeight = '100vh';
     }
     if (background.halfHeight) {
-      segmentStyles.minHeight = `50vh`;
+      segmentStyles.minHeight = '50vh';
     }
 
     return (
