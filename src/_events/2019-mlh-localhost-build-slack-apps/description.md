@@ -7,5 +7,4 @@ Slack is a tool that helps teams at work collaborate more effectively. Slack off
 ## What will you build?
 In this workshop, participants will build a Two Truths and a Lie app for their Slack organization using Node.js, Glitch, and the Slack API!
 
-
 Learn more about **MLH Localhost** at https://mlhlocal.host
