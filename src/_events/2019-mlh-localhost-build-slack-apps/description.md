@@ -1,10 +1,11 @@
 ## About this Workshop
-During this workshop, you’ll learn the structure and syntax of basic HTML and CSS. You will receive a skeleton of a portfolio website and will update the HTML to include information about yourself and edit the CSS to style and position elements on the page! Then, they’ll deploy your new website.
+During this workshop, you’ll learn the basics of building apps for the Slack ecosystem!
 
-## HTML & CSS
-HTML is the skeleton of every website on the internet and nearly all websites use CSS for styling. Learning HTML and CSS is the first step toward building a personal website, becoming more technically fluent, or beginning a career in web development or design!
+## Build a Slack App
+Slack is a tool that helps teams at work collaborate more effectively. Slack offers APIs that enable developers to build apps that extend Slack’s functionality, like integrating with other software or building custom workflows for your team. In this workshop, you’ll learn how to build a Slack app that uses interactive features like buttons, menus, and actions to help your team get work done and be able to install it on your own workspace.
 
-## Deployment
-While learning to edit HTML elements and CSS properties is an important first step toward making a website, there are more steps to getting a website publicly available on the internet. In this workshop, participants will use a simple deployment tool to get their website live before they leave!
+## What will you build?
+In this workshop, participants will build a Two Truths and a Lie app for their Slack organization using Node.js, Glitch, and the Slack API!
+
 
 Learn more about **MLH Localhost** at https://mlhlocal.host
