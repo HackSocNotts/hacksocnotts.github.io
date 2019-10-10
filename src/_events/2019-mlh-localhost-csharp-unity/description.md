@@ -1,7 +1,7 @@
 ##About this Workshop
 In this workshop, you will interact with a 3D car racing game written in C# and developed using the Unity Game Engine. You will learn how to set up the Unity Engine on their computers, explore the project files, fix broken functions in the game, and publish their games for others to play!
 
-##Scripting in C Sharp
+##Scripting in C#
 C# is one of the most popular languages for game development. Guide participants through a basic introduction to syntax and structure in C# and watch them fix a broken game!
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1200px-Unity_Technologies_logo.svg.png' style='width: 400px'>
