@@ -12,12 +12,6 @@ const isDev = process.env.NODE_ENV === 'development'
 const shouldUseRelativeAssetPaths = paths.servedPath === './'
 // Options for autoPrefixer
 const autoprefixerOptions = {
-  browsers: [
-    '>1%',
-    'last 4 versions',
-    'Firefox ESR',
-    'not ie < 9', // React doesn't support IE8 anyway
-  ],
   flexbox: 'no-2009',
 }
 // Note: defined here because it will be used more than once.
@@ -181,7 +175,7 @@ module.exports = {
           }
         ]
       },
-      { 
+      {
         test: /\.css$/,
         loader: "style-loader!css-loader"
       },
