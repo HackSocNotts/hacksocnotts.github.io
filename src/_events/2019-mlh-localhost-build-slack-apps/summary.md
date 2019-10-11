@@ -1,0 +1,1 @@
+During this workshop, you’ll learn the basics of building apps for the Slack ecosystem!

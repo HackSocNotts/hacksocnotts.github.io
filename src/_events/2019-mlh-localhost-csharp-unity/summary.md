@@ -1,0 +1,1 @@
+Learn C#, become familiar with Unity Hub, and write code in a real racing game you can play with your friends!
