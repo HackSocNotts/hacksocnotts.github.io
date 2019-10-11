@@ -66,6 +66,7 @@ jobs:
             node_modules/.bin/gh-pages -d build
 
 workflows:
+  version: 2
   build_and_deploy:
     jobs:
       - build_and_report
