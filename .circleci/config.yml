@@ -3,13 +3,16 @@
 # Check https://circleci.com/docs/2.0/language-javascript/ for more details
 #
 version: 2
-jobs:
-  build:
+
+executors:
+  build-executor:
+    working_directory: ~/repo
     docker:
       - image: circleci/node:8.10.0
 
-    working_directory: ~/repo
-
+jobs:
+  build_and_report:
+    executor: build-executor
     steps:
       - add_ssh_keys:
           fingerprints:
@@ -27,9 +30,6 @@ jobs:
             - node_modules
           key: v1-dependencies-{{ checksum "package.json" }}
       - run: node_modules/.bin/lessc src/components/pages/CalendarPage/less/styles.less > src/components/pages/CalendarPage/styles.css
-      
-      - run: ls
-
       # ESLint
       - run:
           command: |
@@ -44,22 +44,35 @@ jobs:
       - store_test_results:
           path: ~/reports
       - store_artifacts:
-          path: ~/reports  
-
+          path: ~/reports
       # Build
       - run: yarn build
-      # - run: git config --global user.email $GH_EMAIL
-      # - run: git config --global user.name $GH_NAME
-      # Deploy
+      # Persist in case `gh_deploy` job needs current state
+      - persist_to_workspace:
+          root: ~/repo
+          paths:
+            - ./*
+
+  gh_deploy:
+    executor: build-executor
+    steps:
+      - attach_workspace:
+          at: ~/repo
       - deploy:
-          name: Deploy to GH_Pages if tests pass and branch is Master
+          name: Deploy to GH_Pages
           command:  |
-            if [ "${CIRCLE_BRANCH}" == "master" ]; then
-              git config --global user.email $GH_EMAIL
-              git config --global user.name $GH_NAME
-              node_modules/.bin/gh-pages -d build
-            else
-              echo "Not master branch so not deploying"
-            fi
+            git config --global user.email $GH_EMAIL
+            git config --global user.name $GH_NAME
+            node_modules/.bin/gh-pages -d build
 
-
+workflows:
+  build_and_deploy:
+    jobs:
+      - build_and_report
+      - gh_deploy:
+          requires:
+            - build_and_report
+          filters:
+            branches:
+              only:
+                - master
