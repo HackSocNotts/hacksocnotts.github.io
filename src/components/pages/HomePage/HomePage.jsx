@@ -122,7 +122,7 @@ const HomePage = () => (
         </Grid.Row>
       </Grid>
     </Segment>
-    <Segment className={styles.segment3} vertical>
+    <Segment className={styles.segment3} vertical id='team'>
       <Container text>
         <Header as='h3' className={styles.h3}>
           Our Team
