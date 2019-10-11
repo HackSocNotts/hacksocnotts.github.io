@@ -5,14 +5,14 @@
 version: 2
 
 executors:
-  build-executor:
+  build_executor:
     working_directory: ~/repo
     docker:
       - image: circleci/node:8.10.0
 
 jobs:
   build_and_report:
-    executor: build-executor
+    executor: build_executor
     steps:
       - add_ssh_keys:
           fingerprints:
@@ -54,7 +54,7 @@ jobs:
             - ./*
 
   gh_deploy:
-    executor: build-executor
+    executor: build_executor
     steps:
       - attach_workspace:
           at: ~/repo
