@@ -56,7 +56,7 @@ class DesktopContainer extends Component {
     }
 
     return (
-      <Responsive minWidth={Responsive.onlyTablet.minWidth}>
+      <Responsive minWidth={Responsive.onlyTablet.minWidth} className={styles.container}>
         <Visibility
           once={false}
           onBottomPassed={showFixedMenu}
