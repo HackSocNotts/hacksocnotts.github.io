@@ -46,7 +46,7 @@ class MobileContainer extends Component {
     }
 
     return (
-      <Responsive maxWidth={Responsive.onlyMobile.maxWidth}>
+      <Responsive maxWidth={Responsive.onlyMobile.maxWidth} className={styles.container}>
         <Sidebar.Pushable>
           <Sidebar
             as={Menu}
