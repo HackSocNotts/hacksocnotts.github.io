@@ -10,7 +10,7 @@ const Footer = () => (
   <Segment
     inverted
     vertical
-    className={styles.sgement}
+    className={styles.segment}
   >
     <Container>
       <Grid
