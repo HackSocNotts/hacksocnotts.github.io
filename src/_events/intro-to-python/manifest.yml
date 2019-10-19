@@ -7,6 +7,7 @@
   summary: intro-to-python/summary.md
   description: intro-to-python/description.md
   banner: intro-to-python/banner.jpg
+  bgColor: '#fb9b0c'
 - id: intro-to-python-2
   name: Intro to Python (2)
   start: '2018-10-09 18:30:00'
@@ -16,6 +17,7 @@
   summary: intro-to-python/summary.md
   description: intro-to-python/description.md
   banner: intro-to-python/banner.jpg
+  bgColor: '#fb9b0c'
 - id: intro-to-python-3
   name: Intro to Python (3)
   start: '2018-10-16 18:30:00'
@@ -25,6 +27,7 @@
   summary: intro-to-python/summary.md
   description: intro-to-python/description.md
   banner: intro-to-python/banner.jpg
+  bgColor: '#fb9b0c'
 - id: intro-to-python-4
   name: Intro to Python (4)
   start: '2018-10-23 18:30:00'
@@ -34,6 +37,7 @@
   summary: intro-to-python/summary.md
   description: intro-to-python/description.md
   banner: intro-to-python/banner.jpg
+  bgColor: '#fb9b0c'
 - id: intro-to-python-5
   name: Intro to Python (5)
   start: '2018-10-30 18:30:00'
@@ -43,3 +47,4 @@
   summary: intro-to-python/summary.md
   description: intro-to-python/description.md
   banner: intro-to-python/banner.jpg
+  bgColor: '#d46423'

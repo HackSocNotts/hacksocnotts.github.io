@@ -3,7 +3,6 @@ import * as eventsManifest from '_events/eventsManifest.json';
 
 const retrieveEvents = () => {
   const events = eventsManifest;
-
   const promises = events.map(async (event) => {
     try {
       const summary = await import(`../_events/${event.summary}`);

@@ -7,6 +7,7 @@
   summary: intro-to-javascript/summary.md
   description: intro-to-javascript/description.md
   banner: intro-to-javascript/banner.jpg
+  bgColor: '#fb9b0c'
 - id: intro-to-javascript-2
   name: Intro to JavaScript (2)
   start: '2018-11-13 18:30:00'
@@ -16,6 +17,7 @@
   summary: intro-to-javascript/summary.md
   description: intro-to-javascript/description.md
   banner: intro-to-javascript/banner.jpg
+  bgColor: '#fb9b0c'
 - id: intro-to-javascript-3
   name: Intro to JavaScript (3)
   start: '2018-11-27 18:30:00'
@@ -25,6 +27,7 @@
   summary: intro-to-javascript/summary.md
   description: intro-to-javascript/description.md
   banner: intro-to-javascript/banner.jpg
+  bgColor: '#fb9b0c'
 - id: intro-to-javascript-4
   name: Intro to JavaScript (4)
   start: '2018-12-04 18:30:00'
@@ -34,6 +37,7 @@
   summary: intro-to-javascript/summary.md
   description: intro-to-javascript/description.md
   banner: intro-to-javascript/banner.jpg
+  bgColor: '#fb9b0c'
 - id: intro-to-javascript-5
   name: TBD Intro to JavaScript (5)
   start: '2018-12-11 18:30:00'
@@ -43,3 +47,4 @@
   summary: intro-to-javascript/summary.md
   description: intro-to-javascript/description.md
   banner: intro-to-javascript/banner.jpg
+  bgColor: '#d46423'

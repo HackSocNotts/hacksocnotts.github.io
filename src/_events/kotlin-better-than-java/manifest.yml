@@ -7,6 +7,7 @@
   summary: kotlin-better-than-java/summary.md
   description: kotlin-better-than-java/description.md
   banner: kotlin-better-than-java/banner.jpg
+  bgColor: '#de4d89'
 - id: kotlin-better-than-java-2
   name: Kotlin > Java (2)
   start: '2019-02-21 18:30:00'
@@ -16,3 +17,4 @@
   summary: kotlin-better-than-java/summary.md
   description: kotlin-better-than-java/description.md
   banner: kotlin-better-than-java/banner.jpg
+  bgColor: '#de4d89'
