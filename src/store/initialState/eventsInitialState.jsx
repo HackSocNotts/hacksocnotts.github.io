@@ -10,9 +10,9 @@ const eventsInitialState = {
     summary: 'Loading...',
     description: 'Loading...',
     banner: 'Loading...',
-    bgcolor: '#56b446'
+    bgcolor: '#56b446',
   },
-  count: 0
+  count: 0,
 };
 
 export default eventsInitialState;

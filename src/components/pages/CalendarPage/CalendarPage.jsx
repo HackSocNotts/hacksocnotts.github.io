@@ -21,7 +21,7 @@ class CalendarPage extends Component {
   backgroundProp = {
     overlay: null,
     image: null,
-    fullHeight: false
+    fullHeight: false,
   };
 
   static getDerivedStateFromProps(nextProps) {
@@ -30,7 +30,7 @@ class CalendarPage extends Component {
       ...event,
       title: event.name,
       start: new Date(event.start),
-      end: new Date(event.end)
+      end: new Date(event.end),
     }));
     return { events: newEvents };
   }
@@ -39,7 +39,11 @@ class CalendarPage extends Component {
     <React.Fragment>
       <Popup
         key={event.id}
-        trigger={<strong>{event.title}</strong>}
+        trigger={(
+          <strong>
+            {event.title}
+          </strong>
+        )}
         header={event.title}
         content={event.summary && `${event.summary}`}
       />
@@ -54,22 +58,19 @@ class CalendarPage extends Component {
         heading={CalendarPageHeading}
         background={this.backgroundProp}
       >
-        <Container
-          style={{ height: window.innerHeight - 200 }}
-          className={styles.calendarContainer}
-        >
+        <Container style={{ height: (window.innerHeight - 200) }} className={styles.calendarContainer}>
           <BigCalendar
             events={events}
             defaultView={BigCalendar.Views.MONTH}
             onSelectEvent={event => router.history.push(`/event/${event.id}`)}
-            views={["month"]}
-            eventPropGetter={ event => ({
+            views={['month']}
+            eventPropGetter={event => ({
               style: {
-                backgroundColor: `${event.bgColor}` 
-              }
+                backgroundColor: `${event.bgColor}`,
+              },
             })}
             components={{
-              event: this.event
+              event: this.event,
             }}
           />
         </Container>
@@ -80,7 +81,7 @@ class CalendarPage extends Component {
 }
 
 CalendarPage.contextTypes = {
-  router: PropTypes.object.isRequired
+  router: PropTypes.object.isRequired,
 };
 
 CalendarPage.propTypes = {
@@ -92,14 +93,14 @@ CalendarPage.propTypes = {
       location: PropTypes.string,
       summary: PropTypes.string,
       description: PropTypes.string,
-      banner: PropTypes.any
-    })
-  )
+      banner: PropTypes.any,
+    }),
+  ),
 };
 
 /* eslint-disable arrow-body-style */
 const mapStateToProps = state => ({
-  events: state.events.items
+  events: state.events.items,
 });
 
 const mapDispatchToProps = () => ({});
@@ -107,5 +108,5 @@ const mapDispatchToProps = () => ({});
 
 export default connect(
   mapStateToProps,
-  mapDispatchToProps
+  mapDispatchToProps,
 )(CalendarPage);
