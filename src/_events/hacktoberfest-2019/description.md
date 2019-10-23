@@ -16,7 +16,7 @@ Hacktoberfest — brought to you by DigitalOcean in partnership with DigitalOcea
 
 Can't make it to this event? Hacktoberfest is virtual and open to participants from around the globe. [Sign up to participate today](https://hacktoberfest.digitalocean.com/).
 
-## Rules and Prizes
+## Rules
 
 First sign up on the Hacktoberfest site. If you open up four pull requests between October 1 and October 31, you'll win a free, limited edition Hacktoberfest T-shirt. (Pull requests do not have to be merged and accepted; as long as they've been opened between the very start of October 1 and the very end of October 31, they count towards a free T-shirt.)
   
