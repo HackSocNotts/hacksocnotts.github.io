@@ -1,14 +1,14 @@
 # Hacktoberfest Open Hack Day
 
-It's Hacktoberfest 2019! Let's celebrate open source over food, drinks, learning, and great company!
+It's Hacktoberfest 2019! Let's celebrate open source over snacks, drinks, learning, and great company!
 
 ## Agenda
 
-18:30 Welcome
-19:00 Intro to Hacktoberfest: the celebration, prizes, and instructions and Open Source
-19:30 Hack Time
-23:00 Demos
-00:00 End
+- 18:30 Welcome
+- 19:00 Intro to Hacktoberfest: the celebration, instructions and Open Source
+- 19:30 Hack Time
+- 23:00 Demos
+- 00:00 End
 
 ## What's Hacktoberfest?
 
