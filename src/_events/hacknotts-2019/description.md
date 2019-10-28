@@ -1,4 +1,4 @@
-**[HackNotts 2019](https://hacknotts.com) has been anounced! It'll be happening on 16th and 17th at the University of Nottingham**
+**[HackNotts 2019](https://hacknotts.com) has been announced! It'll be happening on 16th and 17th at the University of Nottingham**
 
 ## What's a hackathon?
 
