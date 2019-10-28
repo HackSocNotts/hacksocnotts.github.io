@@ -79,12 +79,7 @@ class EventPage extends Component {
           </p>
           <p className={styles.location}>
             {activeEvent.location}
-            <a
-              className={styles.locationMapLink}
-              href={activeEvent.mapLink}
-              target='_blank'
-              rel='noopener noreferrer'
-            >
+            <a className={styles.locationMapLink} href={activeEvent.mapLink} target='_blank' rel='noopener noreferrer'>
               &nbsp;(map)
             </a>
           </p>
@@ -115,18 +110,16 @@ EventPage.propTypes = {
     banner: PropTypes.string,
     bgColor: PropTypes.string,
   }).isRequired,
-  events: PropTypes.arrayOf(
-    PropTypes.shape({
-      name: PropTypes.string,
-      start: isMoment,
-      end: isMoment,
-      location: PropTypes.string,
-      summary: PropTypes.string,
-      description: PropTypes.string,
-      banner: PropTypes.string,
-      bgColor: PropTypes.string,
-    }),
-  ).isRequired,
+  events: PropTypes.arrayOf(PropTypes.shape({
+    name: PropTypes.string,
+    start: isMoment,
+    end: isMoment,
+    location: PropTypes.string,
+    summary: PropTypes.string,
+    description: PropTypes.string,
+    banner: PropTypes.string,
+    bgColor: PropTypes.string,
+  })).isRequired,
 };
 
 /* eslint-disable arrow-body-style */
@@ -144,7 +137,4 @@ const mapDispatchToProps = (dispatch) => {
 };
 /* eslint-enable */
 
-export default connect(
-  mapStateToProps,
-  mapDispatchToProps,
-)(EventPage);
+export default connect(mapStateToProps, mapDispatchToProps)(EventPage);

@@ -53,11 +53,9 @@ class CalendarPage extends Component {
   render() {
     const { events } = this.state;
     const { router } = this.context;
+
     return (
-      <ResponsiveContainer
-        heading={CalendarPageHeading}
-        background={this.backgroundProp}
-      >
+      <ResponsiveContainer heading={CalendarPageHeading} background={this.backgroundProp}>
         <Container style={{ height: (window.innerHeight - 200) }} className={styles.calendarContainer}>
           <BigCalendar
             events={events}
@@ -84,18 +82,17 @@ CalendarPage.contextTypes = {
   router: PropTypes.object.isRequired,
 };
 
+
 CalendarPage.propTypes = {
-  events: PropTypes.arrayOf(
-    PropTypes.shape({
-      name: PropTypes.string,
-      start: isMoment,
-      end: isMoment,
-      location: PropTypes.string,
-      summary: PropTypes.string,
-      description: PropTypes.string,
-      banner: PropTypes.any,
-    }),
-  ),
+  events: PropTypes.arrayOf(PropTypes.shape({
+    name: PropTypes.string,
+    start: isMoment,
+    end: isMoment,
+    location: PropTypes.string,
+    summary: PropTypes.string,
+    description: PropTypes.string,
+    banner: PropTypes.any,
+  })),
 };
 
 /* eslint-disable arrow-body-style */
@@ -106,7 +103,4 @@ const mapStateToProps = state => ({
 const mapDispatchToProps = () => ({});
 /* eslint-enable */
 
-export default connect(
-  mapStateToProps,
-  mapDispatchToProps,
-)(CalendarPage);
+export default connect(mapStateToProps, mapDispatchToProps)(CalendarPage);
