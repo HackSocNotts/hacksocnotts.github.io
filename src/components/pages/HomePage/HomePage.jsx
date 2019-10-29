@@ -19,6 +19,7 @@ import SamuelKing from 'resources/team/SamuelKing.jpg';
 import TaraDilley from 'resources/team/TaraDilley.jpg';
 import MiaMukherjee from 'resources/team/MiaMukherjee.jpg';
 import AlexanderDewfall from 'resources/team/AlexanderDewfall.jpg';
+import AlexanderDewfall2 from 'resources/team/AlexanderDewfall2.jpg';
 import ViktoriaPopovici from 'resources/team/ViktoriaPopovici.jpg';
 import OctavianSalagean from 'resources/team/OctavianSalagean.jpg';
 
@@ -156,6 +157,26 @@ const HomePage = () => (
             </p>
           </Grid.Column>
           <Grid.Column width={2}>
+            <Image src={AlexanderDewfall} size='medium' />
+            <p>
+              <span className={styles.p}>
+                Alexander Dewfall
+              </span>
+              <br />
+              Vice President
+              <br />
+              <a href='mailto:alexander@hacknotts.com' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='mail' color='green' />
+              </a>
+              <a href='https://twitter.com/AcAksan' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='twitter' className={styles.twitter} />
+              </a>
+              <a href='https://linkedin.com/in/alexander-dewfall-0ab3ba173' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='linkedin' className={styles.linkedIn} />
+              </a>
+            </p>
+          </Grid.Column>
+          <Grid.Column width={2}>
             <Image src={PrimozFabiani} size='medium' />
             <p>
               <span className={styles.p}>
@@ -252,7 +273,43 @@ const HomePage = () => (
             </p>
           </Grid.Column>
           <Grid.Column width={2}>
-            <Image src={MiaMukherjee} size='medium' />
+            <Image src={DanielCordell} size='medium' />
+            <p>
+              <span className={styles.p}>
+                Daniel Cordell
+              </span>
+              <br />
+              Development Secretary
+              <br />
+              <a href='mailto:daniel@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='mail' color='green' />
+              </a>
+              <a href='https://twitter.com/crdlpls' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='twitter' className={styles.twitter} />
+              </a>
+              <a href='https://www.linkedin.com/in/daniel-cordell/' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='linkedin' className={styles.linkedIn} />
+              </a>
+            </p>
+          </Grid.Column>
+        </Grid.Row>
+        <Grid.Row>
+          <Grid.Column width={2}>
+            <Image src={ZainAli} size='medium' />
+            <p>
+              <span className={styles.p}>
+                Zain Ali
+              </span>
+              <br />
+              Graphics Officer
+              <br />
+              <a href='mailto:zain@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='mail' color='green' />
+              </a>
+            </p>
+          </Grid.Column>
+          <Grid.Column width={2}>
+          <Image src={MiaMukherjee} size='medium' />
             <p>
               <span className={styles.p}>
                 Mia Mukherjee
@@ -268,42 +325,6 @@ const HomePage = () => (
               </a>
               <a href='https://www.linkedin.com/in/mia-mukherjee-a7058b156/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
-              </a>
-            </p>
-          </Grid.Column>
-        </Grid.Row>
-        <Grid.Row>
-          <Grid.Column width={2}>
-            <Image src={DanielCordell} size='medium' />
-            <p>
-              <span className={styles.p}>
-                Daniel Cordell
-              </span>
-              <br />
-              Dev Officer
-              <br />
-              <a href='mailto:daniel@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='mail' color='green' />
-              </a>
-              <a href='https://twitter.com/crdlpls' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='twitter' className={styles.twitter} />
-              </a>
-              <a href='https://www.linkedin.com/in/daniel-cordell/' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='linkedin' className={styles.linkedIn} />
-              </a>
-            </p>
-          </Grid.Column>
-          <Grid.Column width={2}>
-            <Image src={ZainAli} size='medium' />
-            <p>
-              <span className={styles.p}>
-                Zain Ali
-              </span>
-              <br />
-              Graphics Officer
-              <br />
-              <a href='mailto:zain@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='mail' color='green' />
               </a>
             </p>
           </Grid.Column>
@@ -348,7 +369,7 @@ const HomePage = () => (
             </p>
           </Grid.Column>
           <Grid.Column width={2}>
-            <Image src={AlexanderDewfall} size='medium' />
+            <Image src={AlexanderDewfall2} size='medium' />
             <p>
               <span className={styles.p}>
                 Alexander Dewfall
