@@ -330,7 +330,7 @@ const HomePage = () => (
             </p>
           </Grid.Column>
           <Grid.Column width={2}>
-          <Image src={MiaMukherjee} size='medium' />
+            <Image src={MiaMukherjee} size='medium' />
             <p>
               <span className={styles.p}>
                 Mia Mukherjee
