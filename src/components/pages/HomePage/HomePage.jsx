@@ -20,6 +20,7 @@ import TaraDilley from 'resources/team/TaraDilley.jpg';
 import MiaMukherjee from 'resources/team/MiaMukherjee.jpg';
 import AlexanderDewfall from 'resources/team/AlexanderDewfall.jpg';
 import AlexanderDewfall2 from 'resources/team/AlexanderDewfall2.jpg';
+import HannahLester from 'resources/team/HannahLester.jpg';
 import ViktoriaPopovici from 'resources/team/ViktoriaPopovici.jpg';
 import OctavianSalagean from 'resources/team/OctavianSalagean.jpg';
 
@@ -215,6 +216,26 @@ const HomePage = () => (
           </Grid.Column>
         </Grid.Row>
         <Grid.Row>
+          <Grid.Column width={2}>
+            <Image src={HannahLester} size='medium' />
+            <p>
+              <span className={styles.p}>
+                Hannah Lester
+              </span>
+              <br />
+              Partners Secretary
+              <br />
+              <a href='mailto:@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='mail' color='green' />
+              </a>
+              <a href='https://twitter.com/HanAthon' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='twitter' className={styles.twitter} />
+              </a>
+              <a href='https://www.linkedin.com/in/hannah-l-614202139/' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='linkedin' className={styles.linkedIn} />
+              </a>
+            </p>
+          </Grid.Column>
           <Grid.Column width={2}>
             <Image src={HaniMomeninia} size='medium' />
             <p>
