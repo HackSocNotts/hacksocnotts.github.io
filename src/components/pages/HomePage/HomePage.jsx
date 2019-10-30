@@ -225,7 +225,7 @@ const HomePage = () => (
               <br />
               Partners Secretary
               <br />
-              <a href='mailto:@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+              <a href='mailto:hannah@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
               </a>
               <a href='https://twitter.com/HanAthon' target='_blank' rel='noopener noreferrer'>
