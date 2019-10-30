@@ -166,7 +166,7 @@ const HomePage = () => (
               <br />
               Vice President
               <br />
-              <a href='mailto:alexander@hacknotts.com' target='_blank' rel='noopener noreferrer'>
+              <a href='mailto:alexander@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
               </a>
               <a href='https://twitter.com/AcAksan' target='_blank' rel='noopener noreferrer'>
