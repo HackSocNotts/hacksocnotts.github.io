@@ -161,7 +161,7 @@ const HomePage = () => (
             <Image src={AlexanderDewfall} size='medium' />
             <p>
               <span className={styles.p}>
-                Alexander Dewfall
+                Alexi Dewfall
               </span>
               <br />
               Vice President
