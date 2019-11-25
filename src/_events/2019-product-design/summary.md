@@ -1,0 +1,1 @@
+Join Vikram Chhapwale for an evening talk about product design in the tech industry. He'll be going over his experiences during his industrial placement, and discussing useful tips he picked up for anyone interested in design!
