@@ -1,0 +1,1 @@
+Join us for this year's edition of MLH's Local Hack Day - Build! Come along for a 12 hour mini-hackathon!
