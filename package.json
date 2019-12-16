@@ -21,7 +21,7 @@
     "eslint-plugin-import": "^2.13.0",
     "eslint-plugin-jsx-a11y": "^6.1.1",
     "eslint-plugin-mocha": "^5.1.0",
-    "eslint-plugin-react": "^7.10.0",
+    "eslint-plugin-react": "^7.17.0",
     "ics": "^2.10.0",
     "markdown-to-jsx": "^6.10.0",
     "moment": "^2.22.2",
