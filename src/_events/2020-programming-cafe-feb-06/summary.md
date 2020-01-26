@@ -1,0 +1,1 @@
+Come along to our regular **Programming Café**! Spend 90 minutes to show off your **personal projects**, work on **coursework**, **collaborate** and share ideas, do anything you want! 
