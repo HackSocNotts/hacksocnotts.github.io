@@ -1,7 +1,7 @@
 - id: 2020-retry-it-event
   name: Re/try it Event
-  start: '2020-09-30 19:00:00'
-  end: '2020-09-30 21:00:00'
+  start: '2020-01-30 19:00:00'
+  end: '2020-01-30 21:00:00'
   location: Business South - B52
   mapLink: https://goo.gl/maps/Xhttt5P44iHL3DJv7
   summary: 2020-retry-it-event/summary.md
