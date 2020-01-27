@@ -1,0 +1,1 @@
+Come Join us for a 90 minute workshop on some **modern web development** practices using **JavaScript**. We'll cover **Node.JS** with **express** web servers and some **React** with **WebPack** (via create-react-app).
