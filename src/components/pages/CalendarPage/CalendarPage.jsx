@@ -5,6 +5,7 @@ import { isMoment } from 'core/propTypes';
 import moment from 'moment';
 import BigCalendar from 'react-big-calendar';
 import { Container, Popup } from 'semantic-ui-react';
+import { compiler } from 'markdown-to-jsx';
 
 import CalendarPageHeading from './CalendarPageHeading';
 import { ResponsiveContainer } from '../../Containers';
@@ -45,7 +46,7 @@ class CalendarPage extends Component {
           </strong>
         )}
         header={event.title}
-        content={event.summary && `${event.summary}`}
+        content={event.summary ? compiler(event.summary) : ''}
       />
     </React.Fragment>
   );
