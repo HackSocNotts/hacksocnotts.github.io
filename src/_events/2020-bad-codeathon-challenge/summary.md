@@ -1,0 +1,1 @@
+Enjoy writing bad code? Come along to our Bad Code-Athon challenge and compete with your peers to write the worst code possible!
