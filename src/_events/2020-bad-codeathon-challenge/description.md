@@ -1,10 +1,7 @@
-## About this Workshop
-During this workshop, you’ll learn the basics of building apps for the Slack ecosystem!
+**The Bad Code-Athon Challenge!**
 
-## Build a Slack App
-Slack is a tool that helps teams at work collaborate more effectively. Slack offers APIs that enable developers to build apps that extend Slack’s functionality, like integrating with other software or building custom workflows for your team. In this workshop, you’ll learn how to build a Slack app that uses interactive features like buttons, menus, and actions to help your team get work done and be able to install it on your own workspace.
+Do you ever find that the code you're writing is too readable or too well documented? Have you ever wondered what would happen if you let your inhibitions go and wrote code straight from the heart? 
 
-## What will you build?
-In this workshop, participants will build a Two Truths and a Lie app for their Slack organization using Node.js, Glitch, and the Slack API!
+Come along to our Bad Code-Athon Challenge and compete with your peers to write the worst code possible!
 
-Learn more about **MLH Localhost** at https://mlhlocal.host
+In this event, the code must be functional (not necessarily that kind of functional), but that's about it. The harder to understand, the better! So brush up on your pointer arithmetic, polish up those integer overflows and bring back those nested ternaries because it's time for HackSoc's Bad Code-Athon Challenge!

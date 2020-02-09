@@ -1,1 +1,1 @@
-During this workshop, you’ll learn the basics of building apps for the Slack ecosystem!
+Enjoy writing bad code? Come along to our Bad Code-Athon challenge and compete with your peers to write the worst code possible!
