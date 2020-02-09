@@ -1,0 +1,9 @@
+- id: 2020-bad-codeathon-challenge
+  name: 'The Bad Codeathon Challenge'
+  start: '2020-02-11 19:00:00'
+  end: '2020-02-11 21:00:00'
+  location: A32 - Ada Lovelace Lab
+  mapLink: https://www.google.co.uk/maps/place/School+of+Computer+Science/@52.9533603,-1.1892748,17.15z/data=!4m5!3m4!1s0x4879c209bfffffff:0xaf426646771a25ac!8m2!3d52.953357!4d-1.18736
+  summary: 2020-bad-codeathon-challenge/summary.md
+  description: 2020-bad-codeathon-challenge/description.md
+  banner: 2020-bad-codeathon-challenge/banner.jpg
