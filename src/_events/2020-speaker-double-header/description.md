@@ -8,4 +8,8 @@ Mark is a security engineer at Mozilla with some 20 years of experience building
 
 ***Introduction to Alexa.Net*** with **Steve Pears**
 
-Steve is a software engineer and co-author of Alexa.Net.Steven will, In this talk Steven will introduce us to Alexa.Net. We will start with a dice roller Alexa Skill written in .NET, and look at enhancing it to offer much more than just speech.
+Steve is a software engineer at Experian and co-author of Alexa.Net. 
+
+Alexa.NET is a helper library for working with Alexa skill requests/responses in C#. Whether you are using the AWS Lambda service or hosting your own service on your server, this library aims just to make working with the Alexa API more natural for a C# developer using a strongly-typed object model.
+
+ In this talk Steven starts with a dice roller Alexa Skill written in .NET, and look at enhancing it to offer much more than just speech.
