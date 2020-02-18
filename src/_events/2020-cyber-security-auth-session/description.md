@@ -1,0 +1,5 @@
+These workshops are designed to raise awareness toward web application security and teach students how to detect, prevent and respond to the latest cyber security challenges. All the workshops are based on OWASP (Open Web Application Security Project) top 10.
+
+## Broken Authentication and Session Management
+
+Authentication and session management includes all aspects of handling user authentication and managing active session. Authentication is a critical aspect of this process but even solid authentication mechanisms can be undermined by flawed credential management function, including password change, forget my password, and remember my password, account update and other related functions. In this workshop, the students will learn how to detect a broken authentication and how to avoid this vulnerability.
