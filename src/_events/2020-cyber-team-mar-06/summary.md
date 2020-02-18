@@ -1,0 +1,1 @@
+Come along to our Cyber Team meetups! Come along if you're interested in CTFs and the Cyber Security field in general!

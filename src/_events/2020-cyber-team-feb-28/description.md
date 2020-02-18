@@ -1,0 +1,3 @@
+Come along to our Cyber Team meetups! Cyber Team is a group of people interested in the cyber security field, who will have weekly sessions to train with the specifics of cyber security, in order to compete in Capture the Flag (CTF) competitions nationally! Come along if you're interested!
+
+For CTF, we will be using HackTheBox, and we have a dedicated page for the University of Nottingham. We also have an internal ranking, so you can compete with your friends!
