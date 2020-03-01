@@ -1,0 +1,1 @@
+As part of **Nottingham Sustainability Week**, HackSoc are joining forces with **HeX Productions** and **BBC Cape** to bring you an insight into accessible design, and then 🍕pizza🍕!
