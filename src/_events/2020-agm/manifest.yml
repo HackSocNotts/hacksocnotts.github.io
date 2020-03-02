@@ -1,0 +1,9 @@
+- id: 2020-agm
+  name: Annual General Meeting - Cast your Vote!
+  start: '2020-03-24 19:00:00'
+  end: '2020-03-24 21:30:00'
+  location: LT3 - The Exchange
+  mapLink: https://www.google.com/maps/place/Exchange+Building,+Jubilee+Campus,+Wollaton+Rd,+Nottingham+NG8+1BB/@52.9539184,-1.1901197,17z/data=!3m1!4b1!4m5!3m4!1s0x4879c202a9ac965d:0xec186c891949c701!8m2!3d52.9539184!4d-1.187931
+  summary: 2020-agm/summary.md
+  description: 2020-agm/description.md
+  banner: 2020-agm/banner.jpg
