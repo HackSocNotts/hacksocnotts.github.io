@@ -22,6 +22,8 @@ Additionally, if you'd like to see the HackSoc [constitution](https://hacksoc.ne
 
 Note that nominations and amendment submissions will close at 23:59 on Sunday, March 22nd. No further amendments or nominations will be accepted after this point.
 
+Additionally, to vote or nominate yourself, you must have held a valid HackSoc membership prior to 12:00 GMT on Monday March 2nd.
+
 ## Agenda
 
 Here is the agenda for the meeting:
