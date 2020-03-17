@@ -51,17 +51,29 @@ class EventPage extends Component {
       halfHeight: true,
     };
 
-    const heading = ({ mobile } = { mobile: false }) => (
-      <Container text>
-        <Header
-          as='h1'
-          content={(activeEvent ? activeEvent.name : 'Loading...') && (activeEvent && !activeEvent.noHeaderText)}
-          inverted
-          className={mobile ? styles.mobileHeader1 : styles.desktopHeader1}
-          aria-label={activeEvent && activeEvent.noHeaderAlt}
-        />
-      </Container>
-    );
+    const heading = ({ mobile } = { mobile: false }) => {
+      const headerContent = (() => {
+        if (!activeEvent) {
+          return 'Loading...';
+        } if (activeEvent.name && !activeEvent.noHeaderText) {
+          return activeEvent.name;
+        } if (activeEvent.noHeaderText) {
+          return '';
+        }
+        return 'Loading...';
+      })();
+      return (
+        <Container text>
+          <Header
+            as='h1'
+            content={headerContent}
+            inverted
+            className={mobile ? styles.mobileHeader1 : styles.desktopHeader1}
+            aria-label={activeEvent && activeEvent.noHeaderAlt}
+          />
+        </Container>
+      );
+    }
 
     return (
       <ResponsiveContainer heading={heading} background={headerBackground}>
