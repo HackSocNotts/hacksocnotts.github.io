@@ -73,7 +73,7 @@ class EventPage extends Component {
           />
         </Container>
       );
-    }
+    };
 
     return (
       <ResponsiveContainer heading={heading} background={headerBackground}>
