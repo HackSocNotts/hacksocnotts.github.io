@@ -1,0 +1,12 @@
+- id: hack-quarantine
+  name: Hack Quarantine
+  start: '2020-03-23 00:00:00'
+  end: '2020-04-12 23:59:59'
+  location: Online!
+  mapLink: https://hackquarantine.com
+  summary: hack-quarantine/summary.md
+  description: hack-quarantine/description.md
+  banner: hack-quarantine/banner.png
+  allDay: true
+  noHeaderText: true
+  noHeaderAlt: Hack Quarantine powered by Hackathons UK - March 23rd to April 12th - A global, virtual hackathon.

@@ -100,23 +100,22 @@ const HomePage = () => (
             <p className={styles.p}>
               HackNotts is a 24 hour hackathon at the University of Nottingham, in
               England. Over 150 students will team up to learn about tech and create cool stuff.
-              Learn more about it&nbsp;
-              <a href='https://hacknotts.com' target='_blank' rel='noopener noreferrer'>
-                here
+              Learn more about it on the&nbsp;
+              <a href='https://hacknotts.com' target='_blank' rel='noopener noreferrer' aria-label='External - HackNotts Website'>
+                HackNotts Website.
               </a>
               .
             </p>
           </Grid.Column>
-          <Grid.Column className={styles.flagshipGrid}>
+          <Grid.Column className={styles.flagshipGrid} id='hack-quarantine'>
             <Header as='h3' className={styles.h3}>
-              margins
+              Hack Quarantine
             </Header>
             <p className={styles.p}>
-              margins, the successor to Women in Tech and inspireWiT,  is a free one-day conference
-              for people from marginalised backgrounds that work in/with/around technology (or hope
-              to break into the industry!). Learn more about it&nbsp;
-              <a href='https://margins.tech' target='_blank' rel='noopener noreferrer'>
-                here
+              Hack Quarantine is a fully-online, people-focused hackathon bringing people together to use their skills to help combat the issues the world is facing with the COVID-19 pandemic.
+              Learn more about it on the&nbsp;
+              <a href='https://hackquarantine.com' target='_blank' rel='noopener noreferrer' arial-label='External - Hack Quarantine Website'>
+                Hack Quarantine Website
               </a>
               .
             </p>
