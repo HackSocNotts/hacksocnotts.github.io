@@ -46,7 +46,7 @@ class EventPage extends Component {
     const { activeEvent } = this.props;
 
     const headerBackground = {
-      overlay: 'rgba(0, 0, 0, 0.7)',
+      overlay: activeEvent && activeEvent.noHeaderText ? 'rgba(0,0,0,0)' : 'rgba(0, 0, 0, 0.7)',
       image: activeEvent ? activeEvent.banner : null,
       halfHeight: true,
     };
@@ -55,9 +55,10 @@ class EventPage extends Component {
       <Container text>
         <Header
           as='h1'
-          content={activeEvent ? activeEvent.name : 'Loading...'}
+          content={(activeEvent ? activeEvent.name : 'Loading...') && (activeEvent && !activeEvent.noHeaderText)}
           inverted
           className={mobile ? styles.mobileHeader1 : styles.desktopHeader1}
+          aria-label={activeEvent && activeEvent.noHeaderAlt}
         />
       </Container>
     );
