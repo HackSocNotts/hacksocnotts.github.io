@@ -36,13 +36,12 @@ const navigationInitialState = {
   rightItems: [
     {
       as: 'a',
-      content: 'margins',
-      href: 'https://margins.tech',
-      key: 'margins',
-      icon: 'users',
+      content: 'Hack Quarantine',
+      href: 'https://hackquarantine.com',
+      key: 'hackqurantine',
+      icon: 'home',
       target: '_blank',
       rel: 'noopener noreferrer',
-      className: 'ui purple',
     },
     {
       as: 'a',

@@ -11,7 +11,7 @@
     "complexity": [1, 10],
     "global-require": 0,
     "jsx-quotes": [2, "prefer-single"],
-    "max-len": [2, 120, 4],
+    "max-len": 0,
     "no-console": 2,
     "no-mixed-operators": 0,
     "no-multi-spaces": [2, { "ignoreEOLComments": true }],
