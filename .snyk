@@ -1,0 +1,32 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - eslint > lodash:
+        patched: '2020-04-30T23:13:44.474Z'
+    - eslint-plugin-import > lodash:
+        patched: '2020-04-30T23:13:44.474Z'
+    - ics > lodash:
+        patched: '2020-04-30T23:13:44.474Z'
+    - react-big-calendar > lodash:
+        patched: '2020-04-30T23:13:44.474Z'
+    - react-redux > lodash:
+        patched: '2020-04-30T23:13:44.474Z'
+    - semantic-ui-react > lodash:
+        patched: '2020-04-30T23:13:44.474Z'
+    - eslint > inquirer > lodash:
+        patched: '2020-04-30T23:13:44.474Z'
+    - eslint > table > lodash:
+        patched: '2020-04-30T23:13:44.474Z'
+    - react-hot-loader > react-proxy > lodash:
+        patched: '2020-04-30T23:13:44.474Z'
+    - babel-eslint > @babel/traverse > lodash:
+        patched: '2020-04-30T23:13:44.474Z'
+    - babel-eslint > @babel/traverse > @babel/generator > lodash:
+        patched: '2020-04-30T23:13:44.474Z'
+    - babel-eslint > @babel/traverse > @babel/helper-split-export-declaration > @babel/types > lodash:
+        patched: '2020-04-30T23:13:44.474Z'
+    - babel-eslint > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2020-04-30T23:13:44.474Z'
