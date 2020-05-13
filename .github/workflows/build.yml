@@ -1,24 +1,24 @@
 name: Build
 on: [push]
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
-  strategy:
-    matrix:
-      node-version: [12.x]
-  steps:
-    - name: Checkout
-      uses: actions/checkout@v2
+    strategy:
+      matrix:
+        node-version: [12.x]
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
 
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
-      with:
-        node-version: ${{ matrix.node-version }}
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
 
-    - name: Install Dependenices
-      working-directory: ~/repo
-      run: yarn install --froze-lockfile
+      - name: Install Dependenices
+        working-directory: ~/repo
+        run: yarn install --froze-lockfile
 
-    - name: Compile Production Build
-      working-directory: ~/repot
-      run: yarn build --prod
+      - name: Compile Production Build
+        working-directory: ~/repot
+        run: yarn build --prod
