@@ -1,7 +1,7 @@
 name: Build
 on: [push]
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -16,9 +16,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
 
       - name: Install Dependenices
-        working-directory: ~/repo
         run: yarn install --froze-lockfile
 
       - name: Compile Production Build
-        working-directory: ~/repot
         run: yarn build --prod
