@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - uses: halee/eslint-action@master
+      - uses: hallee/eslint-action@master
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
