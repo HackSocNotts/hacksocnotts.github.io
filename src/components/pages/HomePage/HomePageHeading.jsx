@@ -10,20 +10,20 @@ import * as styles from './HomePageHeading.less';
 const HomePageHeading = ({ mobile } = { mobile: false }) => (
   <Container text>
     <Header
-      as='h1'
-      content={(
+      as="h1"
+      content={
         <React.Fragment>
-          <Image size='small' src={logo} className={styles.logo} />
+          <Image size="small" src={logo} className={styles.logo} />
           <br />
           HackSoc Nottingham
         </React.Fragment>
-      )}
+      }
       inverted
       className={mobile ? styles.mobileHeader1 : styles.desktopHeader1}
     />
     <Header
-      as='h2'
-      content='Hacking and Programming society at the University of Nottingham'
+      as="h2"
+      content="Hacking and Programming society at the University of Nottingham"
       inverted
       className={mobile ? styles.mobileHeader2 : styles.desktopHeader2}
     />

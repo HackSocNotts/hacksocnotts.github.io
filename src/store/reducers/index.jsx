@@ -8,10 +8,6 @@ const reducers = {
   navigation: navigationReducer,
 };
 
-export {
-  eventsReducer,
-  newsReducer,
-  navigationReducer,
-};
+export { eventsReducer, newsReducer, navigationReducer };
 
 export default reducers;

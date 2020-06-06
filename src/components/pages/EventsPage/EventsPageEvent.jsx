@@ -14,12 +14,7 @@ export default class EventsPageEvent extends Component {
 
     if (event.start.format('YYYY MM DD') !== event.end.format('YYYY MM DD')) {
       const duration = moment.duration(event.end.diff(event.start));
-      return (
-        <sup>
-          +
-          {Math.round(duration.asDays())}
-        </sup>
-      );
+      return <sup>+{Math.round(duration.asDays())}</sup>;
     }
   }
 
@@ -28,12 +23,8 @@ export default class EventsPageEvent extends Component {
 
     return (
       <Container className={styles.container}>
-        <h1 className={styles.title}>
-          {event.name}
-        </h1>
-        <p className={styles.date}>
-          {event.start.format('dddd, MMMM Do YYYY')}
-        </p>
+        <h1 className={styles.title}>{event.name}</h1>
+        <p className={styles.date}>{event.start.format('dddd, MMMM Do YYYY')}</p>
         <p className={styles.time}>
           {event.start.format('h:mm a')}
           &nbsp;–&nbsp;
@@ -42,13 +33,11 @@ export default class EventsPageEvent extends Component {
         </p>
         <p className={styles.location}>
           {event.location}
-          <a className={styles.locationMapLink} href={event.mapLink} target='_blank' rel='noopener noreferrer'>
+          <a className={styles.locationMapLink} href={event.mapLink} target="_blank" rel="noopener noreferrer">
             &nbsp;(map)
           </a>
         </p>
-        <Markdown className={styles.summary}>
-          {event.summary.trim()}
-        </Markdown>
+        <Markdown className={styles.summary}>{event.summary.trim()}</Markdown>
         <Link to={`/event/${event.id}`} className={styles.link}>
           <p>
             <br />

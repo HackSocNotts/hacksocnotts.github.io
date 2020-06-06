@@ -12,11 +12,7 @@ const defaultProps = {
   },
 };
 
-const ResponsiveContainer = ({
-  children,
-  heading,
-  background,
-} = defaultProps) => (
+const ResponsiveContainer = ({ children, heading, background } = defaultProps) => (
   <div>
     <DesktopContainer heading={heading} background={background}>
       {children}

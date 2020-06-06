@@ -4,25 +4,14 @@ import { Grid } from 'semantic-ui-react';
 
 const CopyrightRow = () => (
   <Grid.Row>
-    <Grid.Column
-      width={6}
-      floated='left'
-    >
+    <Grid.Column width={6} floated="left">
       Copyright &copy;&nbsp;
-      {(new Date()).getFullYear()}
+      {new Date().getFullYear()}
       &nbsp;HackSoc Nottingham. All Rights Reserved.
     </Grid.Column>
-    <Grid.Column
-      width={10}
-      floated='right'
-      textAlign='right'
-    >
+    <Grid.Column width={10} floated="right" textAlign="right">
       HackSoc Nottingham is a&nbsp;
-      <a
-        href='https://www.su.nottingham.ac.uk/'
-        target='_blank'
-        rel='noopener noreferrer'
-      >
+      <a href="https://www.su.nottingham.ac.uk/" target="_blank" rel="noopener noreferrer">
         University of Nottingham Students&apos; Union
       </a>
       &nbsp; student run society.

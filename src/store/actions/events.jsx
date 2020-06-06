@@ -53,16 +53,17 @@ export function loadEvents() {
     // Let REDUX know that load events has been requested
     dispatch(loadEventsRequest());
 
-    eventsService.retrieveEvents()
+    eventsService
+      .retrieveEvents()
       .then((events) => {
         const now = moment();
         const futureEvents = events.filter((event) => {
           const eventDate = moment(event.end);
-          return (now.isBefore(eventDate));
+          return now.isBefore(eventDate);
         });
         dispatch(loadEventsSuccess(events, futureEvents));
       })
-      .catch(error => dispatch(loadEventsFailure(error)));
+      .catch((error) => dispatch(loadEventsFailure(error)));
   };
 }
 
@@ -95,8 +96,8 @@ export function activateEvent(eventId) {
 
     dispatch(activateEventWaiting());
 
-    waitForState(state => state.events.items.length > 0)
+    waitForState((state) => state.events.items.length > 0)
       .then(() => dispatch(activateEventSuccess(eventId)))
-      .catch(error => dispatch(activateEventFailure(error)));
+      .catch((error) => dispatch(activateEventFailure(error)));
   };
 }

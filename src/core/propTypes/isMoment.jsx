@@ -4,9 +4,7 @@ import * as moment from 'moment';
 const isMoment = (props, propName, componentName) => {
   const prop = props[propName];
   if (!moment.isMoment(prop)) {
-    return new Error(
-      `Invalid prop ${propName} supplied to ${componentName}. Validation failed.`,
-    );
+    return new Error(`Invalid prop ${propName} supplied to ${componentName}. Validation failed.`);
   }
 };
 /* eslint-enable */

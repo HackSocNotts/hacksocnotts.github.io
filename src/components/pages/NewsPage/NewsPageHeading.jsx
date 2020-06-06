@@ -8,8 +8,8 @@ import * as styles from './NewsPageHeading.less';
 const NewsPageHeading = ({ mobile } = { mobile: false }) => (
   <Container text>
     <Header
-      as='h1'
-      content='HackSoc Nottingham News'
+      as="h1"
+      content="HackSoc Nottingham News"
       inverted
       className={mobile ? styles.mobileHeader1 : styles.desktopHeader1}
     />

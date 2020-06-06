@@ -3,12 +3,7 @@ import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import React, { Component } from 'react';
 
-import { Responsive,
-  Visibility,
-  Segment,
-  Container,
-  Image,
-  Menu } from 'semantic-ui-react';
+import { Responsive, Visibility, Segment, Container, Image, Menu } from 'semantic-ui-react';
 
 import { Link } from 'react-router-dom';
 
@@ -32,16 +27,7 @@ class DesktopContainer extends Component {
   }
 
   render() {
-    const {
-      children,
-      leftItems,
-      rightItems,
-      fixed,
-      showFixedMenu,
-      hideFixedMenu,
-      heading,
-      background,
-    } = this.props;
+    const { children, leftItems, rightItems, fixed, showFixedMenu, hideFixedMenu, heading, background } = this.props;
 
     const segmentStyles = {};
     if (background.image) {
@@ -57,34 +43,28 @@ class DesktopContainer extends Component {
 
     return (
       <Responsive minWidth={Responsive.onlyTablet.minWidth} className={styles.container}>
-        <Visibility
-          once={false}
-          onBottomPassed={showFixedMenu}
-          onBottomPassedReverse={hideFixedMenu}
-        >
-          <Segment
-            inverted
-            textAlign='center'
-            className={styles.segment}
-            style={segmentStyles}
-            vertical
-          >
+        <Visibility once={false} onBottomPassed={showFixedMenu} onBottomPassedReverse={hideFixedMenu}>
+          <Segment inverted textAlign="center" className={styles.segment} style={segmentStyles} vertical>
             <Menu
               fixed={fixed ? 'top' : null}
               inverted
               pointing={!fixed}
               secondary={!fixed}
-              size='large'
+              size="large"
               color={!fixed ? 'white' : 'green'}
               className={!fixed ? styles.noBorder : null}
             >
               <Container>
-                <Menu.Item as={Link} to='/' active={window.location.pathname === '/'}>
-                  { fixed ? <Image size='mini' src={logo} /> : 'Home'}
+                <Menu.Item as={Link} to="/" active={window.location.pathname === '/'}>
+                  {fixed ? <Image size="mini" src={logo} /> : 'Home'}
                 </Menu.Item>
-                {_.map(leftItems, item => <Menu.Item {...item} active={window.location.pathname === item.to} />)}
-                <Menu.Menu position='right'>
-                  {_.map(rightItems, item => <Menu.Item {...item} />)}
+                {_.map(leftItems, (item) => (
+                  <Menu.Item {...item} active={window.location.pathname === item.to} />
+                ))}
+                <Menu.Menu position="right">
+                  {_.map(rightItems, (item) => (
+                    <Menu.Item {...item} />
+                  ))}
                 </Menu.Menu>
               </Container>
             </Menu>

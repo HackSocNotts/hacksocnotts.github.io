@@ -17,12 +17,7 @@ class EventPage extends Component {
 
     if (activeEvent.start.format('YYYY MM DD') !== activeEvent.end.format('YYYY MM DD')) {
       const duration = moment.duration(activeEvent.end.diff(activeEvent.start));
-      return (
-        <sup>
-          +
-          {Math.round(duration.asDays())}
-        </sup>
-      );
+      return <sup>+{Math.round(duration.asDays())}</sup>;
     }
   }
 
@@ -31,7 +26,7 @@ class EventPage extends Component {
     /* eslint-disable react/destructuring-assignment */
     const { router } = this.context;
     const eventId = nextProps.match.params.id;
-    if (nextProps.events.length && nextProps.events.filter(event => event.id === eventId).length < 1) {
+    if (nextProps.events.length && nextProps.events.filter((event) => event.id === eventId).length < 1) {
       router.history.push('/page-not-found');
     }
     /* eslint-enable */
@@ -55,9 +50,11 @@ class EventPage extends Component {
       const headerContent = (() => {
         if (!activeEvent) {
           return 'Loading...';
-        } if (activeEvent.name && !activeEvent.noHeaderText) {
+        }
+        if (activeEvent.name && !activeEvent.noHeaderText) {
           return activeEvent.name;
-        } if (activeEvent.noHeaderText) {
+        }
+        if (activeEvent.noHeaderText) {
           return '';
         }
         return 'Loading...';
@@ -65,7 +62,7 @@ class EventPage extends Component {
       return (
         <Container text>
           <Header
-            as='h1'
+            as="h1"
             content={headerContent}
             inverted
             className={mobile ? styles.mobileHeader1 : styles.desktopHeader1}
@@ -78,12 +75,8 @@ class EventPage extends Component {
     return (
       <ResponsiveContainer heading={heading} background={headerBackground}>
         <Container className={styles.container}>
-          <h1 className={styles.title}>
-            {activeEvent.name}
-          </h1>
-          <p className={styles.date}>
-            {activeEvent.start.format('dddd, MMMM Do YYYY')}
-          </p>
+          <h1 className={styles.title}>{activeEvent.name}</h1>
+          <p className={styles.date}>{activeEvent.start.format('dddd, MMMM Do YYYY')}</p>
           <p className={styles.time}>
             {activeEvent.start.format('h:mm a')}
             &nbsp;–&nbsp;
@@ -92,13 +85,11 @@ class EventPage extends Component {
           </p>
           <p className={styles.location}>
             {activeEvent.location}
-            <a className={styles.locationMapLink} href={activeEvent.mapLink} target='_blank' rel='noopener noreferrer'>
+            <a className={styles.locationMapLink} href={activeEvent.mapLink} target="_blank" rel="noopener noreferrer">
               &nbsp;(map)
             </a>
           </p>
-          <Markdown className={styles.summary}>
-            {activeEvent.description}
-          </Markdown>
+          <Markdown className={styles.summary}>{activeEvent.description}</Markdown>
         </Container>
         <Footer />
       </ResponsiveContainer>
@@ -122,15 +113,17 @@ EventPage.propTypes = {
     description: PropTypes.string,
     banner: PropTypes.string,
   }).isRequired,
-  events: PropTypes.arrayOf(PropTypes.shape({
-    name: PropTypes.string,
-    start: isMoment,
-    end: isMoment,
-    location: PropTypes.string,
-    summary: PropTypes.string,
-    description: PropTypes.string,
-    banner: PropTypes.string,
-  })).isRequired,
+  events: PropTypes.arrayOf(
+    PropTypes.shape({
+      name: PropTypes.string,
+      start: isMoment,
+      end: isMoment,
+      location: PropTypes.string,
+      summary: PropTypes.string,
+      description: PropTypes.string,
+      banner: PropTypes.string,
+    }),
+  ).isRequired,
 };
 
 /* eslint-disable arrow-body-style */
@@ -143,7 +136,7 @@ const mapStateToProps = (state) => {
 
 const mapDispatchToProps = (dispatch) => {
   return {
-    activateEvent: id => dispatch(events.activateEvent(id)),
+    activateEvent: (id) => dispatch(events.activateEvent(id)),
   };
 };
 /* eslint-enable */

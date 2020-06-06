@@ -5,19 +5,14 @@ import thunk from 'redux-thunk';
 import waitForState, { setStore } from './waitForState';
 import reducers from './reducers';
 
-
 const history = createBrowserHistory();
 
-const devTools = window.devToolsExtension ? window.devToolsExtension() : f => f;
+const devTools = window.devToolsExtension ? window.devToolsExtension() : (f) => f;
 
-const store = createStore(connectRouter(history)(combineReducers(reducers)),
-  compose(
-    applyMiddleware(
-      routerMiddleware(history),
-      thunk.withExtraArgument(waitForState),
-    ),
-    devTools,
-  ));
+const store = createStore(
+  connectRouter(history)(combineReducers(reducers)),
+  compose(applyMiddleware(routerMiddleware(history), thunk.withExtraArgument(waitForState)), devTools),
+);
 
 setStore(store);
 

@@ -7,17 +7,9 @@ import CopyrightRow from './CopyrightRow';
 import * as styles from './Footer.less';
 
 const Footer = () => (
-  <Segment
-    inverted
-    vertical
-    className={styles.segment}
-  >
+  <Segment inverted vertical className={styles.segment}>
     <Container>
-      <Grid
-        divided
-        inverted
-        stackable
-      >
+      <Grid divided inverted stackable>
         <CopyrightRow />
       </Grid>
     </Container>

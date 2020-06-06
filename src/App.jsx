@@ -12,14 +12,14 @@ const App = () => (
   <Provider store={store}>
     <ConnectedRouter history={history}>
       <Switch>
-        <Route path='/' component={HomePage} exact />
-        <Route path='/news' component={NewsPage} />
-        <Route path='/events' component={EventsPage} exact />
-        <Route path='/event' component={EventsPage} exact />
-        <Route path='/calendar' component={CalendarPage} />
-        <Route path='/event/:id' component={EventPage} />
-        <Route path='/events/:id' component={EventPage} />
-        <Route path='/page-not-found' component={Error404Page} />
+        <Route path="/" component={HomePage} exact />
+        <Route path="/news" component={NewsPage} />
+        <Route path="/events" component={EventsPage} exact />
+        <Route path="/event" component={EventsPage} exact />
+        <Route path="/calendar" component={CalendarPage} />
+        <Route path="/event/:id" component={EventPage} />
+        <Route path="/events/:id" component={EventPage} />
+        <Route path="/page-not-found" component={Error404Page} />
         <Route component={Error404Page} />
       </Switch>
     </ConnectedRouter>

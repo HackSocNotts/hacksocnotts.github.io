@@ -8,8 +8,8 @@ import * as styles from './CalendarPageHeading.less';
 const CalendarPageHeading = ({ mobile } = { mobile: false }) => (
   <Container text>
     <Header
-      as='h1'
-      content='HackSoc Nottingham Events Calendar'
+      as="h1"
+      content="HackSoc Nottingham Events Calendar"
       inverted
       className={mobile ? styles.mobileHeader1 : styles.desktopHeader1}
     />

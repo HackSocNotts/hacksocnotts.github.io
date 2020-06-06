@@ -40,8 +40,9 @@ export function loadNews() {
     // Let REDUX now that load news has been requested
     dispatch(loadNewsRequests());
 
-    newsService.retrievePosts()
-      .then(news => dispatch(loadNewsSuccess(news)))
-      .catch(error => dispatch(loadNewsFailure(error)));
+    newsService
+      .retrievePosts()
+      .then((news) => dispatch(loadNewsSuccess(news)))
+      .catch((error) => dispatch(loadNewsFailure(error)));
   };
 }
