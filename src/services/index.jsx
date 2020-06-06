@@ -1,2 +1,2 @@
-export eventsService from './eventsService';
-export newsService from './newsService';
+export { default as eventsService } from './eventsService';
+export { default as newsService } from './newsService';

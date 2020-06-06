@@ -1,1 +1,1 @@
-export default from './EventsPage';
+export { default } from './EventsPage';

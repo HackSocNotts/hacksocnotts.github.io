@@ -1,1 +1,1 @@
-export isMoment from './isMoment';
+export { default as isMoment } from './isMoment';

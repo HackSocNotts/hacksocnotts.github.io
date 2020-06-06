@@ -112,6 +112,9 @@ EventPage.propTypes = {
     summary: PropTypes.string,
     description: PropTypes.string,
     banner: PropTypes.string,
+    noHeaderAlt: PropTypes.bool,
+    noHeaderText: PropTypes.text,
+    mapLink: PropTypes.text,
   }).isRequired,
   events: PropTypes.arrayOf(
     PropTypes.shape({

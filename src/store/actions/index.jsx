@@ -1,2 +1,4 @@
-export * as events from './events';
-export * as news from './news';
+import * as events from './events';
+import * as news from './news';
+
+export { events, news };

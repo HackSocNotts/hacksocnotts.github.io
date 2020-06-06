@@ -13,21 +13,27 @@ import EventsPageEvent from './EventsPageEvent';
 import backgroundImage from '../../../resources/events.jpg';
 
 class EventsPage extends Component {
-  backgroundProp = {
-    overlay: 'rgba(0, 0, 0, 0.7)',
-    image: backgroundImage,
-    halfHeight: true,
-  };
+  constructor(props) {
+    super(props);
+
+    this.backgroundProp = {
+      overlay: 'rgba(0, 0, 0, 0.7)',
+      image: backgroundImage,
+      halfHeight: true,
+    };
+  }
 
   render() {
     const { events } = this.props;
 
-    const sortedEvents = _.orderBy(events, event => event.start, ['asc']);
+    const sortedEvents = _.orderBy(events, (event) => event.start, ['asc']);
 
     return (
       <ResponsiveContainer heading={EventsPageHeading} background={this.backgroundProp}>
         <div className={styles.eventsContainer}>
-          {_.map(sortedEvents, event => <EventsPageEvent event={event} key={event.id} />)}
+          {_.map(sortedEvents, (event) => (
+            <EventsPageEvent event={event} key={event.id} />
+          ))}
         </div>
         <Footer />
       </ResponsiveContainer>
@@ -36,19 +42,21 @@ class EventsPage extends Component {
 }
 
 EventsPage.propTypes = {
-  events: PropTypes.arrayOf(PropTypes.shape({
-    name: PropTypes.string,
-    start: isMoment,
-    end: isMoment,
-    location: PropTypes.string,
-    summary: PropTypes.string,
-    description: PropTypes.string,
-    banner: PropTypes.any,
-  })),
+  events: PropTypes.arrayOf(
+    PropTypes.shape({
+      name: PropTypes.string,
+      start: isMoment,
+      end: isMoment,
+      location: PropTypes.string,
+      summary: PropTypes.string,
+      description: PropTypes.string,
+      banner: PropTypes.any,
+    }),
+  ),
 };
 
 /* eslint-disable arrow-body-style */
-const mapStateToProps = state => ({
+const mapStateToProps = (state) => ({
   events: state.events.futureItems,
 });
 

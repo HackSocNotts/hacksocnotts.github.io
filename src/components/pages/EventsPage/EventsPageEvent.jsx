@@ -59,5 +59,6 @@ EventsPageEvent.propTypes = {
     summary: PropTypes.string,
     description: PropTypes.string,
     banner: PropTypes.any,
+    id: PropTypes.string,
   }),
 };

@@ -1,3 +1,3 @@
-export navigationIntialState from './navigationIntialState';
-export eventsInitialState from './eventsInitialState';
-export newsInitialState from './newsIntiialState';
+export { default as navigationIntialState } from './navigationIntialState';
+export { default as eventsInitialState } from './eventsInitialState';
+export { default as newsInitialState } from './newsIntiialState';

@@ -17,17 +17,23 @@ import * as styles from './CalendarPage.less';
 BigCalendar.setLocalizer(BigCalendar.momentLocalizer(moment));
 
 class CalendarPage extends Component {
-  state = { events: [] };
+  constructor(props) {
+    super(props);
 
-  backgroundProp = {
-    overlay: null,
-    image: null,
-    fullHeight: false,
-  };
+    this.state = {
+      events: [],
+    };
+
+    this.backgroundProp = {
+      overlay: null,
+      image: null,
+      fullHeight: false,
+    };
+  }
 
   static getDerivedStateFromProps(nextProps) {
     const { events } = nextProps;
-    const newEvents = events.map(event => ({
+    const newEvents = events.map((event) => ({
       ...event,
       title: event.name,
       start: new Date(event.start),
@@ -36,20 +42,18 @@ class CalendarPage extends Component {
     return { events: newEvents };
   }
 
-  event = ({ event }) => (
-    <React.Fragment>
-      <Popup
-        key={event.id}
-        trigger={(
-          <strong>
-            {event.title}
-          </strong>
-        )}
-        header={event.title}
-        content={event.summary ? compiler(event.summary) : ''}
-      />
-    </React.Fragment>
-  );
+  event({ event }) {
+    return (
+      <React.Fragment>
+        <Popup
+          key={event.id}
+          trigger={<strong>{event.title}</strong>}
+          header={event.title}
+          content={event.summary ? compiler(event.summary) : ''}
+        />
+      </React.Fragment>
+    );
+  }
 
   render() {
     const { events } = this.state;
@@ -57,11 +61,11 @@ class CalendarPage extends Component {
 
     return (
       <ResponsiveContainer heading={CalendarPageHeading} background={this.backgroundProp}>
-        <Container style={{ height: (window.innerHeight - 200) }} className={styles.calendarContainer}>
+        <Container style={{ height: window.innerHeight - 200 }} className={styles.calendarContainer}>
           <BigCalendar
             events={events}
             defaultView={BigCalendar.Views.MONTH}
-            onSelectEvent={event => router.history.push(`/event/${event.id}`)}
+            onSelectEvent={(event) => router.history.push(`/event/${event.id}`)}
             views={['month']}
             components={{
               event: this.event,
@@ -78,21 +82,22 @@ CalendarPage.contextTypes = {
   router: PropTypes.object.isRequired,
 };
 
-
 CalendarPage.propTypes = {
-  events: PropTypes.arrayOf(PropTypes.shape({
-    name: PropTypes.string,
-    start: isMoment,
-    end: isMoment,
-    location: PropTypes.string,
-    summary: PropTypes.string,
-    description: PropTypes.string,
-    banner: PropTypes.any,
-  })),
+  events: PropTypes.arrayOf(
+    PropTypes.shape({
+      name: PropTypes.string,
+      start: isMoment,
+      end: isMoment,
+      location: PropTypes.string,
+      summary: PropTypes.string,
+      description: PropTypes.string,
+      banner: PropTypes.any,
+    }),
+  ),
 };
 
 /* eslint-disable arrow-body-style */
-const mapStateToProps = state => ({
+const mapStateToProps = (state) => ({
   events: state.events.items,
 });
 

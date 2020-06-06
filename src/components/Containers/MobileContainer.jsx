@@ -3,40 +3,32 @@ import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import React, { Component } from 'react';
 
-import { Responsive,
-  Sidebar,
-  Menu,
-  Segment,
-  Container,
-  Icon } from 'semantic-ui-react';
+import { Responsive, Sidebar, Menu, Segment, Container, Icon } from 'semantic-ui-react';
 
 import { Link } from 'react-router-dom';
 
 import * as styles from './MobileContainer.less';
 
 class MobileContainer extends Component {
-  state = {};
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
 
-  handlePusherClick = () => {
+  handlePusherClick() {
     const { sidebarOpened } = this.state;
 
     if (sidebarOpened) this.setState({ sidebarOpened: false });
   }
 
-  handleToggle = () => {
+  handleToggle() {
     const { sidebarOpened } = this.state;
 
     this.setState({ sidebarOpened: !sidebarOpened });
   }
 
   render() {
-    const {
-      children,
-      heading,
-      leftItems,
-      rightItems,
-      background,
-    } = this.props;
+    const { children, heading, leftItems, rightItems, background } = this.props;
     const { sidebarOpened } = this.state;
 
     const segmentStyles = {};
@@ -48,41 +40,24 @@ class MobileContainer extends Component {
     return (
       <Responsive maxWidth={Responsive.onlyMobile.maxWidth} className={styles.container}>
         <Sidebar.Pushable>
-          <Sidebar
-            as={Menu}
-            animation='uncover'
-            inverted
-            vertical
-            visible={sidebarOpened}
-          >
-            <Menu.Item as={Link} to='/' active={window.location.pathname === '/'}>
+          <Sidebar as={Menu} animation="uncover" inverted vertical visible={sidebarOpened}>
+            <Menu.Item as={Link} to="/" active={window.location.pathname === '/'}>
               Home
             </Menu.Item>
-            {_.map(leftItems, item => <Menu.Item {...item} active={window.location.pathname === item.to} />)}
-            {_.map(rightItems, item => <Menu.Item {...item} />)}
+            {_.map(leftItems, (item) => (
+              <Menu.Item {...item} active={window.location.pathname === item.to} />
+            ))}
+            {_.map(rightItems, (item) => (
+              <Menu.Item {...item} />
+            ))}
           </Sidebar>
 
-          <Sidebar.Pusher
-            dimmed={sidebarOpened}
-            onClick={this.handlePusherClick}
-            className={styles.sidebarPusher}
-          >
-            <Segment
-              inverted
-              textAlign='center'
-              className={styles.segment}
-              style={segmentStyles}
-              vertical
-            >
+          <Sidebar.Pusher dimmed={sidebarOpened} onClick={this.handlePusherClick} className={styles.sidebarPusher}>
+            <Segment inverted textAlign="center" className={styles.segment} style={segmentStyles} vertical>
               <Container>
-                <Menu
-                  inverted
-                  pointing
-                  secondary
-                  size='large'
-                >
+                <Menu inverted pointing secondary size="large">
                   <Menu.Item onClick={this.handleToggle}>
-                    <Icon name='sidebar' />
+                    <Icon name="sidebar" />
                   </Menu.Item>
                 </Menu>
               </Container>
@@ -119,9 +94,7 @@ const mapStateToProps = (state) => {
 };
 
 const mapDispatchToProps = () => {
-  return {
-
-  };
+  return {};
 };
 /* eslint-enable */
 
