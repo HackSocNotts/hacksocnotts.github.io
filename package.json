@@ -5,11 +5,12 @@
   "homepage": "https://hacksocnotts.co.uk",
   "license": "MIT",
   "scripts": {
-    "start": "node scripts/start.js",
-    "build": "node scripts/build.js",
-    "build:analyze": "cross-env ANALYZE=true node scripts/build.js",
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "build": "gatsby build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "serve": "gatsby serve",
     "ics": "node scripts/generateICS.js",
     "lint": "node_modules/.bin/eslint ./src/ --ext .js,.jsx"
   },

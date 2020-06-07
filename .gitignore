@@ -18,3 +18,6 @@ yarn-error.log*
 
 # Events manifest
 /src/_events/eventsManifest.json
+
+# Gatsby
+/.cache
