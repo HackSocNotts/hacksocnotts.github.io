@@ -1,0 +1,13 @@
+---
+id: intro-to-linux
+name: Intro to Linux
+start: 2018-10-18 18:30:00
+end: 2018-10-18 20:00:00
+location: A32 - Ada Lovelace Lab
+mapLink: https://www.google.co.uk/maps/place/School+of+Computer+Science/@52.9533603,-1.1892748,17.15z/data=!4m5!3m4!1s0x4879c209bfffffff:0xaf426646771a25ac!8m2!3d52.953357!4d-1.18736
+banner: .\public\images\events\banners\/intro-to-linux-banner.jpg
+summary: |
+  Get to grips with Linux at our intro to Linux Workshop presented by Primož Fabiani
+  
+---
+

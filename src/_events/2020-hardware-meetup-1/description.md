@@ -1,1 +1,0 @@
-Come along and play with some Hardware! In this session led by Primoz, you can work on Hardware Projects with others! Bring your own hardware, or loan some from us! If you don't wanna make something, come along and see what people are working on!

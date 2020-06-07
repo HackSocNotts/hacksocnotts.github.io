@@ -1,2 +1,0 @@
-Join us as we invite **Mark Goodwin** and **Steve Pears** to talk to us about **Building and Breaking** and **Alexa .Net**. 
-HackSoc are proud to announce that on February 13th we will be welcoming 2 brilliant guest speakers for a speaker double header! Gonna be giving away that 🍕 that you all know and love too! Come along!

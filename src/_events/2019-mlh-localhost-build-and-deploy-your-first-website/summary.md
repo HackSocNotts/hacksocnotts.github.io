@@ -1,1 +1,0 @@
-Learn the basics of HTML and CSS to make a beautiful personal website. Then deploy your website so that others can find you and your work.

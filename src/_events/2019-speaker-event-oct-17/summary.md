@@ -1,1 +1,0 @@
-This workshop run by Salman Chishti will get you started with integrating your own applications with the Microsoft Ecosystem.

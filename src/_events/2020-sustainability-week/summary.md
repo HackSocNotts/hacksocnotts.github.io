@@ -1,1 +1,0 @@
-As part of **Nottingham Sustainability Week**, HackSoc are joining forces with **HeX Productions** and **BBC Cape** to bring you an insight into accessibility in tech! Accessibility is an incredibly important aspect of tech that is often overlooked. Join us for a series of small talks on accessibility, and then 🍕pizza🍕!
