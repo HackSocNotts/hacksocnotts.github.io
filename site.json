@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "title": "HackSoc Nottingham",
+    "titleTemplate": "%s",
+    "description": "Empowering student hackers at the University of Nottingham since 2013.",
+    "siteUrl": "https://hacksocnotts.co.uk",
+    "image": "/assets/logo-green.png"
+  }
+}
