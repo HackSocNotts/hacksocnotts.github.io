@@ -73,7 +73,7 @@ module.exports = {
     `gatsby-plugin-mdx`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    `gatsby-plugin-sass`,
+    `gatsby-plugin-less`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-advanced-sitemap`,
     `gatsby-plugin-offline`,
