@@ -3,6 +3,7 @@ const settings = require('./site.json');
 module.exports = {
   siteMetadata: settings.meta,
   plugins: [
+    `gatsby-remark-source-name`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
