@@ -19,6 +19,7 @@
     "@mdx-js/react": "^1.6.11",
     "connected-react-router": "^4.4.1",
     "gatsby": "^2.23.1",
+    "gatsby-cli": "^2.12.62",
     "gatsby-plugin-advanced-sitemap": "^1.5.5",
     "gatsby-plugin-less": "^4.0.2",
     "gatsby-plugin-mdx": "^1.2.27",
