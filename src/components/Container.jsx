@@ -2,13 +2,20 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import DesktopContainer from './DesktopContainer';
 import MobileContainer from './MobileContainer';
+import Footer from './Footer';
 import '../assets/less/semantic.less';
 
 const Container = (children, ...props) => {
   return (
     <>
-      <DesktopContainer {...props}>{children}</DesktopContainer>
-      <MobileContainer {...props}>{children}</MobileContainer>
+      <DesktopContainer {...props}>
+        {children}
+        <Footer />
+      </DesktopContainer>
+      <MobileContainer {...props}>
+        {children}
+        <Footer />
+      </MobileContainer>
     </>
   );
 };

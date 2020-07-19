@@ -1,13 +1,12 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-
+import { graphql } from 'gatsby';
 import { Segment, Grid, Header, Divider, Container as SuiContainer, Icon, Image } from 'semantic-ui-react';
 
 import Container from '../components/Container';
-import HomePageHeading from '../pages/HomePage/HomePageHeading';
-import { Footer } from '../components/Footer';
+import HomePageHeading from '../components/HomePageHeading';
 
-import * as styles from './HomePage.less';
+import * as styles from '../assets/less/pages/home-page.less';
 
 const getImageFromData = (data) => (image) => data[image].childImageSharp.original.src;
 
@@ -383,7 +382,6 @@ const HomePage = ({ data }) => {
           </Grid.Row>
         </Grid>
       </Segment>
-      <Footer />
     </Container>
   );
 };
@@ -397,98 +395,98 @@ export const pageQuery = graphql`
         }
       }
     }
-    AaronOsher: file(relativePath: { eq: "AaronOsher.jpg" }) {
+    AaronOsher: file(relativePath: { eq: "team/AaronOsher.jpg" }) {
       childImageSharp {
         original {
           src
         }
       }
     }
-    PrimozFabiani: file(relativePath: { eq: "PrimozFabiani.jpg" }) {
+    PrimozFabiani: file(relativePath: { eq: "team/PrimozFabiani.jpg" }) {
       childImageSharp {
         original {
           src
         }
       }
     }
-    JohnMercer: file(relativePath: { eq: "JohnMercer.jpg" }) {
+    JohnMercer: file(relativePath: { eq: "team/JohnMercer.jpg" }) {
       childImageSharp {
         original {
           src
         }
       }
     }
-    DanielCordell: file(relativePath: { eq: "DanielCordell.jpg" }) {
+    DanielCordell: file(relativePath: { eq: "team/DanielCordell.jpg" }) {
       childImageSharp {
         original {
           src
         }
       }
     }
-    ZainAli: file(relativePath: { eq: "ZainAli.jpg" }) {
+    ZainAli: file(relativePath: { eq: "team/ZainAli.jpg" }) {
       childImageSharp {
         original {
           src
         }
       }
     }
-    HaniMomeninia: file(relativePath: { eq: "HaniMomeninia.jpeg" }) {
+    HaniMomeninia: file(relativePath: { eq: "team/HaniMomeninia.jpeg" }) {
       childImageSharp {
         original {
           src
         }
       }
     }
-    SamuelKing: file(relativePath: { eq: "SamuelKing.jpg" }) {
+    SamuelKing: file(relativePath: { eq: "team/SamuelKing.jpg" }) {
       childImageSharp {
         original {
           src
         }
       }
     }
-    TaraDilley: file(relativePath: { eq: "TaraDilley.jpg" }) {
+    TaraDilley: file(relativePath: { eq: "team/TaraDilley.jpg" }) {
       childImageSharp {
         original {
           src
         }
       }
     }
-    MiaMukherjee: file(relativePath: { eq: "MiaMukherjee.jpg" }) {
+    MiaMukherjee: file(relativePath: { eq: "team/MiaMukherjee.jpg" }) {
       childImageSharp {
         original {
           src
         }
       }
     }
-    AlexanderDewfall: file(relativePath: { eq: "AlexanderDewfall.jpg" }) {
+    AlexanderDewfall: file(relativePath: { eq: "team/AlexanderDewfall.jpg" }) {
       childImageSharp {
         original {
           src
         }
       }
     }
-    AlexanderDewfall2: file(relativePath: { eq: "AlexanderDewfall2.jpg" }) {
+    AlexanderDewfall2: file(relativePath: { eq: "team/AlexanderDewfall2.jpg" }) {
       childImageSharp {
         original {
           src
         }
       }
     }
-    HannahLester: file(relativePath: { eq: "HannahLester.jpg" }) {
+    HannahLester: file(relativePath: { eq: "team/HannahLester.jpg" }) {
       childImageSharp {
         original {
           src
         }
       }
     }
-    ViktoriaPopovici: file(relativePath: { eq: "ViktoriaPopovici.jpg" }) {
+    ViktoriaPopovici: file(relativePath: { eq: "team/ViktoriaPopovici.jpg" }) {
       childImageSharp {
         original {
           src
         }
       }
     }
-    OctavianSalagean: file(relativePath: { eq: "OctavianSalagean.jpg" }) {
+    OctavianSalagean: file(relativePath: { eq: "team/OctavianSalagean.jpg" }) {
       childImageSharp {
         original {
           src

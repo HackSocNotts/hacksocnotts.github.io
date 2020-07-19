@@ -1,9 +1,8 @@
 import React, { Component } from 'react';
-import { Container, Header } from 'semantic-ui-react';
-import { ResponsiveContainer } from '../../Containers';
-import { Footer } from '../../Footer';
+import { Container as SuiContainer, Header } from 'semantic-ui-react';
+import Container from '../components/Container';
 
-import * as styles from './Error404Page.less';
+import * as styles from '../assets/less/pages/404-page.less';
 
 export default class Error404Page extends Component {
   constructor(props) {
@@ -17,31 +16,30 @@ export default class Error404Page extends Component {
 
   heading({ mobile } = { mobile: false }) {
     return (
-      <Container text>
+      <SuiContainer text>
         <Header
           as="h1"
           content="Page or Item Not Found"
           inverted
           className={mobile ? styles.mobileHeader1 : styles.desktopHeader1}
         />
-      </Container>
+      </SuiContainer>
     );
   }
 
   render() {
     const { headerBackground, heading } = this;
     return (
-      <ResponsiveContainer heading={heading} background={headerBackground}>
-        <Container style={{ height: window.innerHeight - 200, paddingTop: '1em' }}>
+      <Container heading={heading} background={headerBackground}>
+        <SuiContainer style={{ height: window.innerHeight - 200, paddingTop: '1em' }}>
           <Header as="h3" className={styles.h3}>
             Please verify that the URL is correct.
           </Header>
           <p className={styles.p}>
             This error could be caused by an invalid event in the manifest. Feel free to check the GitHub repository.
           </p>
-        </Container>
-        <Footer />
-      </ResponsiveContainer>
+        </SuiContainer>
+      </Container>
     );
   }
 }
