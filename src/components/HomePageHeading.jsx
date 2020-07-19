@@ -3,7 +3,8 @@ import React from 'react';
 
 import { Container, Header, Image } from 'semantic-ui-react';
 
-import logo from 'resources/logo.png';
+// import logo from 'resources/logo.png';
+const logo = '#';
 
 import * as styles from '../assets/less/headers.less';
 
