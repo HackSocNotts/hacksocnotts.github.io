@@ -5,7 +5,7 @@ import MobileContainer from './MobileContainer';
 import Footer from './Footer';
 import '../assets/less/semantic.less';
 
-const Container = (children, ...props) => {
+const Container = ({ children, ...props }) => {
   return (
     <>
       <DesktopContainer {...props}>
