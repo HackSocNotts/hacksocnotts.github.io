@@ -6,7 +6,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
   const result = await graphql(`
     {
-      pages: allFile(filter: {sourceInstanceName: {eq: "pages"}}) {
+      pages: allFile(filter: { sourceInstanceName: { eq: "pages" } }) {
         edges {
           node {
             childMarkdownRemark {
@@ -19,8 +19,15 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
           }
         }
       }
-    }
-
+      events: allMarkdownRemark(filter: { fields: { sourceName: { eq: "events" } } }) {
+        nodes {
+          id
+          frontmatter {
+            start(formatString: "YYYY/MM/DD")
+            id
+          }
+        }
+      }
     }
   `);
 
@@ -30,14 +37,34 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   }
 
   const pages = result.data.pages.edges;
-
   pages.forEach((page) => {
     const { id, frontmatter } = page.node.childMarkdownRemark;
     const { slug, template } = frontmatter;
 
     createPage({
       path: slug,
-      component: path.resolve(`src/templates/${String(template)}.js`),
+      component: path.resolve(`src/templates/${String(template)}.jsx`),
+      context: {
+        id,
+      },
+    });
+  });
+
+  const events = result.data.events.nodes;
+  events.forEach(({ id, frontmatter }) => {
+    const slug = `${frontmatter.start}/${frontmatter.id}`;
+
+    createPage({
+      path: `/event/${slug}`,
+      component: path.resolve(`src/templates/event-page.jsx`),
+      context: {
+        id,
+      },
+    });
+
+    createPage({
+      path: `/events/${slug}`,
+      component: path.resolve(`src/templates/event-page.jsx`),
       context: {
         id,
       },
