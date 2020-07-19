@@ -5,7 +5,7 @@ import { Container, Header, Image } from 'semantic-ui-react';
 
 import logo from 'resources/logo.png';
 
-import * as styles from './HomePageHeading.less';
+import * as styles from '../assets/less/headers.less';
 
 const HomePageHeading = ({ mobile } = { mobile: false }) => (
   <Container text>
