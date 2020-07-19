@@ -52,14 +52,6 @@
     "semantic-ui-react": "^0.88.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.0.0-beta.40",
-    "@babel/plugin-proposal-class-properties": "^7.0.0-beta.40",
-    "@babel/plugin-proposal-export-default-from": "^7.0.0-beta.40",
-    "@babel/plugin-proposal-export-namespace-from": "^7.0.0-rc.1",
-    "@babel/plugin-proposal-object-rest-spread": "^7.0.0-beta.55",
-    "@babel/plugin-syntax-dynamic-import": "^7.0.0-beta.56",
-    "@babel/preset-env": "^7.0.0-beta.40",
-    "@babel/preset-react": "^7.0.0-beta.40",
     "autoprefixer": "^8.0.0",
     "babel-eslint": "^9.0.0",
     "babel-loader": "^8.0.0-beta.0",

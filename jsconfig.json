@@ -1,6 +1,0 @@
-{
-  "complierOptions": {
-    "target": "es7",
-    "module": "commonjs"
-  }
-}
