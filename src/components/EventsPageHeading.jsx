@@ -3,16 +3,11 @@ import React from 'react';
 
 import { Container, Header } from 'semantic-ui-react';
 
-import * as styles from './EventsPageHeading.less';
+import { mobileHeader1, desktopHeader3 } from '../assets/less/headers.less';
 
 const EventsPageHeading = ({ mobile } = { mobile: false }) => (
   <Container text>
-    <Header
-      as="h1"
-      content="HackSoc Nottingham Events"
-      inverted
-      className={mobile ? styles.mobileHeader1 : styles.desktopHeader1}
-    />
+    <Header as="h1" content="HackSoc Nottingham Events" inverted className={mobile ? mobileHeader1 : desktopHeader3} />
   </Container>
 );
 
