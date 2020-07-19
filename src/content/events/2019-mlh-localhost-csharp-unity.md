@@ -1,6 +1,6 @@
 ---
 id: 2019-mlh-localhost-csharp-unity
-name: MLH Localhost: Learn C# With Unity
+name: 'MLH Localhost: Learn C# With Unity'
 start: 2019-10-29 18:30:00
 end: 2019-10-29 20:00:00
 location: A32 - Ada Lovelace Lab
