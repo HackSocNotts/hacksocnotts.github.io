@@ -6,11 +6,12 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
   const result = await graphql(`
     {
-      pages: allMarkdownRemark(filter: { sourceInstanceName: { eq: "pages" } }) {
+      pages: allFile(filter: {sourceInstanceName: {eq: "pages"}}) {
         edges {
           node {
-            id {
-              fontmatter {
+            childMarkdownRemark {
+              id
+              frontmatter {
                 slug
                 template
               }
@@ -18,6 +19,8 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
           }
         }
       }
+    }
+
     }
   `);
 
@@ -29,7 +32,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const pages = result.data.pages.edges;
 
   pages.forEach((page) => {
-    const { id, frontmatter } = page.node;
+    const { id, frontmatter } = page.node.childMarkdownRemark;
     const { slug, template } = frontmatter;
 
     createPage({
