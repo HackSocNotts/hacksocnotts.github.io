@@ -1,16 +1,15 @@
 import React from 'react';
-
 import { Segment, Container, Grid } from 'semantic-ui-react';
 
-import CopyrightRow from './CopyrightRow';
+import CopyrightLine from './CopyrightLine';
 
-import * as styles from './Footer.less';
+import { segment } from '../assets/less/footer.less';
 
 const Footer = () => (
-  <Segment inverted vertical className={styles.segment}>
+  <Segment inverted vertical className={segment}>
     <Container>
       <Grid divided inverted stackable>
-        <CopyrightRow />
+        <CopyrightLine />
       </Grid>
     </Container>
   </Segment>

@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Grid } from 'semantic-ui-react';
 
-const CopyrightRow = () => (
+const CopyrightLine = () => (
   <Grid.Row>
     <Grid.Column width={6} floated="left">
       Copyright &copy;&nbsp;
@@ -19,4 +19,4 @@ const CopyrightRow = () => (
   </Grid.Row>
 );
 
-export default CopyrightRow;
+export default CopyrightLine;
