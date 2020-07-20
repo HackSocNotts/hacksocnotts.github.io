@@ -90,16 +90,18 @@ EventPage.propTypes = {
 export const pageQuery = graphql`
   query EventPageQuery($id: String!) {
     event: markdownRemark(id: { eq: $id }) {
-      id
       html
-      name
-      start
-      end
-      location
-      mapLink
-      noHeaderText
-      noHeaderAlt
-      banner
+      frontmatter {
+        id
+        name
+        start
+        end
+        location
+        mapLink
+        noHeaderText
+        noHeaderAlt
+        banner
+      }
     }
   }
 `;

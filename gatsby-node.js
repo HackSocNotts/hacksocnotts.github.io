@@ -4,21 +4,23 @@ const { createFilePath } = require('gatsby-source-filesystem');
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions;
 
+  // Pages Query
+  // pages: allFile(filter: { sourceInstanceName: { eq: "pages" } }) {
+  //   edges {
+  //     node {
+  //       childMarkdownRemark {
+  //         id
+  //         frontmatter {
+  //           slug
+  //           template
+  //         }
+  //       }
+  //     }
+  //   }
+  // }
+
   const result = await graphql(`
     {
-      pages: allFile(filter: { sourceInstanceName: { eq: "pages" } }) {
-        edges {
-          node {
-            childMarkdownRemark {
-              id
-              frontmatter {
-                slug
-                template
-              }
-            }
-          }
-        }
-      }
       events: allMarkdownRemark(filter: { fields: { sourceName: { eq: "events" } } }) {
         nodes {
           id
@@ -36,19 +38,19 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     return;
   }
 
-  const pages = result.data.pages.edges;
-  pages.forEach((page) => {
-    const { id, frontmatter } = page.node.childMarkdownRemark;
-    const { slug, template } = frontmatter;
+  // const pages = result.data.pages.edges;
+  // pages.forEach((page) => {
+  //   const { id, frontmatter } = page.node.childMarkdownRemark;
+  //   const { slug, template } = frontmatter;
 
-    createPage({
-      path: slug,
-      component: path.resolve(`src/templates/${String(template)}.jsx`),
-      context: {
-        id,
-      },
-    });
-  });
+  //   createPage({
+  //     path: slug,
+  //     component: path.resolve(`src/templates/${String(template)}.jsx`),
+  //     context: {
+  //       id,
+  //     },
+  //   });
+  // });
 
   const events = result.data.events.nodes;
   events.forEach(({ id, frontmatter }) => {
@@ -97,4 +99,12 @@ exports.createSchemaCustomization = ({ actions, schema, getNode }) => {
       },
     }),
   ]);
+};
+
+exports.onCreateWebpackConfig = ({ actions }) => {
+  actions.setWebpackConfig({
+    resolve: {
+      alias: { '../../theme.config$': path.join(__dirname, 'src/assets/fomantic-less/theme.config') },
+    },
+  });
 };
