@@ -27,7 +27,7 @@ jobs:
             - node_modules
           key: v1-dependencies-{{ checksum "package.json" }}
       - run: node_modules/.bin/lessc src/components/pages/CalendarPage/less/styles.less > src/components/pages/CalendarPage/styles.css
-      
+
       - run: ls
 
       # ESLint
@@ -44,7 +44,7 @@ jobs:
       - store_test_results:
           path: ~/reports
       - store_artifacts:
-          path: ~/reports  
+          path: ~/reports
 
       # Build
       - run: yarn build
@@ -52,14 +52,14 @@ jobs:
       # - run: git config --global user.name $GH_NAME
       # Deploy
       - deploy:
-          name: Deploy to GH_Pages if tests pass and branch is Master
+          name: Deploy to GH_Pages if tests pass and branch is src
           command:  |
-            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+            if [ "${CIRCLE_BRANCH}" == "src" ]; then
               git config --global user.email $GH_EMAIL
               git config --global user.name $GH_NAME
-              node_modules/.bin/gh-pages -d build
+              node_modules/.bin/gh-pages -d build --branch master
             else
-              echo "Not master branch so not deploying"
+              echo "Not src branch so not deploying"
             fi
 
 
