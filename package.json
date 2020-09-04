@@ -23,7 +23,7 @@
     "eslint-plugin-mocha": "^5.1.0",
     "eslint-plugin-react": "^7.10.0",
     "ics": "^2.10.0",
-    "markdown-to-jsx": "^6.10.0",
+    "markdown-to-jsx": "^6.11.4",
     "moment": "^2.22.2",
     "react": "^16.5.0",
     "react-big-calendar": "^0.19.2",
