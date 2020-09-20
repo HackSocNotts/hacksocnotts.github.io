@@ -4,7 +4,7 @@ Andy is based at IBM's Hursley Park laboratories in the UK, and has has been wor
 
 Andy will take us on a tour of some of his exciting IoT projects, starting in the living lab he has created at his home on the Isle of Wight, including his electronic mousetraps. Via tweeting ferries and animatronic dinosaurs, we visit Marwell zoo in Hampshire, controlling the heating in the animal houses, and end up with his "lockdown inventions" inspired by song titles!
 
-https://zoom.us/j/96167514353?pwd=SjI0NFZXQ3hLMmVnWmJWeVVVNnV6UT09
+https://hacksoc.net/try-it-2020
 
 Meeting ID: 961 6751 4353
 Passcode: 889197
