@@ -166,10 +166,10 @@ const HomePage = () => (
               <a href='mailto:alexander@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
               </a>
-              <a href='https://twitter.com/AcAksan' target='_blank' rel='noopener noreferrer'>
+              <a href='https://twitter.com/AksanDotDev' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='twitter' className={styles.twitter} />
               </a>
-              <a href='https://linkedin.com/in/alexander-dewfall-0ab3ba173' target='_blank' rel='noopener noreferrer'>
+              <a href='https://www.linkedin.com/in/aksandotdev/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
               </a>
             </p>
