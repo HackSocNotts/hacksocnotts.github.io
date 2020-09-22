@@ -10,19 +10,17 @@ import { Segment,
 
 import backgroundImage from 'resources/background.jpg';
 import AaronOsher from 'resources/team/AaronOsher.jpg';
-import PrimozFabiani from 'resources/team/PrimozFabiani.jpg';
-import JohnMercer from 'resources/team/JohnMercer.jpg';
-import DanielCordell from 'resources/team/DanielCordell.jpg';
-import ZainAli from 'resources/team/ZainAli.jpg';
-import HaniMomeninia from 'resources/team/HaniMomeninia.jpeg';
-import SamuelKing from 'resources/team/SamuelKing.jpg';
-import TaraDilley from 'resources/team/TaraDilley.jpg';
-import MiaMukherjee from 'resources/team/MiaMukherjee.jpg';
 import AlexanderDewfall from 'resources/team/AlexanderDewfall.jpg';
-import AlexanderDewfall2 from 'resources/team/AlexanderDewfall2.jpg';
-import HannahLester from 'resources/team/HannahLester.jpg';
-import ViktoriaPopovici from 'resources/team/ViktoriaPopovici.jpg';
-import OctavianSalagean from 'resources/team/OctavianSalagean.jpg';
+import ReeceRoberts from 'resources/team/ReeceRoberts.jpg';
+import NeveMarpole from 'resources/team/NeveMarpole.jpg';
+import SamuelKing from 'resources/team/SamuelKing.jpg';
+import TashBayliss from 'resources/team/TashBayliss.jpg';
+import JamesFrost from 'resources/team/JamesFrost.jpg';
+import PeterTaylor from 'resources/team/PeterTaylor.png';
+import MollyShalliker from 'resources/team/MollyShalliker.jpg';
+import MeabhMagee from 'resources/team/MeabhMagee.jpg';
+import ReeceHarvey from 'resources/team/ReeceHarvey.jpg';
+import RyanHardwick from 'resources/team/RyanHardwick.jpg';
 
 import { ResponsiveContainer } from '../../Containers';
 import HomePageHeading from './HomePageHeading';
@@ -46,10 +44,10 @@ const HomePage = () => (
               About HackSoc Nottingam
             </Header>
             <p className={styles.p}>
-            A part of the University of Nottingham Students&apos;​ Union, HackSoc is centered around
-            getting its members building, learning, and sharing new tech. Every week we have programming
-            tutorials for complete beginners, advanced topics with guest speakers, and throughout the year
-            we travel to hackathons to team up with other students from around the world.
+              A part of the University of Nottingham Students&apos;​ Union, HackSoc is centered around
+              getting its members building, learning, and sharing new tech. Every week we have programming
+              tutorials for complete beginners, advanced topics with guest speakers, and throughout the year
+              we travel to hackathons to team up with other students from around the world.
             </p>
           </Grid.Column>
         </Grid.Row>
@@ -177,82 +175,85 @@ const HomePage = () => (
             </p>
           </Grid.Column>
           <Grid.Column width={2}>
-            <Image src={PrimozFabiani} size='medium' />
+            <Image src={NeveMarpole} size='medium' />
             <p>
               <span className={styles.p}>
-                Primoz Fabiani
+                Neve Marpole
               </span>
               <br />
-              General Secretary
+              Treasurer
               <br />
-              <a href='mailto:primoz@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+              <a href='mailto:neve.marpole@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
               </a>
               {/* <a href='https://twitter.com/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='twitter' className={styles.twitter} />
               </a> */}
-              <a href='https://www.linkedin.com/in/primoz-fabiani-095121186' target='_blank' rel='noopener noreferrer'>
+              {/* <a href='https://www.linkedin.com/in/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
-              </a>
+              </a> */}
             </p>
           </Grid.Column>
           <Grid.Column width={2}>
-            <Image src={JohnMercer} size='medium' />
+            <Image src={ReeceRoberts} size='medium' />
             <p>
               <span className={styles.p}>
-                John Mercer
+                Reece Roberts
               </span>
               <br />
-              Treasurer
+              General Secretary
               <br />
-              <a href='mailto:john@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+              <a href='mailto:reece.roberts@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
               </a>
-              <a href='https://www.linkedin.com/in/john-kendal-mercer/' target='_blank' rel='noopener noreferrer'>
+              {/* <a href='https://twitter.com/' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='twitter' className={styles.twitter} />
+              </a> */}
+              {/* <a href='https://www.linkedin.com/in/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
-              </a>
+              </a> */}
             </p>
           </Grid.Column>
         </Grid.Row>
         <Grid.Row>
           <Grid.Column width={2}>
-            <Image src={HannahLester} size='medium' />
+            <Image src={PeterTaylor} size='medium' />
             <p>
               <span className={styles.p}>
-                Hannah Lester
+                Peter Taylor
               </span>
               <br />
-              Partners Secretary
+              Development Secretary
               <br />
-              <a href='mailto:hannah@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+              <a href='mailto:peter.taylor@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
               </a>
-              <a href='https://twitter.com/HanAthon' target='_blank' rel='noopener noreferrer'>
+              {/* <a href='https://twitter.com/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='twitter' className={styles.twitter} />
-              </a>
-              <a href='https://www.linkedin.com/in/hannah-l-614202139/' target='_blank' rel='noopener noreferrer'>
+              </a> */}
+              {/* <a href='https://www.linkedin.com/in/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
-              </a>
+              </a> */}
             </p>
           </Grid.Column>
           <Grid.Column width={2}>
-            <Image src={HaniMomeninia} size='medium' />
+            <Image src={TashBayliss} size='medium' />
             <p>
               <span className={styles.p}>
-                Hani Momeninia
+                Tash Bayliss
               </span>
               <br />
-              Cyber Security Secretary
+              Speaker Acquisition Secretary
               <br />
-              <a href='mailto:hani@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+              <a href='mailto:tash.bayliss@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
               </a>
-              <a href='https://twitter.com/Hani_Momeninia' target='_blank' rel='noopener noreferrer'>
+              {/* <a href='https://twitter.com' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='twitter' className={styles.twitter} />
-              </a>
-              <a href='https://www.linkedin.com/in/hanimomeninia/' target='_blank' rel='noopener noreferrer'>
+              </a> */}
+              {/* <a href='https://www.linkedin.com/in/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
-              </a>
+              </a> */}
             </p>
           </Grid.Column>
           <Grid.Column width={2}>
@@ -262,7 +263,7 @@ const HomePage = () => (
                 Samuel King
               </span>
               <br />
-              Speaker Acquisition Secretary
+              Industrial Partners Secretary
               <br />
               <a href='mailto:samuel@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
@@ -276,136 +277,105 @@ const HomePage = () => (
             </p>
           </Grid.Column>
           <Grid.Column width={2}>
-            <Image src={TaraDilley} size='medium' />
+            <Image src={MollyShalliker} size='medium' />
             <p>
               <span className={styles.p}>
-                Tara Dilley
+                Molly Shalliker
               </span>
               <br />
-                Welfare and Inclusivity Secretary
+              Welfare and Inclusivity Secretary
               <br />
-              <a href='mailto:tara@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+              <a href='mailto:molly.shalliker@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
               </a>
-              <a href='https://twitter.com/tara_dilley' target='_blank' rel='noopener noreferrer'>
+              {/* <a href='https://twitter.com' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='twitter' className={styles.twitter} />
-              </a>
-            </p>
-          </Grid.Column>
-          <Grid.Column width={2}>
-            <Image src={DanielCordell} size='medium' />
-            <p>
-              <span className={styles.p}>
-                Daniel Cordell
-              </span>
-              <br />
-              Development Secretary
-              <br />
-              <a href='mailto:daniel@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='mail' color='green' />
-              </a>
-              <a href='https://twitter.com/crdlpls' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='twitter' className={styles.twitter} />
-              </a>
-              <a href='https://www.linkedin.com/in/daniel-cordell/' target='_blank' rel='noopener noreferrer'>
+              </a> */}
+              {/* <a href='https://www.linkedin.com/in/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
-              </a>
+              </a> */}
             </p>
           </Grid.Column>
         </Grid.Row>
         <Grid.Row>
           <Grid.Column width={2}>
-            <Image src={ZainAli} size='medium' />
+            <Image src={RyanHardwick} size='medium' />
             <p>
               <span className={styles.p}>
-                Zain Ali
+                Ryan Hardwick
+              </span>
+              <br />
+              Cyber Security Secretary
+              <br />
+              <a href='mailto:reece.hardwick@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='mail' color='green' />
+              </a>
+              {/* <a href='https://twitter.com' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='twitter' className={styles.twitter} />
+              </a> */}
+              {/* <a href='https://www.linkedin.com/in/' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='linkedin' className={styles.linkedIn} />
+              </a> */}
+            </p>
+          </Grid.Column>
+          <Grid.Column width={2}>
+            <Image src={MeabhMagee} size='medium' />
+            <p>
+              <span className={styles.p}>
+                Méabh Magee
+              </span>
+              <br />
+              Social Media Secretary
+              <br />
+              <a href='mailto:meabh.magee@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='mail' color='green' />
+              </a>
+              {/* <a href='https://twitter.com' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='twitter' className={styles.twitter} />
+              </a> */}
+              {/* <a href='https://www.linkedin.com/in/' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='linkedin' className={styles.linkedIn} />
+              </a> */}
+            </p>
+          </Grid.Column>
+          <Grid.Column width={2}>
+            <Image src={JamesFrost} size='medium' />
+            <p>
+              <span className={styles.p}>
+                James Frost
+              </span>
+              <br />
+              Marketing Secretary
+              <br />
+              <a href='mailto:james.frost@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='mail' color='green' />
+              </a>
+              {/* <a href='https://twitter.com' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='twitter' className={styles.twitter} />
+              </a> */}
+              {/* <a href='https://www.linkedin.com/in/' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='linkedin' className={styles.linkedIn} />
+              </a> */}
+            </p>
+          </Grid.Column>
+          <Grid.Column width={2}>
+            <Image src={ReeceHarvey} size='medium' />
+            <p>
+              <span className={styles.p}>
+                Reece Harvey
               </span>
               <br />
               Graphics Officer
               <br />
-              <a href='mailto:zain@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
+              <a href='mailto:reece.harvey@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
               </a>
-            </p>
-          </Grid.Column>
-          <Grid.Column width={2}>
-            <Image src={MiaMukherjee} size='medium' />
-            <p>
-              <span className={styles.p}>
-                Mia Mukherjee
-              </span>
-              <br />
-              Social Media and Communications Officer
-              <br />
-              <a href='mailto:mia@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='mail' color='green' />
-              </a>
-              <a href='https://twitter.com/Lepidora_' target='_blank' rel='noopener noreferrer'>
+              {/* <a href='https://twitter.com' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='twitter' className={styles.twitter} />
-              </a>
-              <a href='https://www.linkedin.com/in/mia-mukherjee-a7058b156/' target='_blank' rel='noopener noreferrer'>
+              </a> */}
+              {/* <a href='https://www.linkedin.com/in/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
-              </a>
-            </p>
-          </Grid.Column>
-          <Grid.Column width={2}>
-            <Image src={OctavianSalagean} size='medium' />
-            <p>
-              <span className={styles.p}>
-                Octavian V. Salagean
-              </span>
-              <br />
-              HackNotts Head of Finance
-              <br />
-              <a href='mailto:octavian@hacknotts.com' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='mail' color='green' />
-              </a>
-              <a href='https://twitter.com/therebelliovs' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='twitter' className={styles.twitter} />
-              </a>
-              <a href='https://linkedin.com/in/rebelliovs' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='linkedin' className={styles.linkedIn} />
-              </a>
-            </p>
-          </Grid.Column>
-          <Grid.Column width={2}>
-            <Image src={ViktoriaPopovici} size='medium' />
-            <p>
-              <span className={styles.p}>
-                Viktoria Popovici
-              </span>
-              <br />
-              HackNotts Head of Logistics
-              <br />
-              <a href='mailto:viktoria@hacknotts.com' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='mail' color='green' />
-              </a>
-              <a href='https://twitter.com/viki_popovici' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='twitter' className={styles.twitter} />
-              </a>
-              <a href='https://linkedin.com/in/viktoriapopovici' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='linkedin' className={styles.linkedIn} />
-              </a>
-            </p>
-          </Grid.Column>
-          <Grid.Column width={2}>
-            <Image src={AlexanderDewfall2} size='medium' />
-            <p>
-              <span className={styles.p}>
-                Alexander Dewfall
-              </span>
-              <br />
-              HackNotts Head of Human Resources
-              <br />
-              <a href='mailto:alexander@hacknotts.com' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='mail' color='green' />
-              </a>
-              <a href='https://twitter.com/AcAksan' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='twitter' className={styles.twitter} />
-              </a>
-              <a href='https://linkedin.com/in/alexander-dewfall-0ab3ba173' target='_blank' rel='noopener noreferrer'>
-                <Icon link name='linkedin' className={styles.linkedIn} />
-              </a>
+              </a> */}
             </p>
           </Grid.Column>
         </Grid.Row>
