@@ -1,0 +1,1 @@
+Get the year started with our try it event where Andy Stanford-Clark (CTO of IBM) will take us on a tour of some of his exciting IoT projects, starting in the living lab he has created at his home and finish up with his "lockdown inventions" inspired by song titles!
