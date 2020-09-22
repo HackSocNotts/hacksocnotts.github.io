@@ -356,6 +356,9 @@ const HomePage = () => (
               {/* <a href='https://www.linkedin.com/in/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
               </a> */}
+              <a href='https://www.frost.cx' target='_blank' rel='noopener noreferrer'>
+                <Icon link name='globe' color='green' />
+              </a>
             </p>
           </Grid.Column>
           <Grid.Column width={2}>
