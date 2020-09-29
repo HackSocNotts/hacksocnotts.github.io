@@ -228,9 +228,9 @@ const HomePage = () => (
               <a href='mailto:peter.taylor@hacksocnotts.co.uk' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='mail' color='green' />
               </a>
-              {/* <a href='https://twitter.com/' target='_blank' rel='noopener noreferrer'>
+              <a href='https://twitter.com/pmypt3' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='twitter' className={styles.twitter} />
-              </a> */}
+              </a>
               {/* <a href='https://www.linkedin.com/in/' target='_blank' rel='noopener noreferrer'>
                 <Icon link name='linkedin' className={styles.linkedIn} />
               </a> */}
