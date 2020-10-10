@@ -1,1 +1,1 @@
-During the session you will watch a live demonstration from our guest speaker Tash who will show the steps required to gain root access on a windows server with the eternal blue vulnerability.
+The third workshop of the year will focus on applying the skills that have been shown to you in the previous session the week before.
