@@ -2,7 +2,7 @@ In this talk, I take attendees through the basics of the Dot Net Framework, Dot 
  
 I then explain how to install Dot NET Core on the Pi and deploy a Dot NET Core Console App.
  
-Once the basics are covered, I move on to adding GPIO functionality to the Console app to provide some real world interaction.
+Once the basics are covered, Pete moves on to adding GPIO functionality to the console app to provide some real world interaction.
  
 We then add a connection to an Azure IoT Hub.
  
