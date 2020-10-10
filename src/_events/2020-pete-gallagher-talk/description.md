@@ -6,7 +6,7 @@ Once the basics are covered, Pete moves on to adding GPIO functionality to the c
  
 We then add a connection to an Azure IoT Hub.
  
-Finally I show how to spin up a Blazor app.
+Finally he will show attendees how to spin up a Blazor app.
  
 What you’ll learn by attending this session;
  
