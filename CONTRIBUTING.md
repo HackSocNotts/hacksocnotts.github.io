@@ -18,4 +18,4 @@ Second, add your event to the [eventsManifest.json](src/_events/eventsManifest.j
 - `summary` and `description`: Paths to the summary and description files in the `src/_events/yourEvent` directory
 - `banner`: A path to the banner image for the event
 
-Once you're happy with your event, simply [sumbit a Pull Request](https://github.com/HackSocNotts/hacksocnotts.co.uk/pulls)!
+Once you're happy with your event, simply [submit a Pull Request](https://github.com/HackSocNotts/hacksocnotts.co.uk/pulls)!
