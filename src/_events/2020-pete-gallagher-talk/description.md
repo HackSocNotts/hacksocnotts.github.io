@@ -1,6 +1,6 @@
 In this talk, freelance developer Pete Gallagher take attendees through the basics of the Dot NET Framework, Dot NET Standard, Dot NET Core, what it is and it’s place in the Microsoft Ecosystem.
  
-I then explain how to install Dot NET Core on the Pi and deploy a Dot NET Core Console App.
+He will then explain how to install Dot NET Core on the Pi and deploy a Dot NET Core console App.
  
 Once the basics are covered, Pete moves on to adding GPIO functionality to the console app to provide some real world interaction.
  
