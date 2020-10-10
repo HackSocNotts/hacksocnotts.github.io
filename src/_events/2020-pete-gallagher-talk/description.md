@@ -1,4 +1,4 @@
-In this talk, I take attendees through the basics of the Dot Net Framework, Dot NET Standard, Dot NET Core, what it is and it’s place in the Microsoft Ecosystem.
+In this talk, freelance developer Pete Gallagher take attendees through the basics of the Dot NET Framework, Dot NET Standard, Dot NET Core, what it is and it’s place in the Microsoft Ecosystem.
  
 I then explain how to install Dot NET Core on the Pi and deploy a Dot NET Core Console App.
  
