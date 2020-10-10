@@ -13,7 +13,7 @@ What you’ll learn by attending this session;
 How to get Dot NET Core 3 up and running on Raspberry Pi, Controlling electronics through GPIO with Dot NET Core 3, Azure IoT Hubs with Dot NET Core 3, Blazor with Raspberry Pi and Dot NET Core 3.
 
 
-https://hacksoc.net/zoom
+[hacksoc.net/zoom](https://hacksoc.net/zoom)
 OR
 Meeting ID: 936 8191 3127
 Passcode: 732336
