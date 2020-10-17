@@ -1,0 +1,3 @@
+In 90 Minutes you'll learn how to build your first portfolio website using basic web technologies like HTML, CSS, and some JavaScript to make it extra snazzy. At the end, we'll teach you how to host your website for free on GitHub pages as well as getting a free domain name with the GitHub Student Developer Pack.
+
+In pt. 2 of this workshop (date TBA) we'll learn about static site generation and teach you how to make your own blog for showing off your awesome projects! 
