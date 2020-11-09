@@ -1,0 +1,1 @@
+The third workshop of the year will focus on applying the skills that have been shown to you in the previous session the week before.
