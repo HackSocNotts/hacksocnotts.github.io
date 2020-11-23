@@ -1,7 +1,7 @@
 - id: 2020-programming-cafe-nov26
   name: Programming Café
-  start: '2020-11-26 19:00:00'
-  end: '2020-11-26 20:30:00'
+  start: '2020-11-24 19:00:00'
+  end: '2020-11-24 20:30:00'
   location: An internet Connection near you
   mapLink: https://www.google.com/maps?q=university+of+nottingham+school+of+computer+science&rlz=1C1CHBF_enGB843GB843&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiYiomu1ebkAhVkQUEAHbShBvYQ_AUIEigB
   summary: 2020-programming-cafe-nov26/summary.md
