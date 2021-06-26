@@ -1,1 +1,0 @@
-In this talk we look at dealing with the statement "Slack's great, it would be even better if...".

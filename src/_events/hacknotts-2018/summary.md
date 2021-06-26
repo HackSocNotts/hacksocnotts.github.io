@@ -1,1 +1,0 @@
-Take part in the University of Nottingham's annual 24 hour hackathon and build something really cool!

@@ -1,1 +1,0 @@
-Learn the basics of building a static website and host it for free in 90 minutes!

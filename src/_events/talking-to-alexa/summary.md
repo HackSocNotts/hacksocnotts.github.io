@@ -1,1 +1,0 @@
-Learn about how easy and awesome it is to make an app for Alexa during Steven Pears' Talking to Alexa talk and workshop.

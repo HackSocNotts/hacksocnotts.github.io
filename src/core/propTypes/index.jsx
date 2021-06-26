@@ -1,1 +1,0 @@
-export isMoment from './isMoment';

@@ -1,1 +1,0 @@
-A brief introduction into building secure software by Mark Goodwin, a Mozilla developer.

@@ -1,1 +1,0 @@
- From speedrunners to lore nerds and all sorts in between push and break games, taking them to pieces to see how they work. Join Alexi and Leanne on a journey through the bugs and exploits that the Final Fantasy community have found and dive into the code and design to see how they work and what lead to these game breaking exploits shipping. 
