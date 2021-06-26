@@ -1,0 +1,42 @@
+{{ define "main" }}
+<main>
+    <article>
+        <h1>{{ .Title }}</h1>
+        <div>
+            {{ .Content }}
+        </div>
+        <div id="committee">
+        {{ range .Site.Data.committee.members }}
+            <div class="card">
+                <img src="https://placekitten.com/160/160" alt="Profile Photo">
+                <h3>{{ .title }}</h3>
+                {{ .name }}
+                <ul class="contact">
+                    {{ if .website }}
+                    <li>
+                        <a href="{{ .website }}"><img src="/img/globe.svg" alt="website"></a>
+                    </li>
+                    {{ end }}
+                    {{ if .twitter }}
+                    <li>
+                        <a href="{{ .twitter }}"><img src="/img/twitter.svg" alt="twitter"></a>
+                    </li>
+                    {{ end }}
+                    {{ if .instagram }}
+                    <li>
+                        <a href="{{ .instagram }}"><img src="/img/instagram.svg" alt="instagram"></a>
+                    </li>
+                    {{ end }}
+                    {{ if .email }}
+                    <li>
+                        <a href="mailto:{{ .email }}"><img src="/img/mail.svg" alt="email"></a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+        {{ end }}
+        </div>
+        {{ readFile "info/election.md" | markdownify}}
+    </article>
+</main>
+{{ end }}

@@ -1,0 +1,201 @@
+* {
+    color: #0c0c0c;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, a {
+    color: #3c57c3;
+}
+
+h1, h2, h3, h4, h5, h6, nav *, thead *, div.calendar-nav * {
+    font-family: 'Recursive', sans-serif;
+}
+
+nav a {
+    display: inline;
+    padding: 15px;
+    text-decoration: none;
+}
+
+div.buttons.right {
+    margin-right: 0;
+    margin-left: auto;
+    width: 300px;
+}
+
+a#join {
+    padding: 8px;
+    border: 2px solid #3c57c3;
+    border-radius: 6px;
+    font-size: 15pt;
+    font-weight: bold;
+}
+
+table#calendar {
+    margin-top: 10px;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+table#calendar thead td {
+    padding: 0;
+    color: white;
+    background-color: #3c57c3;
+    padding: 5px;
+    text-align: center;
+    width: 14.2%;
+}
+
+table#calendar td.day {
+    padding: 5px;
+    font-size: 0.9em;
+    vertical-align: top;
+}
+
+table#calendar div.date {
+    color: black;
+    border-bottom: 1px solid #3c57c3;
+    font-size: 1rem;
+    font-weight: bold;
+    padding-left: 5px;
+}
+
+table#calendar div.event {
+    font-weight: bold;
+    padding-top: 5px;
+    color: #3c57c3;
+}
+
+table#calendar div.time {
+    color: rgb(158, 158, 158);
+}
+
+table#calendar tbody tr {
+    height: 80px;
+}
+
+div.calendar-nav {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+div.calendar-nav div {
+    cursor: pointer;
+    color: #3c57c3;
+    user-select: none;
+    text-align: center;
+}
+
+#calendar-left {
+    margin-left: 0;
+    margin-right: auto;
+    width: 100px;
+}
+
+#calendar-month {
+    font-weight: bold;
+    background-color: #3c57c3;
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
+    idth: 150px;
+}
+
+#calendar-right {
+    margin-right: 0;
+    margin-left: auto;
+    width: 100px;
+}
+
+article.item {
+    color: #666;
+}
+
+time.post-date {
+    color: #666;
+}
+
+div#paginator {
+    text-align: right;
+}
+
+div#split div {
+    padding: 10px;
+    padding-top: 0;
+}
+
+div#split h2 {
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+footer {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+footer .flex {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1em;
+}
+
+footer * {
+    color: #666;
+}
+
+div#committee {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+div#committee div.card {
+    width: 160px;
+    height: 250px;
+    margin: 10px;
+}
+
+div#committee div.card h3 {
+    margin: 0;
+}
+
+ul.contact {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 5px;
+}
+
+ul.contact li {
+    display: inline;
+}
+
+main {
+    margin-bottom:3em;
+}
+
+ul.contact img {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+
+p {
+    margin-top: 0;
+}
+
+.middle-link {
+    display: block;
+    text-align: center;
+    padding-bottom: 2em;
+}
+
+hr {
+    color: #3c57c3;
+}

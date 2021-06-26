@@ -1,0 +1,28 @@
+{{ define "main" }}
+	<main>
+		{{ partial "calendar.html" }}
+		<div id="split">
+			<div class="left">
+				<h2>About Us</h2>
+				{{ readFile "info/about.md" | markdownify}}
+			</div>
+			<div class="right">
+				<h2>Upcoming Events</h2>
+				{{ range where .Pages.ByDate "Section" "events" }}
+					{{ range .Pages.ByDate }}
+					{{ if ge .Date.Unix now.Unix }}
+					{{ .Render "event-summary" }}
+					{{ end }}
+					{{ end }}
+				{{ end }}
+
+				<h2>Blog</h2>
+				{{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") }}
+				{{ range $paginator.Pages }}
+					{{ .Render "summary" }}
+				{{ end }}
+				{{ partial "pagination.html" . }}
+			</div>
+		</div>
+	</main>
+{{ end }}

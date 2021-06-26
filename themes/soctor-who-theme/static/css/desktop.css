@@ -1,0 +1,54 @@
+@media only screen and (min-width: 768px) {
+
+nav {
+    width: 850px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: baseline;
+}
+
+nav div.buttons {
+    display: inline-flex;
+    flex-direction: row;
+    width: 300px;
+}
+
+nav div.buttons.left {
+    flex-direction: row-reverse;
+}
+
+nav div.buttons.right {
+    margin: 0;
+}
+
+main {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav img {
+    vertical-align: middle;
+}
+
+div#split {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+a#join{
+    margin: 20px;
+    height: 1.2em;
+}
+
+footer {
+    width: 700px;
+    margin-bottom: 50px;
+}
+    
+}

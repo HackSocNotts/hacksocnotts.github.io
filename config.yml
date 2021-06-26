@@ -1,0 +1,103 @@
+baseURL: "https://soctorwh.ooo/"
+title: Soctor Who
+paginate: 10
+theme: soctor-who-theme
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: true
+buildExpired: false
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+    section:
+        - Calendar
+        - HTML
+        - JSON
+    page:
+        - HTML
+        - JSON
+        
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "The Presently Unaffiliated Society for Doctor Who"
+    author: Soctor Who Committee
+    #images: ["./images/logo.png"]
+    #assets:
+    #    favicon: "/icon.svg"
+
+
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: false
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+
+    logoPath: /img/logo.svg
+    buttonText: "Join Us!"
+    buttonURL: /
+
+menu:
+    main:
+        - identifier: committee
+          name: Committee
+          url: /committee/
+          weight: 9
+        - identifier: about
+          name: About
+          url: /about/
+          weight: 10
+        - identifier: discord
+          name: Discord
+          url: /u/discord
+          weight: 11
+    footer:
+        - identifier: code-of-conduct
+          name: Code of Conduct
+          url: /code-of-conduct
+        - identifier: twitter
+          name: Twitter
+          url: https://twitter.com/SoctorWho
+        - identifier: constitution
+          name: Constitution
+          url: /u/constitution.pdf
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true

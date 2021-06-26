@@ -1,0 +1,33 @@
+members:
+    - identifier: president
+      title: President
+      name: Peter Taylor
+      image: n/a
+      website: https://pmy.pt3.uk
+      twitter: https://twitter.com/pmypt3
+      email: pmy@pt3.uk
+    - identifier: coordinator
+      title: Coordinator
+      name: Harry Clough
+      image: n/a
+    - identifier: treasurer
+      title: Treasurer
+      name: Joe Bainbridge
+      image: n/a
+    - identifier: social-media
+      title: Social Media Secretary
+      name: Cass Stevens
+      image: n/a
+    - identifier: wellbeing
+      title: Wellbeing Secretary
+      name: Julie Tavernier
+      image: n/a
+      twitter: https://twitter.com/jtav00
+      instagram: https://www.instagram.com/jtav00/
+    - identifier: tin-dog
+      title: Tin Dog
+      name: Zac Garby
+      image: n/a
+      website: https://zacgarby.co.uk
+      twitter: https://twitter.com/zacgarby
+      email: me@zacgarby.co.uk

@@ -1,0 +1,15 @@
+<header>
+	<nav>
+		<div class="buttons left">
+			<a id="join" href="{{ .Site.Params.ButtonURL }}">{{ .Site.Params.ButtonText }}</a>
+		</div>
+		<a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.LogoPath }}" alt="{{ .Site.Title }}"></a>
+		<div class="buttons right">
+			{{ with .Site.Menus.main }}
+			{{ range . }}
+			<a href="{{ .URL | relURL }}">{{ .Name }}</a>
+			{{ end }}
+		</div>
+	</nav>
+	{{ end }}
+</header>

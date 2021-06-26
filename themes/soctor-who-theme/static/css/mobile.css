@@ -1,0 +1,89 @@
+@media only screen and (max-width: 768px) {
+
+body {
+    margin: 0;
+}
+
+main {
+    margin: 15px;
+    margin-bottom: 40px;
+}
+
+footer {
+    margin-bottom: 50px;
+}
+
+nav > a {
+    padding: 0;
+    margin-bottom: 25px;
+}
+
+nav img {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    padding-right: calc(50% - 50px);
+    padding-left: calc(50% - 50px);
+    background-color: #3c57c3;
+    display: block;
+    margin: auto;
+    order: 1;
+}
+
+nav {
+    font-size: 120%;
+}
+
+nav .buttons {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav .buttons.left {
+    order: 2;
+    flex: 1;
+}
+
+nav .buttons.right {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+a#join{
+    margin: auto;
+    display: inline-block;
+}
+
+nav .buttons.right {
+    order: 3;
+}
+
+div#split div {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+div#split div *:last-child {
+    margin-bottom: 0;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+}
+
+table#calendar {
+    overflow-x: scroll;
+    font-size: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.calendar-nav {
+    margin-top: 0;
+}
+
+}
