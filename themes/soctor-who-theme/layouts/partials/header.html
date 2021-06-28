@@ -1,15 +1,14 @@
 <header>
+	<div class="title">
+		<a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.LogoPath }}" height="100px" alt="{{ .Site.Title }}"></a>
+		<h1>HackSoc Nottingham</h1>
+	</div>
 	<nav>
-		<div class="buttons left">
-			<a id="join" href="{{ .Site.Params.ButtonURL }}">{{ .Site.Params.ButtonText }}</a>
-		</div>
-		<a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.LogoPath }}" alt="{{ .Site.Title }}"></a>
-		<div class="buttons right">
-			{{ with .Site.Menus.main }}
-			{{ range . }}
-			<a href="{{ .URL | relURL }}">{{ .Name }}</a>
-			{{ end }}
-		</div>
-	</nav>
-	{{ end }}
+		<a id="join" href="{{ .Site.Params.JoinURL }}">Join Us!</a>
+		{{ with .Site.Menus.main }}
+		{{ range . }}
+		<a href="{{ .URL | relURL }}">{{ .Name }}</a>
+		{{ end }}
+		{{ end }}
+	</nav>	
 </header>

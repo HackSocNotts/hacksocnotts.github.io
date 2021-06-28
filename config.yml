@@ -1,5 +1,5 @@
-baseURL: "https://soctorwh.ooo/"
-title: Soctor Who
+baseURL: "https://hacksocnotts.co.uk/"
+title: HackSoc
 paginate: 10
 theme: soctor-who-theme
 
@@ -28,8 +28,8 @@ outputs:
         
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "The Presently Unaffiliated Society for Doctor Who"
-    author: Soctor Who Committee
+    description: "HackSoc Nottingham"
+    author: HackSoc Committee
     #images: ["./images/logo.png"]
     #assets:
     #    favicon: "/icon.svg"
@@ -45,22 +45,17 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 
     logoPath: /img/logo.svg
-    buttonText: "Join Us!"
-    buttonURL: /
+    joinURL: https://www.su.nottingham.ac.uk/societies/society/hack/
 
 menu:
     main:
-        - identifier: committee
-          name: Committee
-          url: /committee/
-          weight: 9
-        - identifier: about
-          name: About
-          url: /about/
+        - identifier: hacknotts
+          name: HackNotts
+          url: https://hacknotts.com/
           weight: 10
-        - identifier: discord
-          name: Discord
-          url: /u/discord
+        - identifier: hackquarantine
+          name: Hack Quarantine
+          url: https://hackquarantine.com/
           weight: 11
     footer:
         - identifier: code-of-conduct

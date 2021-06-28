@@ -1,19 +1,15 @@
 * {
     color: #0c0c0c;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
 }
 
-h1, h2, h3, a {
-    color: #3c57c3;
-}
-
-h1, h2, h3, h4, h5, h6, nav *, thead *, div.calendar-nav * {
-    font-family: 'Recursive', sans-serif;
+h1 {
+    color: #00953b;
 }
 
 nav a {
     display: inline;
-    padding: 15px;
+    padding: 6px;
     text-decoration: none;
 }
 
@@ -25,7 +21,8 @@ div.buttons.right {
 
 a#join {
     padding: 8px;
-    border: 2px solid #3c57c3;
+    color: white;
+    background-color: #00953b;
     border-radius: 6px;
     font-size: 15pt;
     font-weight: bold;
@@ -40,7 +37,7 @@ table#calendar {
 table#calendar thead td {
     padding: 0;
     color: white;
-    background-color: #3c57c3;
+    background-color: #00953b;
     padding: 5px;
     text-align: center;
     width: 14.2%;
@@ -54,16 +51,17 @@ table#calendar td.day {
 
 table#calendar div.date {
     color: black;
-    border-bottom: 1px solid #3c57c3;
+    border-bottom: 1px solid #eee;
     font-size: 1rem;
     font-weight: bold;
     padding-left: 5px;
+    margin-left: -5px;
+    margin-right: -5px;
 }
 
 table#calendar div.event {
     font-weight: bold;
     padding-top: 5px;
-    color: #3c57c3;
 }
 
 table#calendar div.time {
@@ -83,7 +81,7 @@ div.calendar-nav {
 
 div.calendar-nav div {
     cursor: pointer;
-    color: #3c57c3;
+    color: #00953b;
     user-select: none;
     text-align: center;
 }
@@ -96,11 +94,10 @@ div.calendar-nav div {
 
 #calendar-month {
     font-weight: bold;
-    background-color: #3c57c3;
+    background-color: #00953b;
     color: white;
     padding: 8px;
     border-radius: 4px;
-    idth: 150px;
 }
 
 #calendar-right {
@@ -119,16 +116,6 @@ time.post-date {
 
 div#paginator {
     text-align: right;
-}
-
-div#split div {
-    padding: 10px;
-    padding-top: 0;
-}
-
-div#split h2 {
-    margin-top: 15px;
-    margin-bottom: 5px;
 }
 
 footer {
@@ -157,7 +144,6 @@ div#committee {
 
 div#committee div.card {
     width: 160px;
-    height: 250px;
     margin: 10px;
 }
 
@@ -194,8 +180,5 @@ p {
     display: block;
     text-align: center;
     padding-bottom: 2em;
-}
-
-hr {
-    color: #3c57c3;
+    color: #aaa;
 }

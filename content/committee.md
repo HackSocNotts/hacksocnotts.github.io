@@ -6,4 +6,4 @@ type: "special"
 summary: "members of the committee"
 ---
 
-Our society is run by a committee, who are elected anually at our AGM. These are the people who run our events, and are who you should speak to if you have any issues.
+HackSoc is run by a committed and motivated team of students striving to give our members the best experiences possible.

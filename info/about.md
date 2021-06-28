@@ -1,3 +1,1 @@
-We are Soctor Who, an as yet unaffiliated group dedicated to all things Doctor Who!
-
-We have meetings every so often.
+A part of the University of Nottingham Students'​ Union, HackSoc is centered around getting its members building, learning, and sharing new tech. Every week we have programming tutorials for complete beginners, advanced topics with guest speakers, and throughout the year we travel to hackathons to team up with other students from around the world.

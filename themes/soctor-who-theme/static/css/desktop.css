@@ -1,6 +1,6 @@
 @media only screen and (min-width: 768px) {
 
-nav {
+header {
     width: 850px;
     margin-top: 40px;
     margin-left: auto;
@@ -8,26 +8,25 @@ nav {
 
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    align-items: baseline;
+    align-items: center;
+    justify-content: space-between;
 }
 
-nav div.buttons {
-    display: inline-flex;
-    flex-direction: row;
-    width: 300px;
+header div.title {
+    display: flex;
+    justify-content: baseline;
 }
 
-nav div.buttons.left {
-    flex-direction: row-reverse;
+header div.title a {
+    height: 1em;
 }
 
-nav div.buttons.right {
-    margin: 0;
+header div.title a img {
+    transform: translateY(-10px);
 }
 
 main {
-    width: 700px;
+    width: min(1000px, 90%);
     margin-left: auto;
     margin-right: auto;
 }
@@ -38,12 +37,28 @@ nav img {
 
 div#split {
     display: grid;
-    grid-template-columns: 50% 50%;
+    column-gap: 20px;
+    grid-template-columns: 65% 35%;
+}
+
+div#split div {
+    padding-top: 0;
+}
+
+div#split h2 {
+    margin-top: 15px;
+    margin-bottom: 5px;
 }
 
 a#join{
-    margin: 20px;
+    margin: 10px;
     height: 1.2em;
+}
+
+div#who-can-join {
+    display: grid;
+    column-gap: 20px;
+    grid-template-columns: auto auto auto;
 }
 
 footer {

@@ -8,7 +8,7 @@
         <div id="committee">
         {{ range .Site.Data.committee.members }}
             <div class="card">
-                <img src="https://placekitten.com/160/160" alt="Profile Photo">
+                <img src="{{ .image }}" width="160px" alt="Profile Photo">
                 <h3>{{ .title }}</h3>
                 {{ .name }}
                 <ul class="contact">

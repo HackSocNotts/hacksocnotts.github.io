@@ -3,7 +3,7 @@
 		{{ partial "calendar.html" }}
 		<div id="split">
 			<div class="left">
-				<h2>About Us</h2>
+				<h2>About HackSoc Nottingham</h2>
 				{{ readFile "info/about.md" | markdownify}}
 			</div>
 			<div class="right">
@@ -22,6 +22,25 @@
 					{{ .Render "summary" }}
 				{{ end }}
 				{{ partial "pagination.html" . }}
+			</div>
+		</div>
+		<div>
+			<h2>Who can join?</h2>
+			HackSoc is open to all. From newbies to seasoned developers, as long as you’re interested in tech, HackSoc is for you.
+
+			<div id="who-can-join">
+				<div>
+					<h3>Newbies</h3>
+					Anyone with little or no knowledge of programming; no experience required!
+				</div>
+				<div>
+					<h3>Developers</h3>
+					Improve your skillset, meet other people like you and travel to Hackathons with friends.
+				</div>
+				<div>
+					<h3>Designers</h3>
+					Got an idea that could work with some programming? Come along to share your idea, build your idea and get great things made!
+				</div>
 			</div>
 		</div>
 	</main>
