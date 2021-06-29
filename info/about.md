@@ -1,1 +1,3 @@
 A part of the University of Nottingham Students'​ Union, HackSoc is centered around getting its members building, learning, and sharing new tech. Every week we have programming tutorials for complete beginners, advanced topics with guest speakers, and throughout the year we travel to hackathons to team up with other students from around the world.
+
+HackSoc is run by a committed and motivated [team of students](/committee) striving to give our members the best experiences possible.

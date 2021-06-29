@@ -53,10 +53,6 @@ menu:
           name: HackNotts
           url: https://hacknotts.com/
           weight: 10
-        - identifier: hackquarantine
-          name: Hack Quarantine
-          url: https://hackquarantine.com/
-          weight: 11
     footer:
         - identifier: code-of-conduct
           name: Code of Conduct
@@ -67,6 +63,9 @@ menu:
         - identifier: constitution
           name: Constitution
           url: /u/constitution.pdf
+        - identifier: committee
+          name: Committee
+          url: /committee
 
 taxonomies:
     category: categories
