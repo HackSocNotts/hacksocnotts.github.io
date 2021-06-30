@@ -1,6 +1,6 @@
 baseURL: "https://hacksocnotts.co.uk/"
 title: HackSoc
-paginate: 10
+paginate: 3
 theme: soctor-who-theme
 
 enableInlineShortcodes: true

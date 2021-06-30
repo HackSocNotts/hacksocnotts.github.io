@@ -13,7 +13,7 @@
 	<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 	<link rel="stylesheet" href="{{ "css/mobile.css" | relURL }}">
 	<link rel="stylesheet" href="{{ "css/desktop.css" | relURL }}">
-	<script src="js/calendar.js"></script>
+	<script src="/js/calendar.js"></script>
 	{{ with .OutputFormats.Get "RSS" -}}
 		{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{- end }}
