@@ -27,9 +27,6 @@ function populateCalendar(year, month) {
     document.getElementById("calendar-month").innerHTML = months[month] + " " + year;
     document.getElementById("calendar-right").innerHTML = months[(month + 1) % 12];
 
-
-    console.log("populating calendar. year = " + year.toString() + " month = " + month);
-
     var start = new Date(year, month, 1);
 
     var col = getDay(start);
@@ -67,9 +64,7 @@ function populateCalendar(year, month) {
     fetchEvents(evt => renderEvents(year, month, evt));
 }
 
-function renderEvents(year, month, events) {
-    console.log(events)
-    
+function renderEvents(year, month, events) {    
     for (var event of events) {
         var date = new Date(event.date);
 
