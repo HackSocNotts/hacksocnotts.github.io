@@ -16,8 +16,8 @@
 					{{ end }}
 				{{ end }}
 
-				<h2>Newsletters</h2>
-				{{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") }}
+				<h2><a href="/newsletters">Newsletters</a></h2>
+				{{ $paginator := .Paginate (where .Site.RegularPages "Type" "newsletters") }}
 				{{ range $paginator.Pages }}
 					{{ .Render "summary" }}
 				{{ end }}

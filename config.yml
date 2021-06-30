@@ -66,6 +66,9 @@ menu:
         - identifier: committee
           name: Committee
           url: /committee
+        - identifier: events
+          name: All Events
+          url: /events
 
 taxonomies:
     category: categories
