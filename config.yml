@@ -57,19 +57,31 @@ menu:
         - identifier: code-of-conduct
           name: Code of Conduct
           url: /code-of-conduct
+          weight: 6
         - identifier: twitter
           name: Twitter
           url: https://twitter.com/HackSocNotts
+          weight: 2
         - identifier: constitution
           name: Constitution
           url: /u/constitution.pdf
+          weight: 4
         - identifier: committee
           name: Committee
           url: /committee
+          weight: 5
         - identifier: events
           name: All Events
           url: /events
-
+          weight: 10
+        - identifier: github
+          name: GitHub
+          url: https://github.com/HackSocNotts
+          weight: 1
+        - identifier: facebook
+          name: Facebook
+          url: https://www.facebook.com/hacksocnotts/
+          weight: 3
 taxonomies:
     category: categories
     tag: tags
