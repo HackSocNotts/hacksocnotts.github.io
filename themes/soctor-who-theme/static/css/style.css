@@ -183,3 +183,8 @@ p {
     padding-bottom: 2em;
     color: #aaa;
 }
+
+h1 a {
+    color: #00953b;
+    text-decoration: none;;
+}
