@@ -69,6 +69,11 @@ div#split div {
     padding-bottom: 0;
 }
 
+div.right {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
 div#split div *:last-child {
     margin-bottom: 0;
 }
