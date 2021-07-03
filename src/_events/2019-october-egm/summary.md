@@ -1,1 +1,0 @@
-The HackSoc EGM is happening soon! It's a chance for you to get involved in the future of the society or potentially joining the committee to have a hand in the governance of the society on the path going forward.

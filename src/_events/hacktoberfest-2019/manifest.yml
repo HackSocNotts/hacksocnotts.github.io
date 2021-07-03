@@ -1,9 +1,0 @@
-- id: hacktoberfest-2019
-  name: Hacktoberfest Open Hack Day
-  start: '2019-10-24 18:30:00'
-  end: '2019-10-24 23:59:59'
-  location: School of Computer Science
-  mapLink: https://www.google.co.uk/maps/place/School+of+Computer+Science/@52.9533603,-1.1892748,17.15z/data=!4m5!3m4!1s0x4879c209bfffffff:0xaf426646771a25ac!8m2!3d52.953357!4d-1.18736
-  summary: hacktoberfest-2019/summary.md
-  description: hacktoberfest-2019/description.md
-  banner: hacktoberfest-2019/banner.png

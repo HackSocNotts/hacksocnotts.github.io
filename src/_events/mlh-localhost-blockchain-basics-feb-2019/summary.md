@@ -1,1 +1,0 @@
-Quorum is an open source fork of the Ethereum blockchain, developed by J.P. Morgan. Learn how to edit a Smart Contract and run Quorum on your computer.

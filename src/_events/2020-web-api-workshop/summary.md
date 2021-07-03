@@ -1,1 +1,0 @@
-Our First workshop of the year, this will build on web APIs from the ground up - no prior knowledge required!

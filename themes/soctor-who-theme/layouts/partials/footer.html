@@ -1,0 +1,10 @@
+<footer>
+	<section class="flex">
+	{{ with .Site.Menus.footer }}
+	{{ range . }}
+			<a href="{{ .URL | relURL }}">{{ .Name }}</a>
+	{{ end }}
+	{{end}}
+	</section>
+	<span>Copyright &copy; {{ now.Year }} <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></span>
+</footer>

@@ -1,1 +1,0 @@
-Listen to short talks done by members about a variety of topics within tech

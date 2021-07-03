@@ -1,1 +1,0 @@
- A look at the software quirks of the Final Fantasy Games 

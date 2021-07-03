@@ -1,1 +1,0 @@
-Join us for the 2019 edition of MLH's Local Hack Day - Learn!

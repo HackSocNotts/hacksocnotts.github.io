@@ -1,1 +1,0 @@
-Join us for the February edition of Tech Nottingham with talks by Jennifer Moore and Sophie Smithwell
