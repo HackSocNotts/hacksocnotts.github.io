@@ -6,3 +6,28 @@ members:
       website: https://pmy.pt3.uk
       twitter: https://twitter.com/pmypt3
       email: peter.taylor@hacksocnotts.co.uk
+    - identifier: gen-sec
+      title: General Secretary
+      name: James Frost
+      image: /img/team/JamesFrost.jpg
+      website: https://frost.cx
+      email: james.frost@hacksocnotts.co.uk
+    - identifier: treasurer
+      title: Treasurer
+      name: Jacob Garby
+      image: /img/team/JacobGarby.png
+      email: jacob.garby@hacksocnotts.co.uk
+    - identifier: dev-sec
+      title: Development Secretary
+      name: Zac Garby
+      image: /img/team/ZacGarby.png
+      website: https://zacgarby.co.uk
+      email: zac.garby@hacksocnotts.co.uk
+    - identifier: speaker-sec
+      title: Speaker Acquisition Secretary
+      name: Liam-Elio Colabuono-McDonagh
+      email: liam-e.c-m@hacksocnotts.co.uk
+    - identifier: cyber-sec
+      title: Cyber Security Secretary
+      name: Alexander Orgill
+      email: alexander.orgill@hacksocnotts.co.uk
