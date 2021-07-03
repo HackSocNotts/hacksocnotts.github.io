@@ -16,6 +16,7 @@ members:
       title: Treasurer
       name: Jacob Garby
       image: /img/team/JacobGarby.png
+      website: http://jacobgarby.co.uk
       email: jacob.garby@hacksocnotts.co.uk
     - identifier: dev-sec
       title: Development Secretary
