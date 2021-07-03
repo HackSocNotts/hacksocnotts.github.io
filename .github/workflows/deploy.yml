@@ -1,0 +1,34 @@
+name: Deploy
+on:
+  push:
+    branches:
+      - src
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [12.x]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Install Dependenices
+        working-directory: ~/repo
+        run: yarn install --froze-lockfile
+
+      - name: Compile Production Build
+        working-directory: ~/repot
+        run: yarn build --prod
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: master
+          FOLDER: build

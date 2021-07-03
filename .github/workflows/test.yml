@@ -1,0 +1,19 @@
+name: Test
+on: [push, pull_request]
+jobs:
+  coverage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+
+      - name: Test
+        uses: mattallty/jest-github-action@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Coverage
+        uses: ziishaned/jest-reporter-action@v0.0.1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          test-command: "yarn jest --coverage"
