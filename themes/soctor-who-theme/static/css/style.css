@@ -152,6 +152,12 @@ div#committee div.card h3 {
     margin: 0;
 }
 
+#committee .prof {
+    width: 160px;
+    height: 160px;
+    display: block;
+}
+
 ul.contact {
     list-style: none;
     margin: 0;
