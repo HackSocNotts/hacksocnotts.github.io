@@ -13,9 +13,31 @@ footer {
     margin-bottom: 50px;
 }
 
-nav > a {
-    padding: 0;
-    margin-bottom: 25px;
+footer section.flex {
+    flex-wrap: wrap;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+footer a {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+div.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: -20px;
+}
+
+header h1 {
+    display: inline-block;
+}
+
+header div.title a img {
+    transform: translateY(-5px);
 }
 
 nav img {
@@ -32,29 +54,10 @@ nav img {
 
 nav {
     font-size: 120%;
-}
-
-nav .buttons {
-    width: 100%;
     display: flex;
+    flex-direction: row;
     justify-content: center;
-    align-items: center;
-}
-
-nav .buttons.left {
-    order: 2;
-    flex: 1;
-}
-
-nav .buttons.right {
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-}
-
-a#join{
-    margin: auto;
-    display: inline-block;
+    margin-bottom: 30px;
 }
 
 nav .buttons.right {
@@ -70,11 +73,6 @@ div#split div *:last-child {
     margin-bottom: 0;
 }
 
-nav {
-    display: flex;
-    flex-direction: column;
-}
-
 table#calendar {
     overflow-x: scroll;
     font-size: 80%;
@@ -84,6 +82,10 @@ table#calendar {
 
 div.calendar-nav {
     margin-top: 0;
+}
+
+div.middle-link {
+    padding-bottom: 10px;
 }
 
 }
