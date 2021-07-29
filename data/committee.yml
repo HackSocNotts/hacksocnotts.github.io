@@ -21,7 +21,13 @@ members:
     - identifier: dev-sec
       title: Development Secretary
       name: Zac Garby
-      image: /img/team/ZacGarby.jpg
+      image: /img/team/ZacGarby.png
+      website: https://zacgarby.co.uk
+      email: zac.garby@hacksocnotts.co.uk
+    - identifier: graphics
+      title: Graphics Officer
+      name: Zac Garby
+      image: /img/team/ZacGarby.png
       website: https://zacgarby.co.uk
       email: zac.garby@hacksocnotts.co.uk
     - identifier: speaker-sec
