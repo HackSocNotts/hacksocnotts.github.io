@@ -41,6 +41,7 @@ A list of talks, curated by [Hacksoc](https://hacksoc.net)
 - https://youtu.be/_36csDow7J8 Arkisto: an open-source, standards-based framework for digital preservation (Mike Lynch, LCA 2021)
 - https://youtu.be/Kpb7dgnQRKA How a major museum runs on Linux (Simon Loffler, LCA 2021)
 - https://youtu.be/byasZFTgmIc Open Source AI and speech recognition (Kathy Reid, LCA 2021)
+- https://youtu.be/nI_3dvmV9_M Patently Obvious - The year that lawyers came to FOSS (Neil McGovern, LCA 2021)
 
 ## Cyber Security
 - https://youtu.be/jKIXw_ATdhE The Connected House of Horrors (Terence Eden, EMF 2018)
@@ -61,7 +62,6 @@ A list of talks, curated by [Hacksoc](https://hacksoc.net)
 - https://youtu.be/fTLsS_QZ8us Booting faster (Stewart Smith, LCA 2019)
 - https://youtu.be/9-IWMbJXoLM What UNIX cost us (Benno Rice, LCA 2020)
 - https://youtu.be/mdMqk-FvfIM It's (not) down in the noise. (Peter Chubb, LCA 2021)
-- https://youtu.be/nI_3dvmV9_M Patently Obvious - The year that lawyers came to FOSS (Neil McGovern, LCA 2021)
 
 ## Contributing
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
