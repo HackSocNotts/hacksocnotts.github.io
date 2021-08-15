@@ -1,3 +1,7 @@
+---
+title: Awesome Talks
+date: "2021-08-15"
+---
 # Awesome Talks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/HackSocNotts/Awesome-Talks/actions/workflows/lint.yaml/badge.svg)](https://github.com/HackSocNotts/Awesome-Talks/actions/workflows/lint.yaml)
 
 A list of talks, curated by [Hacksoc](https://hacksoc.net)
