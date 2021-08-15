@@ -1,25 +1,6 @@
-<div align="center">
-
-<!-- title -->
-
-<!--lint ignore no-dead-urls-->
 # Awesome Talks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/HackSocNotts/Awesome-Talks/actions/workflows/lint.yaml/badge.svg)](https://github.com/HackSocNotts/Awesome-Talks/actions/workflows/lint.yaml)
 
-<!-- subtitle -->
-
 A list of talks, curated by [Hacksoc](https://hacksoc.net)
-
-<!-- image -->
-
-<!-- <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
-</a> -->
-
-<!-- description -->
-
-</div>
-
-<!-- TOC -->
 
 ## Contents
 
@@ -77,8 +58,6 @@ A list of talks, curated by [Hacksoc](https://hacksoc.net)
 - https://youtu.be/9-IWMbJXoLM What UNIX cost us (Benno Rice, LCA 2020)
 - https://youtu.be/mdMqk-FvfIM It's (not) down in the noise. (Peter Chubb, LCA 2021)
 - https://youtu.be/nI_3dvmV9_M Patently Obvious - The year that lawyers came to FOSS (Neil McGovern, LCA 2021)
-
-<!-- END CONTENT -->
 
 ## Contributing
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
