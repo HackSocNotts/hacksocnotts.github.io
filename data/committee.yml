@@ -2,7 +2,7 @@ members:
     - identifier: president
       title: President
       name: Peter Taylor
-      image: /img/team/PeterTaylor.png
+      image: /img/team/PeterTaylor.jpg
       website: https://pmy.pt3.uk
       twitter: https://twitter.com/pmypt3
       email: peter.taylor@hacksocnotts.co.uk
@@ -15,7 +15,7 @@ members:
     - identifier: treasurer
       title: Treasurer
       name: Jacob Garby
-      image: /img/team/JacobGarby.png
+      image: /img/team/JacobGarby.jpg
       website: http://jacobgarby.co.uk
       email: jacob.garby@hacksocnotts.co.uk
     - identifier: dev-sec
@@ -24,9 +24,16 @@ members:
       image: /img/team/ZacGarby.png
       website: https://zacgarby.co.uk
       email: zac.garby@hacksocnotts.co.uk
+    - identifier: graphics
+      title: Graphics Officer
+      name: Zac Garby
+      image: /img/team/ZacGarby.png
+      website: https://zacgarby.co.uk
+      email: zac.garby@hacksocnotts.co.uk
     - identifier: speaker-sec
       title: Speaker Acquisition Secretary
       name: Liam-Elio Colabuono-McDonagh
+      image: /img/team/LiamECM.jpg
       email: liam-e.c-m@hacksocnotts.co.uk
     - identifier: cyber-sec
       title: Cyber Security Secretary
