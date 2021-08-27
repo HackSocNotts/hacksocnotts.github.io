@@ -9,12 +9,17 @@
 			<div class="right">
 				<div>
 					<h2>Upcoming Events</h2>
+					{{ $existEvents := false }}
 					{{ range where .Pages.ByDate "Section" "events" }}
 						{{ range .Pages.ByDate }}
 						{{ if ge .Date.Unix now.Unix }}
 						{{ .Render "event-summary" }}
+						{{ $existEvents = true }}
 						{{ end }}
 						{{ end }}
+					{{ end }}
+					{{ if not $existEvents }}
+						There are currently no planned events.
 					{{ end }}
 				</div>
 
