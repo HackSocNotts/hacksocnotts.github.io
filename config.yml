@@ -73,10 +73,6 @@ menu:
         - identifier: events
           name: All Events
           url: /events
-          weight: 9
-        - identifier: awesome-talks
-          name: Awesome Talks
-          url: /awesome-talks
           weight: 10
         - identifier: github
           name: GitHub
