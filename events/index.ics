@@ -4,10 +4,10 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
-SUMMARY:September 2021 Programming Cafe
-DESCRIPTION:Programming Cafe Hello and welcome to our first programming cafe of the year!
-This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and may end up spotlit in our newsletter!
-The event will take place in the A32 Ada Lovelace labororty. If you do not have access to the building (eg you are not a CompSci student) let us know when you arrive and we will let you into the building. More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-09-30-programming-cafe/
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our first programming café of the year!
+This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show-and-tell towards the end, and you may end up spotlit in our newsletter!
+The event will take place in the A32 Ada Lovelace laboratory. If you do not have access to the building (e.g. you are not a CompSci student) let us know when you arrive and we will let you into the building. More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-09-30-programming-cafe/
 DTSTART;TZID=Europe/London:20210923T190000
 DTEND;TZID=Europe/London:20210923T210000
 
@@ -16,11 +16,11 @@ END:VEVENT
 
 BEGIN:VEVENT
 
-SUMMARY:2021 Welcome Week event
-DESCRIPTION:Welcome to Hacksoc! To kick off the new academic year, we&rsquo;ve got our try-it introduction event. In this event, we&rsquo;ll have talks on the following:
- Introduction to cyber security Asteroids to the Oscilloscope Docker and why it should be your friend  In addition to an overall introduction to the society, and an overview of how you can get involved in the Wider Nottingham Tech Community
-The event will take place in the Keighton Lecture Theatre, just down the hill from the Portland building, but will also be streamed On our Youtube Channel because we may have to limit the number of people attending due to COVID rules.
-There will be Pizza! 🍕 More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-welcome-week-up/
+SUMMARY:2021 Welcome Week Event
+DESCRIPTION:Welcome to HackSoc! To kick off the new academic year, we&rsquo;ve got our try-it introduction event. In this event, we&rsquo;ll have talks on the following:
+ Introduction to cyber security Asteroids to the Oscilloscope Docker and why it should be your friend  In addition to an overall introduction to the society, and an overview of how you can get involved in the wider Nottingham tech community.
+The event will take place in the Keighton Auditorium, just down the hill from the Portland building, but will also be streamed on our YouTube channel because we may have to limit the number of people attending due to COVID rules.
+There will be pizza! 🍕 More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-welcome-week-up/
 DTSTART;TZID=Europe/London:20210928T180000
 DTEND;TZID=Europe/London:20210928T203000
 
@@ -29,11 +29,11 @@ END:VEVENT
 
 BEGIN:VEVENT
 
-SUMMARY:2021 Welcome Week event
-DESCRIPTION:Welcome to Hacksoc! To kick off the new academic year, we&rsquo;ve got our try-it introduction event. In this event, we&rsquo;ll have talks on the following:
- Introduction to game development JPEG Compression Toby&rsquo;s Talk  In addition to an overall introduction to the society, and an overview of how you can get involved in the Wider Nottingham Tech Community
-The event will take place in the Buisness School South lecture theatre on Jubilee Campus, but will also be streamed On our Youtube Channel because we may have to limit the number of people attending due to COVID rules.
-There will be Pizza! 🍕 More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-welcome-week-ju/
+SUMMARY:2021 Welcome Week Event
+DESCRIPTION:Welcome to HackSoc! To kick off the new academic year, we&rsquo;ve got our try-it introduction event. In this event, we&rsquo;ll have talks on the following:
+ Introduction to game development JPEG compression Toby&rsquo;s talk  In addition to an overall introduction to the society, and an overview of how you can get involved in the wider Nottingham tech community.
+The event will take place in the large Business School South lecture theatre on Jubilee Campus, but will also be streamed on our YouTube channel because we may have to limit the number of people attending due to COVID rules.
+There will be pizza! 🍕 More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-welcome-week-ju/
 DTSTART;TZID=Europe/London:20210923T180000
 DTEND;TZID=Europe/London:20210923T203000
 
