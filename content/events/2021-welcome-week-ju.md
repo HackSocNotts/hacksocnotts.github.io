@@ -10,7 +10,7 @@ Welcome to HackSoc! To kick off the new academic year, we've got our try-it intr
 
 + Introduction to game development
 + JPEG compression
-+ Toby's talk
++ Docker & why it should be your friend
 
 In addition to an overall introduction to the society, and an overview of how you can get involved in the wider Nottingham tech community.
 
