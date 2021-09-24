@@ -22,7 +22,7 @@ header div.title a {
 }
 
 header div.title a img {
-    transform: translateY(-10px);
+    transform: translateY(-5px);
 }
 
 main {
