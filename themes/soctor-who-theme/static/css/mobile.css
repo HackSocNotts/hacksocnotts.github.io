@@ -29,7 +29,8 @@ div.title {
     align-items: center;
     justify-content: center;
     margin-top: 20px;
-    margin-bottom: -20px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 header h1 {

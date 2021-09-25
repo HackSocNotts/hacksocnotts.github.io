@@ -3,21 +3,23 @@
     <div id="calendar-month" onclick="resetMonth()"></div>
     <div id="calendar-right" onclick="changeMonth(+1)"></div>
 </div>
-<table id="calendar">
-    <thead>
-        <tr>
-            <td>Monday</td>
-            <td>Tuesday</td>
-            <td>Wednesday</td>
-            <td>Thursday</td>
-            <td>Friday</td>
-            <td>Saturday</td>
-            <td>Sunday</td>
-        </tr>
-    </thead>
-    <tbody id="calendar-tbody">
-    </tbody>
-</table>
+<div class="calendar-container">
+    <table id="calendar">
+        <thead>
+            <tr>
+                <td>Monday</td>
+                <td>Tuesday</td>
+                <td>Wednesday</td>
+                <td>Thursday</td>
+                <td>Friday</td>
+                <td>Saturday</td>
+                <td>Sunday</td>
+            </tr>
+        </thead>
+        <tbody id="calendar-tbody">
+        </tbody>
+    </table>
+</div>
 <div class="middle-link">
     <a href="/events/index.ics">Events as ICS (for Outlook &c.)</a>
 </div>

@@ -7,6 +7,11 @@ h1 {
     color: #00953b;
 }
 
+header h1 {
+    font-weight: 900;
+    font-size: 30pt;
+}
+
 nav a {
     display: inline;
     padding: 6px;
@@ -26,6 +31,10 @@ a#join {
     border-radius: 6px;
     font-size: 15pt;
     font-weight: bold;
+}
+
+div.calendar-container {
+    overflow-x: auto;
 }
 
 table#calendar {
