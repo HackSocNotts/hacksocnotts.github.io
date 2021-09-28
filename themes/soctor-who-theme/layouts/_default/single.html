@@ -1,24 +1,33 @@
 {{ define "main" }}
 	<main>
-		<article>
-			<h1>{{ .Title }}</h1>
-			<h3>
-				{{ .Date.Format "January 2, 2006" }}{{ if .Params.time }}.
-				{{ .Params.time }}
+		{{ if .Params.location }} <!-- if it is an event -->
+		<article class="article-split">
+			<div class="article-right">
+				<h3>When?</h3>
+				{{ if .Params.time }}
+					<p>{{ .Params.time }}</p>
 				{{ end }}
-			</h3>
+				<p>
+					{{ .Date.Format "January 2, 2006" }}
+				</p>
+
+				<h3>Where?</h3>
+				<p>{{ .Params.location }}</p>
+			</div>
+			<div class="article-left">
+				<h1>{{ .Title }}</h1>
+				<div>
+					{{ .Content }}
+				</div>
+			</div>
+		</article>
+		{{ else }} <!-- if it is a newsletter -->
+		<article>
+			<h2>Newsletter: {{ .Date.Format "January 2, 2006" }}</h2>
 			<div>
 				{{ .Content }}
 			</div>
-			{{ with .Params.tags }}
-			<div>
-				<ul id="tags">
-					{{ range . }}
-					<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
-					{{ end }}
-				</ul>
-			</div>
-			{{ end }}
 		</article>
+		{{ end }}
 	</main>
 {{ end }}
