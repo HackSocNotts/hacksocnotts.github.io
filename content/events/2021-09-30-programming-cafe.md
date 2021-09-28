@@ -4,6 +4,7 @@ date: "2021-09-30"
 time: "7-9pm"
 start: "2021-09-23T19:00:00+01:00"
 end: "2021-09-23T21:00:00+01:00"
+location: "Computer Science A32"
 ---
 
 Hello and welcome to our first programming café of the year!

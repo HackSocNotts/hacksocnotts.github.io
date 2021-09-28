@@ -4,6 +4,7 @@ date: "2021-09-28"
 time: "6:30-8:30pm"
 start: "2021-09-28T18:30:00+01:00"
 end: "2021-09-28T20:30:00+01:00"
+location: "Keighton Auditorium"
 ---
 
 Welcome to HackSoc! To kick off the new academic year, we've got our try-it introduction event. In this event, we'll have talks on the following:
