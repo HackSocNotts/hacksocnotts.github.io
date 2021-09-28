@@ -60,5 +60,21 @@ footer {
     width: 700px;
     margin-bottom: 50px;
 }
-    
+
+article.article-split {
+    display: grid;
+    grid-template-columns: 60% auto;
+    gap: 20px;
+}
+
+article.article-split div.article-left {
+    grid-row: 1;
+    grid-column: 1;
+}
+
+article.article-split div.article-right {
+    grid-row: 1;
+    grid-column: 2;
+}
+
 }
