@@ -62,6 +62,7 @@ A list of talks, curated by [Hacksoc](https://hacksoc.net)
 - https://youtu.be/fTLsS_QZ8us Booting faster (Stewart Smith, LCA 2019)
 - https://youtu.be/9-IWMbJXoLM What UNIX cost us (Benno Rice, LCA 2020)
 - https://youtu.be/mdMqk-FvfIM It's (not) down in the noise. (Peter Chubb, LCA 2021)
+- https://youtu.be/TPS-eFmdepw Apps, Algorithms and Abstractions: Decoding our Digital World (Dylan Beattie, NDC 2018)
 
 ## Contributing
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
