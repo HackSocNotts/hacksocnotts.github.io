@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hacksocnotts.co.uk/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Awesome Talks</title>
+      <link>https://hacksocnotts.co.uk/awesome-talks/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/awesome-talks/</guid>
+      <description>Awesome Talks   A list of talks, curated by Hacksoc
+Contents  Programming SysAdmin / Servers / Deployment Game Dev Open Source Community Cyber Security RF and Radio Low-Level &amp;amp; OS  Programming  https://youtu.be/QyJZzq0v7Z4 Why Isn&amp;rsquo;t Functional Programming the Norm? (Richard Feldman, Clojutre 2019) https://youtu.be/6hC9IxqdDDw This Videogame Programmer Used the STL and You Will Never Guess What Happened Next (Mathieu Ropert, CppCon 2019) https://youtu.be/IAdLwUXRUvg Non-conforming C++: the Secrets the Committee Is Hiding From You (Miro Knejp, CppCon 2019) https://youtu.</description>
+    </item>
+    
+    <item>
       <title>Programming Café</title>
       <link>https://hacksocnotts.co.uk/events/2021-09-30-programming-cafe/</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
