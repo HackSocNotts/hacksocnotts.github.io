@@ -17,4 +17,4 @@ If you've looked into Discord bots recently, you'll probably have heard about sl
 
 The event will take place in the Exchange Building LT3. If you want to follow along, you'll need to bring a laptop, since you'll need to install some software and we don't have access to the computer science lab at the moment.
 
-If possible, it would save time to install [node.js](https://nodejs.org/en/) (the programming language we'll be using) in advance, as well as the discord.js library. If you're not sure how to do this, feel free to reach out in the discord, or we can help you at the beginning of the workshop.
+If possible, it would save time to install [node.js](https://nodejs.org/en/) (the programming language we'll be using) in advance, as well as the discord.js library. If you're not sure how to do this, feel free to reach out in the discord, or we can help you at the beginning of the workshop. Also, it would help if you have a Discord account.
