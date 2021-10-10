@@ -1,9 +1,9 @@
 ---
 title: "Workshop: Discord Bots"
-date: "2021-10-05"
+date: "2021-10-19"
 time: "7-9pm"
-start: "2021-10-05T19:00:00+01:00"
-end: "2021-10-05T21:00:00+01:00"
+start: "2021-10-19T19:00:00+01:00"
+end: "2021-10-19T21:00:00+01:00"
 location: "Exchange Building C33"
 ---
 
