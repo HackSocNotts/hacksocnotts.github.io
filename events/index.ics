@@ -16,18 +16,6 @@ END:VEVENT
 
 BEGIN:VEVENT
 
-SUMMARY:Programming Café
-DESCRIPTION:Hello and welcome to our programming cafe events!
-This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
-The event will take place in the Exchange Building C33 (provisionally, subject to room bookings.) More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-10-14-prog-cafe/
-DTSTART;TZID=Europe/London:20211014T190000
-DTEND;TZID=Europe/London:20211014T210000
-
-
-END:VEVENT
-
-BEGIN:VEVENT
-
 SUMMARY:Workshop: Discord Bots
 DESCRIPTION:Come along to our first workshop of the year and learn how to make your own Discord bot using JavaScript!
 Prior knowledge of JavaScript or programming in general isn&rsquo;t necessary, as we&rsquo;ll be explaining everything as we go along. We&rsquo;ll be using the discord.js library, which will be the main focus of the workshop.
@@ -35,8 +23,20 @@ There&rsquo;ll be a quick introduction to the discord.js library, and then you&r
 If you&rsquo;ve looked into Discord bots recently, you&rsquo;ll probably have heard about slash commands taking over. Discord seems to want to let bots only interact via users typing in actual commands, so this will be mostly what we cover, but we&rsquo;ll go over the &ldquo;old way&rdquo; of doing things as well.
 The event will take place in the Exchange Building C33 (provisionally, subject to room bookings.)
 If you want to follow along, you&rsquo;ll need to bring a laptop, since you&rsquo;ll need to install some software and we don&rsquo;t have access to the computer science lab at the moment. If possible, it would save time to install node.js (the programming language we&rsquo;ll be using) in advance, as well as the discord.js library. If you&rsquo;re not sure how to do this, feel free to reach out in the discord, or we can help you at the beginning of the workshop. More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-discord-bot-workshop/
-DTSTART;TZID=Europe/London:20211005T190000
-DTEND;TZID=Europe/London:20211005T210000
+DTSTART;TZID=Europe/London:20211019T190000
+DTEND;TZID=Europe/London:20211019T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!
+This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
+The event will take place in the Exchange Building C33 (provisionally, subject to room bookings.) More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-10-14-prog-cafe/
+DTSTART;TZID=Europe/London:20211014T190000
+DTEND;TZID=Europe/London:20211014T210000
 
 
 END:VEVENT
