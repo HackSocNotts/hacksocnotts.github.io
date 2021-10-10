@@ -39,17 +39,6 @@ A Linux laptop or virtual machine (Ubuntu or Debian is fine) is highly reccommen
     </item>
     
     <item>
-      <title>Workshop: Discord Bots</title>
-      <link>https://hacksocnotts.co.uk/events/2021-discord-bot-workshop/</link>
-      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://hacksocnotts.co.uk/events/2021-discord-bot-workshop/</guid>
-      <description>Come along to our first workshop of the year and learn how to make your own Discord bot using JavaScript!
-Prior knowledge of JavaScript or programming in general isn&amp;rsquo;t necessary, as we&amp;rsquo;ll be explaining everything as we go along. We&amp;rsquo;ll be using the discord.js library, which will be the main focus of the workshop.
-There&amp;rsquo;ll be a quick introduction to the discord.js library, and then you&amp;rsquo;re free to make whatever crazy idea you might have for a bot!</description>
-    </item>
-    
-    <item>
       <title>Programming Café</title>
       <link>https://hacksocnotts.co.uk/events/2021-10-14-prog-cafe/</link>
       <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
@@ -58,6 +47,17 @@ There&amp;rsquo;ll be a quick introduction to the discord.js library, and then y
       <description>Hello and welcome to our programming cafe events!
 This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&amp;rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
 The event will take place in the Exchange Building C33 (provisionally, subject to room bookings.</description>
+    </item>
+    
+    <item>
+      <title>Workshop: Discord Bots</title>
+      <link>https://hacksocnotts.co.uk/events/2021-discord-bot-workshop/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2021-discord-bot-workshop/</guid>
+      <description>Come along to our first workshop of the year and learn how to make your own Discord bot using JavaScript!
+Prior knowledge of JavaScript or programming in general isn&amp;rsquo;t necessary, as we&amp;rsquo;ll be explaining everything as we go along. We&amp;rsquo;ll be using the discord.js library, which will be the main focus of the workshop.
+There&amp;rsquo;ll be a quick introduction to the discord.js library, and then you&amp;rsquo;re free to make whatever crazy idea you might have for a bot!</description>
     </item>
     
     <item>
