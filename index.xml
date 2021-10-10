@@ -5,7 +5,17 @@
     <link>https://hacksocnotts.co.uk/</link>
     <description>Recent content on HackSoc</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 28 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hacksocnotts.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hacksocnotts.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arch Install Event</title>
+      <link>https://hacksocnotts.co.uk/events/2021-arch-install/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2021-arch-install/</guid>
+      <description>Prepare your best heckles, as Jacob and Peter will be installing Arch Linux live at this event - what could possibly go wrong?
+The event will take place in the Exchange LT3 lecture theatre on Jubilee Campus.</description>
+    </item>
+    
     <item>
       <title>Programming Café</title>
       <link>https://hacksocnotts.co.uk/events/2021-10-28-prog-cafe/</link>
@@ -15,6 +25,17 @@
       <description>Hello and welcome to our programming cafe events!
 This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&amp;rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
 The event will take place in the Exchange Building C33 (provisionally, subject to room bookings.</description>
+    </item>
+    
+    <item>
+      <title>Workshop: Docker</title>
+      <link>https://hacksocnotts.co.uk/events/2021-10-21-docker/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2021-10-21-docker/</guid>
+      <description>Learn how to use Docker with Peter in this workshop.
+This serves as a follow up to his talk from the first introduction event.
+A Linux laptop or virtual machine (Ubuntu or Debian is fine) is highly reccommended to follow along, especially as there are no computers in the room we&amp;rsquo;re using.</description>
     </item>
     
     <item>
