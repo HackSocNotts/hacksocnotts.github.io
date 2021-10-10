@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 
 SUMMARY:Programming Café
-DESCRIPTION:Programming Café Hello and welcome to our programming cafe events!
+DESCRIPTION:Hello and welcome to our programming cafe events!
 This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
 The event will take place in the Exchange Building C33 (provisionally, subject to room bookings.) More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-10-28-prog-cafe/
 DTSTART;TZID=Europe/London:20211028T190000
@@ -17,7 +17,7 @@ END:VEVENT
 BEGIN:VEVENT
 
 SUMMARY:Programming Café
-DESCRIPTION:Programming Café Hello and welcome to our programming cafe events!
+DESCRIPTION:Hello and welcome to our programming cafe events!
 This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
 The event will take place in the Exchange Building C33 (provisionally, subject to room bookings.) More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-10-14-prog-cafe/
 DTSTART;TZID=Europe/London:20211014T190000
