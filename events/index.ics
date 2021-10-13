@@ -39,6 +39,18 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Workshop: Introduction to Linux
+DESCRIPTION:Come along to an introduction to Linux for those who haven&rsquo;t used the operating system before.
+This talk will cover several areas:
+ What is Linux? Why would I use Linux? What makes Linux different from other operating systems? How do I get started with Linux? Common gotcha situations. How to find help?  The event will take place in the Exchange Building C33 (provisionally, subject to room bookings.) More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-linux-intro/
+DTSTART;TZID=Europe/London:20211019T190000
+DTEND;TZID=Europe/London:20211019T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Programming Café
 DESCRIPTION:Hello and welcome to our programming cafe events!
 This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
