@@ -27,6 +27,19 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Building a Raspberry Pi Robot Arm with .NET 5, Blazor and SignalR
+DESCRIPTION:In this talk Pete Gallagher takes you through everything you need to build a robot arm with a Raspberry Pi, .NET 5 a Blazor App and SignalR.
+We begin by talking about .NET 5 and seeing how easy it is to install .NET 5. Then we look through the various circuits and spin up a console application to explore how we can control the GPIO on the Pi. We see how the Servos are wired up and get the code in place to start moving our Raspberry pi based Robot Arm.
+Next we’ll look at a simple Blazor and SignalR app to control our robot remotely! Finally we’ll have a look at how we can use an Oculus Quest 2 to interact with our Robot Arm in VR!
+This talk appeals to all knowledge levels and anyone interested in getting into STEM, Electronics and Robotics. More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-10-26/
+DTSTART;TZID=Europe/London:20211026T190000
+DTEND;TZID=Europe/London:20211026T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Workshop: Docker
 DESCRIPTION:Learn how to use Docker with Peter in this workshop.
 This serves as a follow up to his talk from the first introduction event.

@@ -28,6 +28,16 @@ The event will take place in the Exchange Building C33 (provisionally, subject t
     </item>
     
     <item>
+      <title>Building a Raspberry Pi Robot Arm with .NET 5, Blazor and SignalR</title>
+      <link>https://hacksocnotts.co.uk/events/2021-10-26/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2021-10-26/</guid>
+      <description>In this talk Pete Gallagher takes you through everything you need to build a robot arm with a Raspberry Pi, .NET 5 a Blazor App and SignalR.
+We begin by talking about .NET 5 and seeing how easy it is to install .NET 5. Then we look through the various circuits and spin up a console application to explore how we can control the GPIO on the Pi. We see how the Servos are wired up and get the code in place to start moving our Raspberry pi based Robot Arm.</description>
+    </item>
+    
+    <item>
       <title>Workshop: Docker</title>
       <link>https://hacksocnotts.co.uk/events/2021-10-21-docker/</link>
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
