@@ -17,4 +17,4 @@ This talk will cover several areas:
 - Common gotcha situations.
 - How to find help?
 
-The event will take place in the Exchange Building C33 (provisionally, subject to room bookings.)
+The event will take place in the Exchange Building LT3
