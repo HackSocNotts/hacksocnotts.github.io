@@ -15,7 +15,7 @@ END:VEVENT
 BEGIN:VEVENT
 
 SUMMARY:RHLy Old Linux
-DESCRIPTION:Peter and James have a play with some old-ass Linux CDs we found More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-11-09/
+DESCRIPTION:Peter and James have a play with some old-ass Linux CDs we found. More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-11-09/
 DTSTART;TZID=Europe/London:20211109T190000
 DTEND;TZID=Europe/London:20211109T210000
 
