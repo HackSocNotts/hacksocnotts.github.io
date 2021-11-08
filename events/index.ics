@@ -4,8 +4,8 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
-SUMMARY:What they don't teach you in a tech degree.
-DESCRIPTION:Ex Development Secretary Daniel Cordell joins us for a talk: What they don&rsquo;t teach you at Harvard business school in a tech degree. More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-11-11/
+SUMMARY:What they don't teach you in a tech degree
+DESCRIPTION:Ex-Development Secretary Daniel Cordell joins us for a talk: What they don&rsquo;t teach you at Harvard business school in a tech degree. More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-11-11/
 DTSTART;TZID=Europe/London:20211111T190000
 DTEND;TZID=Europe/London:20211111T210000
 
