@@ -2,8 +2,8 @@
 title: "Programming Café"
 date: "2021-12-9"
 time: "7-9pm"
-start: "2021-12-9T19:00:00+00:00"
-end: "2021-12-9T21:00:00+00:00"
+start: "2021-12-09T19:00:00+00:00"
+end: "2021-12-09T21:00:00+00:00"
 location: Exchange Building C33
 ---
 
