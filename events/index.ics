@@ -4,6 +4,32 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!
+This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
+We will also have coffee and tea.
+The event will take place in the Exchange Building C33 (provisionally, subject to room bookings.) More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-11-18-programming-cafe/
+DTSTART;TZID=Europe/London:20211118T190000
+DTEND;TZID=Europe/London:20211118T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!
+This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
+We will also have coffee and tea.
+The event will take place in the Exchange Building C33 (provisionally, subject to room bookings.) More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-11-25-programming-cafe/
+DTSTART;TZID=Europe/London:20211118T190000
+DTEND;TZID=Europe/London:20211118T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:What they don't teach you in a tech degree
 DESCRIPTION:Ex-Development Secretary Daniel Cordell joins us for a talk: What they don&rsquo;t teach you at Harvard business school in a tech degree. More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-11-11/
 DTSTART;TZID=Europe/London:20211111T190000
@@ -155,6 +181,19 @@ Here are the available committee positions:
  Vice President Welfare and Inclusivity Secretary Social Media Secretary* Marketing Secretary* Graphics Officer Industrial Partners Secretary If you are interested in running for committee, please apply at https://hacksoc.net/nominate  *If we don&rsquo;t fill both positions, we will put forth a motion to merge the Social Media and Marketing Secretary roles into one, so if you apply, keep in mind that you may end up doing both. More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-egm/
 DTSTART;TZID=Europe/London:20210713T190000
 DTEND;TZID=Europe/London:20210713T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!
+This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
+We will also have coffee and tea.
+The event will take place in the Exchange Building C33 (provisionally, subject to room bookings.) More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-12-09-programming-cafe/
+DTSTART;TZID=Europe/London:20211209T190000
+DTEND;TZID=Europe/London:20211209T210000
 
 
 END:VEVENT
