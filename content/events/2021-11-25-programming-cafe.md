@@ -1,9 +1,9 @@
 ---
 title: "Programming Café"
-date: "2021-11-18"
+date: "2021-11-25"
 time: "7-9pm"
-start: "2021-11-18T19:00:00+00:00"
-end: "2021-11-18T21:00:00+00:00"
+start: "2021-11-25T19:00:00+00:00"
+end: "2021-11-25T21:00:00+00:00"
 location: Exchange Building C33
 ---
 
