@@ -34,7 +34,7 @@ SUMMARY:Introduction to Go
 DESCRIPTION:Go is a modern systems programming language designed at Google by a bunch of clever people (including Ken Thompson who create UNIX and B, C&rsquo;s predecessor, so you know it must be good.) It&rsquo;s becoming a very popular language in a lot of spaces, especially on the web and in crypto.
 This talk will introduce you to the basics of the Go programming language including installation, making a project, and the language itself. It&rsquo;s very similar to other C-like languages so if you know any of those then this talk will build on top of that knowledge, but it&rsquo;s by no means a requirement.
 I&rsquo;ll be making a small web server from scratch as a demonstration of the language and the libraries that it comes with, but Go can be used for just about anything, including games, command line applications, GUI software, blockchain software, and almost anything else.
-This event will take place in C33 in the exchange building. More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-go-workshop/
+This event will take place in LT1 in the exchange building. More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-go-workshop/
 DTSTART;TZID=Europe/London:20211116T190000
 DTEND;TZID=Europe/London:20211116T210000
 
