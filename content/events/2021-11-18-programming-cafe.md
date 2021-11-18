@@ -4,7 +4,7 @@ date: "2021-11-18"
 time: "7-9pm"
 start: "2021-11-18T19:00:00+00:00"
 end: "2021-11-18T21:00:00+00:00"
-location: Exchange Building C33
+location: Exchange Building LT1
 ---
 
 Hello and welcome to our programming cafe events!
@@ -14,4 +14,4 @@ We'll be encouraging people to do a brief show and tell towards the end, and you
 
 We will also have coffee and tea.
 
-The event will take place in the Exchange Building C33 (provisionally, subject to room bookings.)
+The event will take place in the Exchange Building LT1.
