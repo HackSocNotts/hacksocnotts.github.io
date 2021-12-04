@@ -4,6 +4,17 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:HackSoc Christmas Quiz
+DESCRIPTION:Come along to our Christmas quiz! We have booked out the top floor of the Rose and Crown pub, next to Jubilee campus, and we will be having a fun HackSoc quiz, with a bit of a Christmas feel. The quiz consists of rounds devised by committee members, and you&rsquo;ll compete in teams. There are prizes for the winning team!
+After the quiz we will be playing some party games, so be sure to come along! More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-12-16-christmas/
+DTSTART;TZID=Europe/London:20211207T190000
+DTEND;TZID=Europe/London:20211207T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Programming Café
 DESCRIPTION:Hello and welcome to our programming cafe events!
 This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
