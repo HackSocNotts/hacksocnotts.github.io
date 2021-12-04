@@ -4,6 +4,19 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!
+This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
+We will also have coffee and tea.
+The event will take place in the Exchange Building C33 (provisionally, subject to room bookings.) More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-12-09-programming-cafe/
+DTSTART;TZID=Europe/London:20211209T190000
+DTEND;TZID=Europe/London:20211209T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:HackSoc Christmas Quiz
 DESCRIPTION:Come along to our Christmas quiz! We have booked out the top floor of the Rose and Crown pub, next to Jubilee campus, and we will be having a fun HackSoc quiz, with a bit of a Christmas feel. The quiz consists of rounds devised by committee members, and you&rsquo;ll compete in teams. There are prizes for the winning team!
 After the quiz we will be playing some party games, so be sure to come along! More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-12-16-christmas/
@@ -205,19 +218,6 @@ Here are the available committee positions:
  Vice President Welfare and Inclusivity Secretary Social Media Secretary* Marketing Secretary* Graphics Officer Industrial Partners Secretary If you are interested in running for committee, please apply at https://hacksoc.net/nominate  *If we don&rsquo;t fill both positions, we will put forth a motion to merge the Social Media and Marketing Secretary roles into one, so if you apply, keep in mind that you may end up doing both. More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-egm/
 DTSTART;TZID=Europe/London:20210713T190000
 DTEND;TZID=Europe/London:20210713T210000
-
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SUMMARY:Programming Café
-DESCRIPTION:Hello and welcome to our programming cafe events!
-This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
-We will also have coffee and tea.
-The event will take place in the Exchange Building C33 (provisionally, subject to room bookings.) More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-12-09-programming-cafe/
-DTSTART;TZID=Europe/London:20211209T190000
-DTEND;TZID=Europe/London:20211209T210000
 
 
 END:VEVENT
