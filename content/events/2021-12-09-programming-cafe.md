@@ -4,7 +4,7 @@ date: "2021-12-09"
 time: "7-9pm"
 start: "2021-12-09T19:00:00+00:00"
 end: "2021-12-09T21:00:00+00:00"
-location: Exchange Building C33
+location: C33, Exchange Building, Jubilee Campus
 ---
 
 Hello and welcome to our programming cafe events!
@@ -14,4 +14,4 @@ We'll be encouraging people to do a brief show and tell towards the end, and you
 
 We will also have coffee and tea.
 
-The event will take place in the Exchange Building C33 (provisionally, subject to room bookings.)
+The event will take place in the Exchange Building C33.
