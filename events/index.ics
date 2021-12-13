@@ -15,6 +15,19 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Making a blog and getting it online!
+DESCRIPTION:Have you ever wanted a website? Making a blog is a great way to boost your online presence, and is also a really fun way to express yourself.
+This first half of this workshop will be Dev Sec Zac going through how to make a nice website with the Hugo static site generator.
+The second half will be Gen Sec James going through how to host your website with GitHub pages with a custom domain.
+If you follow along, by the end of this workshop you will have a website accessible on the world wide web! More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-12-14-blog-workshop/
+DTSTART;TZID=Europe/London:20211214T190000
+DTEND;TZID=Europe/London:20211214T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Programming Café
 DESCRIPTION:Hello and welcome to our programming cafe events!
 This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!

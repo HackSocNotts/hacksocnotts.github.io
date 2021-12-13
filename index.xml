@@ -17,6 +17,17 @@ In this talk James will be giving an overview of all of the different components
     </item>
     
     <item>
+      <title>Making a blog and getting it online!</title>
+      <link>https://hacksocnotts.co.uk/events/2021-12-14-blog-workshop/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2021-12-14-blog-workshop/</guid>
+      <description>Have you ever wanted a website? Making a blog is a great way to boost your online presence, and is also a really fun way to express yourself.
+This first half of this workshop will be Dev Sec Zac going through how to make a nice website with the Hugo static site generator.
+The second half will be Gen Sec James going through how to host your website with GitHub pages with a custom domain.</description>
+    </item>
+    
+    <item>
       <title>Programming Café</title>
       <link>https://hacksocnotts.co.uk/events/2021-12-09-programming-cafe/</link>
       <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
