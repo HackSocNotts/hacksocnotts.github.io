@@ -4,6 +4,103 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!
+This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
+We will also have coffee and tea.
+The event will take place in the Exchange Building C33. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-02-24-programming-cafe/
+DTSTART;TZID=Europe/London:20220224T190000
+DTEND;TZID=Europe/London:20220224T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Unity Workshop
+DESCRIPTION:Unity is a game engine used by both professionals and hobbyists for millions of games. It&rsquo;s one of the most popular engines in industry and makes it very easy to get started making games using the C# programming language.
+In this workshop you&rsquo;ll learn the basics of the Unity game engine, as well as the C# language, and make a small game from start to finish!
+No knowledge of either of these topics is required, although a bit of experience with programming of any kind will be useful. Also please try to install Unity in advance, since it will probably take quite a while on the University wifi. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-02-22-unity-workshop/
+DTSTART;TZID=Europe/London:20220222T183000
+DTEND;TZID=Europe/London:20220222T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Half a century of C
+DESCRIPTION:This year the C programming language will be turning 50 years old. From its roots inside Bell Labs where is was designed to make writing Unix easier it has come a long way, and is now one of hte most dominant languages, with untold millions of lines of code out in the wild.
+This event will be about C, but the exact details are TBD. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-02-17-c-50-years/
+DTSTART;TZID=Europe/London:20220217T190000
+DTEND;TZID=Europe/London:20220217T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Introduction to Python - Workshop 3
+DESCRIPTION:Do you want to learn how to program? In this workshop you will be introduced to the Python Programming Language, and be taught the basic concepts that underpin programming generally.
+In this session, we&rsquo;ll put (almost) everything you&rsquo;ve learned into making a hangman game!
+This workshop is part three of a three part series that will be running throughout February. If you enjoy it be sure to come along to the other ones. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-02-15-python3/
+DTSTART;TZID=Europe/London:20220215T183000
+DTEND;TZID=Europe/London:20220215T204500
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:UK networking - what of earth were we thinking?
+DESCRIPTION:In this talk, Dr Julian Onions talks a little about the history of email, and how we gradually connected our computers together so we could communicate world wide and work on projects together. He was involved in getting Nottingham University on the net in it&rsquo;s early days, and it wasn&rsquo;t all plain sailing. So - a bit of history, a bit about protocols, a bit of politics, and a lot of good old fashioned hacking to get us where we are today.
+Dr Julian Onions is a professor of astrophysics at the University of Nottingham, and was one of the people involved in the very earliest rollout of internet and email in the UK. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-02-10-early-email-talk/
+DTSTART;TZID=Europe/London:20220210T190000
+DTEND;TZID=Europe/London:20220210T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Introduction to Python - Workshop 2
+DESCRIPTION:Do you want to learn how to program? In this workshop you will be introduced to the Python Programming Language, and be taught the basic concepts that underpin programming generally.
+In this session, we&rsquo;ll cover the following concepts:
+ File Input/Output Console Input Tuples Dictionaries List Comprehensions  This workshop is part two of a three part series that will be running throughout February. If you enjoy it be sure to come along to the other ones. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-02-08-python2/
+DTSTART;TZID=Europe/London:20220208T183000
+DTEND;TZID=Europe/London:20220208T204500
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!
+This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
+We will also have coffee and tea.
+The event will take place in the Exchange Building C33. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-02-03-programming-cafe/
+DTSTART;TZID=Europe/London:20220203T190000
+DTEND;TZID=Europe/London:20220203T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Introduction to Python - Workshop 1
+DESCRIPTION:Do you want to learn how to program? In this workshop you will be introduced to the Python Programming Language, and be taught the basic concepts that underpin programming generally.
+In this session, we&rsquo;ll cover the following concepts:
+ Installing Python. &ldquo;Hello, World!&rdquo;, or writing your first line of code Variables and Types Math Operations Conditional Programming (IF statements) Functions Lists For &amp; While loops String Operations Error handling  All you need to bring is yourself and a computer, We&rsquo;ll walk through installing the language in the workshop.
+This workshop is part one of a three part series that will be running throughout February. If you enjoy it be sure to come along to the other ones. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-02-01-python1/
+DTSTART;TZID=Europe/London:20220201T183000
+DTEND;TZID=Europe/London:20220201T204500
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:How email works: A Talk
 DESCRIPTION:Email is a tool that has been around since the dawn of the internet, and is nearly ubiquitous, but have you ever thought about how it works?
 In this talk James will be giving an overview of all of the different components that make email work, and why even after 50 years it is still hard to setup your own email server. More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-12-07-email/
@@ -242,6 +339,17 @@ Here are the available committee positions:
  Vice President Welfare and Inclusivity Secretary Social Media Secretary* Marketing Secretary* Graphics Officer Industrial Partners Secretary If you are interested in running for committee, please apply at https://hacksoc.net/nominate  *If we don&rsquo;t fill both positions, we will put forth a motion to merge the Social Media and Marketing Secretary roles into one, so if you apply, keep in mind that you may end up doing both. More details can be found at <no value>https://hacksocnotts.co.uk/events/2021-egm/
 DTSTART;TZID=Europe/London:20210713T190000
 DTEND;TZID=Europe/London:20210713T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:HackNotts 2021
+DESCRIPTION:HackNotts is our annual hackathon, and the largest event that HackSoc runs. Hundreds of hackers from all over the country will gather, and spend 24 hours making cool things! Hackathons are a great place to meet new people, learn new skills, and build your CV!
+Find more info, and get your tickets at hacknotts.com! More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-02-12-hacknotts/
+DTSTART;TZID=Europe/London:20220212T090000
+DTEND;TZID=Europe/London:20220213T140000
 
 
 END:VEVENT

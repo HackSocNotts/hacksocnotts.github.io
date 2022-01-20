@@ -5,7 +5,94 @@
     <link>https://hacksocnotts.co.uk/</link>
     <description>Recent content on HackSoc</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hacksocnotts.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hacksocnotts.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming Café</title>
+      <link>https://hacksocnotts.co.uk/events/2022-02-24-programming-cafe/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-02-24-programming-cafe/</guid>
+      <description>Hello and welcome to our programming cafe events!
+This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&amp;rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
+We will also have coffee and tea.
+The event will take place in the Exchange Building C33.</description>
+    </item>
+    
+    <item>
+      <title>Unity Workshop</title>
+      <link>https://hacksocnotts.co.uk/events/2022-02-22-unity-workshop/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-02-22-unity-workshop/</guid>
+      <description>Unity is a game engine used by both professionals and hobbyists for millions of games. It&amp;rsquo;s one of the most popular engines in industry and makes it very easy to get started making games using the C# programming language.
+In this workshop you&amp;rsquo;ll learn the basics of the Unity game engine, as well as the C# language, and make a small game from start to finish!
+No knowledge of either of these topics is required, although a bit of experience with programming of any kind will be useful.</description>
+    </item>
+    
+    <item>
+      <title>Half a century of C</title>
+      <link>https://hacksocnotts.co.uk/events/2022-02-17-c-50-years/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-02-17-c-50-years/</guid>
+      <description>This year the C programming language will be turning 50 years old. From its roots inside Bell Labs where is was designed to make writing Unix easier it has come a long way, and is now one of hte most dominant languages, with untold millions of lines of code out in the wild.
+This event will be about C, but the exact details are TBD.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Python - Workshop 3</title>
+      <link>https://hacksocnotts.co.uk/events/2022-02-15-python3/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-02-15-python3/</guid>
+      <description>Do you want to learn how to program? In this workshop you will be introduced to the Python Programming Language, and be taught the basic concepts that underpin programming generally.
+In this session, we&amp;rsquo;ll put (almost) everything you&amp;rsquo;ve learned into making a hangman game!
+This workshop is part three of a three part series that will be running throughout February. If you enjoy it be sure to come along to the other ones.</description>
+    </item>
+    
+    <item>
+      <title>UK networking - what of earth were we thinking?</title>
+      <link>https://hacksocnotts.co.uk/events/2022-02-10-early-email-talk/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-02-10-early-email-talk/</guid>
+      <description>In this talk, Dr Julian Onions talks a little about the history of email, and how we gradually connected our computers together so we could communicate world wide and work on projects together. He was involved in getting Nottingham University on the net in it&amp;rsquo;s early days, and it wasn&amp;rsquo;t all plain sailing. So - a bit of history, a bit about protocols, a bit of politics, and a lot of good old fashioned hacking to get us where we are today.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Python - Workshop 2</title>
+      <link>https://hacksocnotts.co.uk/events/2022-02-08-python2/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-02-08-python2/</guid>
+      <description>Do you want to learn how to program? In this workshop you will be introduced to the Python Programming Language, and be taught the basic concepts that underpin programming generally.
+In this session, we&amp;rsquo;ll cover the following concepts:
+ File Input/Output Console Input Tuples Dictionaries List Comprehensions  This workshop is part two of a three part series that will be running throughout February. If you enjoy it be sure to come along to the other ones.</description>
+    </item>
+    
+    <item>
+      <title>Programming Café</title>
+      <link>https://hacksocnotts.co.uk/events/2022-02-03-programming-cafe/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-02-03-programming-cafe/</guid>
+      <description>Hello and welcome to our programming cafe events!
+This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&amp;rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
+We will also have coffee and tea.
+The event will take place in the Exchange Building C33.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Python - Workshop 1</title>
+      <link>https://hacksocnotts.co.uk/events/2022-02-01-python1/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-02-01-python1/</guid>
+      <description>Do you want to learn how to program? In this workshop you will be introduced to the Python Programming Language, and be taught the basic concepts that underpin programming generally.
+In this session, we&amp;rsquo;ll cover the following concepts:
+ Installing Python. &amp;ldquo;Hello, World!&amp;rdquo;, or writing your first line of code Variables and Types Math Operations Conditional Programming (IF statements) Functions Lists For &amp;amp; While loops String Operations Error handling  All you need to bring is yourself and a computer, We&amp;rsquo;ll walk through installing the language in the workshop.</description>
+    </item>
+    
     <item>
       <title>End of Term Message</title>
       <link>https://hacksocnotts.co.uk/newsletters/newsletter-2022-01-02/</link>
@@ -375,6 +462,16 @@ Find out more, and get your completely FREE ticket at the button below.</descrip
       
       <guid>https://hacksocnotts.co.uk/committee/</guid>
       <description>members of the committee</description>
+    </item>
+    
+    <item>
+      <title>HackNotts 2021</title>
+      <link>https://hacksocnotts.co.uk/events/2022-02-12-hacknotts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-02-12-hacknotts/</guid>
+      <description>HackNotts is our annual hackathon, and the largest event that HackSoc runs. Hundreds of hackers from all over the country will gather, and spend 24 hours making cool things! Hackathons are a great place to meet new people, learn new skills, and build your CV!
+Find more info, and get your tickets at hacknotts.com!</description>
     </item>
     
     <item>
