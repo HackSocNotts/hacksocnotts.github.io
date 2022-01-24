@@ -30,8 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 
 SUMMARY:Half a century of C
-DESCRIPTION:This year the C programming language will be turning 50 years old. From its roots inside Bell Labs where is was designed to make writing Unix easier it has come a long way, and is now one of hte most dominant languages, with untold millions of lines of code out in the wild.
-This event will be about C, but the exact details are TBD. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-02-17-c-50-years/
+DESCRIPTION:2022 marks the 50th anniversary of the C programming language! To celebrate this, I (Jacob) am going to download many different historical C compilers and demonstrate how the language evolved from a simple language originally written in assembly, to the language we all know and love today. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-02-17-c-50-years/
 DTSTART;TZID=Europe/London:20220217T190000
 DTEND;TZID=Europe/London:20220217T210000
 
