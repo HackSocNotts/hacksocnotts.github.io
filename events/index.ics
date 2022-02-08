@@ -51,7 +51,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 
-SUMMARY:UK networking - what of earth were we thinking?
+SUMMARY:UK networking - What on earth were we thinking?
 DESCRIPTION:In this talk, Dr Julian Onions talks a little about the history of email, and how we gradually connected our computers together so we could communicate world wide and work on projects together. He was involved in getting Nottingham University on the net in it&rsquo;s early days, and it wasn&rsquo;t all plain sailing. So - a bit of history, a bit about protocols, a bit of politics, and a lot of good old fashioned hacking to get us where we are today.
 Dr Julian Onions is a professor of astrophysics at the University of Nottingham, and was one of the people involved in the very earliest rollout of internet and email in the UK. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-02-10-early-email-talk/
 DTSTART;TZID=Europe/London:20220210T190000
