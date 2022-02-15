@@ -4,7 +4,7 @@ date: "2022-02-24"
 time: "7-9pm"
 start: "2022-02-24T19:00:00+00:00"
 end: "2022-02-24T21:00:00+00:00"
-location: "TBD"
+location: "C33, Exchange Building"
 ---
 
 Hello and welcome to our programming cafe events!

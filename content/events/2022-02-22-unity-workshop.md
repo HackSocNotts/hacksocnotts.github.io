@@ -4,7 +4,7 @@ date: "2022-02-22"
 time: "6:30-9pm"
 start: "2022-02-22T18:30:00+00:00"
 end: "2022-02-22T21:00:00+00:00"
-location: "TBD"
+location: "C3, Exchange Building"
 ---
 
 Unity is a game engine used by both professionals and hobbyists for millions of games. It's one of the most popular engines in industry and makes it very easy to get started making games using the C# programming language.
