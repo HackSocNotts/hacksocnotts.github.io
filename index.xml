@@ -8,6 +8,18 @@
     <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hacksocnotts.co.uk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Programming Café</title>
+      <link>https://hacksocnotts.co.uk/events/2022-02-22-programming-cafe/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-02-22-programming-cafe/</guid>
+      <description>Hello and welcome to our programming cafe events!
+This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&amp;rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
+We will also have coffee and tea.
+The event will take place in the Exchange Building C3.</description>
+    </item>
+    
+    <item>
+      <title>Programming Café</title>
       <link>https://hacksocnotts.co.uk/events/2022-02-24-programming-cafe/</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
       
@@ -24,6 +36,17 @@ The event will take place in the Exchange Building C33.</description>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hacksocnotts.co.uk/events/2022-02-22-unity-workshop/</guid>
+      <description>Unity is a game engine used by both professionals and hobbyists for millions of games. It&amp;rsquo;s one of the most popular engines in industry and makes it very easy to get started making games using the C# programming language.
+In this workshop you&amp;rsquo;ll learn the basics of the Unity game engine, as well as the C# language, and make a small game from start to finish!
+No knowledge of either of these topics is required, although a bit of experience with programming of any kind will be useful.</description>
+    </item>
+    
+    <item>
+      <title>Unity Workshop</title>
+      <link>https://hacksocnotts.co.uk/events/2022-02-24-unity-workshop/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-02-24-unity-workshop/</guid>
       <description>Unity is a game engine used by both professionals and hobbyists for millions of games. It&amp;rsquo;s one of the most popular engines in industry and makes it very easy to get started making games using the C# programming language.
 In this workshop you&amp;rsquo;ll learn the basics of the Unity game engine, as well as the C# language, and make a small game from start to finish!
 No knowledge of either of these topics is required, although a bit of experience with programming of any kind will be useful.</description>
