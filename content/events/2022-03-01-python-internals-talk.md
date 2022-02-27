@@ -11,4 +11,4 @@ What actually happens when you tell Python to `print("Hello, world!")`? How does
 
 All of these questions and more will be answered in this talk. Using Python as an example, Zac will give an in-depth look into how interpreted programming languages work from the ground up. Concepts covered will include scanning & parsing, compilation, and evaluation, among many more, giving you an insight the entire journey your program takes from source code to execution.
 
-Since the Python interpreter's source code is surrisingly readable, I'll be going through some snippets of C code, but understanding of C is by no means necessary.
+Since the Python interpreter's source code is surprisingly readable, I'll be going through some snippets of C code, but understanding of C is by no means necessary.
