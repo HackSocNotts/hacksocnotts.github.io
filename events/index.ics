@@ -4,6 +4,28 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Hosting Workshop
+DESCRIPTION:Hosting workshop. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-03-03-hosting-workshop/
+DTSTART;TZID=Europe/London:20220303T190000
+DTEND;TZID=Europe/London:20220303T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Python Internals Talk
+DESCRIPTION:What actually happens when you tell Python to print(&quot;Hello, world!&quot;)? How does your computer turn the characters you type into something it understands, and then how exactly is this executed? What does it even mean to compile Python code - isn&rsquo;t it an interpreted language?
+All of these questions and more will be answered in this talk. Using Python as an example, Zac will give an in-depth look into how interpreted programming languages work from the ground up. Concepts covered will include scanning &amp; parsing, compilation, and evaluation, among many more, giving you an insight the entire journey your program takes from source code to execution.
+Since the Python interpreter&rsquo;s source code is surrisingly readable, I&rsquo;ll be going through some snippets of C code, but understanding of C is by no means necessary. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-03-01-python-internals-talk/
+DTSTART;TZID=Europe/London:20220301T190000
+DTEND;TZID=Europe/London:20220301T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Unity Workshop
 DESCRIPTION:Unity is a game engine used by both professionals and hobbyists for millions of games. It&rsquo;s one of the most popular engines in industry and makes it very easy to get started making games using the C# programming language.
 In this workshop you&rsquo;ll learn the basics of the Unity game engine, as well as the C# language, and make a small game from start to finish!
