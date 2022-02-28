@@ -12,7 +12,8 @@
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hacksocnotts.co.uk/events/2022-03-03-hosting-workshop/</guid>
-      <description>Hosting workshop.</description>
+      <description>Even if you have the best service in the world, it is all for nought if no one can access it. In this workshop GenSec James will be talking and walking you through hosting a web server serving the popular game Wordle, including steps such as DNS, Firewall, Ports, security hardening and other best practices.
+This knowledge can be applied to hosting almost any service in an internet accessible way, whether a website, game server, API, or something else.</description>
     </item>
     
     <item>
