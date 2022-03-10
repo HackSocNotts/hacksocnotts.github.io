@@ -4,6 +4,112 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!
+This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
+We will also have coffee and tea.
+The event will take place in the Exchange Building C33. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-04-07-programming-cafe/
+DTSTART;TZID=Europe/London:20220407T190000
+DTEND;TZID=Europe/London:20220307T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Lightning Talks
+DESCRIPTION:A bunch of short talks given by members. There will also be a fun quiz.
+If you want to give a talk, please go to hacksoc.net/lightning and tell us what you talk will be about.
+This event will be hosted in the function room of the Rose &amp; Crown pub, which is near Jubilee Campus. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-04-05-lightning-talks/
+DTSTART;TZID=Europe/London:20220405T190000
+DTEND;TZID=Europe/London:20220405T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:TBD Event
+DESCRIPTION:There will be an event on this day, however the exact details are still to be determined.
+Keep your eye on the Discord to stay up to date. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-03-31-tbd-event/
+DTSTART;TZID=Europe/London:20220331T190000
+DTEND;TZID=Europe/London:20220331T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Accessibiity Talk
+DESCRIPTION:In this talk we will be having an overview of computing accessability.
+There may also be a demo. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-03-29-accessability/
+DTSTART;TZID=Europe/London:20220329T190000
+DTEND;TZID=Europe/London:20220329T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!
+This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
+We will also have coffee and tea.
+The event will take place in the Exchange Building C33. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-03-24-programming-cafe/
+DTSTART;TZID=Europe/London:20220324T190000
+DTEND;TZID=Europe/London:20220324T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:React Workshop
+DESCRIPTION:A workshop on React, a JavaScript framework developed by Facebook. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-03-22-react-workshop/
+DTSTART;TZID=Europe/London:20220322T190000
+DTEND;TZID=Europe/London:20220322T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:AWS 'Serverless' Workshop
+DESCRIPTION:Amazon Web Services, or AWS, is a computing platform which powers somewhere between 30-50% of the entire web. Chances are you&rsquo;re using something that runs on it right now. AWS provides compute, databases, storage, API services, but also some more obscure things like blockchain and even managed satellite groundstations and robotics applications.
+In this workshop, you&rsquo;ll learn to make a &ldquo;serverless&rdquo; (yes, I know - it&rsquo;s a dumb name&hellip;) application from scratch using AWS Lambda, DynamoDB, and API Gateway.
+These services handle the running of containerised code, managing a database, and letting you call upon your code via a HTTP interface.
+Nothing needs to be installed in advance for this workshop, but an AWS account will be useful (I believe you can just sign in with a normal Amazon account.) I&rsquo;ll be using Python for this, but other languages are available so it&rsquo;s partially up to you (although using Python will make things a bit easier.) More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-03-17-aws-workshop/
+DTSTART;TZID=Europe/London:20220317T190000
+DTEND;TZID=Europe/London:20220317T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Microcontroller Workshop
+DESCRIPTION:A workshop about programming microcontrollers. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-03-15-microcontroller-workshop/
+DTSTART;TZID=Europe/London:20220315T190000
+DTEND;TZID=Europe/London:20220315T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!
+This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
+We will also have coffee and tea.
+The event will take place in the Exchange Building C33. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-03-10-programming-cafe/
+DTSTART;TZID=Europe/London:20220310T190000
+DTEND;TZID=Europe/London:20220310T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Hosting Workshop
 DESCRIPTION:Even if you have the best service in the world, it is all for nought if no one can access it. In this workshop GenSec James will be talking and walking you through hosting a web server serving the popular game Wordle, including steps such as DNS, Firewall, Ports, security hardening and other best practices.
 This knowledge can be applied to hosting almost any service in an internet accessible way, whether a website, game server, API, or something else. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-03-03-hosting-workshop/

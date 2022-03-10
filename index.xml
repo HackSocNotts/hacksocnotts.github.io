@@ -5,7 +5,102 @@
     <link>https://hacksocnotts.co.uk/</link>
     <description>Recent content on HackSoc</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hacksocnotts.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hacksocnotts.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming Café</title>
+      <link>https://hacksocnotts.co.uk/events/2022-04-07-programming-cafe/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-04-07-programming-cafe/</guid>
+      <description>Hello and welcome to our programming cafe events!
+This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&amp;rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
+We will also have coffee and tea.
+The event will take place in the Exchange Building C33.</description>
+    </item>
+    
+    <item>
+      <title>Lightning Talks</title>
+      <link>https://hacksocnotts.co.uk/events/2022-04-05-lightning-talks/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-04-05-lightning-talks/</guid>
+      <description>A bunch of short talks given by members. There will also be a fun quiz.
+If you want to give a talk, please go to hacksoc.net/lightning and tell us what you talk will be about.
+This event will be hosted in the function room of the Rose &amp;amp; Crown pub, which is near Jubilee Campus.</description>
+    </item>
+    
+    <item>
+      <title>TBD Event</title>
+      <link>https://hacksocnotts.co.uk/events/2022-03-31-tbd-event/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-03-31-tbd-event/</guid>
+      <description>There will be an event on this day, however the exact details are still to be determined.
+Keep your eye on the Discord to stay up to date.</description>
+    </item>
+    
+    <item>
+      <title>Accessibiity Talk</title>
+      <link>https://hacksocnotts.co.uk/events/2022-03-29-accessability/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-03-29-accessability/</guid>
+      <description>In this talk we will be having an overview of computing accessability.
+There may also be a demo.</description>
+    </item>
+    
+    <item>
+      <title>Programming Café</title>
+      <link>https://hacksocnotts.co.uk/events/2022-03-24-programming-cafe/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-03-24-programming-cafe/</guid>
+      <description>Hello and welcome to our programming cafe events!
+This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&amp;rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
+We will also have coffee and tea.
+The event will take place in the Exchange Building C33.</description>
+    </item>
+    
+    <item>
+      <title>React Workshop</title>
+      <link>https://hacksocnotts.co.uk/events/2022-03-22-react-workshop/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-03-22-react-workshop/</guid>
+      <description>A workshop on React, a JavaScript framework developed by Facebook.</description>
+    </item>
+    
+    <item>
+      <title>AWS &#39;Serverless&#39; Workshop</title>
+      <link>https://hacksocnotts.co.uk/events/2022-03-17-aws-workshop/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-03-17-aws-workshop/</guid>
+      <description>Amazon Web Services, or AWS, is a computing platform which powers somewhere between 30-50% of the entire web. Chances are you&amp;rsquo;re using something that runs on it right now. AWS provides compute, databases, storage, API services, but also some more obscure things like blockchain and even managed satellite groundstations and robotics applications.
+In this workshop, you&amp;rsquo;ll learn to make a &amp;ldquo;serverless&amp;rdquo; (yes, I know - it&amp;rsquo;s a dumb name&amp;hellip;) application from scratch using AWS Lambda, DynamoDB, and API Gateway.</description>
+    </item>
+    
+    <item>
+      <title>Microcontroller Workshop</title>
+      <link>https://hacksocnotts.co.uk/events/2022-03-15-microcontroller-workshop/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-03-15-microcontroller-workshop/</guid>
+      <description>A workshop about programming microcontrollers.</description>
+    </item>
+    
+    <item>
+      <title>Programming Café</title>
+      <link>https://hacksocnotts.co.uk/events/2022-03-10-programming-cafe/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-03-10-programming-cafe/</guid>
+      <description>Hello and welcome to our programming cafe events!
+This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&amp;rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
+We will also have coffee and tea.
+The event will take place in the Exchange Building C33.</description>
+    </item>
+    
     <item>
       <title>Hosting Workshop</title>
       <link>https://hacksocnotts.co.uk/events/2022-03-03-hosting-workshop/</link>
