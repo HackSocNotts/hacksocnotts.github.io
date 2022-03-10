@@ -62,7 +62,7 @@ table#calendar td.day {
 
 table#calendar div.date {
     color: black;
-    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
     font-size: 1rem;
     font-weight: bold;
     padding-left: 5px;
