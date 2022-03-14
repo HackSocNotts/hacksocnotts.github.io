@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 
 SUMMARY:Microcontroller Workshop
-DESCRIPTION:A workshop about programming microcontrollers. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-03-15-microcontroller-workshop/
+DESCRIPTION:In this workshop you can learn how to build some simple circuits and how to program a microcontroller to interact with electronic components, all while building a fun project. Each person will work with an individual microcontroller and electronic components to create a memory game, similar to the Simon Says electronic game. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-03-15-microcontroller-workshop/
 DTSTART;TZID=Europe/London:20220315T190000
 DTEND;TZID=Europe/London:20220315T210000
 
