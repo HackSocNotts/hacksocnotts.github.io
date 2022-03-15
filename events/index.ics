@@ -29,11 +29,36 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:AGM (Elect the Next Committee!)
+DESCRIPTION:Come and elect your next committee!
+On Thursday the 31st we have our AGM, where we will be electing next year&rsquo;s committee. Candidates will give a short speech on why they should do the role, and then you, the members, will vote in the candidates you want to see on next year&rsquo;s committee.
+There will be free pizza for everyone that comes to the AGM, so please come along to vote!
+If you are thinking of running for a committee position yourself, please do! Please send a manifesto to James Frost on the Discord, or email him. The manifesto only has to be a couple paragraphs saying who you are, what role you are applying for, and why you think you are suitable for the role.
+Keep your eye on the Discord to stay up to date. A description of the roles will be posted there soon. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-03-31-agm/
+DTSTART;TZID=Europe/London:20220331T190000
+DTEND;TZID=Europe/London:20220331T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:TBD Event
 DESCRIPTION:There will be an event on this day, however the exact details are still to be determined.
 Keep your eye on the Discord to stay up to date. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-03-31-tbd-event/
 DTSTART;TZID=Europe/London:20220331T190000
 DTEND;TZID=Europe/London:20220331T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Accessibiity Talk
+DESCRIPTION:In this talk we will be having an overview of computing accessability.
+There may also be a demo. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-03-29-accessability/
+DTSTART;TZID=Europe/London:20220329T190000
+DTEND;TZID=Europe/London:20220329T210000
 
 
 END:VEVENT
