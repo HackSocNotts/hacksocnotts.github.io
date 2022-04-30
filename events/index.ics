@@ -43,6 +43,17 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Accessibiity Talk
+DESCRIPTION:In this talk we will be having an overview of computing accessability.
+There may also be a demo. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-03-29-accessability/
+DTSTART;TZID=Europe/London:20220329T190000
+DTEND;TZID=Europe/London:20220329T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Accessibility Talk
 DESCRIPTION:In this talk we will be having an overview of computing accessibility.
 There may also be a demo. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-03-29-accessibility/
