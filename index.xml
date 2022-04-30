@@ -5,7 +5,17 @@
     <link>https://hacksocnotts.co.uk/</link>
     <description>Recent content on HackSoc</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hacksocnotts.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hacksocnotts.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intel OneAPI Workshop</title>
+      <link>https://hacksocnotts.co.uk/events/2022-05-05-intel/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacksocnotts.co.uk/events/2022-05-05-intel/</guid>
+      <description>We&amp;rsquo;ll be starting off the term on the 5th of May at 7PM, Computer Science A07 with an event sponsored by Intel, where we will talk about OneAPI and teach you how to use it to plot the Mandelbrot set!
+But what is OneAPI? It&amp;rsquo;s a toolkit for enabling accelerated heterogeneous computing that is platform and vendor agnostic. This promises to be a very interesting workshop, so be sure to come along!</description>
+    </item>
+    
     <item>
       <title>Programming Café</title>
       <link>https://hacksocnotts.co.uk/events/2022-04-07-programming-cafe/</link>

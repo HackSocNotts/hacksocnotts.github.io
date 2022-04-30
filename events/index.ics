@@ -4,6 +4,19 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Intel OneAPI Workshop
+DESCRIPTION:We&rsquo;ll be starting off the term on the 5th of May at 7PM, Computer Science A07 with an event sponsored by Intel, where we will talk about OneAPI and teach you how to use it to plot the Mandelbrot set!
+But what is OneAPI? It&rsquo;s a toolkit for enabling accelerated heterogeneous computing that is platform and vendor agnostic. This promises to be a very interesting workshop, so be sure to come along!
+Additionally, since it&rsquo;s sponsored by Intel, we&rsquo;ll be serving some free pizza and giving out some Intel swag, including t-shirts, hoodies, and a notebook!
+(If you&rsquo;re familiar with C++ then feel free to take your laptop and follow along! We recommend installing the OneAPI toolkit along with the OpenCV library for C++ beforehand if you want to do this, since this could take 20 minutes to do) More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-05-05-intel/
+DTSTART;TZID=Europe/London:20220505T190000
+DTEND;TZID=Europe/London:20220505T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Programming Café
 DESCRIPTION:Hello and welcome to our programming cafe events!
 This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
