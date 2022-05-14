@@ -17,6 +17,16 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Hack & Slash Pub Crawl
+DESCRIPTION:On the 28th of May, HackSoc and Medieval Combat Society will be going out for a joint pub crawl! We&rsquo;ll start at the White Hart at 7pm. More details can be found at <no value>https://hacksocnotts.co.uk/events/2022-05-28-hack-and-slash/
+DTSTART;TZID=Europe/London:20220528T190000
+DTEND;TZID=Europe/London:20220528T230000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Programming Café
 DESCRIPTION:Hello and welcome to our programming cafe events!
 This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We&rsquo;ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!
