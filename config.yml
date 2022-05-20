@@ -64,7 +64,7 @@ menu:
           weight: 2
         - identifier: constitution
           name: Constitution
-          url: https://hacksoc.net/constitution.pdf
+          url: https://hacksoc.net/constitution
           weight: 4
         - identifier: committee
           name: Committee
