@@ -1,0 +1,57 @@
+{{ define "main" }}
+	<main>
+		<div class="split text-left">
+			<h1 id="who-are-we">Who are we?</h1>
+			<div>
+				<p class="quote">
+					“A <strong>hacker</strong> is someone who loves to program or enjoys playful cleverness, or a combination of the two. The act of engaging in activities (such as programming or other media) in a spirit of playfulness and exploration is termed <strong>hacking</strong>.”
+				</p>
+				<p>
+					We're <strong>HackSoc</strong>, the free-to-join <strong>technology</strong>, <strong>computing</strong>, <strong>recreational programming</strong>, and <strong>hacking</strong> society at the <strong>University of Nottingham</strong>!
+				</p>
+				<p>
+					Our members come from all different schools in the University, and we run our workshops and talks to cater to all different skill levels. So whether you've been programming your whole life, or you have never touched a computer, there'll be something for you!
+				</p>
+			</div>
+			<figure>
+				<img src="/img/workshop.jpg">
+				<figcaption>A HackSoc workshop with Intel, in CompSci A07.</figcaption>
+			</figure>
+		</div>
+		
+		<div class="split text-right">
+			<h1 id="whats-on">What's on?</h1>
+			<div>
+				<p>
+					We regularly run workshops, talks, and social events. We host <strong><a href="https://hacknotts.com">HackNotts</a></strong>, our annual hackathon, and have been for almost a decade. We travel to, and compete in, other hackathons, and we have a thriving community of Nottingham students and graduates in our <a href="https://hacksoc.net/discord">Discord server</a>.
+				</p>
+				{{ partial "event-list.html" . }}
+				<p>
+					We're always delighted to welcome speakers in&mdash;if you have something cool to talk about, please <a href="/contact#want-to-speak-for-us">get in touch</a>!
+				</p>
+			</div>
+			<figure>
+				<img src="/img/bbq.jpg">
+				<figcaption>Our end-of-term barbecue, June 2022.</figcaption>
+			</figure>
+		</div>
+
+		<div class="split text-left">
+			<h1 id="news-and-more">News & more</h1>
+			<div>
+				<p>
+					We periodically publish newsletters to let you know what's going on with the soc. These are our most recent ones:
+				</p>
+				{{ partial "newsletters.html" . }}
+				<p>
+					Want to change something on this website? Found a typo? Some styles look bad? Feel free to open a <a href="https://github.com/HackSocNotts/hacksocnotts.github.io/pulls">pull request</a>!
+				</p>
+			</div>
+
+			<figure>
+				<img src="/img/hacknotts.jpeg">
+				<figcaption>The entrance of HackNotts 21, our annual hackathon.</figcaption>
+			</figure>
+		</div>
+	</main>
+{{ end }}

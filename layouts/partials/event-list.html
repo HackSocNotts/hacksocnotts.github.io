@@ -1,0 +1,23 @@
+<div>
+	<div>
+		<h3>UPCOMING EVENTS</h3>
+	</div>
+	<div>
+		<ul class="event-list">
+            {{ $existEvents := false }}
+			{{ range where .Pages.ByDate "Section" "events" }}
+                {{ range .Pages.ByDate }}
+                    {{ if gt (.Params.start | time.AsTime) now }}
+                    {{ $existEvents = true }}
+                    <li>
+                        <time>{{ .Date.Format "2 Jan 2006" }}&mdash;</time><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    </li>
+                    {{ end }}
+                {{ end }}
+			{{ end }}
+		</ul>
+        {{ if not $existEvents }}
+            <p class="no-events">There are currently no planned events, check back soon!</p>
+        {{ end }}
+	</div>
+</div>

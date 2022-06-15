@@ -1,0 +1,9 @@
+{
+    "title": "{{ .Title }}",
+    "date": "{{ .Params.date.Format "2006-01-02" }}",
+    "location": "{{ .Params.location }}",
+    "permalink": "{{ .Permalink }}"
+    {{ if .Params.time }}
+    , "time": "{{ .Params.time }}"
+    {{ end }}
+}
