@@ -1,0 +1,17 @@
+<div>
+	<div>
+		<h3>LATEST NEWS</h3>
+	</div>
+	<div>
+		<ul class="news-list">
+			{{ range first 3 (where .Site.RegularPages "Type" "newsletters") }}
+			<li>
+				<time>{{ .Date.Format "02/01/2006" }}&mdash;</time><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+			</li>
+			{{ end }}
+			<li>
+				<a href="/newsletters" class="rest">View All Newsletters</a>
+			</li>
+		</ul>
+	</div>
+</div>

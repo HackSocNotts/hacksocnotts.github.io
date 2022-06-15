@@ -1,0 +1,20 @@
+{{ define "main" }}
+	<main>
+        <article class="newsletter">
+            <h1>{{ .Title }}</h1>
+            {{ with .Date }}
+                <time datetime="{{ .Format "2006-01-02T15:04:05" }}">
+                    Published on {{ .Format "2 January, 2006" }}
+                </time>
+            {{ end }}
+            <div>
+                {{ .Content }}
+            </div>
+            {{ if isset .Params "author" }}
+            <p>
+                &mdash;{{ .Params.author }} (<em>{{ .Params.authorRole }}</em>)
+            </p>
+            {{ end }}
+        </article>
+	</main>
+{{ end }}

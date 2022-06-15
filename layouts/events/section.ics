@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+{{ range .RegularPages }}
+BEGIN:VEVENT
+{{ if not (isset .Params "h") }}
+SUMMARY:{{ .Title }}
+DESCRIPTION:{{ trim (.Content | plainify) "\n" }} More details can be found at {{ .Site.Params.LiveSiteUrl }}{{ .Permalink }}
+DTSTART;TZID=Europe/London:{{ dateFormat "20060102T150405" .Params.Start }}
+DTEND;TZID=Europe/London:{{ dateFormat "20060102T150405" .Params.End }}
+{{ if .Params.Adr }}LOCATION:{{ .Params.adr.street_address }}, {{ .Params.adr.locality }}, {{ .Params.adr.country_name }}{{ end }}
+{{ else }}
+SUMMARY:{{ index .Params.Properties.name 0 }}
+{{ with .Params.Properties.url }}
+DESCRIPTION: More details can be found at {{ index . 0 }}.
+{{ else }}
+DESCRIPTION: More details can be found at {{ .Site.Params.LiveSiteUrl }}{{ .Permalink }}
+{{ end }}
+DTSTART;TZID=Europe/London:{{ dateFormat "20060102T150405" (index .Params.Properties.start 0) }}
+DTEND;TZID=Europe/London:{{ dateFormat "20060102T150405" (index .Params.Properties.end 0) }}
+{{ with .Params.Properties.location }}LOCATION:{{ index . 0 }}{{ end }}
+{{ end }}
+END:VEVENT
+{{ end }}
+END:VCALENDAR

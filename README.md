@@ -15,7 +15,7 @@ Contributions are welcome for both updating our Calendar and improving the websi
 ## Run locally
 1. Clone the repository `git clone https://github.com/HackSocNotts/hacksocnotts.co.uk.git`
 2. Install hugo [this guide may help](https://gohugo.io/getting-started/quick-start/#step-1-install-hugo)
-3. Start development server `hugo server --disableFastRender`because there are some annoying things that can happen during dev if run with just `hugo server`
+3. Start development server `hugo server --disableFastRender` because there are some annoying things that can happen during dev if run with just `hugo server`
 
 ### Caveats and things to note:
   * You may have to restart the server when you make a new event for it to show up in the calendar

@@ -1,0 +1,21 @@
+{{ define "main" }}
+	<main>
+        <article class="event">
+            <a href="/calendar" class="back">&larr; back to the calendar</a>
+            <br>
+            <div class="event-main">
+                <h1>{{ .Title }}</h1>
+                <div>
+                    {{ .Content }}
+                </div>
+            </div>
+            <div class="event-info">
+                <h2>When?</h2>
+                {{ .Params.time }} <br>
+                {{ .Date.Format "2 January, 2006" }}
+                <h2>Where?</h2>
+                {{ .Params.location }}
+            </div>
+        </article>
+	</main>
+{{ end }}
