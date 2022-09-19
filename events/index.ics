@@ -15,6 +15,43 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Intel OneAPI Workshop
+DESCRIPTION:This event is a full day workshop running from 11am to 6pm, with free pizza at lunchtime. The presenters behind this event are academics from the University of Cambridge open zetta scale lab.
+The event covers all the basics of Intel’s SYCL implementation, including how to get started, program structure, unified shared memory, kernels, Intel Vtune profiler, buffers &amp; accessors and reduction operations. This workshop is being taught by academics from Cambridge university who work on zetta scale compute and have significant experience working with heterogeneous compute technologies.
+There will be some free swag up for grabs for those who attend in addition to the free pizza! More details can be found at <no value>http://hacksocnotts.co.uk/events/2022-10-08-intel-oneapi-workshop/
+DTSTART;TZID=Europe/London:20221008T110000
+DTEND;TZID=Europe/London:20221008T180000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Hack & Slash II
+DESCRIPTION:On the 6th of October, HackSoc and Medieval Combat Society will be going out for a joint pub crawl! We&rsquo;ll start at the White Hart at 7pm!
+This is a nice social event to start off the term, and while no, there is no real reason why these two societies have a joint pub crawl, it&rsquo;s always a fun night. No booking required, just find us at the White Hart (29 Gregory Street, Lenton)! More details can be found at <no value>http://hacksocnotts.co.uk/events/2022-10-06-hack-and-slash/
+DTSTART;TZID=Europe/London:20221006T190000
+DTEND;TZID=Europe/London:20221006T230000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:HackSoc Taster: Welcome Week Talks
+DESCRIPTION:Welcome to HackSoc!
+This will be our first event of the year, and a good taster to give you an idea of what kind of events we&rsquo;ll be running throughout the year. At 4:30pm, we&rsquo;ll be gathering in LT2 (TBC) where the committee will be giving three short-ish talks on various tech-related topics:
+An introduction to game development by our President A talk about bug bounties by our Cyber Security Secretary And two more, details to be confirmed The event in whole is supposed to take around an hour and a half, finishing at approximately 6pm, to give you plenty of time to have dinner afterwards.
+Also, we will be serving free pizza; and not just one slice - likely, half a pizza each!
+No need to sign up for this (or any other) event, just come along and find us in the Exchange Building on Jubilee Campus around 4:15. See you there! More details can be found at <no value>http://hacksocnotts.co.uk/events/2022-09-27-hacksoc-taster-welcome-week-talks/
+DTSTART;TZID=Europe/London:20220927T163000
+DTEND;TZID=Europe/London:20220927T180000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Summer Jubilee BBQ
 DESCRIPTION:After exams have finished, HackSoc will be doing our patriotic duty and hosting a BBQ to celebrate the Queen&rsquo;s Platinum Jubilee (which is the day after.) This will be a great place to unwind from the stresses of exams which will have just finished!
 As this event is a BBQ, food and drink will be provided. If you are thinking of coming along, please can you fill out a quick form at hacksoc.net/jubilee-bbq so we know how much food to get.
