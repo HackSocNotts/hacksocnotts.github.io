@@ -15,6 +15,61 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Python Workshop
+DESCRIPTION:Python is one of the most popular programming languages in the world. It&rsquo;s used for anything from simple automation scripts, to web servers, to even the vast majority of AI these days! (In fact, the script to generate this event document for the website is written in Python!)
+In this three-part workshop series, we&rsquo;ll walk you through the basics of Python, hopefully by the end reaching a level at which you, too, could make cool little Python scripts to automate things, or even write your own AIs or web servers! More details can be found at <no value>http://hacksocnotts.co.uk/events/2022-10-27-python-workshop/
+DTSTART;TZID=Europe/London:20221027T190000
+DTEND;TZID=Europe/London:20221027T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Python Workshop
+DESCRIPTION:Python is one of the most popular programming languages in the world. It&rsquo;s used for anything from simple automation scripts, to web servers, to even the vast majority of AI these days! (In fact, the script to generate this event document for the website is written in Python!)
+In this three-part workshop series, we&rsquo;ll walk you through the basics of Python, hopefully by the end reaching a level at which you, too, could make cool little Python scripts to automate things, or even write your own AIs or web servers! More details can be found at <no value>http://hacksocnotts.co.uk/events/2022-10-20-python-workshop/
+DTSTART;TZID=Europe/London:20221020T190000
+DTEND;TZID=Europe/London:20221020T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Hacker Speed Dating
+DESCRIPTION:Ready, set, hack! Hacker speed dating is an opportunity to test your skills and work with others to solve a series of trivial challenges, were it not for the ever-rotating feed of projects you&rsquo;ll have to work on!
+Get to work on a project and complete the task listed, but hurry and keep your code legible, because every so often you&rsquo;ll be booted off of one project and you&rsquo;ll have to start working on someone else&rsquo;s uncompleted task! How many will you complete? Will other&rsquo;s understand your code? Can you decipher theirs? Best of luck and Happy Hacking! More details can be found at <no value>http://hacksocnotts.co.uk/events/2022-10-18-hacker-speed-dating/
+DTSTART;TZID=Europe/London:20221018T190000
+DTEND;TZID=Europe/London:20221018T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Python Workshop
+DESCRIPTION:Python is one of the most popular programming languages in the world. It&rsquo;s used for anything from simple automation scripts, to web servers, to even the vast majority of AI these days! (In fact, the script to generate this event document for the website is written in Python!)
+In this three-part workshop series, we&rsquo;ll walk you through the basics of Python, hopefully by the end reaching a level at which you, too, could make cool little Python scripts to automate things, or even write your own AIs or web servers! More details can be found at <no value>http://hacksocnotts.co.uk/events/2022-10-13-python-workshop/
+DTSTART;TZID=Europe/London:20221013T190000
+DTEND;TZID=Europe/London:20221013T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Intro to Languages
+DESCRIPTION:New to programming? Wondering what kind of programming languages are out there? This talk, by our general secretary Daudi, will explore the vast world of programming languages, from imperative to functional, and everywhere in between!
+More information to follow closer to the time, please check back! More details can be found at <no value>http://hacksocnotts.co.uk/events/2022-10-11-intro-to-languages/
+DTSTART;TZID=Europe/London:20221011T190000
+DTEND;TZID=Europe/London:20221011T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Intel OneAPI Workshop
 DESCRIPTION:This event is a full day workshop running from 11am to 6pm, with free pizza at lunchtime. The presenters behind this event are academics from the University of Cambridge open zetta scale lab.
 The event covers all the basics of Intel’s SYCL implementation, including how to get started, program structure, unified shared memory, kernels, Intel Vtune profiler, buffers &amp; accessors and reduction operations. This workshop is being taught by academics from Cambridge university who work on zetta scale compute and have significant experience working with heterogeneous compute technologies.
