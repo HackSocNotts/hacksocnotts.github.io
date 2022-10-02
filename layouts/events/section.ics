@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 {{ if not (isset .Params "h") }}
 SUMMARY:{{ .Title }}
-DESCRIPTION:{{ trim (.Content | plainify) "\n" }} More details can be found at {{ .Site.Params.LiveSiteUrl }}{{ .Permalink }}
+DESCRIPTION:{{ replace (trim (.Content | plainify | htmlUnescape) "\n" ) "\n" "\\n\n " }} \nMore details can be found at {{ .Permalink }}
 DTSTART;TZID=Europe/London:{{ dateFormat "20060102T150405" .Params.Start }}
 DTEND;TZID=Europe/London:{{ dateFormat "20060102T150405" .Params.End }}
 {{ if .Params.Adr }}LOCATION:{{ .Params.adr.street_address }}, {{ .Params.adr.locality }}, {{ .Params.adr.country_name }}{{ end }}
