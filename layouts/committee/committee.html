@@ -1,0 +1,28 @@
+{{ define "main" }}
+    <main>
+        <p>
+            {{ .Content }}
+        </p>
+        <div class="committee-photos">
+        {{ range .Site.Data.committee.members }}
+            <div class="committee-member">
+                <img src="{{ .image }}" alt="">
+                <h2 class="name">{{ .name }}</h2>
+                <h3 class="role">{{ .title }}</h3>
+                <ul class="socials">
+                    {{ if .website }}
+                    <li>
+                        <a href="{{ .website }}">{{ .website }}</a>
+                    </li>
+                    {{ end }}
+                    {{ if .email }}
+                    <li>
+                        <a href="mailto:{{ .email }}">Email</a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+        {{ end }}
+        </div>
+    </main>
+{{ end }}
