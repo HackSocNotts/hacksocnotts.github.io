@@ -399,6 +399,8 @@ div.committee-member h3.role {
     color: #A9A9A9;
     font-family: 'Charis SIL', serif;
     font-weight: normal;
+    line-height: 1.1em;
+    font-style: italic;
 }
 
 div.committee-member ul.socials {
