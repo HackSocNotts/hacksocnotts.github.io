@@ -372,3 +372,39 @@ a.rest {
 div.pagination {
     margin-top: 20px;
 }
+
+div.committee-photos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 30px;
+}
+
+div.committee-member {
+    width: 24%;
+    padding: 10px;
+}
+
+div.committee-member img {
+    width: 230px;
+}
+
+div.committee-member h2.name {
+    margin-bottom: 0;
+}
+
+div.committee-member h3.role {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #A9A9A9;
+    font-family: 'Charis SIL', serif;
+    font-weight: normal;
+    line-height: 1.1em;
+    font-style: italic;
+}
+
+div.committee-member ul.socials {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
