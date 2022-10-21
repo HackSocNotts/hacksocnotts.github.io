@@ -27,6 +27,14 @@
         max-width: 500px;
     }
 
+    div.committee-member {
+        width: 50%;
+    }
+    
+    div.committee-member img {
+        width: 100%;
+    }
+
 }
 
 @media only screen and (max-width: 620px) {
@@ -81,5 +89,11 @@
         grid-row: 2;
         grid-column: 2;
     }
+    
+    div.committee-member {
+        width: 100%;
+    }
+
+    
 
 }
