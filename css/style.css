@@ -386,7 +386,7 @@ div.committee-member {
 }
 
 div.committee-member img {
-    width: 230px;
+    width: 100%;
 }
 
 div.committee-member h2.name {
