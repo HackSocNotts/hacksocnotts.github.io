@@ -15,6 +15,18 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Home Automation with Azure Precept
+DESCRIPTION:Pete Gallagher is back for another talk! Pete is a Nottingham-based freelance programmer, and Microsoft Azure MVP, among many other things, and a regular guest speaker at HackSoc. On the 1st of Novemeber, he will be coming in to speakto us about home automation using Azure Precept. An overview can be found below:\n
+ In this demo-heavy talk, we run through using the Azure Percept Audio Module to control common appliances around our home. We start out by looking at what the Audio Module is, its features as well as Azure Percept Studio and Speech Studio. We then move on to a basic web-based implementation of how the Percept can control devices in our home. We then take a look at Azure Speech Studio and how we can create Custom Keywords, Commands, and Parameters. We’ll then dive into how we can implement a solution using Azure IoT Hubs, a Raspberry Pi, some simple electronics, and electrical wiring, to control items around our home. This talk will appeal to folks who want to understand how we can use voice to automate our homes, as well as those with an interest in how IoT services can be used to make our lives easier. Accessible to all experience levels, we’ll run through everything you need to get going with the Azure Percept Audio Module!\n
+ Pete’s talks are always really interesting, and this one looks to be no different! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-11-01-home-automation-with-azure-precept/
+DTSTART;TZID=Europe/London:20221101T190000
+DTEND;TZID=Europe/London:20221101T203000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Python Workshop
 DESCRIPTION:Python is one of the most popular programming languages in the world. It’s used for anything from simple automation scripts, to web servers, to even the vast majority of AI these days! (In fact, the script to generate this event document for the website is written in Python!)\n
  In this three-part workshop series, we’ll walk you through the basics of Python, hopefully by the end reaching a level at which you, too, could make cool little Python scripts to automate things, or even write your own AIs or web servers! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-10-27-python-workshop/
