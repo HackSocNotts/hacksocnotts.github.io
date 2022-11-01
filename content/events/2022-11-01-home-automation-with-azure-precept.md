@@ -1,5 +1,5 @@
 ---
-title: "Home Automation with Azure Precept"
+title: "Home Automation with Azure Percept"
 date: "2022-11-01"
 time: "7pm"
 start: "2022-11-01T19:00:00+01:00"
