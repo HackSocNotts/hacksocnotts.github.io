@@ -15,6 +15,33 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Game Development Workshop
+DESCRIPTION:Game development with SDL2! Probably the most fun you can have while using C.\n
+ In this two-part workshop series, we will be going through the basics of game development using the popular SDL2 library (used for many real games, including most of Valve’s catalogue), covering everything you need to make your own game from scratch!\n
+ In this, the first part of the series, we will go over the principles of SDL2, to give you a flavour of how it all works. The nice thing about game development is once you know the basics, you can pretty much do anything, so this should set you up nicely to make some cool games on your own (or at the very least, to know what words to google to find out).\n
+ The workshop will be taught using the C programming language, but if you don’t like thinking about memory management feel free to use another language of your choice. SDL2 is available for basically every language out there (bonus points if you use Haskell).\n
+ If you’ve ever thought it would be cool to make a game, this is the workshop for you! But SDL2 isn’t just for games - anything graphical is possible. SDL is used for video playback software, emulators, and audio synths, to name just a few.\n
+ If you plan to come, it may be useful to get SDL2 installed on your laptop ahead of time to save time. There are plenty of instructions for this on their website, https://www.libsdl.org. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-11-10-game-development-workshop/
+DTSTART;TZID=Europe/London:20221110T190000
+DTEND;TZID=Europe/London:20221110T203000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Devyansh Chawla: OAK-D Computer Vision Workshop
+DESCRIPTION:OpenCV AI Kit with Depth, or OAK-D, is a hardware device with three cameras that can provide Spatial AI capabilities plus accelerated computer vision functions in products. Its low power and cost allow it to be used in many smart applications.\n
+ This workshop, presented remotely by Devyansh Chawla all the way from India, will cover usage of OAK-D hardware for computer vision applications, in particular object detection. OAK-D comes with dedicated computer vision hardware, letting it do these tasks with very low power draw - useful all over the place, including IoT and embedded computing!\n
+ Since this is a remote workshop, you are welcome to join from the comfort of your own home (a Zoom link will be released closer to the time), but we will be connecting as a group in A07 as well. I plan to bring snacks, too! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-11-08-devyansh-chawla-oak-d-computer-vision-workshop/
+DTSTART;TZID=Europe/London:20221108T190000
+DTEND;TZID=Europe/London:20221108T203000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Home Automation with Azure Percept
 DESCRIPTION:Pete Gallagher is back for another talk! Pete is a Nottingham-based freelance programmer, and Microsoft Azure MVP, among many other things, and a regular guest speaker at HackSoc. On the 1st of Novemeber, he will be coming in to speakto us about home automation using Azure Precept. An overview can be found below:\n
  In this demo-heavy talk, we run through using the Azure Percept Audio Module to control common appliances around our home. We start out by looking at what the Audio Module is, its features as well as Azure Percept Studio and Speech Studio. We then move on to a basic web-based implementation of how the Percept can control devices in our home. We then take a look at Azure Speech Studio and how we can create Custom Keywords, Commands, and Parameters. We’ll then dive into how we can implement a solution using Azure IoT Hubs, a Raspberry Pi, some simple electronics, and electrical wiring, to control items around our home. This talk will appeal to folks who want to understand how we can use voice to automate our homes, as well as those with an interest in how IoT services can be used to make our lives easier. Accessible to all experience levels, we’ll run through everything you need to get going with the Azure Percept Audio Module!\n
