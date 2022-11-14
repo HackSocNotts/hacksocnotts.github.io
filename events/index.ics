@@ -15,6 +15,19 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Get Started with React
+DESCRIPTION:React is a widely JavaScript library for easily making interactive web UIs, maintained by Meta and used all over the web for huge websites including even Facebook.\n
+ In this workshop, Haoyang Liu, a HackSoc member, will be giving us an introduction to React! This will be great for anyone who knows the basics of JavaScript and wants to get into web development. React is a really cool library, so this should be a very interesting workshop.\n
+ Also, Microsoft Learn Student Ambassador (MLSA) will be giving out some cool prizes to some people who attend (I have been informed that this may be based on a Kahoot quiz…) so come along for that!\n
+ This will be in A07, Comp Sci on Tuesday 15 November, starting around 7pm. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-11-15-get-started-with-react/
+DTSTART;TZID=Europe/London:20221115T190000
+DTEND;TZID=Europe/London:20221115T203000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Game Development Workshop
 DESCRIPTION:Game development with SDL2! Probably the most fun you can have while using C.\n
  In this two-part workshop series, we will be going through the basics of game development using the popular SDL2 library (used for many real games, including most of Valve’s catalogue), covering everything you need to make your own game from scratch!\n
