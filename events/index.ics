@@ -28,6 +28,17 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Programming Cafe
+DESCRIPTION:Programming Cafe!\n
+ Come join us in Spokes Cafe at lunchtime (starting approx 12pm every Thursday) to chat, drink coffee, eat food, and work on your latest programming project! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-11-16-programming-cafe/
+DTSTART;TZID=Europe/London:20221116T120000
+DTEND;TZID=Europe/London:20221116T130000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Get Started with React
 DESCRIPTION:React is a widely used JavaScript library for easily making interactive web UIs, maintained by Meta and used all over the web for huge websites including even Facebook.\n
  In this workshop, Haoyang Liu, a HackSoc member, will be giving us an introduction to React! This will be great for anyone who knows the basics of JavaScript and wants to get into web development. They will go over the creation of a SPA from scratch, showing how to use the library to build a lottery game.\n
