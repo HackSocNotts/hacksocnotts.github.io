@@ -18,8 +18,8 @@ BEGIN:VEVENT
 SUMMARY:Game Development Workshop II - Shaders
 DESCRIPTION:This Thursday we have the second part to the game development workshop series, which started last week! This workshop is a standalone session where we will be learning about GLSL shaders using shadertoy.\n
  GLSL is a language, similar to C, which runs on the GPU. Typically used for the implementation of shaders in games (e.g. lighting effects, fog, etc), it can also be used as a full graphics library in its own right. Shadertoy lets us write a program, in GLSL, where we can make cool graphics simply by providing an RGB colour for each pixel. Have a look here if you’re interested to see what other people have done.\n
- This should hopefully be a nice, relaxed workshop, and I will take you through the process of making a falling snowflake animation (very seasonal\n
- maybe you could even turn it into a Christmas card!) perhaps with a tree in the middle. There’s nothing to install on your computer in advance for this one, and while some experience with C will be useful, it’s certainly not necessary (GLSL is closely related to, but not 100% compatible with, C). \nMore details can be found at http://hacksocnotts.co.uk/events/2022-11-17-game-development-workshop-ii-shaders/
+ This should hopefully be a nice, relaxed workshop, and I will take you through the process of making a falling snowflake animation (maybe you could even turn it into a Christmas card!) perhaps with a tree in the middle.\n
+ There’s nothing to install on your computer in advance for this one, and while some experience with C will be useful, it’s certainly not necessary (GLSL is closely related to, but not 100% compatible with, C). \nMore details can be found at http://hacksocnotts.co.uk/events/2022-11-17-game-development-workshop-ii-shaders/
 DTSTART;TZID=Europe/London:20221117T190000
 DTEND;TZID=Europe/London:20221117T203000
 
