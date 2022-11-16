@@ -21,9 +21,8 @@ graphics simply by providing an RGB colour for each pixel. Have a look
 other people have done.
 
 This should hopefully be a nice, relaxed workshop, and I will take you 
-through the process of making a falling snowflake animation (very seasonal 
-- maybe you could even turn it into a Christmas card!) perhaps with a tree 
-in the middle.
+through the process of making a falling snowflake animation (maybe you could even turn it into a Christmas card!) perhaps 
+with a tree in the middle.
 
 There's nothing to install on your computer in advance for this one, and 
 while some experience with C will be useful, it's certainly not necessary 
