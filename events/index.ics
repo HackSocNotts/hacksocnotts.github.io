@@ -15,6 +15,16 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Advent of Code With Silly Languages
+DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2022-11-31-advent-of-code-with-silly-languages/
+DTSTART;TZID=Europe/London:20221201T190000
+DTEND;TZID=Europe/London:20221201T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Game Development Workshop II - Shaders
 DESCRIPTION:This Thursday we have the second part to the game development workshop series, which started last week! This workshop is a standalone session where we will be learning about GLSL shaders using shadertoy.\n
  GLSL is a language, similar to C, which runs on the GPU. Typically used for the implementation of shaders in games (e.g. lighting effects, fog, etc), it can also be used as a full graphics library in its own right. Shadertoy lets us write a program, in GLSL, where we can make cool graphics simply by providing an RGB colour for each pixel. Have a look here if you’re interested to see what other people have done.\n
