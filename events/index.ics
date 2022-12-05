@@ -15,6 +15,16 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Microcontroller Workshop
+DESCRIPTION:Come to this workshop to learn what microcontrollers are, how to program them, and how to build some circuitry so that your code can interact with the real world! … \nMore details can be found at http://hacksocnotts.co.uk/events/2022-12-06-microcontroller-workshop/
+DTSTART;TZID=Europe/London:20221206T190000
+DTEND;TZID=Europe/London:20221206T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Advent of Code With Silly Languages
 DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2022-11-31-advent-of-code-with-silly-languages/
 DTSTART;TZID=Europe/London:20221201T190000
