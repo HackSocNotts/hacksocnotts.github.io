@@ -15,6 +15,19 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:C/C++ Makefiles (Beginner to Advanced)
+DESCRIPTION:Do you have issues when your C or C++ projects get too big, and constantly updating makefiles or other build scripts becomes unwieldy? Do you know what $<, $@, and $^ mean in a makefile? Do you want to make your makefiles work better cross-platform? If your answers to those questions are yes, no, and yes, respectively, then this workshop may be useful for you!\n
+ We’ll talk about what makefiles are, why they’re useful, how to start using them, and then look at some more advanced topics to make more complex (and useful) makefiles.\n
+ There are no hard prerequisites for this workshop, but ideally:\n
+ You’re familiar with at least the basics of C programming. You’re using Linux or similar (WSL is fine, or if you really want, get some Make implementation for native Windows) … \nMore details can be found at http://hacksocnotts.co.uk/events/2023-02-07-c-c-makefiles-beginner-to-advanced/
+DTSTART;TZID=Europe/London:20230207T190000
+DTEND;TZID=Europe/London:20230207T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:GDSC Solution Challenge
 DESCRIPTION:Want to have the chance to win up to $3,000 whilst helping solve one of the UN problems? Join GDSC this Thursday in A07 at 19:00 where we’ll kick-off the solution challenge with an info session.\n
  The Google Developer Student Clubs Solution Challenge mission is to solve for one or more of the United Nations’ 17 sustainable development goals using Google technology. This can be completed in teams of 1-4, and anything can be submitted as long as it meets the requirements. Prizes include cash prizes ($3,000 each), mentorship from Googlers, swag and feature on the Google Developers Blog. We should also be able to provide some free Google Domains (.dev, .app, .page) and some Google Cloud credits. Every participant will receive a certificate and digital Google Developers badge\n
