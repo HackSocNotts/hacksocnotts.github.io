@@ -1,5 +1,5 @@
 ---
-title: "\"It works on my machine\""
+title: "It works on my machine"
 date: "2023-02-23"
 time: "7pm"
 start: "2023-02-23T19:00:00+01:00"
