@@ -4,6 +4,86 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Lightning Talks
+DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-28-lightning-talks/
+DTSTART;TZID=Europe/London:20230328T190000
+DTEND;TZID=Europe/London:20230328T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Hacker Royale
+DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-23-hacker-royale/
+DTSTART;TZID=Europe/London:20230323T190000
+DTEND;TZID=Europe/London:20230323T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Annual General Meeting
+DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-16-annual-general-meeting/
+DTSTART;TZID=Europe/London:20230316T190000
+DTEND;TZID=Europe/London:20230316T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Hack to the Future (A Trip to the National Museum of Computing)
+DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-11-hack-to-the-future-a-trip-to-the-national-museum-of-computing/
+DTSTART;TZID=Europe/London:20230311T100000
+DTEND;TZID=Europe/London:20230311T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Hacker Speed Dating 2
+DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-09-hacker-speed-dating-2/
+DTSTART;TZID=Europe/London:20230309T190000
+DTEND;TZID=Europe/London:20230309T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Diagrams in Haskell
+DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-02-diagrams-in-haskell/
+DTSTART;TZID=Europe/London:20230302T190000
+DTEND;TZID=Europe/London:20230302T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:PCB/Circuit Design Workshop
+DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-02-28-pcb-circuit-design-workshop/
+DTSTART;TZID=Europe/London:20230228T190000
+DTEND;TZID=Europe/London:20230228T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:It works on my machine
+DESCRIPTION:“It works on my machine”, but can you make it on yours? This event challenges you and a group of coding comrades to build a copy of an unknown project in two hours! A copy of the final project will be provided without code for you to try out and get a feel. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-02-23-it-works-on-my-machine/
+DTSTART;TZID=Europe/London:20230223T190000
+DTEND;TZID=Europe/London:20230223T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:HackNotts '23
 DESCRIPTION:HackNotts ‘23, our annual hackathon, will take place this coming February! Little has been decided other than that, so stay tuned for more information.\n
  If you are interested in sponsoring us, please get in touch! We have a range of sponsorship packages available. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-02-11-hacknotts/
