@@ -84,6 +84,16 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Programming Café
+DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-02-23-programming-cafe/
+DTSTART;TZID=Europe/London:20230223T120000
+DTEND;TZID=Europe/London:20230223T140000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:HackNotts '23
 DESCRIPTION:HackNotts ‘23, our annual hackathon, will take place this coming February! Little has been decided other than that, so stay tuned for more information.\n
  If you are interested in sponsoring us, please get in touch! We have a range of sponsorship packages available. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-02-11-hacknotts/
