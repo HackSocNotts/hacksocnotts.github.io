@@ -54,6 +54,17 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Nextcloud + Oracle Cloud workshop
+DESCRIPTION:Privacy is a major concern today, nearly all of your data stored with Google, Microsoft, or Apple. Now how would you like to get yourself away from all of this and keep all of files stored on the cloud e.g. on Google drive, iCloud, Onedrive etc. on your own cloud system so that you don’t have to worry about what these companies are doing with your data. There are many articles that have proven that the data stored on these clouds are accessible by these companies.\n
+ In this session, Rohit will show you how to host your own cloud for free using oracle cloud. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-07-nextcloud-oracle-cloud-workshop/
+DTSTART;TZID=Europe/London:20230307T190000
+DTEND;TZID=Europe/London:20230307T203000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Diagrams in Haskell
 DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-02-diagrams-in-haskell/
 DTSTART;TZID=Europe/London:20230302T190000
