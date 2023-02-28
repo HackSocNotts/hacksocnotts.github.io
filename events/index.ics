@@ -65,16 +65,6 @@ END:VEVENT
 
 BEGIN:VEVENT
 
-SUMMARY:Diagrams in Haskell
-DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-02-diagrams-in-haskell/
-DTSTART;TZID=Europe/London:20230302T190000
-DTEND;TZID=Europe/London:20230302T210000
-
-
-END:VEVENT
-
-BEGIN:VEVENT
-
 SUMMARY:PCB/Circuit Design Workshop
 DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-02-28-pcb-circuit-design-workshop/
 DTSTART;TZID=Europe/London:20230228T190000
