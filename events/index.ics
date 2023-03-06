@@ -56,16 +56,6 @@ END:VEVENT
 
 BEGIN:VEVENT
 
-SUMMARY:Hack to the Future (A Trip to the National Museum of Computing)
-DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-11-hack-to-the-future-a-trip-to-the-national-museum-of-computing/
-DTSTART;TZID=Europe/London:20230311T100000
-DTEND;TZID=Europe/London:20230311T190000
-
-
-END:VEVENT
-
-BEGIN:VEVENT
-
 SUMMARY:Demystifying App Development
 DESCRIPTION:One of our members, Demi, will be giving a talk to help you understand the general concepts and ideas around mobile app development. This will include:\n
  an overview of the app development industry, how it works and where it’s going the overarching concepts around app development, what they mean and how they work together what you can achieve when you apply these concepts together This talk is tailored towards those new to app development but anyone is welcome! \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-10-demystifying-app-development/
