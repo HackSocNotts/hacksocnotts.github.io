@@ -45,6 +45,16 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Hack to the Future (A Trip to the National Museum of Computing)
+DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-11-hack-to-the-future-a-trip-to-the-national-museum-of-computing/
+DTSTART;TZID=Europe/London:20230318T100000
+DTEND;TZID=Europe/London:20230318T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Annual General Meeting
 DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-16-annual-general-meeting/
 DTSTART;TZID=Europe/London:20230316T190000
@@ -60,16 +70,6 @@ DESCRIPTION:Jerry is an Open Data Advocate based in Nottingham and has previousl
  What is OpenStreetMap How to contibute to it Routing Problems OSM & Humanitarian Mapping Addresses  \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-14-openstreetmap-for-hackers/
 DTSTART;TZID=Europe/London:20230314T190000
 DTEND;TZID=Europe/London:20230314T203000
-
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SUMMARY:Hack to the Future (A Trip to the National Museum of Computing)
-DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-11-hack-to-the-future-a-trip-to-the-national-museum-of-computing/
-DTSTART;TZID=Europe/London:20230318T100000
-DTEND;TZID=Europe/London:20230318T190000
 
 
 END:VEVENT
