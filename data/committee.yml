@@ -1,37 +1,32 @@
 members:
     - identifier: president
       title: President
-      name: Zac Garby
-      image: /img/committee/zac.jpeg
-      website: https://zacgarby.co.uk
-      email: zac@hacksocnotts.co.uk
+      name: Daudi Wampamba
+      image: /img/committee/daudi.jpg
+      website: https://daudi.dev
+      email: daudi.wampamba@hacksocnotts.co.uk
     - identifier: gensec
       title: General Secretary
-      name: Daudi Wampamba
-      image: /img/committee/daudi.png
-      email: daudi.wampamba@hacksocnotts.co.uk
-    - identifier: treasurer
-      title: Treasurer
-      name: Dan Lee
-      image: /img/committee/dan.jpg
-      email: dan.lee@hacksocnotts.co.uk
-    - identifier: devsec
-      title: Development Secretary
-      name: Jacob Garby
-      image: /img/committee/jacob.png
-      email: jacob.garby@hacksocnotts.co.uk
-    - identifier: speaker
-      title: Speaker Acquisition Secretary
       name: Eva Davis
       image: /img/committee/eva.png
       email: eva.davis@hacksocnotts.co.uk
-    - identifier: cyber
-      title: Cyber Security Secretary
-      name: Robert Grigoras
-      image: /img/committee/robert.png
-      email: robert.grigoras@hacksocnotts.co.uk
+    - identifier: treasurer
+      title: Treasurer
+      name: Nathan Burgess
+      image: /img/committee/nathan.jpg
+      email: nathan.burgess@hacksocnotts.co.uk
+    - identifier: devsec
+      title: Development Secretary
+      name: James Harvey
+      image: /img/committee/james.png
+      email: james.harvey@hacksocnotts.co.uk
+    - identifier: speaker
+      title: Speaker Acquisition Secretary
+      name: Isaac Destura
+      image: /img/committee/isaac.png
+      email: isaac.destura@hacksocnotts.co.uk
     - identifier: marketing
       title: Marketing Secretary
-      name: Toby Clark
-      image: /img/committee/toby.png
-      email: toby.clark@hacksocnotts.co.uk
+      name: Joseph Heyes
+      image: /img/committee/joseph.png
+      email: joseph.heyes@hacksocnotts.co.uk
