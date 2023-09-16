@@ -25,6 +25,11 @@ members:
       name: Isaac Destura
       image: /img/committee/isaac.png
       email: isaac.destura@hacksocnotts.co.uk
+    - identifier: trips
+      title: Trips Officer
+      name: Qiang Cai
+      image: /img/committee/qiang.png
+      email: isaac.destura@hacksocnotts.co.uk
     - identifier: marketing
       title: Marketing Secretary
       name: Joseph Heyes
