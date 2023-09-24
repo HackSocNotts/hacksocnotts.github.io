@@ -4,6 +4,17 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Scheduling and Operations at Heathrow Airport
+DESCRIPTION:In this talk, Geert de Maare will be talking about his work at Heathrow Airport. This specifically includes working on some of the operations there and he will be going into detail about the hard mathematics and techniques used to solving the problems that occur with this.\n
+ Geert is a professor of Computer Science at the University of Nottingham, with specific interests in airline scheduling, airport operations and operating systems. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-14-scheduling-and-operations-at-heathrow-airport/
+DTSTART;TZID=Europe/London:20231114T190000
+DTEND;TZID=Europe/London:20231114T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:HackNotts
 DESCRIPTION:HackNotts is an annual hackathon hosted by HackSoc at the University of Nottingham. It’s a two-day overnight hackathon for all skill levels taking place on November 4th and 5th 2023.\n
  This is a great opportunity to connect with like-minded people and discuss new ideas and projects. Teams are not mandatory, as said previously. There will be loads of opportunities to find one though, including a team building workshop on the day along with the #find-a-team Discord channel. Aside from the hacking, workshops and food, there will also be games and other events to keep you entertained.\n
@@ -11,6 +22,17 @@ DESCRIPTION:HackNotts is an annual hackathon hosted by HackSoc at the University
  For more info and to get tickets, go to https://hacknotts.com/ \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-04-hacknotts/
 DTSTART;TZID=Europe/London:20231104T090000
 DTEND;TZID=Europe/London:20231105T160000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Android Best Practices Talk
+DESCRIPTION:In this talk, Ed Holloway-George will talk about best practices for Android Development.\n
+ Ed is currently working at ASOS as a software developer. He is a Google expert for Android, with a particular expertise in security. You can learn more about him on his website. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-10-24-android-best-practices-talk-by-ed-holloway-george/
+DTSTART;TZID=Europe/London:20231024T190000
+DTEND;TZID=Europe/London:20231024T200000
 
 
 END:VEVENT
