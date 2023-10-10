@@ -39,6 +39,16 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:HackSoc EGM
+DESCRIPTION:Come along to our EGM to help us vote on whether we should introduce working groups to our society and to elect a new Welfare Secretary! \nMore details can be found at http://hacksocnotts.co.uk/events/2023-10-19-hacksoc-egm/
+DTSTART;TZID=Europe/London:20231019T190000
+DTEND;TZID=Europe/London:20231019T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Docker
 DESCRIPTION:Nathan talks about Docker for 3 hours. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-10-17-docker/
 DTSTART;TZID=Europe/London:20231017T190000
