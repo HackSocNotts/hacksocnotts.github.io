@@ -28,6 +28,17 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:The Making of a Programming Language
+DESCRIPTION:Zac Garby (former HackSoc president) will give a talk on the process of making a programming language. This talk will focus more specifically on how to create imperative programming languages.\n
+ Zac has extensive experience implementing both imperative and functional programming languages. If you want to see more of his impressive work/projects, you can have a look at his Github: https://github.com/zac-garby \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-02-the-making-of-a-programming-language/
+DTSTART;TZID=Europe/London:20231102T190000
+DTEND;TZID=Europe/London:20231102T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Android Best Practices Talk
 DESCRIPTION:In this talk, Ed Holloway-George will talk about best practices for Android Development.\n
  Ed is currently working at ASOS as a software developer. He is a Google expert for Android, with a particular expertise in security. You can learn more about him on his website. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-10-24-android-best-practices-talk-by-ed-holloway-george/
