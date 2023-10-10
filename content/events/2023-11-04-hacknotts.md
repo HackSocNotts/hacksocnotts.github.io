@@ -1,7 +1,7 @@
 ---
 title: "HackNotts"
 date: "2023-11-04"
-time: "10am"
+time: "10am to Sunday 4pm"
 start: "2023-11-04T09:00:00+01:00"
 end: "2023-11-05T16:00:00+01:00"
 location: "Comp Sci"
