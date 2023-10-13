@@ -4,11 +4,69 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Lightning Talks + Pub Quiz
+DESCRIPTION:We will be starting the evening with Lightning talks, where anyone can give a (5-10 minute) light talk, about any topic. We’ll end the night with a pub quiz, as a way to see out the semester.\n
+ Please get in touch if you want to do a lightning talk.\n
+ Feel free to come along if you want to listen and test your tech knowledge. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-12-05-lightning-talks-pub-quiz/
+DTSTART;TZID=Europe/London:20231205T190000
+DTEND;TZID=Europe/London:20231205T220000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:CPU Design
+DESCRIPTION:This will be a talk introducing the world of CPU design.\n
+ This will be run by Matthew Houghton who has extensive experience working on CPU design and CPU simulations. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-28-cpu-design/
+DTSTART;TZID=Europe/London:20231128T190000
+DTEND;TZID=Europe/London:20231128T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Esoteric Languages Workshop
+DESCRIPTION:An introduction to the world of esoteric languages (esolangs), which are programming languages without any real useful/practical value, but they are quite funny.\n
+ Some Esolang examples are: Malborge, Piet, Chef, BrainFuck.\n
+ This trivial snippet descirbes how to briefly print(“Hello world”) in the esolang Shakespeare:\n
+ The Art of the Introduction. Romeo, a young man with remarkable patience. Juliet, a likewise remarkable young woman. The world. [ Enter Romeo and Juliet ] Romeo: Listen to your heart! Juliet: Listen to your heart. Remember yourself. [ Exeunt ] [ Enter Romeo and Juliet ] Romeo: Am I more bright than you? If so let us proceed. You are the sum of yourself and a big big big pig. [ Exeunt ] [ Enter Romeo and Juliet ] Romeo: Am I worse than the world? If so let us proceed. Recall. [ Exit ] [ Enter Romeo and Juliet ] Juliet: Open your heart! [ Exeunt ]  \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-21-esoteric-languages-workshop/
+DTSTART;TZID=Europe/London:20231121T190000
+DTEND;TZID=Europe/London:20231121T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Scheduling and Operations at Heathrow Airport
 DESCRIPTION:In this talk, Geert de Maare will be talking about his work at Heathrow Airport. This specifically includes working on some of the operations there and he will be going into detail about the hard mathematics and techniques used to solving the problems that occur with this.\n
  Geert is a professor of Computer Science at the University of Nottingham, with specific interests in airline scheduling, airport operations and operating systems. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-14-scheduling-and-operations-at-heathrow-airport/
 DTSTART;TZID=Europe/London:20231114T190000
 DTEND;TZID=Europe/London:20231114T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Homebrew (Cafe Crawl)
+DESCRIPTION:For this event, Hacksoc will go across various unique cafes across Nottingham City Center.\n
+ Last year, cafes visited included Dispatch, Coco Tang, Effy, and others. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-08-home-brew-version-3/
+DTSTART;TZID=Europe/London:20231108T140000
+DTEND;TZID=Europe/London:20231108T180000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Computerphile Talk
+DESCRIPTION:Computerphile’s Steve Bagley, Mike Pound and Sean Riley will be doing an exciting talk on all their work fro the youtube channel.\n
+ Feel free to join if you want to learn about the process and behind the scenes of the production process for Computerphile. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-07-computerphile-talk/
+DTSTART;TZID=Europe/London:20231107T190000
+DTEND;TZID=Europe/London:20231107T210000
 
 
 END:VEVENT
