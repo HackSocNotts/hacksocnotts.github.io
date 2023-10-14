@@ -118,16 +118,6 @@ END:VEVENT
 
 BEGIN:VEVENT
 
-SUMMARY:Docker
-DESCRIPTION:Nathan talks about Docker for 3 hours. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-10-17-docker/
-DTSTART;TZID=Europe/London:20231017T190000
-DTEND;TZID=Europe/London:20231017T210000
-
-
-END:VEVENT
-
-BEGIN:VEVENT
-
 SUMMARY:Intro to Neural Networks in Python
 DESCRIPTION:In this hands-on, immersive workshop, you’ll delve deeper into Python programming as we explore the fascinating intersection of AI and video games. Street Fighter II, a classic fighting game, will serve as our playground for building an intelligent opponent that can compete against human players.\n
  Workshop Highlights:\n
