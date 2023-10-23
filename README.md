@@ -10,7 +10,7 @@ The HackSoc website core dependencies are:
  * [Github Pages](https://pages.github.com)
 
 ## Contributing
-Contributions are welcome for both updating our Calendar and improving the website. However, please see the [Contributors Guide](./CONTRIBUTING.md) first.
+Contributions are welcome for both updating our Calendar and improving the website. If you have any questions, please ask in the Discord.
 
 ## Run locally
 1. Clone the repository `git clone https://github.com/HackSocNotts/hacksocnotts.co.uk.git`
