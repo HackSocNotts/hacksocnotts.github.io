@@ -97,6 +97,21 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Conway's Game of Life (w/ Intel)
+DESCRIPTION:Dive into the exciting world of parallel computing with SYCL, using Conway’s Game of Life as our hands-on example. Whether you’re a beginner or an experienced developer, this event is for you. Approachable for beginner to advanced C++ programmers, and fun to watch for all.\n
+ Join us for:\n
+ Introduction to SYCL:\n
+ Learn how SYCL makes parallel computing accessible and powerful.\n
+ Hands-On Coding:\n
+ Apply SYCL to enhance the performance of Conway’s Game of Life. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-10-26-conway-s-game-of-life-w-intel/
+DTSTART;TZID=Europe/London:20231026T190000
+DTEND;TZID=Europe/London:20231026T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Android Best Practices Talk
 DESCRIPTION:In this talk, Ed Holloway-George will talk about best practices for Android Development.\n
  Ed is currently working at ASOS as a software developer. He is a Google expert for Android, with a particular expertise in security. You can learn more about him on his website. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-10-24-android-best-practices-talk-by-ed-holloway-george/
@@ -112,6 +127,16 @@ SUMMARY:HackSoc EGM
 DESCRIPTION:Come along to our EGM to help us vote on whether we should introduce working groups to our society and to elect a new Welfare Secretary! \nMore details can be found at http://hacksocnotts.co.uk/events/2023-10-19-hacksoc-egm/
 DTSTART;TZID=Europe/London:20231019T190000
 DTEND;TZID=Europe/London:20231019T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Hacker Round Robin
+DESCRIPTION:Hacker Round Robin (formerly Hacker Speed Dating) is an intense event in which participants are challenged to build a simple project. The twist is, every 30 minutes, you’ll be forced to move to the next computer. Work closely with the people next to you to catch up, not make it worse, and hopefully build a complete project! \nMore details can be found at http://hacksocnotts.co.uk/events/2023-10-17-hacker-round-robin/
+DTSTART;TZID=Europe/London:20231017T190000
+DTEND;TZID=Europe/London:20231017T210000
 
 
 END:VEVENT
