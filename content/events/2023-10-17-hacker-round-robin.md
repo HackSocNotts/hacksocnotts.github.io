@@ -2,8 +2,8 @@
 title: "Hacker Round Robin"
 date: "2023-10-17"
 time: "7pm"
-start: "2023-10-17T19:00+01:00"
-end: "2023-10-17T:00+01:00"
+start: "2023-10-17T19:00:00+01:00"
+end: "2023-10-17T21:00:00+01:00"
 location: "A32, Comp Sci"
 ---
 
