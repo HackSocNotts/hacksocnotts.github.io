@@ -3,7 +3,6 @@ members:
       title: President
       name: Daudi Wampamba
       image: /img/committee/daudi.jpg
-      website: https://daudi.dev
       email: daudi.wampamba@hacksocnotts.co.uk
     - identifier: gensec
       title: General Secretary
@@ -18,20 +17,30 @@ members:
     - identifier: devsec
       title: Development Secretary
       name: James Harvey
-      image: /img/committee/james.png
+      image: /img/committee/james.jpg
       email: james.harvey@hacksocnotts.co.uk
     - identifier: speaker
       title: Speaker Acquisition Secretary
       name: Isaac Destura
-      image: /img/committee/isaac.png
+      image: /img/committee/isaac.jpg
       email: isaac.destura@hacksocnotts.co.uk
     - identifier: trips
       title: Trips Officer
       name: Qiang Cai
       image: /img/committee/qiang.png
-      email: isaac.destura@hacksocnotts.co.uk
+      email: qiang.cai@hacksocnotts.co.uk
     - identifier: marketing
       title: Marketing Secretary
       name: Joseph Heyes
-      image: /img/committee/joseph.png
+      image: /img/committee/joseph.jpg
       email: joseph.heyes@hacksocnotts.co.uk
+    - identifier: welfare
+      title: Welfare Secretary
+      name: Mark Fannon
+      image: /img/committee/mark.jpg
+      email: mark.fannon@hacksocnotts.co.uk
+    - identifier: working-groups
+      title: Working Groups Secretary
+      name: Andrew Navida
+      image: /img/committee/andrew.jpg
+      email: andrew.navida@hacksocnotts.co.uk
