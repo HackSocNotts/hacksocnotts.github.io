@@ -3,7 +3,6 @@ members:
       title: President
       name: Daudi Wampamba
       image: /img/committee/daudi.jpg
-      website: https://daudi.dev
       email: daudi.wampamba@hacksocnotts.co.uk
     - identifier: gensec
       title: General Secretary
