@@ -7,7 +7,7 @@ buildFuture: true
 
 params:
   description: "HackSoc Nottingham"
-  author: "HackSoc Committee"
+  # author: "HackSoc Committee"
   logoPath: "/img/logo.svg"
 
 outputs:
