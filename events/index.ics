@@ -65,8 +65,8 @@ BEGIN:VEVENT
 SUMMARY:Computerphile Talk
 DESCRIPTION:Computerphile’s Steve Bagley, Mike Pound and Sean Riley will be doing an exciting talk on all their work fro the youtube channel.\n
  Feel free to join if you want to learn about the process and behind the scenes of the production process for Computerphile. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-07-computerphile-talk/
-DTSTART;TZID=Europe/London:20231107T190000
-DTEND;TZID=Europe/London:20231107T210000
+DTSTART;TZID=Europe/London:20231107T181500
+DTEND;TZID=Europe/London:20231107T200000
 
 
 END:VEVENT
