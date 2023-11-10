@@ -315,17 +315,6 @@ END:VEVENT
 
 BEGIN:VEVENT
 
-SUMMARY:HackNotts '23
-DESCRIPTION:HackNotts ‘23, our annual hackathon, will take place this coming February! Little has been decided other than that, so stay tuned for more information.\n
- If you are interested in sponsoring us, please get in touch! We have a range of sponsorship packages available. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-02-11-hacknotts/
-DTSTART;TZID=Europe/London:20230211T100000
-DTEND;TZID=Europe/London:20230212T150000
-
-
-END:VEVENT
-
-BEGIN:VEVENT
-
 SUMMARY:C/C++ Makefiles (Beginner to Advanced)
 DESCRIPTION:Do you have issues when your C or C++ projects get too big, and constantly updating makefiles or other build scripts becomes unwieldy? Do you know what $<, $@, and $^ mean in a makefile? Do you want to make your makefiles work better cross-platform? If your answers to those questions are yes, no, and yes, respectively, then this workshop may be useful for you!\n
  We’ll talk about what makefiles are, why they’re useful, how to start using them, and then look at some more advanced topics to make more complex (and useful) makefiles.\n
