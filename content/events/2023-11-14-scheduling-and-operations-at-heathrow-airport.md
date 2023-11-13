@@ -1,8 +1,8 @@
 ---
 title: "Scheduling and Operations at Heathrow Airport"
 date: "2023-11-14"
-time: "7pm"
-start: "2023-11-14T19:00:00+01:00"
+time: "6:15pm"
+start: "2023-11-14T18:15:00+01:00"
 end: "2023-11-14T21:00:00+01:00"
 location: "LT1, Exchange"
 ---
