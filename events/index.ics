@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Scheduling and Operations at Heathrow Airport
 DESCRIPTION:In this talk, Geert de Maare will be talking about his work at Heathrow Airport. This specifically includes working on some of the operations there and he will be going into detail about the hard mathematics and techniques used to solving the problems that occur with this.\n
  Geert is a professor of Computer Science at the University of Nottingham, with specific interests in airline scheduling, airport operations and operating systems. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-14-scheduling-and-operations-at-heathrow-airport/
-DTSTART;TZID=Europe/London:20231114T190000
+DTSTART;TZID=Europe/London:20231114T181500
 DTEND;TZID=Europe/London:20231114T210000
 
 
