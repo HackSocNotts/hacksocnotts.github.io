@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:CPU Design
 DESCRIPTION:This will be a talk introducing the world of CPU design.\n
  This will be run by Matthew Houghton who has extensive experience working on CPU design and CPU simulations. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-28-cpu-design/
-DTSTART;TZID=Europe/London:20231128T190000
+DTSTART;TZID=Europe/London:20231128T181500
 DTEND;TZID=Europe/London:20231128T210000
 
 
@@ -34,6 +34,17 @@ DESCRIPTION:An introduction to the world of esoteric languages (esolangs), which
  The Art of the Introduction. Romeo, a young man with remarkable patience. Juliet, a likewise remarkable young woman. The world. [ Enter Romeo and Juliet ] Romeo: Listen to your heart! Juliet: Listen to your heart. Remember yourself. [ Exeunt ] [ Enter Romeo and Juliet ] Romeo: Am I more bright than you? If so let us proceed. You are the sum of yourself and a big big big pig. [ Exeunt ] [ Enter Romeo and Juliet ] Romeo: Am I worse than the world? If so let us proceed. Recall. [ Exit ] [ Enter Romeo and Juliet ] Juliet: Open your heart! [ Exeunt ]  \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-21-esoteric-languages-workshop/
 DTSTART;TZID=Europe/London:20231121T190000
 DTEND;TZID=Europe/London:20231121T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:HomeBrew (Cafe Crawl)
+DESCRIPTION:For this event, Hacksoc will go across various unique cafes across Nottingham City Center.\n
+ Last year, cafes visited included Dispatch, Coco Tang, Effy, and others. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-15-homebrew-cafe-crawl/
+DTSTART;TZID=Europe/London:20231115T140000
+DTEND;TZID=Europe/London:20231115T180000
 
 
 END:VEVENT
