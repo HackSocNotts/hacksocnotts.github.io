@@ -1,8 +1,8 @@
 ---
 title: "CPU Design"
 date: "2023-11-28"
-time: "7pm"
-start: "2023-11-28T19:00:00+01:00"
+time: "6:15pm"
+start: "2023-11-28T18:15:00+01:00"
 end: "2023-11-28T21:00:00+01:00"
 location: "LT1, Exchange"
 ---
