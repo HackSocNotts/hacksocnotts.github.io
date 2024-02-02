@@ -4,6 +4,28 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:So you want a Robot?
+DESCRIPTION:This talk will be by Adrian Vecina who currently leads Robonotts. Here is his descripton of the talk:\n
+ “We all know robots are going to be everywhere right? But what does it take to perform even the simplest task using a robot? In this talk I’m going to explore the challenges and approaches involved with creating autonomous robots, and all the different topics that combine into robotic autonomy.”\n
+ If you’re interested in Robotics feel free to come down. \nMore details can be found at http://hacksocnotts.co.uk/events/2024-02-13-so-you-want-a-robot/
+DTSTART;TZID=Europe/London:20240213T181500
+DTEND;TZID=Europe/London:20240213T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Year in Industry Talk
+DESCRIPTION:This talk will be by Emily Haworth and Dan Lee about their experience working at their respective companies. The talks will encompass both the application process and what their days looked like working there. Feel free to come down, if you want to learn more about what year in industry is like. \nMore details can be found at http://hacksocnotts.co.uk/events/2024-02-06-year-in-industry-talk/
+DTSTART;TZID=Europe/London:20240206T181500
+DTEND;TZID=Europe/London:20240206T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Lightning Talks + Pub Quiz
 DESCRIPTION:We will be starting the evening with Lightning talks, where anyone can give a (5-10 minute) light talk, about any topic. We’ll end the night with a pub quiz, as a way to see out the semester.\n
  Please get in touch if you want to do a lightning talk.\n
