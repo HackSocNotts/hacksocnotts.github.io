@@ -12,4 +12,3 @@ This talk will be by Adrian Vecina who currently leads [Robonotts](https://robon
 "We all know robots are going to be everywhere right? But what does it take to perform even the simplest task using a robot? In this talk I'm going to explore the challenges and approaches involved with creating autonomous robots, and all the different topics that combine into robotic autonomy."
 
 If you're interested in Robotics feel free to come down.
-
