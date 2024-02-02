@@ -16,6 +16,16 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Café Crawl
+DESCRIPTION:Another edition of Café Crawl. We will be starting at 200 Degrees, and will be posting more info about the route soon. \nMore details can be found at http://hacksocnotts.co.uk/events/2024-02-08-cafe-crawl/
+DTSTART;TZID=Europe/London:20240208T130000
+DTEND;TZID=Europe/London:20240208T180000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Year in Industry Talk
 DESCRIPTION:This talk will be by Emily Haworth and Dan Lee about their experience working at their respective companies. The talks will encompass both the application process and what their days looked like working there. Feel free to come down, if you want to learn more about what year in industry is like. \nMore details can be found at http://hacksocnotts.co.uk/events/2024-02-06-year-in-industry-talk/
 DTSTART;TZID=Europe/London:20240206T181500
