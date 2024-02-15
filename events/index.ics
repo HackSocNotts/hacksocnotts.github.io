@@ -4,6 +4,28 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Poker Bot's Workshop
+DESCRIPTION:Next Tuesday, 20th February at 18:15, we’ll be holding a talk about an environment for game-playing AI agents to play poker against one another, made by none other than our president, Daudi Wampamba!\n
+ During this event, we will be introducing the environment, written in Rust (with Python bindings). You’ll then be able to design your own poker bot before the following week’s event where we will pit all the bots against each other! \nMore details can be found at http://hacksocnotts.co.uk/events/2024-02-20-poker-bot-s-workshop/
+DTSTART;TZID=Europe/London:20240220T181500
+DTEND;TZID=Europe/London:20240220T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Cafe Crawl
+DESCRIPTION:Another edition of cafe crawl. We will be stopping at Elena’s Patisserie and Coffee Lounge, Blend EastWest, 200 Degrees (Flying Horse Walk), and CocoTang.\n
+ Hope to see you there. \nMore details can be found at http://hacksocnotts.co.uk/events/2024-02-15-cafe-crawl/
+DTSTART;TZID=Europe/London:20240215T130000
+DTEND;TZID=Europe/London:20240215T180000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:So you want a Robot?
 DESCRIPTION:This talk will be by Adrian Vecina who currently leads Robonotts. Here is his descripton of the talk:\n
  “We all know robots are going to be everywhere right? But what does it take to perform even the simplest task using a robot? In this talk I’m going to explore the challenges and approaches involved with creating autonomous robots, and all the different topics that combine into robotic autonomy.”\n
