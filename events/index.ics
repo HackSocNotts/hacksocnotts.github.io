@@ -4,10 +4,33 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:AGM
+DESCRIPTION:During this, we’ll be all voting on the commitee members for the 2024-2025 academic year. We’ll also vote to any changes this year to the constitution. If you want to see the candidates and changes, you can have a look on our Github: https://github.com/HackSocNotts/nominations/issues\n
+ You can also create an issue there if you wish to nominate yourself, until the AGM.\n
+ Please come by to LT2, Exchange Building if you want to make your voice heard! \nMore details can be found at http://hacksocnotts.co.uk/events/2024-03-21-agm/
+DTSTART;TZID=Europe/London:20240321T181500
+DTEND;TZID=Europe/London:20240321T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Hack and Slash 6
 DESCRIPTION:Join us for our pub crawl, running jointly with the Medieval Combat Society (MCS). We will be going through Liquid Light Brewery, Neon Raptor, Angel Microbrewery, and BrewDog Nottingham. Hope to see you there! \nMore details can be found at http://hacksocnotts.co.uk/events/2024-03-09-hack-and-slash-6/
 DTSTART;TZID=Europe/London:20240309T180000
 DTEND;TZID=Europe/London:20240309T220000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Intro to Rust Workshop
+DESCRIPTION:During this event, our president will be covering the basic features of Rust, covering concepts like syntax, enums, structs and borrow-checkers. We will cover some of the basic features, and work towards implementing a LinkedList library in Rust.\n
+ Here is a good resource on the area, the Intro to Rust book: https://doc.rust-lang.org/book/ \nMore details can be found at http://hacksocnotts.co.uk/events/2024-03-07-intro-to-rust-workshop/
+DTSTART;TZID=Europe/London:20240307T181500
+DTEND;TZID=Europe/London:20240307T210000
 
 
 END:VEVENT
