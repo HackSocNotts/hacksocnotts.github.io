@@ -1,14 +1,14 @@
 members:
     - identifier: president
       title: President
-      name: Daudi Wampamba
-      image: /img/committee/daudi.jpg
-      email: daudi.wampamba@hacksocnotts.co.uk
-    - identifier: gensec
-      title: General Secretary
       name: Eva Davis
       image: /img/committee/eva.png
       email: eva.davis@hacksocnotts.co.uk
+    - identifier: gensec
+      title: General Secretary
+      name: Harry Broadbelt
+      image: /img/committee/harry.jpg
+      email: harry.broadbelt@hacksocnotts.co.uk
     - identifier: treasurer
       title: Treasurer
       name: Manasi Mehta
@@ -19,21 +19,26 @@ members:
       name: James Harvey
       image: /img/committee/james.jpg
       email: james.harvey@hacksocnotts.co.uk
+    - identifier: devsec
+      title: Development Secretary
+      name: Indraneel Mahendrakumar
+      image: /img/committee/indraneel.png
+      email: indraneel.mahendrakumar@hacksocnotts.co.uk
     - identifier: speaker
       title: Speaker Acquisition Secretary
-      name: Isaac Destura
-      image: /img/committee/isaac.jpg
-      email: isaac.destura@hacksocnotts.co.uk
+      name: Nishi Shishir
+      image: /img/committee/nishi.png
+      email: nishi.shishir@hacksocnotts.co.uk
     - identifier: trips
-      title: Trips Officer
+      title: Marketing Secretary
       name: Qiang Cai
       image: /img/committee/qiang.png
       email: qiang.cai@hacksocnotts.co.uk
     - identifier: marketing
-      title: Marketing Secretary
-      name: Joseph Heyes
-      image: /img/committee/joseph.jpg
-      email: joseph.heyes@hacksocnotts.co.uk
+      title: Trips and Hackathons Secretary
+      name: Amber Swarbrick
+      image: /img/committee/amber.png
+      email: amber.swarbrick@hacksocnotts.co.uk
     - identifier: welfare
       title: Welfare Secretary
       name: Lana Valentine
@@ -41,6 +46,6 @@ members:
       email: lana.valentine@hacksocnotts.co.uk
     - identifier: working-groups
       title: Working Groups Secretary
-      name: Andrew Navida
-      image: /img/committee/andrew.jpg
-      email: andrew.navida@hacksocnotts.co.uk
+      name: Dominion Aromolaran
+      image: /img/committee/dominion.jpg
+      email: dominion.aromolaran@hacksocnotts.co.uk
