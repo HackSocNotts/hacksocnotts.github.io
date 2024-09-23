@@ -4,6 +4,47 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:HackNotts 24
+DESCRIPTION:Our annual hackathon! HackNotts is a 24-hour hackathon where you and up to 3 other people can create anything, and win prizes!\n
+ For more information, go to https://hacknotts.com :D \nMore details can be found at http://hacksocnotts.co.uk/events/2024-10-26-hacknotts-24/
+DTSTART;TZID=Europe/London:20241026T090000
+DTEND;TZID=Europe/London:20241026T090000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Intro to Hardware
+DESCRIPTION:Want to become a hacker? Looking to bash hardware together, code up silly games, and create technical monstrosities? Join HackSoc Veteran and PhD student Adrian in for some Hackathon basics for fresh Hackers! No experience required: You don’t need to be a computer science student! \nMore details can be found at http://hacksocnotts.co.uk/events/2024-10-15-intro-to-hardware/
+DTSTART;TZID=Europe/London:20241015T181500
+DTEND;TZID=Europe/London:20241015T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Intro to Python Workshop
+DESCRIPTION:Learn the fundamentals of programming with Python! Perfect for if you want to get into programming or want to learn Python. \nMore details can be found at http://hacksocnotts.co.uk/events/2024-10-01-intro-to-python-workshop/
+DTSTART;TZID=Europe/London:20241001T181500
+DTEND;TZID=Europe/London:20241001T193000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:HackSoc Intro Talk
+DESCRIPTION:Our Welcome Talks! - Where we will give short talks (15 mins) about HackSoc and what we do as a society. There’s also free pizza! \nMore details can be found at http://hacksocnotts.co.uk/events/2024-09-26-hacksoc-intro-talk/
+DTSTART;TZID=Europe/London:20240926T160000
+DTEND;TZID=Europe/London:20240926T180000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:AGM
 DESCRIPTION:During this, we’ll be all voting on the commitee members for the 2024-2025 academic year. We’ll also vote to any changes this year to the constitution. If you want to see the candidates and changes, you can have a look on our Github: https://github.com/HackSocNotts/nominations/issues\n
  You can also create an issue there if you wish to nominate yourself, until the AGM.\n
