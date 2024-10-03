@@ -25,6 +25,16 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Intro to Competitive Programming
+DESCRIPTION:Want to get better at programming challenges and competitions? Join HackSoc’s Development Secretary and 4th year student Indraneel as we dive into competitive programming and how to improve your skills within the scene! No prior experience or knowledge needed - only that you know basic programming. \nMore details can be found at http://hacksocnotts.co.uk/events/2024-10-08-intro-to-competitive-programming/
+DTSTART;TZID=Europe/London:20241008T181500
+DTEND;TZID=Europe/London:20241008T191500
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Intro to Python Workshop
 DESCRIPTION:Learn the fundamentals of programming with Python! Perfect for if you want to get into programming or want to learn Python. \nMore details can be found at http://hacksocnotts.co.uk/events/2024-10-01-intro-to-python-workshop/
 DTSTART;TZID=Europe/London:20241001T181500
