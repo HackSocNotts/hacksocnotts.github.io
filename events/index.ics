@@ -4,11 +4,31 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Cyber Security Talk
+DESCRIPTION:A talk with Xavier Carpent, a lecturer specialising in Cyber Security and with a specialisation in applied cryptography and authentication. \nMore details can be found at http://hacksocnotts.co.uk/events/2024-10-29-cyber-security-talk/
+DTSTART;TZID=Europe/London:20241029T181500
+DTEND;TZID=Europe/London:20241029T191500
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:HackNotts 24
 DESCRIPTION:Our annual hackathon! HackNotts is a 24-hour hackathon where you and up to 3 other people can create anything, and win prizes!\n
  For more information, go to https://hacknotts.com :D \nMore details can be found at http://hacksocnotts.co.uk/events/2024-10-26-hacknotts-24/
 DTSTART;TZID=Europe/London:20241026T090000
 DTEND;TZID=Europe/London:20241026T090000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Creative Coding Workshop
+DESCRIPTION:Come and learn about creative coding with Lana! You will be taken through creating your first p5.js project and integrating it into a webpage. No experience in web development or JavaScript is required :) \nMore details can be found at http://hacksocnotts.co.uk/events/2024-10-22-creative-coding-workshop/
+DTSTART;TZID=Europe/London:20241022T181500
+DTEND;TZID=Europe/London:20241022T191500
 
 
 END:VEVENT
