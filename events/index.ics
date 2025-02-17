@@ -4,6 +4,26 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Intro to Rust
+DESCRIPTION:Whenever you have the misfortune of getting dragged into a debate about which language is the best, you will always hear that Rust is the best because of it’s package manager, memory safety, etc. But why is that, I’ve always been wanting to experience it myself? In this workshop, we will go over an introduction to Rust and it’s features for those who want to get involved in this modern and admired programming language. Hosted by our own Developer Secretary; Indraneel Mahendrakumar! \nMore details can be found at http://hacksocnotts.co.uk/events/2025-02-25-intro-to-rust/
+DTSTART;TZID=Europe/London:20250225T181500
+DTEND;TZID=Europe/London:20250225T191500
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:How do LLMs Actually Work?
+DESCRIPTION:Have you ever used ChatGPT, Claude, or DeepSeek and wondered how they worked? In this talk we will be going on a detailed deep dive of the structure of Generative Pre-trained Transformer Models and how they work, as well as how to run them locally on your computer for personal use, or even Hacks! We’ll also investigate some of the recent developments of these models, and what the whole deekseek drama was about. No previous ML experience needed, Attention is all you need! Hosted by our very own HackSoc Member, Robotics Enthusiast, and PhD Student Adrian Vecina Tercero! \nMore details can be found at http://hacksocnotts.co.uk/events/2025-02-18-how-do-llms-actually-work/
+DTSTART;TZID=Europe/London:20250218T181500
+DTEND;TZID=Europe/London:20250218T191500
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Cyber Security Talk
 DESCRIPTION:A talk with Xavier Carpent, a lecturer specialising in Cyber Security and with a specialisation in applied cryptography and authentication. \nMore details can be found at http://hacksocnotts.co.uk/events/2024-10-29-cyber-security-talk/
 DTSTART;TZID=Europe/London:20241029T181500
