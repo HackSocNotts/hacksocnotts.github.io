@@ -1,51 +1,48 @@
 members:
     - identifier: president
       title: President
-      name: Eva Davis
-      image: /img/committee/eva.png
-      email: eva.davis@hacksocnotts.co.uk
+      name: Lana Valentine
+      image: /img/committee/lana.png
+      image_alt: /img/committee-bebe/lanabebe.png
+      email: lana.valentine@hacksocnotts.co.uk
     - identifier: gensec
       title: General Secretary
-      name: Harry Broadbelt
-      image: /img/committee/harry.jpg
-      email: harry.broadbelt@hacksocnotts.co.uk
+      name: Will Wright
+      image: /img/committee/willw.jpeg
+      image_alt: /img/committee-bebe/willwbebe.jpg
+      email: will.wright@hacksocnotts.co.uk
     - identifier: treasurer
       title: Treasurer
-      name: Manasi Mehta
-      image: /img/committee/manasi.jpg
-      email: manasi.mehta@hacksocnotts.co.uk
+      name: Will Rostance
+      image: /img/committee/willr.jpg
+      image_alt: /img/committee-bebe/willrbebe.png
+      email: will.rostance@hacksocnotts.co.uk
     - identifier: devsec
       title: Development Secretary
-      name: James Harvey
-      image: /img/committee/james.jpg
-      email: james.harvey@hacksocnotts.co.uk
+      name: Alex Beeley
+      image: /img/committee/alex.jpg
+      email: alex.beeley@hacksocnotts.co.uk
     - identifier: devsec
       title: Development Secretary
-      name: Indraneel Mahendrakumar
-      image: /img/committee/indraneel.png
-      email: indraneel.mahendrakumar@hacksocnotts.co.uk
-    - identifier: speaker
-      title: Speaker Acquisition Secretary
-      name: Nishi Shishir
-      image: /img/committee/nishi.png
-      email: nishi.shishir@hacksocnotts.co.uk
-    - identifier: trips
-      title: Marketing Secretary
-      name: Qiang Cai
-      image: /img/committee/qiang.png
-      email: qiang.cai@hacksocnotts.co.uk
+      name: Joel Solis
+      image: /img/committee/joel.jpg
+      image_alt: /img/committee-bebe/joelbebe.png
+      email: joel.solis@hacksocnotts.co.uk
     - identifier: marketing
+      title: Marketing Secretary
+      name: Sammy Sahnine
+      image: /img/committee/sammy.jpeg
+      image_alt: /img/committee-bebe/sammybebe.jpg
+      email: sammy.sahnine@hacksocnotts.co.uk
+    - identifier: trips
       title: Trips and Hackathons Secretary
-      name: Amber Swarbrick
-      image: /img/committee/amber.png
+      name: Oli Sharp
+      image: /img/committee/oli.jpeg
+      image_alt: /img/committee-bebe/olibebe.jpeg
       email: amber.swarbrick@hacksocnotts.co.uk
     - identifier: welfare
       title: Welfare Secretary
-      name: Lana Valentine
-      image: /img/committee/lana.jpg
-      email: lana.valentine@hacksocnotts.co.uk
-    - identifier: working-groups
-      title: Working Groups Secretary
-      name: Dominion Aromolaran
-      image: /img/committee/dominion.jpg
-      email: dominion.aromolaran@hacksocnotts.co.uk
+      name: Elizabeth Hickmott
+      image: /img/committee/elizabeth.jpg
+      image_alt: /img/committee-bebe/elizabethbebe.jpg
+      email: elizabth.hickmott@hacksocnotts.co.uk
