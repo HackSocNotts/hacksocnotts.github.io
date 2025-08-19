@@ -8,7 +8,7 @@ If you have any questions, suggestions, or anything else, don't hesitate to get 
 
  - **If you're a member of HackSoc**, the best way to get in contact with us is through our Discord server. Either send a message into one of the text channels, raise a support ticket, or feel free to directly message a member of committee. You can also email us at [committee@hacksocnotts.co.uk](mailto:committee@hacksocnotts.co.uk), but replies will likely be slower.
 
- - **If you're not a member**, the best way to contact us is through email. Our committee email address is [committee@hacksocnotts.co.uk](mailto:committee@hacksocnotts.co.uk), or you may email our President directly at [eva.davis@hacksocnotts.co.uk](mailto:eva.davis@hacksocnotts.co.uk).
+ - **If you're not a member**, the best way to contact us is through email. Our committee email address is [committee@hacksocnotts.co.uk](mailto:committee@hacksocnotts.co.uk), or you may email our President directly at [lana.valentine@hacksocnotts.co.uk](mailto:lana.valentine@hacksocnotts.co.uk).
 
 ## Want to speak for us?
 
