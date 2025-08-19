@@ -21,6 +21,7 @@ members:
       title: Development Secretary
       name: Alex Beeley
       image: /img/committee/alex.jpg
+      image_alt: /img/committee-bebe/alexbebe.png
       email: alex.beeley@hacksocnotts.co.uk
     - identifier: devsec
       title: Development Secretary
