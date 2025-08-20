@@ -2,48 +2,53 @@ members:
     - identifier: president
       title: President
       name: Lana Valentine
-      image: /img/committee/lana.png
-      image_alt: /img/committee-bebe/lanabebe.png
+      image: /img//lana.png
+      image_alt: /img/-bebe/lanabebe.png
       email: lana.valentine@hacksocnotts.co.uk
     - identifier: gensec
       title: General Secretary
       name: Will Wright
-      image: /img/committee/willw.jpeg
-      image_alt: /img/committee-bebe/willwbebe.jpg
+      image: /img//willw.jpeg
+      image_alt: /img/-bebe/willwbebe.jpg
       email: will.wright@hacksocnotts.co.uk
     - identifier: treasurer
       title: Treasurer
       name: Will Rostance
-      image: /img/committee/willr.jpg
-      image_alt: /img/committee-bebe/willrbebe.png
+      image: /img//willr.jpg
+      image_alt: /img/-bebe/willrbebe.png
       email: will.rostance@hacksocnotts.co.uk
+      identifier: welfare
+      title: Welfare Secretary
+      name: Elizabeth Hickmott
+      image: /img//elizabeth.jpg
+      image_alt: /img/-bebe/elizabethbebe.jpg
+      email: elizabth.hickmott@hacksocnotts.co.uk
     - identifier: devsec
       title: Development Secretary
       name: Alex Beeley
-      image: /img/committee/alex.jpg
-      image_alt: /img/committee-bebe/alexbebe.jpg
+      image: /img//alex.jpg
+      image_alt: /img/-bebe/alexbebe.jpg
       email: alex.beeley@hacksocnotts.co.uk
     - identifier: devsec
       title: Development Secretary
       name: Joel Solis
-      image: /img/committee/joel.jpg
-      image_alt: /img/committee-bebe/joelbebe.png
+      image: /img//joel.jpg
+      image_alt: /img/-bebe/joelbebe.png
       email: joel.solis@hacksocnotts.co.uk
     - identifier: marketing
       title: Marketing Secretary
       name: Sammy Sahnine
-      image: /img/committee/sammy.jpeg
-      image_alt: /img/committee-bebe/sammybebe.jpg
+      image: /img//sammy.jpeg
+      image_alt: /img/-bebe/sammybebe.jpg
       email: sammy.sahnine@hacksocnotts.co.uk
     - identifier: trips
       title: Trips and Hackathons Secretary
       name: Oli Sharp
-      image: /img/committee/oli.jpeg
-      image_alt: /img/committee-bebe/olibebe.jpeg
+      image: /img//oli.jpeg
+      image_alt: /img/-bebe/olibebe.jpeg
       email: oli.sharp@hacksocnotts.co.uk
-    - identifier: welfare
-      title: Welfare Secretary
-      name: Elizabeth Hickmott
-      image: /img/committee/elizabeth.jpg
-      image_alt: /img/committee-bebe/elizabethbebe.jpg
-      email: elizabth.hickmott@hacksocnotts.co.uk
+      identifier: speaker
+      title: Speaker Acquisition Secretary
+      name: Trey Balfour-Allette
+      image: /img/committee/trey.jpg
+      email: trey.balfour-allette@hacksocnotts.co.uk
