@@ -1,4 +1,5 @@
 members:
+
     - identifier: president
       title: President
       name: Lana Valentine
@@ -17,12 +18,11 @@ members:
       image: /img/committee/willr.jpg
       image_alt: /img/committee-bebe/willrbebe.png
       email: will.rostance@hacksocnotts.co.uk
-      identifier: welfare
+    - identifier: welfare
       title: Welfare Secretary
       name: Elizabeth Hickmott
       image: /img/committee/elizabeth.jpg
       image_alt: /img/committee-bebe/elizabethbebe.jpg
-      email: elizabth.hickmott@hacksocnotts.co.uk
     - identifier: devsec
       title: Development Secretary
       name: Alex Beeley
@@ -47,8 +47,9 @@ members:
       image: /img/committee/oli.jpeg
       image_alt: /img/committee-bebe/olibebe.jpeg
       email: oli.sharp@hacksocnotts.co.uk
-      identifier: speaker
-      title: Speaker Acquisition Secretary
+    - identifier: speaker
+      title: Speaker Aquisition Secretary
       name: Trey Balfour-Allette
       image: /img/committee/trey.jpg
       email: trey.balfour-allette@hacksocnotts.co.uk
+       
