@@ -23,6 +23,7 @@ members:
       name: Elizabeth Hickmott
       image: /img/committee/elizabeth.jpg
       image_alt: /img/committee-bebe/elizabethbebe.jpg
+      email: elizabeth.hickmott@hacksocnotts.co.uk
     - identifier: devsec
       title: Development Secretary
       name: Alex Beeley
