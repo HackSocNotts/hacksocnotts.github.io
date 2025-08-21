@@ -89,9 +89,13 @@
         grid-row: 2;
         grid-column: 2;
     }
+
+    div.committee-photos {
+        display: block;
+    }
     
     div.committee-member {
-        width: 100%;
+        width: 80%;
     }
 
     
