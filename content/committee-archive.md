@@ -89,7 +89,7 @@ President: Pedro Mendonca
 General Secretary: Siokhan Kouassi  
 Treasurer: Tal Rozenmann  
 Hack Secretary: Jonny Balls  
-Graphics and Publications Secretary: Alex Hagbarth 
+Graphics and Publications Secretary: Alex Hagbarth  
 Outreach and Inclusivity Secretary: Rosanna Nichols  
 Infrastructure Secretary: Junsong Yang  
 Social Media Secretary: Iida Korhonen  
