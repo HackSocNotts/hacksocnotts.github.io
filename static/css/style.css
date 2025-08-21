@@ -374,14 +374,14 @@ div.pagination {
 }
 
 div.committee-photos {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
     justify-content: center;
     row-gap: 30px;
 }
 
 div.committee-member {
-    width: 26%;
+    width: 90%;
     padding: 10px;
 }
 
