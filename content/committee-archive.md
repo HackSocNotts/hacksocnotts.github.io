@@ -106,7 +106,13 @@ Infrastructure Secretary: Casper Oakley
 
 ## 2015/16
 
+President: Luke Geeson  
+Hack Secretary: Gregor Engelmann  
+Treasurer: Richard William Davies  
+
 ## 2014/15
+
+President: Tim Fogarty  
 
 ## 2013/14
 
