@@ -61,7 +61,7 @@ Cyber Security Secretary: Alexander Orgill
 ## 2019/20
 
 President: Erin Osher  
-Vice President: Alexi Dewfall  
+Vice President: Alexis Payne    
 General Secretary: Primoz Fabiani  
 Treasurer: John Mercer  
 Partners Secretary: Hannah Lester  
