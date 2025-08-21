@@ -58,19 +58,33 @@ Cyber Security Secretary: Alexander Orgill
 
 ## 2020/21
 
+President: Erin Osher  
+Vice President: Alexis Payne  
+General Secretary: Reece Roberts  
+Treasurer: Neve Marpole  
+Development Secretary: Peter Taylor  
+Speaker Aquisition Secretary: Tash Bayliss  
+Industrial Parterns Secretary: Samuel King  
+Welfare Secretary: Molly Shalliker  
+Cyber Security Secretary: Ryan Hardwick   
+Marketing Secretary: James Frost  
+Graphics Officer: Reece Harvey  
+Social Media Secretary: Méabh Magee 
+
+
 ## 2019/20
 
 President: Erin Osher  
 Vice President: Alexis Payne    
 General Secretary: Primoz Fabiani  
 Treasurer: John Mercer  
+Development Secretary: Daniel Cordell  
 Partners Secretary: Hannah Lester  
 Cyber Security Secretary: Hani Momeninia  
 Speaker Aquisition Secretary: Samuel King  
-Welfare Secretary: Tara Dilley  
-Development Secretary: Daniel Cordell  
+Welfare Secretary: Tara Dilley   
 Graphics Officer: Zain Ali  
-Social Media and Communications Officer: Mia Mukherjee
+Social Media and Communications Officer: Mia Mukherjee  
 
 ## 2018/19
 
@@ -107,8 +121,10 @@ Infrastructure Secretary: Casper Oakley
 ## 2015/16
 
 President: Luke Geeson  
+General Secretary: Jamie Tanna  
 Hack Secretary: Gregor Engelmann  
 Treasurer: Richard William Davies  
+Media Secretary: Harry Mumford-Turner  
 
 ## 2014/15
 
