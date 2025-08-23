@@ -11,7 +11,7 @@ Welfare Secretary: Elizabeth Hickmott
 Development Secretaries: Alex Beeley & Joel Solis  
 Marketing Secretary: Sammy Sahnine  
 Trips and Hackathons Secretary: Oli Sharp  
-Speaker Acquisition Sercretary: Trey Balfour-Allette  
+Speaker Acquisition Secretary: Trey Balfour-Allette  
 
 ## 2024/2025
 
@@ -19,7 +19,7 @@ President: Eva Davis
 General Secretary: Harry Broadbelt  
 Treasurer: Manasi Mehta  
 Development Secretaries: James Harvey & Indraneel Mahendrakumar  
-Speaker Acquisition Sercretary: Nishi Shishir  
+Speaker Acquisition Secretary: Nishi Shishir  
 Marketing Secretary: Qiang Cai  
 Trips and Hackathons Secretary: Amber Swarbrick  
 Welfare Secretary: Lana Valentine  
@@ -31,7 +31,7 @@ President: Daudi Wampamba
 General Secretary: Eva Davis  
 Treasurer: Nathan Burgess   
 Development Secretary: James Harvey  
-Speaker Acquisition Sercretary: Issac Destura   
+Speaker Acquisition Secretary: Issac Destura   
 Marketing Secretary: Joseph Heyes  
 Trips Secretary: Qiang Cai  
 Welfare Secretary: Mark Fannon   
@@ -43,7 +43,7 @@ President: Zac Garby
 General Secretary: Daudi Wampamba  
 Treasurer: Dan Lee  
 Development Secretary: Jacob Garby  
-Speaker Acquisition Sercretary: Eva Davis  
+Speaker Acquisition Secretary: Eva Davis  
 Cyber Security Secretary: Robert Grigoras  
 Marketing Secretary: Toby Clark  
 
