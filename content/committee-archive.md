@@ -11,7 +11,7 @@ Welfare Secretary: Elizabeth Hickmott
 Development Secretaries: Alex Beeley & Joel Solis  
 Marketing Secretary: Sammy Sahnine  
 Trips and Hackathons Secretary: Oli Sharp  
-Speaker Aquisition Sercretary: Trey Balfour-Allette  
+Speaker Acquisition Secretary: Trey Balfour-Allette  
 
 ## 2024/2025
 
@@ -19,7 +19,7 @@ President: Eva Davis
 General Secretary: Harry Broadbelt  
 Treasurer: Manasi Mehta  
 Development Secretaries: James Harvey & Indraneel Mahendrakumar  
-Speaker Aquisition Sercretary: Nishi Shishir  
+Speaker Acquisition Secretary: Nishi Shishir  
 Marketing Secretary: Qiang Cai  
 Trips and Hackathons Secretary: Amber Swarbrick  
 Welfare Secretary: Lana Valentine  
@@ -31,7 +31,7 @@ President: Daudi Wampamba
 General Secretary: Eva Davis  
 Treasurer: Nathan Burgess   
 Development Secretary: James Harvey  
-Speaker Aquisition Sercretary: Issac Destura   
+Speaker Acquisition Secretary: Issac Destura   
 Marketing Secretary: Joseph Heyes  
 Trips Secretary: Qiang Cai  
 Welfare Secretary: Mark Fannon   
@@ -43,7 +43,7 @@ President: Zac Garby
 General Secretary: Daudi Wampamba  
 Treasurer: Dan Lee  
 Development Secretary: Jacob Garby  
-Speaker Aquisition Sercretary: Eva Davis  
+Speaker Acquisition Secretary: Eva Davis  
 Cyber Security Secretary: Robert Grigoras  
 Marketing Secretary: Toby Clark  
 
@@ -53,7 +53,7 @@ President: Peter Taylor
 General Secretary: James Frost  
 Treasurer: Jacob Garby  
 Development Secretary: Zac Garby  
-Speaker Aquisition Secretary: Liam-Elio Colabuono-McDonagh  
+Speaker Acquisition Secretary: Liam-Elio Colabuono-McDonagh  
 Cyber Security Secretary: Alexander Orgill  
 
 ## 2020/21
@@ -63,7 +63,7 @@ Vice President: Alexis Payne
 General Secretary: Reece Roberts  
 Treasurer: Neve Marpole  
 Development Secretary: Peter Taylor  
-Speaker Aquisition Secretary: Tash Bayliss  
+Speaker Acquisition Secretary: Tash Bayliss  
 Industrial Parterns Secretary: Samuel King  
 Welfare Secretary: Molly Shalliker  
 Cyber Security Secretary: Ryan Hardwick   
@@ -81,7 +81,7 @@ Treasurer: John Mercer
 Development Secretary: Daniel Cordell  
 Partners Secretary: Hannah Lester  
 Cyber Security Secretary: Hani Momeninia  
-Speaker Aquisition Secretary: Samuel King  
+Speaker Acquisition Secretary: Samuel King  
 Welfare Secretary: Tara Dilley   
 Graphics Officer: Zain Ali  
 Social Media and Communications Officer: Mia Mukherjee  
