@@ -55,9 +55,7 @@ Treasurer: Jacob Garby
 Development Secretary: Zac Garby  
 Speaker Acquisition Secretary: Liam-Elio Colabuono-McDonagh  
 Cyber Security Secretary: Alexander Orgill  
-Welfare Secretary: Daudi Wampamba
-Industrial Partner's Secretary: Daudi Wampamba
-
+Welfare Secretary & Industrial Partner's Secretary: Daudi Wampamba 
 
 ## 2020/21
 
