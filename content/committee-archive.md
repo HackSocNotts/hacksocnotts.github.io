@@ -55,6 +55,9 @@ Treasurer: Jacob Garby
 Development Secretary: Zac Garby  
 Speaker Acquisition Secretary: Liam-Elio Colabuono-McDonagh  
 Cyber Security Secretary: Alexander Orgill  
+Welfare Secretary: Daudi Wampamba
+Industrial Partner's Secretary: Daudi Wampamba
+
 
 ## 2020/21
 
@@ -90,12 +93,12 @@ Social Media and Communications Officer: Mia Mukherjee
 
 President: Erin Osher  
 General Secretary: Primoz Fabiani  
-Treasurer: Helena Maria Wong  
+Treasurer: Helena Maria Wong & John Mercer  
 Hack Secretary: Toby Jones  
-Graphics and Publications Secretary: Alex Hagbarth  
+Graphics Officer: Zain Ali 
 Outreach and Inclusivity Secretary: Ammar Khazal  
-Infrastructure Secretary: Junsong Yang  
-Social Media Secretary: Iida Korhonen  
+Development Officer: Daniel Cordell 
+Social Media and Communications: Aakash Dadhich
 
 ## 2017/18
 
