@@ -4,6 +4,17 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Hack Your Career
+DESCRIPTION:A career talk focusing on CS-related internships and jobs, including talks from students who have completed summer internships, year in industry placements, and are working in industry on graduate schemes.\n
+ We will be sharing advice on applications, interviews, and telling you a bit more about what the jobs are like! \nMore details can be found at http://hacksocnotts.co.uk/events/2025-10-16-hack-your-career/
+DTSTART;TZID=Europe/London:20251016T183000
+DTEND;TZID=Europe/London:20251016T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Intro to Hackathons
 DESCRIPTION:Want to start attending hackathons? Join our Trips & Hackathons secretary, Oli, and Hackathon veteran, Adrian, to learn more about hackathons, hardware, and projects. \nMore details can be found at http://hacksocnotts.co.uk/events/2025-10-09-intro-to-hackathons/
 DTSTART;TZID=Europe/London:20251009T183000
