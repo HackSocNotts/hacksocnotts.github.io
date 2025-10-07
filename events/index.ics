@@ -4,6 +4,16 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Halloween Scratchathon
+DESCRIPTION:Our second annual Scratchathon (trademark pending). We will be running a mini hackathon where you can compete in pairs or alone to create something halloween themed in scratch! The winner gets a special discord role and bragging rights. \nMore details can be found at http://hacksocnotts.co.uk/events/2025-10-30-halloween-scratathon/
+DTSTART;TZID=Europe/London:20251030T183000
+DTEND;TZID=Europe/London:20251030T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:HackNotts 25!!
 DESCRIPTION:Our biggest event of the year! HackNotts is our annual hackathon hosted in the computer science building, and this year we are putting on our biggest one yet - a medieval fantasy themed 25 hours with over £1,000 in prizes to be won!\n
  Make sure to pick up your free ticket from our website! \nMore details can be found at http://hacksocnotts.co.uk/events/2025-10-25-hacknotts/
