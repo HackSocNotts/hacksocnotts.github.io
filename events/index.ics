@@ -4,6 +4,16 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Intro to HackNotts
+DESCRIPTION:Our first event of the year! This is a great place to learn about our upcoming events, Hackathons, and more. \nMore details can be found at http://hacksocnotts.co.uk/events/2025-10-02-intro-to-hacksoc/
+DTSTART;TZID=Europe/London:20251002T183000
+DTEND;TZID=Europe/London:20251002T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Intro to Rust
 DESCRIPTION:Whenever you have the misfortune of getting dragged into a debate about which language is the best, you will always hear that Rust is the best because of it’s package manager, memory safety, etc. But why is that, I’ve always been wanting to experience it myself? In this workshop, we will go over an introduction to Rust and it’s features for those who want to get involved in this modern and admired programming language. Hosted by our own Developer Secretary; Indraneel Mahendrakumar! \nMore details can be found at http://hacksocnotts.co.uk/events/2025-02-25-intro-to-rust/
 DTSTART;TZID=Europe/London:20250225T181500
