@@ -7,4 +7,4 @@ end: "2025-10-22T15:00:00+01:00"
 location: "Location TBA"
 ---
 
-Our first speaker event of the year! We will be joined by Oliver Rosten who is going to give a talk on agentic refactoring :)
+Our first speaker event of the year! We will be joined by Oliver Rosten from Unity who is going to give a talk on agentic refactoring :)
