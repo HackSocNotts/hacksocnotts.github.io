@@ -60,7 +60,6 @@ function populateCalendar(year, month) {
 
         var evt = document.createElement("div");
         evt.classList.add("event");
-
         evt.id = "day-" + day;
         td.appendChild(evt);
 
