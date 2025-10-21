@@ -290,7 +290,7 @@ table#calendar thead td {
 }
 
 table#calendar td.day {
-    padding: 5px;
+    padding: 8px;
     height: 125px;
     font-size: 0.9em;
     vertical-align: top;
@@ -314,6 +314,12 @@ table#calendar div.event {
 
 table#calendar div.time {
     color: rgb(158, 158, 158);
+}
+
+table#calendar div.today {
+    background-image: url("/img/today.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 table#calendar tbody tr {

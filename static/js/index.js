@@ -39,6 +39,8 @@ function populateCalendar(year, month) {
     var days = daysInMonth(year, month);
 
     var added = false;
+    
+    var today = new Date();
 
     for (var day = 1; day <= days; day++) {
         if (!added) {
@@ -50,11 +52,15 @@ function populateCalendar(year, month) {
 
         var dateEl = document.createElement("div");
         dateEl.classList.add("date");
+        if (year == today.getFullYear() && month == today.getMonth() && day == today.getDate()) {
+            dateEl.classList.add("today");
+        }
         dateEl.innerHTML = day;
         td.appendChild(dateEl);
 
         var evt = document.createElement("div");
         evt.classList.add("event");
+
         evt.id = "day-" + day;
         td.appendChild(evt);
 
