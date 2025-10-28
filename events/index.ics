@@ -1040,6 +1040,17 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:HackNotts 2021
+DESCRIPTION:HackNotts is our annual hackathon, and the largest event that HackSoc runs. Hundreds of hackers from all over the country will gather, and spend 24 hours making cool things! Hackathons are a great place to meet new people, learn new skills, and build your CV!\n
+ Find more info, and get your tickets at hacknotts.com! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-02-12-hacknotts/
+DTSTART;TZID=Europe/London:20220212T090000
+DTEND;TZID=Europe/London:20220213T140000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:UK networking - What on earth were we thinking?
 DESCRIPTION:In this talk, Dr Julian Onions talks a little about the history of email, and how we gradually connected our computers together so we could communicate world wide and work on projects together. He was involved in getting Nottingham University on the net in it’s early days, and it wasn’t all plain sailing. So - a bit of history, a bit about protocols, a bit of politics, and a lot of good old fashioned hacking to get us where we are today.\n
  Dr Julian Onions is a professor of astrophysics at the University of Nottingham, and was one of the people involved in the very earliest rollout of internet and email in the UK. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-02-10-early-email-talk/
@@ -1327,17 +1338,6 @@ DESCRIPTION:Nominations for the remaining roles on the committee are now open, s
  Vice President Welfare and Inclusivity Secretary Social Media Secretary* Marketing Secretary* Graphics Officer Industrial Partners Secretary If you are interested in running for committee, please apply at https://hacksoc.net/nominate *If we don’t fill both positions, we will put forth a motion to merge the Social Media and Marketing Secretary roles into one, so if you apply, keep in mind that you may end up doing both. \nMore details can be found at http://hacksocnotts.co.uk/events/2021-egm/
 DTSTART;TZID=Europe/London:20210713T190000
 DTEND;TZID=Europe/London:20210713T210000
-
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SUMMARY:HackNotts 2021
-DESCRIPTION:HackNotts is our annual hackathon, and the largest event that HackSoc runs. Hundreds of hackers from all over the country will gather, and spend 24 hours making cool things! Hackathons are a great place to meet new people, learn new skills, and build your CV!\n
- Find more info, and get your tickets at hacknotts.com! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-02-12-hacknotts/
-DTSTART;TZID=Europe/London:20220212T090000
-DTEND;TZID=Europe/London:20220213T140000
 
 
 END:VEVENT
