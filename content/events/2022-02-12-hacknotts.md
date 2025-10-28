@@ -1,6 +1,6 @@
 ---
 title: "HackNotts 2021"
-date: "2022-02-12/13"
+date: "2022-02-12"
 time: "9am to 2pm the following day"
 start: "2022-02-12T09:00:00+00:00"
 end: "2022-02-13T14:00:00+00:00"
