@@ -316,6 +316,18 @@ table#calendar div.time {
     color: rgb(158, 158, 158);
 }
 
+table#calendar div.today {
+    font-weight: bold;
+    color: #00f21c; /* higher contrast version of the accent colour */
+}
+
+table#calendar div.today::after {
+    content: "(today)";
+    font-weight: normal;
+    font-size: 0.7em;
+    margin-left: 0.3em;
+}
+
 table#calendar tbody tr {
     height: 80px;
 }
