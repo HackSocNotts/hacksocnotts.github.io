@@ -8,10 +8,11 @@ President: Lana Valentine
 General Secretary: Will Wright  
 Treasurer: Will Rostance  
 Welfare Secretary: Elizabeth Hickmott  
-Development Secretaries: Alex Beeley & Joel Solis  
+Development Secretary: Charlie Giddens
+Workshop Secretary: Joel Solis
 Marketing Secretary: Sammy Sahnine  
 Trips and Hackathons Secretary: Oli Sharp  
-Speaker Acquisition Secretary: Trey Balfour-Allette  
+Speaker Acquisition Secretary: Tom Piercy
 
 ## 2024/2025
 
