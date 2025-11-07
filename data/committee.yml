@@ -26,12 +26,12 @@ members:
       email: elizabeth.hickmott@hacksocnotts.co.uk
     - identifier: devsec
       title: Development Secretary
-      name: Alex Beeley
-      image: /img/committee/alex.jpg
-      image_alt: /img/committee-bebe/alexbebe.jpg
-      email: alex.beeley@hacksocnotts.co.uk
+      name: Charlie Giddens
+      image: /img/committee/charlie.jpeg
+      image_alt: /img/committee-bebe/charliebebe.jpeg
+      email: charlie.giddens@hacksocnotts.co.uk
     - identifier: devsec
-      title: Development Secretary
+      title: Workshop Secretary
       name: Joel Solis
       image: /img/committee/joel.jpg
       image_alt: /img/committee-bebe/joelbebe.png
@@ -49,8 +49,8 @@ members:
       image_alt: /img/committee-bebe/olibebe.jpeg
       email: oli.sharp@hacksocnotts.co.uk
     - identifier: speaker
-      title: Speaker Acquisition Secretary
-      name: Trey Balfour-Allette
-      image: /img/committee/trey.jpg
-      email: trey.balfour-allette@hacksocnotts.co.uk
-       
+      title: Speaker Aquisition Secretary
+      name: Tom Piercy
+      image: /img/committee/tom.jpeg
+      image_alt: /img/committee-bebe/tombebe.jpeg
+      email: tom.piercy@hacksocnotts.co.uk
