@@ -94,10 +94,10 @@ President: Erin Osher
 General Secretary: Primoz Fabiani  
 Treasurer: Helena Maria Wong & John Mercer  
 Hack Secretary: Toby Jones  
-Graphics Officer: Zain Ali 
+Graphics Officer: Zain Ali  
 Outreach and Inclusivity Secretary: Ammar Khazal  
-Development Officer: Daniel Cordell 
-Social Media and Communications: Aakash Dadhich
+Development Officer: Daniel Cordell  
+Social Media and Communications: Aakash Dadhich  
 
 ## 2017/18
 
