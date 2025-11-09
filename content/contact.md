@@ -14,7 +14,7 @@ If you have any questions, suggestions, or anything else, don't hesitate to get 
 
 Do you have a talk or a workshop that you would like to deliver to HackSoc members? That's great! We're always looking for guest speakers. Please send us an email at [committee@hacksocnotts.co.uk](mailto:committee@hacksocnotts.co.uk), giving us a quick summary of what your talk is about. Note, we need at minimum four weeks notice, to get things sorted internally, so please let us know as far in advance as possible!
 
-We're flexible with timings&mdash;ideally a guest talk or workshop would take place at 7pm on a Tuesday or a Thursday, but this is not set in stone. Also, while we generally prefer speakers delivering talks in person, our members are also interested in virtual talks.
+We're flexible with timings&mdash;ideally a guest talk or workshop would take place at 6:30pm on a Tuesday or a Thursday, but this is not set in stone (we can accomodate talks during working hours!).
 
 ## Reporting Code of Conduct breaches
 
