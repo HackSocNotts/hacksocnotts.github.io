@@ -2,7 +2,7 @@
 title: Calendar
 ---
 
-This is HackSoc's master calendar. All of our currently planned events should be on here&mdash;we try to run an event every Tuesday and Thursday during term-time, although this isn't always possible.
+This is HackSoc's master calendar. All of our currently planned events should be on here&mdash;we try to run an event every Thursday (& sometimes Tuesday!) during term-time, although this isn't always possible.
 
 For those who are interested (or for those who would rather view events via their terminal) the raw data going into this calendar can be found at [/events/index.json](/events/index.json). Also, a list of all events, future and past, can be found at [/events](/events).
 
