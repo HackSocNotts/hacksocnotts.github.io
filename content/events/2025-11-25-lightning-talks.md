@@ -11,6 +11,6 @@ Lightning talks is our annual (nearly) end of term event, where anyone can give 
 
 The evening is not limited to tech, last year we had talks on type theory, FNAF lore, and actual lightning!
 
-If you'd like to give a talk - please get in touch via this [form: ](https://forms.cloud.microsoft/e/Q5Qkmaichu).
+If you'd like to give a talk - please get in touch via this [form.](https://forms.cloud.microsoft/e/Q5Qkmaichu)
 
 Please note if you do: you have the option to bring slides - but you don't have to!
