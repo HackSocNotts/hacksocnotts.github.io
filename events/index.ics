@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Lightning Talks + Pub Quiz
 DESCRIPTION:Lightning talks is our annual (nearly) end of term event, where anyone can give a 5 minute talk on any topic they’d like. It will be taking place in the upstairs function room at the Rose & Crown.\n
  The evening is not limited to tech, last year we had talks on type theory, FNAF lore, and actual lightning!\n
- If you’d like to give a talk - please get in touch via this form: .\n
+ If you’d like to give a talk - please get in touch via this form.\n
  Please note if you do: you have the option to bring slides - but you don’t have to! \nMore details can be found at http://hacksocnotts.co.uk/events/2025-11-25-lightning-talks/
 DTSTART;TZID=Europe/London:20251125T183000
 DTEND;TZID=Europe/London:20251125T220000
