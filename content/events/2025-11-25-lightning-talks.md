@@ -1,5 +1,5 @@
 ---
-title: "Lightning Talks + Pub Quiz"
+title: "Lightning Talks"
 date: "2025-11-25"
 time: "6:30pm"
 start: "2025-11-25T18:30:00+01:00"
