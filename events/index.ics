@@ -4,6 +4,17 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Advent of Code workshop
+DESCRIPTION:Join us for a workshop focusing on Advent of code! Advent of Code is a series of programming challenges run during December. We will be running through some advice for the challenges and some examples. It’s not too late to start!\n
+ We have a leaderboard this year, which you can join via the code 4270229-ecb4b4a5. \nMore details can be found at http://hacksocnotts.co.uk/events/2025-12-04-advent-of-code/
+DTSTART;TZID=Europe/London:20251204T183000
+DTEND;TZID=Europe/London:20251204T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Lightning Talks
 DESCRIPTION:Lightning talks is our annual (nearly) end of term event, where anyone can give a 5 minute talk on any topic they’d like. It will be taking place in the upstairs function room at the Rose & Crown.\n
  The evening is not limited to tech, last year we had talks on type theory, FNAF lore, and actual lightning!\n
