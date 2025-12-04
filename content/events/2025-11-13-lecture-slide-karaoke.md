@@ -4,7 +4,7 @@ date: "2025-11-13"
 time: "6:30pm"
 start: "2025-11-13T18:30:00+01:00"
 end: "2025-11-13T20:00:00+01:00"
-location: "A01 Computer Science Building (Jubilee Campus)"
+location: "Location TBA"
 ---
 
 Our second installment of the much-loved lecture slide karaoke! But this time with PhysSoc! We promise there is no actual singing (unless you want to).
