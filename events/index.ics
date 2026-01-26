@@ -4,6 +4,18 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Hacker Round Robin
+DESCRIPTION:For our first event of the year, we will be bringing back an old favorite - Hacker Round Robin! Hackers (that’s you!) are challenged to build a simple project HOWEVER! every 10 minutes you will have to move to another computer (and another project!). The only thing you will have to look at is the last person’s code.\n
+ Hopefully by the end of this we have a bunch of fully functioning projects (and not a mess!). This event is open to all programming skill levels, and you are welcome to go around alone or in pairs.\n
+ See you there! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-01-29-hacker-round-robin/
+DTSTART;TZID=Europe/London:20260129T183000
+DTEND;TZID=Europe/London:20260129T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Film Night
 DESCRIPTION:For our last event of the year, we will be watching Lego Batman in LT1! Make sure to bring lots of snacks :D \nMore details can be found at http://hacksocnotts.co.uk/events/2025-12-11-film-night/
 DTSTART;TZID=Europe/London:20251211T183000
