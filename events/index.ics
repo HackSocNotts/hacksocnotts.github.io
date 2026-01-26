@@ -4,6 +4,17 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Goose Games
+DESCRIPTION:Have you ever wanted to pin the facial features on the Oli Sharp profile picture? You have come to the right place! Goose Games is HackSoc’s attempt at hosting an IRL games night, and if the SU is reading this, we promise this shares NO similarities with a certain netflix show.\n
+ We will be running a variety of children’s party games all thanks to the fact that our president used to be a party entertainer. Come along for a much needed screen-free evening! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-02-05-goose-games/
+DTSTART;TZID=Europe/London:20260205T183000
+DTEND;TZID=Europe/London:20260205T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Hacker Round Robin
 DESCRIPTION:For our first event of the year, we will be bringing back an old favorite - Hacker Round Robin! Hackers (that’s you!) are challenged to build a simple project HOWEVER! every 10 minutes you will have to move to another computer (and another project!). The only thing you will have to look at is the last person’s code.\n
  Hopefully by the end of this we have a bunch of fully functioning projects (and not a mess!). This event is open to all programming skill levels, and you are welcome to go around alone or in pairs.\n
