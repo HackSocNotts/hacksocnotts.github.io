@@ -4,10 +4,50 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Board Games Night
+DESCRIPTION:For our final event of the year, relax and unwind with a board game night. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-05-07-board-games/
+DTSTART;TZID=Europe/London:20260507T183000
+DTEND;TZID=Europe/London:20260507T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Maths For Computer Scientists 3
+DESCRIPTION:The first lecture of the secret third MCS module, delivered by a Maths student for extra pizzaz! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-03-26-mcs3/
+DTSTART;TZID=Europe/London:20260326T183000
+DTEND;TZID=Europe/London:20260326T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Intro to Cybersecurity
 DESCRIPTION:Interested in getting started with cybersecurity? Attend a talk with Xavier Carpent, a lecturer specialising in Cyber Security and with a specialisation in applied cryptography and authentication. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-03-12-intro-to-cybersecurity/
 DTSTART;TZID=Europe/London:20260312T183000
 DTEND;TZID=Europe/London:20260312T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Kahoot Night (HackSoc Trivia)
+DESCRIPTION:Think you know a lot about hacking, socking, and HackSoc? Test your knowledge via Kahoot at the HackSoc trivia night! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-03-05-hacksoc-trivia/
+DTSTART;TZID=Europe/London:20260305T183000
+DTEND;TZID=Europe/London:20260305T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Café Crawl
+DESCRIPTION:Crawling many Cafés! Time, date, and locations not final! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-02-26-cafe-crawl/
+DTSTART;TZID=Europe/London:20260226T100000
+DTEND;TZID=Europe/London:20260226T120000
 
 
 END:VEVENT
