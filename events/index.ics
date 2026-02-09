@@ -4,6 +4,16 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Intro to Cybersecurity
+DESCRIPTION:Interested in getting started with cybersecurity? Attend a talk with Xavier Carpent, a lecturer specialising in Cyber Security and with a specialisation in applied cryptography and authentication. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-03-12-intro-to-cybersecurity/
+DTSTART;TZID=Europe/London:20260312T183000
+DTEND;TZID=Europe/London:20260312T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Intro to Game Dev 2
 DESCRIPTION:Not one, but TWO workshops all about getting started with game development in Unity! Coming to a Jubilee Campus building near you soon!\n
  In the first workshop, we focused on game design and mechanics. Now, we learn about implementing them in Unity. Always wanted to learn how to take your ideas from just a thought to a fully fledged system? Now’s your chance! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-02-17-intro-to-game-dev-2/
