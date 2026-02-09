@@ -4,6 +4,40 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Intro to Game Dev 2
+DESCRIPTION:Not one, but TWO workshops all about getting started with game development in Unity! Coming to a Jubilee Campus building near you soon!\n
+ In the first workshop, we focused on game design and mechanics. Now, we learn about implementing them in Unity. Always wanted to learn how to take your ideas from just a thought to a fully fledged system? Now’s your chance! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-02-17-intro-to-game-dev-2/
+DTSTART;TZID=Europe/London:20260217T183000
+DTEND;TZID=Europe/London:20260217T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Solve Uno
+DESCRIPTION:Uno isn’t a solved game, but that doesn’t mean you can’t try!!\n
+ Come and join HackSoc this Thursday, 12th of February in School of Computer Science A01 at 18:30 to play a few games of the hit card game Uno! There’s just one rule though, any moves you make must be decided by a program that you’ve written! No rules on any programming languages or other constraints, go wild!!\n
+ May the best program win. 🫡🫡🫡 \nMore details can be found at http://hacksocnotts.co.uk/events/2026-02-12-solve-uno/
+DTSTART;TZID=Europe/London:20260212T183000
+DTEND;TZID=Europe/London:20260212T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Intro to Game Dev 1
+DESCRIPTION:Not one, but TWO workshops all about getting started with game development in Unity! Coming to a Jubilee Campus building near you soon!\n
+ In the first workshop, we focus on game design and mechanics, giving you the tools you need to take your ideas from just a thought to a fully fledged system. Next time, we learn to implement them! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-02-10-intro-to-game-dev-1/
+DTSTART;TZID=Europe/London:20260210T183000
+DTEND;TZID=Europe/London:20260210T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Goose Games
 DESCRIPTION:Have you ever wanted to pin the facial features on the Oli Sharp profile picture? You have come to the right place! Goose Games is HackSoc’s attempt at hosting an IRL games night, and if the SU is reading this, we promise this shares NO similarities with a certain netflix show.\n
  We will be running a variety of children’s party games all thanks to the fact that our president used to be a party entertainer. Come along for a much needed screen-free evening! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-02-05-goose-games/
