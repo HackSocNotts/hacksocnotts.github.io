@@ -4,6 +4,16 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Trip to Ada Lovelace's Grave with WCS
+DESCRIPTION:We will be catching the 09:29am tram from the University of Nottingham stop to see the final resting place of Ada Lovelace (the world’s first programmer)! This event is a colaboration with the Women in Computer Science society. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-03-21-ada-lovelace-trip/
+DTSTART;TZID=Europe/London:20260321T100000
+DTEND;TZID=Europe/London:20260321T120000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Intro to Cybersecurity
 DESCRIPTION:Interested in getting started with cybersecurity? Attend a talk with Xavier Carpent, a lecturer specialising in Cyber Security and with a specialisation in applied cryptography and authentication. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-03-12-intro-to-cybersecurity/
 DTSTART;TZID=Europe/London:20260312T183000
