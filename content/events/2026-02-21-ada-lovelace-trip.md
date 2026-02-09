@@ -1,9 +1,9 @@
 ---
 title: "Trip to Ada Lovelace's Grave with WCS"
-date: "2026-03-21"
+date: "2026-02-21"
 time: "10:00am"
-start: "2026-03-21T10:00:00+01:00"
-end: "2026-03-21T12:00:00+01:00"
+start: "2026-02-21T10:00:00+01:00"
+end: "2026-02-21T12:00:00+01:00"
 location: "St. Mary Magdalene Church, Hucknall"
 ---
 
