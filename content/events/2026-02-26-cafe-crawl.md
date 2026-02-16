@@ -1,10 +1,12 @@
 ---
 title: "Café Crawl"
-date: "2026-02-26"
+date: "2026-02-27"
 time: "TBA"
-start: "2026-02-26T10:00:00+01:00"
-end: "2026-02-26T12:00:00+01:00"
-location: "TBA"
+start: "2026-02-26T13:30:00+01:00"
+end: "2026-02-26T16:00:00+01:00"
+location: "Elena's Patisserie and Coffee Lounge"
 ---
 
-Crawling many Cafés! Time, date, and locations not final!
+Another edition of cafe crawl. We will be stopping at Elena's Patisserie and Coffee Lounge, 200 Degrees (Flying Horse Walk), Public and CocoTang. 
+
+Hope to see you there.
