@@ -47,8 +47,8 @@ BEGIN:VEVENT
 SUMMARY:Café Crawl
 DESCRIPTION:Another edition of cafe crawl. We will be stopping at Elena’s Patisserie and Coffee Lounge, 200 Degrees (Flying Horse Walk), Public and CocoTang.\n
  Hope to see you there. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-02-26-cafe-crawl/
-DTSTART;TZID=Europe/London:20260226T133000
-DTEND;TZID=Europe/London:20260226T160000
+DTSTART;TZID=Europe/London:20260227T133000
+DTEND;TZID=Europe/London:20260227T160000
 
 
 END:VEVENT
