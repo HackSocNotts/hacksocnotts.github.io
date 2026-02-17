@@ -2,8 +2,8 @@
 title: "Café Crawl"
 date: "2026-02-27"
 time: "TBA"
-start: "2026-02-26T13:30:00+01:00"
-end: "2026-02-26T16:00:00+01:00"
+start: "2026-02-27T13:30:00+01:00"
+end: "2026-02-27T16:00:00+01:00"
 location: "Elena's Patisserie and Coffee Lounge"
 ---
 
