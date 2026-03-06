@@ -36,6 +36,16 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:C++ and the successors of C
+DESCRIPTION:If you would like to learn this wonderful language join us where we’ll teach you what makes C++ unique as a language, how to get started and some cool features such as functional patterns and smart pointers. As well we’ll briefly see other languages that have come out with the intent of improving upon C and C++. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-03-10-cpp-workshop/
+DTSTART;TZID=Europe/London:20260310T183000
+DTEND;TZID=Europe/London:20260310T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Kahoot Night (HackSoc Trivia)
 DESCRIPTION:Think you know a lot about hacking, socking, and HackSoc? Test your knowledge via Kahoot at the HackSoc trivia night! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-03-05-hacksoc-trivia/
 DTSTART;TZID=Europe/London:20260305T183000
