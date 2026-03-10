@@ -24,6 +24,26 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:HackSoc AGM
+DESCRIPTION:It’s the HackSoc Annual General Meeting! Elect your committee for next year! Trudge through endless sh*tpost nominations/amendments! Very thrilling! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-03-19-agm/
+DTSTART;TZID=Europe/London:20260319T183000
+DTEND;TZID=Europe/London:20260319T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Esoteric Languages Workshop
+DESCRIPTION:Join us for our Esoteric Languages workshop, and learn about what it means to be a programming language! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-03-17-esoteric-languages/
+DTSTART;TZID=Europe/London:20260317T183000
+DTEND;TZID=Europe/London:20260317T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Private Information Sharing Protocols, and Passive Attack on 2G Networks
 DESCRIPTION:Interested in getting started with cybersecurity? Attend a talk with Xavier Carpent, a lecturer specialising in Cyber Security and with a specialisation in applied cryptography and authentication.\n
  In this event, Xavier will give an overview of a set of protocols called Private Set Intersection (PSI). Some constructions, use cases, and open research questions will be explored. The canonical PSI protocol allows two parties (both with their own set of elements) to interact in a way that one party learns the intersection of the sets and nothing else (and the other party learns nothing). Along the way, other related “private” types of protocols and their applications will be discussed. These privacy-by-design protocols can be used in all sorts of applications that deal with personal data. Some examples:\n
