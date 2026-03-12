@@ -4,53 +4,53 @@ members:
       title: President
       name: Lana Valentine
       image: /img/committee/lana.png
-      image_alt: /img/committee-bebe/lanabebe.png
+      image_alt: /img/committee-baby/lanababy.png
       email: lana.valentine@hacksocnotts.co.uk
     - identifier: gensec
       title: General Secretary
       name: Will Wright
       image: /img/committee/willw.jpeg
-      image_alt: /img/committee-bebe/willwbebe.jpg
+      image_alt: /img/committee-baby/willwbaby.jpg
       email: will.wright@hacksocnotts.co.uk
     - identifier: treasurer
       title: Treasurer
       name: Will Rostance
       image: /img/committee/willr.jpg
-      image_alt: /img/committee-bebe/willrbebe.png
+      image_alt: /img/committee-baby/willrbaby.png
       email: will.rostance@hacksocnotts.co.uk
     - identifier: welfare
       title: Welfare Secretary
       name: Elizabeth Hickmott
       image: /img/committee/elizabeth.jpg
-      image_alt: /img/committee-bebe/elizabethbebe.jpg
+      image_alt: /img/committee-baby/elizabethbaby.jpg
       email: elizabeth.hickmott@hacksocnotts.co.uk
     - identifier: devsec
       title: Development Secretary
       name: Charlie Giddens
       image: /img/committee/charlie.jpeg
-      image_alt: /img/committee-bebe/charliebebe.jpeg
+      image_alt: /img/committee-baby/charliebaby.jpeg
       email: charlie.giddens@hacksocnotts.co.uk
     - identifier: devsec
       title: Workshop Secretary
       name: Joel Solis
       image: /img/committee/joel.jpg
-      image_alt: /img/committee-bebe/joelbebe.png
+      image_alt: /img/committee-baby/joelbaby.png
       email: joel.solis@hacksocnotts.co.uk
     - identifier: marketing
       title: Marketing Secretary
       name: Sammy Sahnine
       image: /img/committee/sammy.jpeg
-      image_alt: /img/committee-bebe/sammybebe.jpg
+      image_alt: /img/committee-baby/sammybaby.jpg
       email: sammy.sahnine@hacksocnotts.co.uk
     - identifier: trips
       title: Trips and Hackathons Secretary
       name: Oli Sharp
       image: /img/committee/oli.jpeg
-      image_alt: /img/committee-bebe/olibebe.jpeg
+      image_alt: /img/committee-baby/olibaby.jpeg
       email: oli.sharp@hacksocnotts.co.uk
     - identifier: speaker
       title: Speaker Acquisition Secretary
       name: Tom Piercy
       image: /img/committee/tom.jpeg
-      image_alt: /img/committee-bebe/tombebe.jpg
+      image_alt: /img/committee-baby/tombaby.jpg
       email: tom.piercy@hacksocnotts.co.uk
