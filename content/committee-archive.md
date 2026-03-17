@@ -10,7 +10,7 @@ Treasurer:
 Welfare Secretary:  
 Development Secretary:  
 Workshop Secretary:  
-Marketing Secretary: 
+Marketing Secretary:  
 Trips and Hackathons Secretary:  
 Speaker Acquisition Secretary:  
 
