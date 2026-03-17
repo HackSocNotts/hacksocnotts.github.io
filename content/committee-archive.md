@@ -2,6 +2,18 @@
 title: "Committee Archive"
 ---
 
+## 2026/2027
+
+President:  
+General Secretary:  
+Treasurer:  
+Welfare Secretary:  
+Development Secretary:  
+Workshop Secretary:  
+Marketing Secretary: 
+Trips and Hackathons Secretary:  
+Speaker Acquisition Secretary:  
+
 ## 2025/2026
 
 President: Lana Valentine  
