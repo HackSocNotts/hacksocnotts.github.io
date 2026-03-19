@@ -4,15 +4,15 @@ title: "Committee Archive"
 
 ## 2026/2027
 
-President:  
-General Secretary:  
-Treasurer:  
-Welfare Secretary:  
-Development Secretary:  
-Workshop Secretary:  
-Marketing Secretary:  
-Trips and Hackathons Secretary:  
-Speaker Acquisition Secretary:  
+President: Sammy Sahnine  
+General Secretary: Elizabeth Hickmott  
+Treasurer: Sam Clarke  
+Welfare Secretary: Isaac Page  
+Development Secretary: Charlie Giddens  
+Workshop Secretary: Sami Sued  
+Marketing Secretary: Joel Solís Avendaño    
+Trips and Hackathons Secretary: Tadisa Chiwira   
+Speaker Acquisition Secretary: Aakriti Agarwal  
 
 ## 2025/2026
 
@@ -21,7 +21,7 @@ General Secretary: Will Wright
 Treasurer: Will Rostance  
 Welfare Secretary: Elizabeth Hickmott   
 Development Secretary: Charlie Giddens  
-Workshop Secretary: Joel Solis  
+Workshop Secretary: Joel Solís Avendaño    
 Marketing Secretary: Sammy Sahnine  
 Trips and Hackathons Secretary: Oli Sharp  
 Speaker Acquisition Secretary: Tom Piercy  
