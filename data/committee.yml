@@ -1,56 +1,55 @@
 members:
-
     - identifier: president
       title: President
-      name: Lana Valentine
-      image: /img/committee/lana.png
-      image_alt: /img/committee-baby/lanababy.png
-      email: lana.valentine@hacksocnotts.co.uk
+      name: Sammy Sahnine
+      image: /img/committee/sammy.jpeg
+      image_alt: /img/committee-baby/sammyalt.jpg
+      email: sammy.sahnine@hacksocnotts.co.uk
     - identifier: gensec
       title: General Secretary
-      name: Will Wright
-      image: /img/committee/willw.jpeg
-      image_alt: /img/committee-baby/willwbaby.jpg
-      email: will.wright@hacksocnotts.co.uk
-    - identifier: treasurer
-      title: Treasurer
-      name: Will Rostance
-      image: /img/committee/willr.jpg
-      image_alt: /img/committee-baby/willrbaby.png
-      email: will.rostance@hacksocnotts.co.uk
-    - identifier: welfare
-      title: Welfare Secretary
       name: Elizabeth Hickmott
       image: /img/committee/elizabeth.jpg
-      image_alt: /img/committee-baby/elizabethbaby.jpg
+      image_alt: /img/committee-baby/elizabethalt.jpg
       email: elizabeth.hickmott@hacksocnotts.co.uk
+    - identifier: treasurer
+      title: Treasurer
+      name: Sam 'Segfault' Clarke
+      image: /img/committee/segfault.jpeg
+      image_alt: /img/committee-baby/segfaultalt.jpg
+      email: sam.clarke@hacksocnotts.co.uk
+    - identifier: welfare
+      title: Welfare Secretary
+      name: Isaac Page
+      image: /img/committee/isaac.jpeg
+      image_alt: /img/committee-baby/isaacalt.jpg
+      email: isaac.page@hacksocnotts.co.uk
     - identifier: devsec
       title: Development Secretary
       name: Charlie Giddens
       image: /img/committee/charlie.jpeg
-      image_alt: /img/committee-baby/charliebaby.jpeg
+      image_alt: /img/committee-baby/charliealt.jpeg
       email: charlie.giddens@hacksocnotts.co.uk
     - identifier: devsec
       title: Workshop Secretary
-      name: Joel Solís Avendaño
-      image: /img/committee/joel.jpg
-      image_alt: /img/committee-baby/joelbaby.png
-      email: joel.solis@hacksocnotts.co.uk
+      name: Sami Sued
+      image: /img/committee/sami.jpeg
+      image_alt: 
+      email: sami.sued@hacksocnotts.co.uk
     - identifier: marketing
       title: Marketing Secretary
-      name: Sammy Sahnine
-      image: /img/committee/sammy.jpeg
-      image_alt: /img/committee-baby/sammybaby.jpg
-      email: sammy.sahnine@hacksocnotts.co.uk
+      name: Joel Solís Avendaño
+      image: /img/committee/joel.jpg
+      image_alt: /img/committee-baby/joelalt.png
+      email: joel.solis@hacksocnotts.co.uk
     - identifier: trips
       title: Trips and Hackathons Secretary
-      name: Oli Sharp
-      image: /img/committee/oli.jpeg
-      image_alt: /img/committee-baby/olibaby.jpeg
-      email: oli.sharp@hacksocnotts.co.uk
+      name: Tadisa Chiwira
+      image: /img/committee/tadisa.jpg
+      image_alt: /img/committee-baby/tadisaalt.jpg
+      email: tadisa.chiwira@hacksocnotts.co.uk
     - identifier: speaker
       title: Speaker Acquisition Secretary
-      name: Tom Piercy
-      image: /img/committee/tom.jpeg
-      image_alt: /img/committee-baby/tombaby.jpg
-      email: tom.piercy@hacksocnotts.co.uk
+      name: Aakriti Agarwal
+      image: /img/committee/aakriti.jpeg
+      image_alt: /img/committee-baby/aakritialt.jpg
+      email: akriti.agarwal@hacksocnotts.co.uk
