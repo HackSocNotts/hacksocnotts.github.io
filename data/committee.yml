@@ -33,6 +33,7 @@ members:
       title: Workshop Secretary
       name: Sami Sued
       image: /img/committee/sami.jpeg
+      # To update:
       image_alt: 
       email: sami.sued@hacksocnotts.co.uk
     - identifier: marketing
