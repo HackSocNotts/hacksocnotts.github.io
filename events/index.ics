@@ -1,0 +1,1540 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+
+BEGIN:VEVENT
+
+SUMMARY:Board Games Night
+DESCRIPTION:For our final event of the year, relax and unwind with a board game night. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-05-07-board-games/
+DTSTART;TZID=Europe/London:20260507T183000
+DTEND;TZID=Europe/London:20260507T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Maths For Computer Scientists 3
+DESCRIPTION:The first lecture of the secret third MCS module, delivered by a Maths student for extra pizzaz! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-03-26-mcs3/
+DTSTART;TZID=Europe/London:20260326T183000
+DTEND;TZID=Europe/London:20260326T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:HackSoc AGM
+DESCRIPTION:It’s the HackSoc Annual General Meeting! Elect your committee for next year! Trudge through endless sh*tpost nominations/amendments! Very thrilling! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-03-19-agm/
+DTSTART;TZID=Europe/London:20260319T183000
+DTEND;TZID=Europe/London:20260319T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Esoteric Languages Workshop
+DESCRIPTION:Join us for our Esoteric Languages workshop, and learn about what it means to be a programming language! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-03-17-esoteric-languages/
+DTSTART;TZID=Europe/London:20260317T183000
+DTEND;TZID=Europe/London:20260317T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Private Information Sharing Protocols, and Passive Attack on 2G Networks
+DESCRIPTION:Interested in getting started with cybersecurity? Attend a talk with Xavier Carpent, a lecturer specialising in Cyber Security and with a specialisation in applied cryptography and authentication.\n
+ In this event, Xavier will give an overview of a set of protocols called Private Set Intersection (PSI). Some constructions, use cases, and open research questions will be explored. The canonical PSI protocol allows two parties (both with their own set of elements) to interact in a way that one party learns the intersection of the sets and nothing else (and the other party learns nothing). Along the way, other related “private” types of protocols and their applications will be discussed. These privacy-by-design protocols can be used in all sorts of applications that deal with personal data. Some examples:\n
+ Intersection between “people I’ve been in contact with” and “sick people”? (where both sets best remain private!) Has my password been leaked? (without revealing my password!) What is the total salary of people in the room? (without revealing individual salaries!) Time permitting, Xavier will also briefly discuss a recently discovered attack on 2G networks (yes, they are still in use!)." \nMore details can be found at http://hacksocnotts.co.uk/events/2026-03-12-intro-to-cybersecurity/
+DTSTART;TZID=Europe/London:20260312T183000
+DTEND;TZID=Europe/London:20260312T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:C++ and the successors of C
+DESCRIPTION:If you would like to learn this wonderful language join us where we’ll teach you what makes C++ unique as a language, how to get started and some cool features such as functional patterns and smart pointers. As well we’ll briefly see other languages that have come out with the intent of improving upon C and C++. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-03-10-cpp-workshop/
+DTSTART;TZID=Europe/London:20260310T183000
+DTEND;TZID=Europe/London:20260310T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Kahoot Night (HackSoc Trivia)
+DESCRIPTION:Think you know a lot about hacking, socking, and HackSoc? Test your knowledge via Kahoot at the HackSoc trivia night! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-03-05-hacksoc-trivia/
+DTSTART;TZID=Europe/London:20260305T183000
+DTEND;TZID=Europe/London:20260305T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Café Crawl
+DESCRIPTION:Another edition of cafe crawl. We will be stopping at Elena’s Patisserie and Coffee Lounge, 200 Degrees (Flying Horse Walk), Public and CocoTang.\n
+ Hope to see you there. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-02-26-cafe-crawl/
+DTSTART;TZID=Europe/London:20260227T133000
+DTEND;TZID=Europe/London:20260227T160000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Trip to Ada Lovelace's Grave with WCS
+DESCRIPTION:We will be catching the 09:29am tram from the University of Nottingham stop to see the final resting place of Ada Lovelace (the world’s first programmer)! This event is a colaboration with the Women in Computer Science society. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-02-21-ada-lovelace-trip/
+DTSTART;TZID=Europe/London:20260221T100000
+DTEND;TZID=Europe/London:20260221T120000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Intro to Game Dev 2
+DESCRIPTION:Not one, but TWO workshops all about getting started with game development in Unity! Coming to a Jubilee Campus building near you soon!\n
+ In the first workshop, we focused on game design and mechanics. Now, we learn about implementing them in Unity. Always wanted to learn how to take your ideas from just a thought to a fully fledged system? Now’s your chance! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-02-17-intro-to-game-dev-2/
+DTSTART;TZID=Europe/London:20260217T183000
+DTEND;TZID=Europe/London:20260217T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Solve Uno
+DESCRIPTION:Uno isn’t a solved game, but that doesn’t mean you can’t try!!\n
+ Come and join HackSoc this Thursday, 12th of February in School of Computer Science A01 at 18:30 to play a few games of the hit card game Uno! There’s just one rule though, any moves you make must be decided by a program that you’ve written! No rules on any programming languages or other constraints, go wild!!\n
+ May the best program win. 🫡🫡🫡 \nMore details can be found at http://hacksocnotts.co.uk/events/2026-02-12-solve-uno/
+DTSTART;TZID=Europe/London:20260212T183000
+DTEND;TZID=Europe/London:20260212T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Intro to Game Dev 1
+DESCRIPTION:Not one, but TWO workshops all about getting started with game development in Unity! Coming to a Jubilee Campus building near you soon!\n
+ In the first workshop, we focus on game design and mechanics, giving you the tools you need to take your ideas from just a thought to a fully fledged system. Next time, we learn to implement them! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-02-10-intro-to-game-dev-1/
+DTSTART;TZID=Europe/London:20260210T183000
+DTEND;TZID=Europe/London:20260210T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Goose Games
+DESCRIPTION:Have you ever wanted to pin the facial features on the Oli Sharp profile picture? You have come to the right place! Goose Games is HackSoc’s attempt at hosting an IRL games night, and if the SU is reading this, we promise this shares NO similarities with a certain netflix show.\n
+ We will be running a variety of children’s party games all thanks to the fact that our president used to be a party entertainer. Come along for a much needed screen-free evening! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-02-05-goose-games/
+DTSTART;TZID=Europe/London:20260205T183000
+DTEND;TZID=Europe/London:20260205T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Hacker Round Robin
+DESCRIPTION:For our first event of the year, we will be bringing back an old favorite - Hacker Round Robin! Hackers (that’s you!) are challenged to build a simple project HOWEVER! every 10 minutes you will have to move to another computer (and another project!). The only thing you will have to look at is the last person’s code.\n
+ Hopefully by the end of this we have a bunch of fully functioning projects (and not a mess!). This event is open to all programming skill levels, and you are welcome to go around alone or in pairs.\n
+ See you there! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-01-29-hacker-round-robin/
+DTSTART;TZID=Europe/London:20260129T183000
+DTEND;TZID=Europe/London:20260129T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Film Night
+DESCRIPTION:For our last event of the year, we will be watching Lego Batman in LT1! Make sure to bring lots of snacks :D \nMore details can be found at http://hacksocnotts.co.uk/events/2025-12-11-film-night/
+DTSTART;TZID=Europe/London:20251211T183000
+DTEND;TZID=Europe/London:20251211T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Advent of Code workshop
+DESCRIPTION:Join us for a workshop focusing on Advent of code! Advent of Code is a series of programming challenges run during December. We will be running through some advice for the challenges and some examples. It’s not too late to start!\n
+ We have a leaderboard this year, which you can join via the code 4270229-ecb4b4a5. \nMore details can be found at http://hacksocnotts.co.uk/events/2025-12-04-advent-of-code/
+DTSTART;TZID=Europe/London:20251204T183000
+DTEND;TZID=Europe/London:20251204T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Lightning Talks
+DESCRIPTION:Lightning talks is our annual (nearly) end of term event, where anyone can give a 5 minute talk on any topic they’d like. It will be taking place in the upstairs function room at the Rose & Crown.\n
+ The evening is not limited to tech, last year we had talks on type theory, FNAF lore, and actual lightning!\n
+ If you’d like to give a talk - please get in touch via this form.\n
+ Please note if you do: you have the option to bring slides - but you don’t have to! \nMore details can be found at http://hacksocnotts.co.uk/events/2025-11-25-lightning-talks/
+DTSTART;TZID=Europe/London:20251125T183000
+DTEND;TZID=Europe/London:20251125T220000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Personal Project Showcase
+DESCRIPTION:Our personal project showcase is the perfect time to show off anything you’ve been working on (no matter how big or small), and it’s a great chance to get inspiration for your next project!\n
+ We are looking forward to seeing what you bring :) \nMore details can be found at http://hacksocnotts.co.uk/events/2025-11-20-personal-project-showcase/
+DTSTART;TZID=Europe/London:20251120T183000
+DTEND;TZID=Europe/London:20251120T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Lecture Slide Karaoke w/ PhysSoc!
+DESCRIPTION:Our second installment of the much-loved lecture slide karaoke! But this time with PhysSoc! We promise there is no actual singing (unless you want to).\n
+ In lecture slide karaoke, should you wish to present, you will be given a lecture slide deck you have never seen and you will be presenting it as if you are the lecturer!\n
+ If you aren’t comfortable to present, feel free to ask the “lecturer” really annoying questions! \nMore details can be found at http://hacksocnotts.co.uk/events/2025-11-13-lecture-slide-karaoke/
+DTSTART;TZID=Europe/London:20251113T183000
+DTEND;TZID=Europe/London:20251113T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Build Yourself a Lean
+DESCRIPTION:Our second speaker event of the year! 3rd year student & friend of the FP lab, Sam Toth, will be giving a talk about how to make your own proof engine! \nMore details can be found at http://hacksocnotts.co.uk/events/2025-11-06-build-yourself-a-lean/
+DTSTART;TZID=Europe/London:20251106T183000
+DTEND;TZID=Europe/London:20251106T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Halloween Scratchathon
+DESCRIPTION:Our second annual Scratchathon (trademark pending). We will be running a mini hackathon where you can compete in pairs or alone to create something halloween themed in scratch! The winner gets a special discord role and bragging rights. \nMore details can be found at http://hacksocnotts.co.uk/events/2025-10-30-halloween-scratathon/
+DTSTART;TZID=Europe/London:20251030T183000
+DTEND;TZID=Europe/London:20251030T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:HackNotts 25!!
+DESCRIPTION:Our biggest event of the year! HackNotts is our annual hackathon hosted in the computer science building, and this year we are putting on our biggest one yet - a medieval fantasy themed 25 hours with over £1,000 in prizes to be won!\n
+ Make sure to pick up your free ticket from our website! \nMore details can be found at http://hacksocnotts.co.uk/events/2025-10-25-hacknotts/
+DTSTART;TZID=Europe/London:20251025T100000
+DTEND;TZID=Europe/London:20251026T160000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Agentic Refactoring: The Bad, The Worst and The Unspeakable
+DESCRIPTION:Our first speaker event of the year! We will be joined by Oliver Rosten from Unity who is going to give a talk on agentic refactoring :) \nMore details can be found at http://hacksocnotts.co.uk/events/2025-10-23-cpp-graduate-talk/
+DTSTART;TZID=Europe/London:20251022T133000
+DTEND;TZID=Europe/London:20251022T150000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Hack Your Career
+DESCRIPTION:A career talk focusing on CS-related internships and jobs, including talks from students who have completed summer internships, year in industry placements, and are working in industry on graduate schemes.\n
+ We will be sharing advice on applications, interviews, and telling you a bit more about what the jobs are like! \nMore details can be found at http://hacksocnotts.co.uk/events/2025-10-16-hack-your-career/
+DTSTART;TZID=Europe/London:20251016T183000
+DTEND;TZID=Europe/London:20251016T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Intro to Hackathons
+DESCRIPTION:Want to start attending hackathons? Join our Trips & Hackathons secretary, Oli, and Hackathon veteran, Adrian, to learn more about hackathons, hardware, and projects. \nMore details can be found at http://hacksocnotts.co.uk/events/2025-10-09-intro-to-hackathons/
+DTSTART;TZID=Europe/London:20251009T183000
+DTEND;TZID=Europe/London:20251009T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Intro to HackNotts
+DESCRIPTION:Our first event of the year! This is a great place to learn about our upcoming events, Hackathons, and more. \nMore details can be found at http://hacksocnotts.co.uk/events/2025-10-02-intro-to-hacksoc/
+DTSTART;TZID=Europe/London:20251002T183000
+DTEND;TZID=Europe/London:20251002T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Intro to Rust
+DESCRIPTION:Whenever you have the misfortune of getting dragged into a debate about which language is the best, you will always hear that Rust is the best because of it’s package manager, memory safety, etc. But why is that, I’ve always been wanting to experience it myself? In this workshop, we will go over an introduction to Rust and it’s features for those who want to get involved in this modern and admired programming language. Hosted by our own Developer Secretary; Indraneel Mahendrakumar! \nMore details can be found at http://hacksocnotts.co.uk/events/2025-02-25-intro-to-rust/
+DTSTART;TZID=Europe/London:20250225T181500
+DTEND;TZID=Europe/London:20250225T191500
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:How do LLMs Actually Work?
+DESCRIPTION:Have you ever used ChatGPT, Claude, or DeepSeek and wondered how they worked? In this talk we will be going on a detailed deep dive of the structure of Generative Pre-trained Transformer Models and how they work, as well as how to run them locally on your computer for personal use, or even Hacks! We’ll also investigate some of the recent developments of these models, and what the whole deekseek drama was about. No previous ML experience needed, Attention is all you need! Hosted by our very own HackSoc Member, Robotics Enthusiast, and PhD Student Adrian Vecina Tercero! \nMore details can be found at http://hacksocnotts.co.uk/events/2025-02-18-how-do-llms-actually-work/
+DTSTART;TZID=Europe/London:20250218T181500
+DTEND;TZID=Europe/London:20250218T191500
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Cyber Security Talk
+DESCRIPTION:A talk with Xavier Carpent, a lecturer specialising in Cyber Security and with a specialisation in applied cryptography and authentication. \nMore details can be found at http://hacksocnotts.co.uk/events/2024-10-29-cyber-security-talk/
+DTSTART;TZID=Europe/London:20241029T181500
+DTEND;TZID=Europe/London:20241029T191500
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:HackNotts 24
+DESCRIPTION:Our annual hackathon! HackNotts is a 24-hour hackathon where you and up to 3 other people can create anything, and win prizes!\n
+ For more information, go to https://hacknotts.com :D \nMore details can be found at http://hacksocnotts.co.uk/events/2024-10-26-hacknotts-24/
+DTSTART;TZID=Europe/London:20241026T090000
+DTEND;TZID=Europe/London:20241026T090000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Creative Coding Workshop
+DESCRIPTION:Come and learn about creative coding with Lana! You will be taken through creating your first p5.js project and integrating it into a webpage. No experience in web development or JavaScript is required :) \nMore details can be found at http://hacksocnotts.co.uk/events/2024-10-22-creative-coding-workshop/
+DTSTART;TZID=Europe/London:20241022T181500
+DTEND;TZID=Europe/London:20241022T191500
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Intro to Hardware
+DESCRIPTION:Want to become a hacker? Looking to bash hardware together, code up silly games, and create technical monstrosities? Join HackSoc Veteran and PhD student Adrian in for some Hackathon basics for fresh Hackers! No experience required: You don’t need to be a computer science student! \nMore details can be found at http://hacksocnotts.co.uk/events/2024-10-15-intro-to-hardware/
+DTSTART;TZID=Europe/London:20241015T181500
+DTEND;TZID=Europe/London:20241015T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Intro to Competitive Programming
+DESCRIPTION:Want to get better at programming challenges and competitions? Join HackSoc’s Development Secretary and 4th year student Indraneel as we dive into competitive programming and how to improve your skills within the scene! No prior experience or knowledge needed - only that you know basic programming. \nMore details can be found at http://hacksocnotts.co.uk/events/2024-10-08-intro-to-competitive-programming/
+DTSTART;TZID=Europe/London:20241008T181500
+DTEND;TZID=Europe/London:20241008T191500
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Intro to Python Workshop
+DESCRIPTION:Learn the fundamentals of programming with Python! Perfect for if you want to get into programming or want to learn Python. \nMore details can be found at http://hacksocnotts.co.uk/events/2024-10-01-intro-to-python-workshop/
+DTSTART;TZID=Europe/London:20241001T181500
+DTEND;TZID=Europe/London:20241001T193000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:HackSoc Intro Talk
+DESCRIPTION:Our Welcome Talks! - Where we will give short talks (15 mins) about HackSoc and what we do as a society. There’s also free pizza! \nMore details can be found at http://hacksocnotts.co.uk/events/2024-09-26-hacksoc-intro-talk/
+DTSTART;TZID=Europe/London:20240926T160000
+DTEND;TZID=Europe/London:20240926T180000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:AGM
+DESCRIPTION:During this, we’ll be all voting on the commitee members for the 2024-2025 academic year. We’ll also vote to any changes this year to the constitution. If you want to see the candidates and changes, you can have a look on our Github: https://github.com/HackSocNotts/nominations/issues\n
+ You can also create an issue there if you wish to nominate yourself, until the AGM.\n
+ Please come by to LT2, Exchange Building if you want to make your voice heard! \nMore details can be found at http://hacksocnotts.co.uk/events/2024-03-21-agm/
+DTSTART;TZID=Europe/London:20240321T181500
+DTEND;TZID=Europe/London:20240321T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Hack and Slash 6
+DESCRIPTION:Join us for our pub crawl, running jointly with the Medieval Combat Society (MCS). We will be going through Liquid Light Brewery, Neon Raptor, Angel Microbrewery, and BrewDog Nottingham. Hope to see you there! \nMore details can be found at http://hacksocnotts.co.uk/events/2024-03-09-hack-and-slash-6/
+DTSTART;TZID=Europe/London:20240309T180000
+DTEND;TZID=Europe/London:20240309T220000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Intro to Rust Workshop
+DESCRIPTION:During this event, our president will be covering the basic features of Rust, covering concepts like syntax, enums, structs and borrow-checkers. We will cover some of the basic features, and work towards implementing a LinkedList library in Rust.\n
+ Here is a good resource on the area, the Intro to Rust book: https://doc.rust-lang.org/book/ \nMore details can be found at http://hacksocnotts.co.uk/events/2024-03-07-intro-to-rust-workshop/
+DTSTART;TZID=Europe/London:20240307T181500
+DTEND;TZID=Europe/London:20240307T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Poker Bot's Workshop
+DESCRIPTION:Next Tuesday, 20th February at 18:15, we’ll be holding a talk about an environment for game-playing AI agents to play poker against one another, made by none other than our president, Daudi Wampamba!\n
+ During this event, we will be introducing the environment, written in Rust (with Python bindings). You’ll then be able to design your own poker bot before the following week’s event where we will pit all the bots against each other! \nMore details can be found at http://hacksocnotts.co.uk/events/2024-02-20-poker-bot-s-workshop/
+DTSTART;TZID=Europe/London:20240220T181500
+DTEND;TZID=Europe/London:20240220T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Cafe Crawl
+DESCRIPTION:Another edition of cafe crawl. We will be stopping at Elena’s Patisserie and Coffee Lounge, Blend EastWest, 200 Degrees (Flying Horse Walk), and CocoTang.\n
+ Hope to see you there. \nMore details can be found at http://hacksocnotts.co.uk/events/2024-02-15-cafe-crawl/
+DTSTART;TZID=Europe/London:20240215T130000
+DTEND;TZID=Europe/London:20240215T180000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:So you want a Robot?
+DESCRIPTION:This talk will be by Adrian Vecina who currently leads Robonotts. Here is his descripton of the talk:\n
+ “We all know robots are going to be everywhere right? But what does it take to perform even the simplest task using a robot? In this talk I’m going to explore the challenges and approaches involved with creating autonomous robots, and all the different topics that combine into robotic autonomy.”\n
+ If you’re interested in Robotics feel free to come down. \nMore details can be found at http://hacksocnotts.co.uk/events/2024-02-13-so-you-want-a-robot/
+DTSTART;TZID=Europe/London:20240213T181500
+DTEND;TZID=Europe/London:20240213T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Café Crawl
+DESCRIPTION:Another edition of Café Crawl. We will be starting at 200 Degrees, and will be posting more info about the route soon. \nMore details can be found at http://hacksocnotts.co.uk/events/2024-02-08-cafe-crawl/
+DTSTART;TZID=Europe/London:20240208T130000
+DTEND;TZID=Europe/London:20240208T180000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Year in Industry Talk
+DESCRIPTION:This talk will be by Emily Haworth and Dan Lee about their experience working at their respective companies. The talks will encompass both the application process and what their days looked like working there. Feel free to come down, if you want to learn more about what year in industry is like. \nMore details can be found at http://hacksocnotts.co.uk/events/2024-02-06-year-in-industry-talk/
+DTSTART;TZID=Europe/London:20240206T181500
+DTEND;TZID=Europe/London:20240206T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Lightning Talks + Pub Quiz
+DESCRIPTION:We will be starting the evening with Lightning talks, where anyone can give a (5-10 minute) light talk, about any topic. We’ll end the night with a pub quiz, as a way to see out the semester.\n
+ Please get in touch if you want to do a lightning talk.\n
+ Feel free to come along if you want to listen and test your tech knowledge. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-12-05-lightning-talks-pub-quiz/
+DTSTART;TZID=Europe/London:20231205T190000
+DTEND;TZID=Europe/London:20231205T220000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:CPU Design
+DESCRIPTION:This will be a talk introducing the world of CPU design.\n
+ This will be run by Matthew Houghton who has extensive experience working on CPU design and CPU simulations. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-28-cpu-design/
+DTSTART;TZID=Europe/London:20231128T181500
+DTEND;TZID=Europe/London:20231128T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Esoteric Languages Workshop
+DESCRIPTION:An introduction to the world of esoteric languages (esolangs), which are programming languages without any real useful/practical value, but they are quite funny.\n
+ Some Esolang examples are: Malborge, Piet, Chef, BrainFuck.\n
+ This trivial snippet descirbes how to briefly print(“Hello world”) in the esolang Shakespeare:\n
+ The Art of the Introduction. Romeo, a young man with remarkable patience. Juliet, a likewise remarkable young woman. The world. [ Enter Romeo and Juliet ] Romeo: Listen to your heart! Juliet: Listen to your heart. Remember yourself. [ Exeunt ] [ Enter Romeo and Juliet ] Romeo: Am I more bright than you? If so let us proceed. You are the sum of yourself and a big big big pig. [ Exeunt ] [ Enter Romeo and Juliet ] Romeo: Am I worse than the world? If so let us proceed. Recall. [ Exit ] [ Enter Romeo and Juliet ] Juliet: Open your heart! [ Exeunt ]  \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-21-esoteric-languages-workshop/
+DTSTART;TZID=Europe/London:20231121T190000
+DTEND;TZID=Europe/London:20231121T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:HomeBrew (Cafe Crawl)
+DESCRIPTION:For this event, Hacksoc will go across various unique cafes across Nottingham City Center.\n
+ Last year, cafes visited included Dispatch, Coco Tang, Effy, and others. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-15-homebrew-cafe-crawl/
+DTSTART;TZID=Europe/London:20231115T140000
+DTEND;TZID=Europe/London:20231115T180000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Scheduling and Operations at Heathrow Airport
+DESCRIPTION:In this talk, Geert de Maare will be talking about his work at Heathrow Airport. This specifically includes working on some of the operations there and he will be going into detail about the hard mathematics and techniques used to solving the problems that occur with this.\n
+ Geert is a professor of Computer Science at the University of Nottingham, with specific interests in airline scheduling, airport operations and operating systems. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-14-scheduling-and-operations-at-heathrow-airport/
+DTSTART;TZID=Europe/London:20231114T181500
+DTEND;TZID=Europe/London:20231114T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Computerphile Talk
+DESCRIPTION:Computerphile’s Steve Bagley, Mike Pound and Sean Riley will be doing an exciting talk on all their work fro the youtube channel.\n
+ Feel free to join if you want to learn about the process and behind the scenes of the production process for Computerphile. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-07-computerphile-talk/
+DTSTART;TZID=Europe/London:20231107T181500
+DTEND;TZID=Europe/London:20231107T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:HackNotts
+DESCRIPTION:HackNotts is an annual hackathon hosted by HackSoc at the University of Nottingham. It’s a two-day overnight hackathon for all skill levels taking place on November 4th and 5th 2023.\n
+ This is a great opportunity to connect with like-minded people and discuss new ideas and projects. Teams are not mandatory, as said previously. There will be loads of opportunities to find one though, including a team building workshop on the day along with the #find-a-team Discord channel. Aside from the hacking, workshops and food, there will also be games and other events to keep you entertained.\n
+ There will be numerous workshops during the event with a variety of topics, from hardware to software and life skills. There will be something for everyone! All meals and drinks will be provided for free including lunch on both days with dinner on the 4th and breakfast on the 5th.\n
+ For more info and to get tickets, go to https://hacknotts.com/ \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-04-hacknotts/
+DTSTART;TZID=Europe/London:20231104T090000
+DTEND;TZID=Europe/London:20231105T160000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:The Making of a Programming Language
+DESCRIPTION:Zac Garby (former HackSoc president) will give a talk on the process of making a programming language. This talk will focus more specifically on how to create imperative programming languages.\n
+ Zac has extensive experience implementing both imperative and functional programming languages. If you want to see more of his impressive work/projects, you can have a look at his Github: https://github.com/zac-garby \nMore details can be found at http://hacksocnotts.co.uk/events/2023-11-02-the-making-of-a-programming-language/
+DTSTART;TZID=Europe/London:20231102T190000
+DTEND;TZID=Europe/London:20231102T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Conway's Game of Life (w/ Intel)
+DESCRIPTION:Dive into the exciting world of parallel computing with SYCL, using Conway’s Game of Life as our hands-on example. Whether you’re a beginner or an experienced developer, this event is for you. Approachable for beginner to advanced C++ programmers, and fun to watch for all.\n
+ Join us for:\n
+ Introduction to SYCL:\n
+ Learn how SYCL makes parallel computing accessible and powerful.\n
+ Hands-On Coding:\n
+ Apply SYCL to enhance the performance of Conway’s Game of Life. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-10-26-conway-s-game-of-life-w-intel/
+DTSTART;TZID=Europe/London:20231026T190000
+DTEND;TZID=Europe/London:20231026T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Android Best Practices Talk
+DESCRIPTION:In this talk, Ed Holloway-George will talk about best practices for Android Development.\n
+ Ed is currently working at ASOS as a software developer. He is a Google expert for Android, with a particular expertise in security. You can learn more about him on his website. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-10-24-android-best-practices-talk-by-ed-holloway-george/
+DTSTART;TZID=Europe/London:20231024T190000
+DTEND;TZID=Europe/London:20231024T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:HackSoc EGM
+DESCRIPTION:Come along to our EGM to help us vote on whether we should introduce working groups to our society and to elect a new Welfare Secretary! \nMore details can be found at http://hacksocnotts.co.uk/events/2023-10-19-hacksoc-egm/
+DTSTART;TZID=Europe/London:20231019T190000
+DTEND;TZID=Europe/London:20231019T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Hacker Round Robin
+DESCRIPTION:Hacker Round Robin (formerly Hacker Speed Dating) is an intense event in which participants are challenged to build a simple project. The twist is, every 30 minutes, you’ll be forced to move to the next computer. Work closely with the people next to you to catch up, not make it worse, and hopefully build a complete project! \nMore details can be found at http://hacksocnotts.co.uk/events/2023-10-17-hacker-round-robin/
+DTSTART;TZID=Europe/London:20231017T190000
+DTEND;TZID=Europe/London:20231017T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Intro to Neural Networks in Python
+DESCRIPTION:In this hands-on, immersive workshop, you’ll delve deeper into Python programming as we explore the fascinating intersection of AI and video games. Street Fighter II, a classic fighting game, will serve as our playground for building an intelligent opponent that can compete against human players.\n
+ Workshop Highlights:\n
+ Review of Python Basics: We’ll start with a quick review of fundamental Python concepts to ensure everyone is on the same page. Introduction to AI: Gain insights into the basics of artificial intelligence, machine learning, and reinforcement learning – the key concepts we’ll use to create our AI fighter. Data Preparation: Learn how to collect and preprocess game data to train our AI model, including understanding game mechanics and actions. Creating the AI Model: Dive into the world of reinforcement learning and build an AI agent capable of making decisions and learning from gameplay. Training the AI: Discover the training process and techniques to make your AI fighter smarter and more competitive over time. Testing and Fine-Tuning: Evaluate your AI’s performance, identify weaknesses, and fine-tune its strategies to become a formidable Street Fighter II player. Advanced AI Techniques: Breifly explore more advanced AI techniques and strategies to take your AI fighter to the next level. This workshop is designed for those with a solid understanding of Python programming, as well as some familiarity with AI and machine learning concepts. It’s the perfect opportunity to combine your coding skills with your love for gaming, all while gaining valuable insights into the field of artificial intelligence. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-10-10-intro-to-neural-networks-in-python/
+DTSTART;TZID=Europe/London:20231010T190000
+DTEND;TZID=Europe/London:20231010T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Hack & Slash
+DESCRIPTION:Hack & Slash! Join us for a bar crawl across town with Medieval Combat Society! \nMore details can be found at http://hacksocnotts.co.uk/events/2023-10-06-hack-slash/
+DTSTART;TZID=Europe/London:20231006T180000
+DTEND;TZID=Europe/London:20231006T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Intro to Python
+DESCRIPTION:Are you new to programming and eager to learn one of the most versatile and popular programming languages in the world? Join us for a three-hour introductory crash-course on Python, designed especially for beginners!\n
+ Python is renowned for its simplicity and readability, making it an excellent choice for those taking their first steps into the world of coding. Whether you’re looking to explore a career in programming, want to automate everyday tasks, or simply want to expand your skill set, this workshop will provide you with a solid foundation.\n
+ Workshop Highlights:\n
+ Introduction to Python: Get an overview of Python, its history, and its role in various industries. Setting Up Your Environment: Learn how to install Python and a code editor, so you’re ready to start writing and running Python code. Python Syntax: Dive into the basic syntax of Python, including variables, data types, and simple operations. Control Structures: Explore how to make decisions and create loops to control the flow of your Python programs. Functions: Understand the concept of functions and how to create and use them in Python. Practical Examples: Work through real-world examples to see how Python can be used for various applications, from simple calculations to basic data analysis. Q&A Session: Ask questions and clarify any doubts you may have about Python and programming concepts. Next Steps: Discover resources for further exploration, and join us at the next talk on AI in python. No prior programming experience is required for this workshop. All you need is a curiosity to learn and a desire to start your coding journey. By the end of this session, you’ll have a basic understanding of Python programming and the confidence to explore more advanced topics. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-10-05-intro-to-python/
+DTSTART;TZID=Europe/London:20231005T190000
+DTEND;TZID=Europe/London:20231005T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Welcome, from HackSoc!
+DESCRIPTION:HackSoc Nottingham is thrilled to welcome all prospective members to our Welcome Week Event, and we’ve got an incredible lineup of activities planned just for you.\n
+ Getting to Know HackSoc: During these welcome talks, you’ll have the opportunity to dive deep into the heart of HackSoc. We’ll introduce you to our passionate community of tech enthusiasts, our mission, and our vision for the future. Whether you’re a seasoned coder or a curious beginner, you’ll discover how HackSoc can be your gateway to endless opportunities in the tech world.\n
+ Exploring What We Do: Ever wondered what hacking really entails? Want to know how coding can be a superpower in today’s digital age? Our presentations and discussions will shed light on these topics and more. From cybersecurity to software development, we’ll give you a taste of the wide array of tech fields you can explore as a member of HackSoc.\n
+ Free Pizza, Anyone? We know that all this tech talk can work up an appetite, that’s why we’ll be serving up free pizza to keep your energy levels up as you immerse yourself in the world of HackSoc.\n
+ So, if you’re ready to take the plunge into the world of hacking, coding, and technology, join us at HackSoc’s Welcome Week Event. We can’t wait to meet you, share our passion for all things tech, and fuel your curiosity with knowledge and, of course, some mouthwatering pizza. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-09-28-welcome-from-hacksoc/
+DTSTART;TZID=Europe/London:20230928T160000
+DTEND;TZID=Europe/London:20230928T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Lightning Talks
+DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-28-lightning-talks/
+DTSTART;TZID=Europe/London:20230328T190000
+DTEND;TZID=Europe/London:20230328T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Hacker Royale
+DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-23-hacker-royale/
+DTSTART;TZID=Europe/London:20230323T190000
+DTEND;TZID=Europe/London:20230323T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:HackSoc goes to Oadby
+DESCRIPTION:A trip to Oadby Observatories at Leicester University! \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-22-hacksoc-goes-to-oadby/
+DTSTART;TZID=Europe/London:20230322T170000
+DTEND;TZID=Europe/London:20230322T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Scheduling and Operations at Heathrow Airport
+DESCRIPTION:In this talk, Geert de Maare will be talking about his work at Heathrow Airport. This specifically includes working on some of the operations there and he will be going into detail about the hard mathematics used to solving the problems that occur with this.\n
+ Geert is a professor of Computer Science at the University of Nottingham, with specific interests in airline scheduling, airport operations and energy. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-21-scheduling-and-operations-at-heathrow-airport/
+DTSTART;TZID=Europe/London:20230321T190000
+DTEND;TZID=Europe/London:20230321T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Hack to the Future (A Trip to the National Museum of Computing)
+DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-11-hack-to-the-future-a-trip-to-the-national-museum-of-computing/
+DTSTART;TZID=Europe/London:20230318T100000
+DTEND;TZID=Europe/London:20230318T190000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Annual General Meeting
+DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-16-annual-general-meeting/
+DTSTART;TZID=Europe/London:20230316T190000
+DTEND;TZID=Europe/London:20230316T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:OpenStreetMap for Hackers
+DESCRIPTION:Jerry is an Open Data Advocate based in Nottingham and has previously spoken for HackSoc before in 2014! In this event, he will be discussing OpenStreetMap, how to use it and its applications. This will include:\n
+ What is OpenStreetMap How to contibute to it Routing Problems OSM & Humanitarian Mapping Addresses  \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-14-openstreetmap-for-hackers/
+DTSTART;TZID=Europe/London:20230314T190000
+DTEND;TZID=Europe/London:20230314T203000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Demystifying App Development
+DESCRIPTION:One of our members, Demi, will be giving a talk to help you understand the general concepts and ideas around mobile app development. This will include:\n
+ an overview of the app development industry, how it works and where it’s going the overarching concepts around app development, what they mean and how they work together what you can achieve when you apply these concepts together This talk is tailored towards those new to app development but anyone is welcome! \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-10-demystifying-app-development/
+DTSTART;TZID=Europe/London:20230310T190000
+DTEND;TZID=Europe/London:20230310T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Hacker Speed Dating 2
+DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-09-hacker-speed-dating-2/
+DTSTART;TZID=Europe/London:20230309T190000
+DTEND;TZID=Europe/London:20230309T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Nextcloud + Oracle Cloud workshop
+DESCRIPTION:Privacy is a major concern today, nearly all of your data stored with Google, Microsoft, or Apple. Now how would you like to get yourself away from all of this and keep all of files stored on the cloud e.g. on Google drive, iCloud, Onedrive etc. on your own cloud system so that you don’t have to worry about what these companies are doing with your data. There are many articles that have proven that the data stored on these clouds are accessible by these companies.\n
+ In this session, Rohit will show you how to host your own cloud for free using oracle cloud. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-03-07-nextcloud-oracle-cloud-workshop/
+DTSTART;TZID=Europe/London:20230307T190000
+DTEND;TZID=Europe/London:20230307T203000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:PCB/Circuit Design Workshop
+DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-02-28-pcb-circuit-design-workshop/
+DTSTART;TZID=Europe/London:20230228T190000
+DTEND;TZID=Europe/London:20230228T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:It works on my machine
+DESCRIPTION:“It works on my machine”, but can you make it on yours? This event challenges you and a group of coding comrades to build a copy of an unknown project in two hours! A copy of the final project will be provided without code for you to try out and get a feel. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-02-23-it-works-on-my-machine/
+DTSTART;TZID=Europe/London:20230223T190000
+DTEND;TZID=Europe/London:20230223T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2023-02-23-programming-cafe/
+DTSTART;TZID=Europe/London:20230223T120000
+DTEND;TZID=Europe/London:20230223T140000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:HackNotts '23
+DESCRIPTION:HackNotts ‘23, our annual hackathon, will take place this coming February! Little has been decided other than that, so stay tuned for more information.\n
+ If you are interested in sponsoring us, please get in touch! We have a range of sponsorship packages available. \nMore details can be found at http://hacksocnotts.co.uk/events/2023-02-11-hacknotts/
+DTSTART;TZID=Europe/London:20230211T100000
+DTEND;TZID=Europe/London:20230212T150000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:C/C++ Makefiles (Beginner to Advanced)
+DESCRIPTION:Do you have issues when your C or C++ projects get too big, and constantly updating makefiles or other build scripts becomes unwieldy? Do you know what $<, $@, and $^ mean in a makefile? Do you want to make your makefiles work better cross-platform? If your answers to those questions are yes, no, and yes, respectively, then this workshop may be useful for you!\n
+ We’ll talk about what makefiles are, why they’re useful, how to start using them, and then look at some more advanced topics to make more complex (and useful) makefiles.\n
+ There are no hard prerequisites for this workshop, but ideally:\n
+ You’re familiar with at least the basics of C programming. You’re using Linux or similar (WSL is fine, or if you really want, get some Make implementation for native Windows) … \nMore details can be found at http://hacksocnotts.co.uk/events/2023-02-07-c-c-makefiles-beginner-to-advanced/
+DTSTART;TZID=Europe/London:20230207T190000
+DTEND;TZID=Europe/London:20230207T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:GDSC Solution Challenge
+DESCRIPTION:Want to have the chance to win up to $3,000 whilst helping solve one of the UN problems? Join GDSC this Thursday in A07 at 19:00 where we’ll kick-off the solution challenge with an info session.\n
+ The Google Developer Student Clubs Solution Challenge mission is to solve for one or more of the United Nations’ 17 sustainable development goals using Google technology. This can be completed in teams of 1-4, and anything can be submitted as long as it meets the requirements. Prizes include cash prizes ($3,000 each), mentorship from Googlers, swag and feature on the Google Developers Blog. We should also be able to provide some free Google Domains (.dev, .app, .page) and some Google Cloud credits. Every participant will receive a certificate and digital Google Developers badge\n
+ The event should last around 40mins, but members of GDSC and Hacksoc will stick around for a general chat afterwards. We’ll also provide some snacks. More information can be found here: https://goo.gle/solutionchallenge. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-02-02-gdsc-solution-challenge/
+DTSTART;TZID=Europe/London:20230202T190000
+DTEND;TZID=Europe/London:20230202T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Microcontroller Workshop
+DESCRIPTION:Come to this workshop to learn what microcontrollers are, how to program them, and how to build some circuitry so that your code can interact with the real world! … \nMore details can be found at http://hacksocnotts.co.uk/events/2022-12-06-microcontroller-workshop/
+DTSTART;TZID=Europe/London:20221206T190000
+DTEND;TZID=Europe/London:20221206T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Advent of Code With Silly Languages
+DESCRIPTION:… \nMore details can be found at http://hacksocnotts.co.uk/events/2022-11-31-advent-of-code-with-silly-languages/
+DTSTART;TZID=Europe/London:20221201T190000
+DTEND;TZID=Europe/London:20221201T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Game Development Workshop II - Shaders
+DESCRIPTION:This Thursday we have the second part to the game development workshop series, which started last week! This workshop is a standalone session where we will be learning about GLSL shaders using shadertoy.\n
+ GLSL is a language, similar to C, which runs on the GPU. Typically used for the implementation of shaders in games (e.g. lighting effects, fog, etc), it can also be used as a full graphics library in its own right. Shadertoy lets us write a program, in GLSL, where we can make cool graphics simply by providing an RGB colour for each pixel. Have a look here if you’re interested to see what other people have done.\n
+ This should hopefully be a nice, relaxed workshop, and I will take you through the process of making a falling snowflake animation (maybe you could even turn it into a Christmas card!) perhaps with a tree in the middle.\n
+ There’s nothing to install on your computer in advance for this one, and while some experience with C will be useful, it’s certainly not necessary (GLSL is closely related to, but not 100% compatible with, C). \nMore details can be found at http://hacksocnotts.co.uk/events/2022-11-17-game-development-workshop-ii-shaders/
+DTSTART;TZID=Europe/London:20221117T190000
+DTEND;TZID=Europe/London:20221117T203000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Cafe
+DESCRIPTION:Programming Cafe!\n
+ Come join us in Spokes Cafe at lunchtime (starting approx 12pm every Thursday) to chat, drink coffee, eat food, and work on your latest programming project! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-11-17-programming-cafe/
+DTSTART;TZID=Europe/London:20221117T120000
+DTEND;TZID=Europe/London:20221117T130000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Get Started with React
+DESCRIPTION:React is a widely used JavaScript library for easily making interactive web UIs, maintained by Meta and used all over the web for huge websites including even Facebook.\n
+ In this workshop, Haoyang Liu, a HackSoc member, will be giving us an introduction to React! This will be great for anyone who knows the basics of JavaScript and wants to get into web development. They will go over the creation of a SPA from scratch, showing how to use the library to build a lottery game.\n
+ Also, Microsoft Learn Student Ambassador (MLSA) will be giving out some cool prizes to some people who attend so come along for that!\n
+ This will be in A07, Comp Sci on Tuesday 15 November, starting around 7pm. You may want to install React on your computer in advance, but we can show you how to do that at the start of the workshop otherwise! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-11-15-get-started-with-react/
+DTSTART;TZID=Europe/London:20221115T190000
+DTEND;TZID=Europe/London:20221115T203000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Game Development Workshop
+DESCRIPTION:Game development with SDL2! Probably the most fun you can have while using C.\n
+ In this two-part workshop series, we will be going through the basics of game development using the popular SDL2 library (used for many real games, including most of Valve’s catalogue), covering everything you need to make your own game from scratch!\n
+ In this, the first part of the series, we will go over the principles of SDL2, to give you a flavour of how it all works. The nice thing about game development is once you know the basics, you can pretty much do anything, so this should set you up nicely to make some cool games on your own (or at the very least, to know what words to google to find out).\n
+ The workshop will be taught using the C programming language, but if you don’t like thinking about memory management feel free to use another language of your choice. SDL2 is available for basically every language out there (bonus points if you use Haskell).\n
+ If you’ve ever thought it would be cool to make a game, this is the workshop for you! But SDL2 isn’t just for games - anything graphical is possible. SDL is used for video playback software, emulators, and audio synths, to name just a few.\n
+ If you plan to come, it may be useful to get SDL2 installed on your laptop ahead of time to save time. There are plenty of instructions for this on their website, https://www.libsdl.org. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-11-10-game-development-workshop/
+DTSTART;TZID=Europe/London:20221110T190000
+DTEND;TZID=Europe/London:20221110T203000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Devyansh Chawla: OAK-D Computer Vision Workshop
+DESCRIPTION:OpenCV AI Kit with Depth, or OAK-D, is a hardware device with three cameras that can provide Spatial AI capabilities plus accelerated computer vision functions in products. Its low power and cost allow it to be used in many smart applications.\n
+ This workshop, presented remotely by Devyansh Chawla all the way from India, will cover usage of OAK-D hardware for computer vision applications, in particular object detection. OAK-D comes with dedicated computer vision hardware, letting it do these tasks with very low power draw - useful all over the place, including IoT and embedded computing!\n
+ Since this is a remote workshop, you are welcome to join from the comfort of your own home (a Zoom link will be released closer to the time), but we will be connecting as a group in A07 as well. I plan to bring snacks, too! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-11-08-devyansh-chawla-oak-d-computer-vision-workshop/
+DTSTART;TZID=Europe/London:20221108T190000
+DTEND;TZID=Europe/London:20221108T203000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Home Automation with Azure Percept
+DESCRIPTION:Pete Gallagher is back for another talk! Pete is a Nottingham-based freelance programmer, and Microsoft Azure MVP, among many other things, and a regular guest speaker at HackSoc. On the 1st of Novemeber, he will be coming in to speakto us about home automation using Azure Precept. An overview can be found below:\n
+ In this demo-heavy talk, we run through using the Azure Percept Audio Module to control common appliances around our home. We start out by looking at what the Audio Module is, its features as well as Azure Percept Studio and Speech Studio. We then move on to a basic web-based implementation of how the Percept can control devices in our home. We then take a look at Azure Speech Studio and how we can create Custom Keywords, Commands, and Parameters. We’ll then dive into how we can implement a solution using Azure IoT Hubs, a Raspberry Pi, some simple electronics, and electrical wiring, to control items around our home. This talk will appeal to folks who want to understand how we can use voice to automate our homes, as well as those with an interest in how IoT services can be used to make our lives easier. Accessible to all experience levels, we’ll run through everything you need to get going with the Azure Percept Audio Module!\n
+ Pete’s talks are always really interesting, and this one looks to be no different! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-11-01-home-automation-with-azure-precept/
+DTSTART;TZID=Europe/London:20221101T190000
+DTEND;TZID=Europe/London:20221101T203000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Python Workshop
+DESCRIPTION:Python is one of the most popular programming languages in the world. It’s used for anything from simple automation scripts, to web servers, to even the vast majority of AI these days! (In fact, the script to generate this event document for the website is written in Python!)\n
+ In this three-part workshop series, we’ll walk you through the basics of Python, hopefully by the end reaching a level at which you, too, could make cool little Python scripts to automate things, or even write your own AIs or web servers! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-10-27-python-workshop/
+DTSTART;TZID=Europe/London:20221027T190000
+DTEND;TZID=Europe/London:20221027T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Python Workshop
+DESCRIPTION:Python is one of the most popular programming languages in the world. It’s used for anything from simple automation scripts, to web servers, to even the vast majority of AI these days! (In fact, the script to generate this event document for the website is written in Python!)\n
+ In this three-part workshop series, we’ll walk you through the basics of Python, hopefully by the end reaching a level at which you, too, could make cool little Python scripts to automate things, or even write your own AIs or web servers! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-10-20-python-workshop/
+DTSTART;TZID=Europe/London:20221020T190000
+DTEND;TZID=Europe/London:20221020T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Hacker Speed Dating
+DESCRIPTION:Ready, set, hack! Hacker speed dating is an opportunity to test your skills and work with others to solve a series of trivial challenges, were it not for the ever-rotating feed of projects you’ll have to work on!\n
+ Get to work on a project and complete the task listed, but hurry and keep your code legible, because every so often you’ll be booted off of one project and you’ll have to start working on someone else’s uncompleted task! How many will you complete? Will other’s understand your code? Can you decipher theirs? Best of luck and Happy Hacking! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-10-18-hacker-speed-dating/
+DTSTART;TZID=Europe/London:20221018T190000
+DTEND;TZID=Europe/London:20221018T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Python Workshop
+DESCRIPTION:Python is one of the most popular programming languages in the world. It’s used for anything from simple automation scripts, to web servers, to even the vast majority of AI these days! (In fact, the script to generate this event document for the website is written in Python!)\n
+ In this three-part workshop series, we’ll walk you through the basics of Python, hopefully by the end reaching a level at which you, too, could make cool little Python scripts to automate things, or even write your own AIs or web servers! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-10-13-python-workshop/
+DTSTART;TZID=Europe/London:20221013T190000
+DTEND;TZID=Europe/London:20221013T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Intro to Languages
+DESCRIPTION:New to programming? Wondering what kind of programming languages are out there? This talk, by our general secretary Daudi, will explore the vast world of programming languages, from imperative to functional, and everywhere in between!\n
+ More information to follow closer to the time, please check back! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-10-11-intro-to-languages/
+DTSTART;TZID=Europe/London:20221011T190000
+DTEND;TZID=Europe/London:20221011T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Intel OneAPI Workshop
+DESCRIPTION:This event is a full day workshop running from 11am to 6pm, with free pizza at lunchtime. The presenters behind this event are academics from the University of Cambridge open zetta scale lab.\n
+ The event covers all the basics of Intel’s SYCL implementation, including how to get started, program structure, unified shared memory, kernels, Intel Vtune profiler, buffers & accessors and reduction operations. This workshop is being taught by academics from Cambridge university who work on zetta scale compute and have significant experience working with heterogeneous compute technologies.\n
+ There will be some free swag up for grabs for those who attend in addition to the free pizza! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-10-08-intel-oneapi-workshop/
+DTSTART;TZID=Europe/London:20221008T110000
+DTEND;TZID=Europe/London:20221008T180000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Hack & Slash II
+DESCRIPTION:On the 6th of October, HackSoc and Medieval Combat Society will be going out for a joint pub crawl! We’ll start at the White Hart at 7pm!\n
+ This is a nice social event to start off the term, and while no, there is no real reason why these two societies have a joint pub crawl, it’s always a fun night. No booking required, just find us at the White Hart (29 Gregory Street, Lenton)! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-10-06-hack-and-slash/
+DTSTART;TZID=Europe/London:20221006T190000
+DTEND;TZID=Europe/London:20221006T230000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:HackSoc Taster: Welcome Week Talks
+DESCRIPTION:Welcome to HackSoc!\n
+ This will be our first event of the year, and a good taster to give you an idea of what kind of events we’ll be running throughout the year. At 4:30pm, we’ll be gathering in C33 where the committee will be giving three short-ish talks on various tech-related topics:\n
+ An introduction to game development by our President A talk about bug bounties by our Cyber Security Secretary And two more, details to be confirmed The event in whole is supposed to take around two hours, finishing at approximately 6:30pm, to give you plenty of time to have dinner afterwards.\n
+ Also, we will be serving free pizza! 🍕\n
+ No need to sign up for this (or any other) event, just come along and find us in the Exchange Building on Jubilee Campus around 4:15. Any questions, feel free to email us or send us a message on Discord. See you there! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-09-27-hacksoc-taster-welcome-week-talks/
+DTSTART;TZID=Europe/London:20220927T163000
+DTEND;TZID=Europe/London:20220927T183000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Summer Jubilee BBQ
+DESCRIPTION:After exams have finished, HackSoc will be doing our patriotic duty and hosting a BBQ to celebrate the Queen’s Platinum Jubilee (which is the day after.) This will be a great place to unwind from the stresses of exams which will have just finished!\n
+ As this event is a BBQ, food and drink will be provided. If you are thinking of coming along, please can you fill out a quick form at hacksoc.net/jubilee-bbq so we know how much food to get.\n
+ This event will be taking place on the island on the lake behind the Computer Science building at 2pm on Friday the 2nd of June.\n
+ This is going to be the last HackSoc event for the year, so be sure to come along! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-06-02-jubilee-bbq/
+DTSTART;TZID=Europe/London:20220602T140000
+DTEND;TZID=Europe/London:20220602T170000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Hack & Slash Pub Crawl
+DESCRIPTION:On the 28th of May, HackSoc and Medieval Combat Society will be going out for a joint pub crawl! We’ll start at the White Hart at 7pm. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-05-28-hack-and-slash/
+DTSTART;TZID=Europe/London:20220528T190000
+DTEND;TZID=Europe/London:20220528T230000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!\n
+ This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We’ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!\n
+ We will also have coffee, tea, and biscuits.\n
+ The event will take place in A07, in the Computer Science Building. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-05-12-programming-cafe/
+DTSTART;TZID=Europe/London:20220512T190000
+DTEND;TZID=Europe/London:20220512T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Intel OneAPI Workshop
+DESCRIPTION:We’ll be starting off the term on the 5th of May at 7PM, Computer Science A07 with an event sponsored by Intel, where we will talk about OneAPI and teach you how to use it to plot the Mandelbrot set!\n
+ But what is OneAPI? It’s a toolkit for enabling accelerated heterogeneous computing that is platform and vendor agnostic. This promises to be a very interesting workshop, so be sure to come along!\n
+ Additionally, since it’s sponsored by Intel, we’ll be serving some free pizza and giving out some Intel swag, including t-shirts, hoodies, and a notebook!\n
+ (If you’re familiar with C++ then feel free to take your laptop and follow along! We recommend installing the OneAPI toolkit along with the OpenCV library for C++ beforehand if you want to do this, since this could take 20 minutes to do. If you need assistance in installing it you are welcome to come along at 6:30 pm and we will help you get it installed.) \nMore details can be found at http://hacksocnotts.co.uk/events/2022-05-05-intel/
+DTSTART;TZID=Europe/London:20220505T190000
+DTEND;TZID=Europe/London:20220505T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!\n
+ This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We’ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!\n
+ We will also have coffee and tea.\n
+ The event will take place in the Exchange Building C33. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-04-07-programming-cafe/
+DTSTART;TZID=Europe/London:20220407T190000
+DTEND;TZID=Europe/London:20220407T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Lightning Talks
+DESCRIPTION:A bunch of short talks given by members. There will also be a fun quiz.\n
+ If you want to give a talk, please go to hacksoc.net/lightning and tell us what you talk will be about.\n
+ This event will be hosted in the function room of the Rose & Crown pub, which is near Jubilee Campus. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-04-05-lightning-talks/
+DTSTART;TZID=Europe/London:20220405T190000
+DTEND;TZID=Europe/London:20220405T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:AGM (Elect the Next Committee!)
+DESCRIPTION:Come and elect your next committee!\n
+ On Thursday the 31st we have our AGM, where we will be electing next year’s committee. Candidates will give a short speech on why they should do the role, and then you, the members, will vote in the candidates you want to see on next year’s committee.\n
+ There will be free pizza for everyone that comes to the AGM, so please come along to vote!\n
+ If you are thinking of running for a committee position yourself, please do! Please send a manifesto to James Frost on the Discord, or email him. The manifesto only has to be a couple paragraphs saying who you are, what role you are applying for, and why you think you are suitable for the role.\n
+ Keep your eye on the Discord to stay up to date. A description of the roles will be posted there soon. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-03-31-agm/
+DTSTART;TZID=Europe/London:20220331T190000
+DTEND;TZID=Europe/London:20220331T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Accessibiity Talk
+DESCRIPTION:In this talk we will be having an overview of computing accessability.\n
+ There may also be a demo. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-03-29-accessability/
+DTSTART;TZID=Europe/London:20220329T190000
+DTEND;TZID=Europe/London:20220329T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!\n
+ This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We’ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!\n
+ We will also have coffee and tea.\n
+ The event will take place in the Exchange Building C33. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-03-24-programming-cafe/
+DTSTART;TZID=Europe/London:20220324T190000
+DTEND;TZID=Europe/London:20220324T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:React Workshop
+DESCRIPTION:A workshop on React, a JavaScript framework developed by Facebook. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-03-22-react-workshop/
+DTSTART;TZID=Europe/London:20220322T190000
+DTEND;TZID=Europe/London:20220322T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:AWS 'Serverless' Workshop
+DESCRIPTION:Amazon Web Services, or AWS, is a computing platform which powers somewhere between 30-50% of the entire web. Chances are you’re using something that runs on it right now. AWS provides compute, databases, storage, API services, but also some more obscure things like blockchain and even managed satellite groundstations and robotics applications.\n
+ In this workshop, you’ll learn to make a “serverless” (yes, I know - it’s a dumb name…) application from scratch using AWS Lambda, DynamoDB, and API Gateway.\n
+ These services handle the running of containerised code, managing a database, and letting you call upon your code via a HTTP interface.\n
+ Nothing needs to be installed in advance for this workshop, but an AWS account will be useful (I believe you can just sign in with a normal Amazon account.) I’ll be using Python for this, but other languages are available so it’s partially up to you (although using Python will make things a bit easier.) \nMore details can be found at http://hacksocnotts.co.uk/events/2022-03-17-aws-workshop/
+DTSTART;TZID=Europe/London:20220317T190000
+DTEND;TZID=Europe/London:20220317T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Microcontroller Workshop
+DESCRIPTION:In this workshop you can learn how to build some simple circuits and how to program a microcontroller to interact with electronic components, all while building a fun project. Each person will work with an individual microcontroller and electronic components to create a memory game, similar to the Simon Says electronic game. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-03-15-microcontroller-workshop/
+DTSTART;TZID=Europe/London:20220315T190000
+DTEND;TZID=Europe/London:20220315T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!\n
+ This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We’ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!\n
+ We will also have coffee and tea.\n
+ The event will take place in the Exchange Building C33. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-03-10-programming-cafe/
+DTSTART;TZID=Europe/London:20220310T190000
+DTEND;TZID=Europe/London:20220310T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Hosting Workshop
+DESCRIPTION:Even if you have the best service in the world, it is all for nought if no one can access it. In this workshop GenSec James will be talking and walking you through hosting a web server serving the popular game Wordle, including steps such as DNS, Firewall, Ports, security hardening and other best practices.\n
+ This knowledge can be applied to hosting almost any service in an internet accessible way, whether a website, game server, API, or something else. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-03-03-hosting-workshop/
+DTSTART;TZID=Europe/London:20220303T190000
+DTEND;TZID=Europe/London:20220303T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Python Internals Talk
+DESCRIPTION:What actually happens when you tell Python to print("Hello, world!")? How does your computer turn the characters you type into something it understands, and then how exactly is this executed? What does it even mean to compile Python code - isn’t it an interpreted language?\n
+ All of these questions and more will be answered in this talk. Using Python as an example, Zac will give an in-depth look into how interpreted programming languages work from the ground up. Concepts covered will include scanning & parsing, compilation, and evaluation, among many more, giving you an insight the entire journey your program takes from source code to execution.\n
+ Since the Python interpreter’s source code is surprisingly readable, I’ll be going through some snippets of C code, but understanding of C is by no means necessary. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-03-01-python-internals-talk/
+DTSTART;TZID=Europe/London:20220301T190000
+DTEND;TZID=Europe/London:20220301T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Unity Workshop
+DESCRIPTION:Unity is a game engine used by both professionals and hobbyists for millions of games. It’s one of the most popular engines in industry and makes it very easy to get started making games using the C# programming language.\n
+ In this workshop you’ll learn the basics of the Unity game engine, as well as the C# language, and make a small game from start to finish!\n
+ No knowledge of either of these topics is required, although a bit of experience with programming of any kind will be useful. Also please try to install Unity in advance, since it will probably take quite a while on the University wifi. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-02-24-unity-workshop/
+DTSTART;TZID=Europe/London:20220224T183000
+DTEND;TZID=Europe/London:20220224T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!\n
+ This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We’ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!\n
+ We will also have coffee and tea.\n
+ The event will take place in the Exchange Building C3. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-02-22-programming-cafe/
+DTSTART;TZID=Europe/London:20220222T190000
+DTEND;TZID=Europe/London:20220222T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Half a century of C
+DESCRIPTION:2022 marks the 50th anniversary of the C programming language! To celebrate this, I (Jacob) am going to download many different historical C compilers and demonstrate how the language evolved from a simple language originally written in assembly, to the language we all know and love today. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-02-17-c-50-years/
+DTSTART;TZID=Europe/London:20220217T190000
+DTEND;TZID=Europe/London:20220217T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Introduction to Python - Workshop 3
+DESCRIPTION:Do you want to learn how to program? In this workshop you will be introduced to the Python Programming Language, and be taught the basic concepts that underpin programming generally.\n
+ In this session, we’ll put (almost) everything you’ve learned into making a hangman game!\n
+ This workshop is part three of a three part series that will be running throughout February. If you enjoy it be sure to come along to the other ones. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-02-15-python3/
+DTSTART;TZID=Europe/London:20220215T183000
+DTEND;TZID=Europe/London:20220215T204500
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:UK networking - What on earth were we thinking?
+DESCRIPTION:In this talk, Dr Julian Onions talks a little about the history of email, and how we gradually connected our computers together so we could communicate world wide and work on projects together. He was involved in getting Nottingham University on the net in it’s early days, and it wasn’t all plain sailing. So - a bit of history, a bit about protocols, a bit of politics, and a lot of good old fashioned hacking to get us where we are today.\n
+ Dr Julian Onions is a professor of astrophysics at the University of Nottingham, and was one of the people involved in the very earliest rollout of internet and email in the UK. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-02-10-early-email-talk/
+DTSTART;TZID=Europe/London:20220210T190000
+DTEND;TZID=Europe/London:20220210T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Introduction to Python - Workshop 2
+DESCRIPTION:Do you want to learn how to program? In this workshop you will be introduced to the Python Programming Language, and be taught the basic concepts that underpin programming generally.\n
+ In this session, we’ll cover the following concepts:\n
+ File Input/Output Console Input Tuples Dictionaries List Comprehensions This workshop is part two of a three part series that will be running throughout February. If you enjoy it be sure to come along to the other ones. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-02-08-python2/
+DTSTART;TZID=Europe/London:20220208T183000
+DTEND;TZID=Europe/London:20220208T204500
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!\n
+ This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We’ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!\n
+ We will also have coffee and tea.\n
+ The event will take place in the Exchange Building C33. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-02-03-programming-cafe/
+DTSTART;TZID=Europe/London:20220203T190000
+DTEND;TZID=Europe/London:20220203T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Introduction to Python - Workshop 1
+DESCRIPTION:Do you want to learn how to program? In this workshop you will be introduced to the Python Programming Language, and be taught the basic concepts that underpin programming generally.\n
+ In this session, we’ll cover the following concepts:\n
+ Installing Python. “Hello, World!”, or writing your first line of code Variables and Types Math Operations Conditional Programming (IF statements) Functions Lists For & While loops String Operations Error handling All you need to bring is yourself and a computer, We’ll walk through installing the language in the workshop.\n
+ This workshop is part one of a three part series that will be running throughout February. If you enjoy it be sure to come along to the other ones. \nMore details can be found at http://hacksocnotts.co.uk/events/2022-02-01-python1/
+DTSTART;TZID=Europe/London:20220201T183000
+DTEND;TZID=Europe/London:20220201T204500
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:How email works: A Talk
+DESCRIPTION:Email is a tool that has been around since the dawn of the internet, and is nearly ubiquitous, but have you ever thought about how it works?\n
+ In this talk James will be giving an overview of all of the different components that make email work, and why even after 50 years it is still hard to setup your own email server. \nMore details can be found at http://hacksocnotts.co.uk/events/2021-12-07-email/
+DTSTART;TZID=Europe/London:20211216T190000
+DTEND;TZID=Europe/London:20211216T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Making a blog and getting it online!
+DESCRIPTION:Have you ever wanted a website? Making a blog is a great way to boost your online presence, and is also a really fun way to express yourself.\n
+ This first half of this workshop will be Dev Sec Zac going through how to make a nice website with the Hugo static site generator.\n
+ The second half will be Gen Sec James going through how to host your website with GitHub pages with a custom domain.\n
+ If you follow along, by the end of this workshop you will have a website accessible on the world wide web! \nMore details can be found at http://hacksocnotts.co.uk/events/2021-12-14-blog-workshop/
+DTSTART;TZID=Europe/London:20211214T190000
+DTEND;TZID=Europe/London:20211214T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!\n
+ This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We’ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!\n
+ We will also have coffee and tea.\n
+ The event will take place in the Exchange Building C33. \nMore details can be found at http://hacksocnotts.co.uk/events/2021-12-09-programming-cafe/
+DTSTART;TZID=Europe/London:20211209T190000
+DTEND;TZID=Europe/London:20211209T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:HackSoc Christmas Quiz
+DESCRIPTION:Come along to our Christmas quiz! We have booked out the top floor of the Rose and Crown pub, next to Jubilee campus, and we will be having a fun HackSoc quiz, with a bit of a Christmas feel. The quiz consists of rounds devised by committee members, and you’ll compete in teams. There are prizes for the winning team!\n
+ After the quiz we will be playing some party games, so be sure to come along! \nMore details can be found at http://hacksocnotts.co.uk/events/2021-12-16-christmas/
+DTSTART;TZID=Europe/London:20211207T190000
+DTEND;TZID=Europe/London:20211207T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!\n
+ This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We’ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!\n
+ We will also have coffee and tea.\n
+ The event will take place in the Exchange Building C33 (provisionally, subject to room bookings.) \nMore details can be found at http://hacksocnotts.co.uk/events/2021-11-25-programming-cafe/
+DTSTART;TZID=Europe/London:20211125T190000
+DTEND;TZID=Europe/London:20211125T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!\n
+ This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We’ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!\n
+ We will also have coffee and tea.\n
+ The event will take place in the Exchange Building LT1. \nMore details can be found at http://hacksocnotts.co.uk/events/2021-11-18-programming-cafe/
+DTSTART;TZID=Europe/London:20211118T190000
+DTEND;TZID=Europe/London:20211118T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Introduction to Go
+DESCRIPTION:Go is a modern systems programming language designed at Google by a bunch of clever people (including Ken Thompson who create UNIX and B, C’s predecessor, so you know it must be good.) It’s becoming a very popular language in a lot of spaces, especially on the web and in crypto.\n
+ This talk will introduce you to the basics of the Go programming language including installation, making a project, and the language itself. It’s very similar to other C-like languages so if you know any of those then this talk will build on top of that knowledge, but it’s by no means a requirement.\n
+ I’ll be making a small web server from scratch as a demonstration of the language and the libraries that it comes with, but Go can be used for just about anything, including games, command line applications, GUI software, blockchain software, and almost anything else.\n
+ This event will take place in LT1 in the exchange building. \nMore details can be found at http://hacksocnotts.co.uk/events/2021-go-workshop/
+DTSTART;TZID=Europe/London:20211116T190000
+DTEND;TZID=Europe/London:20211116T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:What they don't teach you in a tech degree
+DESCRIPTION:Ex-Development Secretary Daniel Cordell joins us for a talk: What they don’t teach you at Harvard business school in a tech degree. \nMore details can be found at http://hacksocnotts.co.uk/events/2021-11-11/
+DTSTART;TZID=Europe/London:20211111T190000
+DTEND;TZID=Europe/London:20211111T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:RHLy Old Linux
+DESCRIPTION:Peter and James have a play with some old-ass Linux CDs we found. \nMore details can be found at http://hacksocnotts.co.uk/events/2021-11-09/
+DTSTART;TZID=Europe/London:20211109T190000
+DTEND;TZID=Europe/London:20211109T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Arch Install Event
+DESCRIPTION:Prepare your best heckles, as Jacob and Peter will be installing Arch Linux live at this event - what could possibly go wrong?\n
+ The event will take place in the Exchange LT3 lecture theatre on Jubilee Campus. \nMore details can be found at http://hacksocnotts.co.uk/events/2021-arch-install/
+DTSTART;TZID=Europe/London:20211102T190000
+DTEND;TZID=Europe/London:20211102T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!\n
+ This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We’ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!\n
+ The event will take place in the Exchange Building C33 (provisionally, subject to room bookings.) \nMore details can be found at http://hacksocnotts.co.uk/events/2021-10-28-prog-cafe/
+DTSTART;TZID=Europe/London:20211028T190000
+DTEND;TZID=Europe/London:20211028T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Building a Raspberry Pi Robot Arm with .NET 5, Blazor and SignalR
+DESCRIPTION:In this talk Pete Gallagher takes you through everything you need to build a robot arm with a Raspberry Pi, .NET 5 a Blazor App and SignalR.\n
+ We begin by talking about .NET 5 and seeing how easy it is to install .NET 5. Then we look through the various circuits and spin up a console application to explore how we can control the GPIO on the Pi. We see how the Servos are wired up and get the code in place to start moving our Raspberry pi based Robot Arm.\n
+ Next we’ll look at a simple Blazor and SignalR app to control our robot remotely! Finally we’ll have a look at how we can use an Oculus Quest 2 to interact with our Robot Arm in VR!\n
+ This talk appeals to all knowledge levels and anyone interested in getting into STEM, Electronics and Robotics. \nMore details can be found at http://hacksocnotts.co.uk/events/2021-10-26/
+DTSTART;TZID=Europe/London:20211026T190000
+DTEND;TZID=Europe/London:20211026T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Workshop: Docker
+DESCRIPTION:Learn how to use Docker with Peter in this workshop.\n
+ This serves as a follow up to his talk from the first introduction event.\n
+ A Linux laptop or virtual machine (Ubuntu or Debian is fine) is highly reccommended to follow along, especially as there are no computers in the room we’re using. \nMore details can be found at http://hacksocnotts.co.uk/events/2021-10-21-docker/
+DTSTART;TZID=Europe/London:20211021T190000
+DTEND;TZID=Europe/London:20211021T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Workshop: Introduction to Linux
+DESCRIPTION:Come along to an introduction to Linux for those who haven’t used the operating system before.\n
+ This talk will cover several areas:\n
+ What is Linux? Why would I use Linux? What makes Linux different from other operating systems? How do I get started with Linux? Common gotcha situations. How to find help? The event will take place in the Exchange Building LT3 \nMore details can be found at http://hacksocnotts.co.uk/events/2021-linux-intro/
+DTSTART;TZID=Europe/London:20211019T190000
+DTEND;TZID=Europe/London:20211019T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our programming cafe events!\n
+ This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We’ll be encouraging people to do a brief show and tell towards the end, and you may end up spotlit in our newsletter!\n
+ The event will take place in the Exchange Building C33 (provisionally, subject to room bookings.) \nMore details can be found at http://hacksocnotts.co.uk/events/2021-10-14-prog-cafe/
+DTSTART;TZID=Europe/London:20211014T190000
+DTEND;TZID=Europe/London:20211014T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Workshop: Discord Bots
+DESCRIPTION:Come along to our first workshop of the year and learn how to make your own Discord bot using JavaScript!\n
+ Prior knowledge of JavaScript or programming in general isn’t necessary, as we’ll be explaining everything as we go along. We’ll be using the discord.js library, which will be the main focus of the workshop.\n
+ There’ll be a quick introduction to the discord.js library, and then you’re free to make whatever crazy idea you might have for a bot! We’ll be available to help with any problems, so even if you’re a total beginner to programming, you should end up with a working bot you can add to your Discord server.\n
+ If you’ve looked into Discord bots recently, you’ll probably have heard about slash commands taking over. Discord seems to want to let bots only interact via users typing in actual commands, so this will be mostly what we cover, but we’ll go over the “old way” of doing things as well.\n
+ The event will take place in the Exchange Building LT3. If you want to follow along, you’ll need to bring a laptop, since you’ll need to install some software and we don’t have access to the computer science lab at the moment.\n
+ If possible, it would save time to install node.js (the programming language we’ll be using) in advance, as well as the discord.js library. If you’re not sure how to do this, feel free to reach out in the discord, or we can help you at the beginning of the workshop. Also, it would help if you have a Discord account. \nMore details can be found at http://hacksocnotts.co.uk/events/2021-discord-bot-workshop/
+DTSTART;TZID=Europe/London:20211012T190000
+DTEND;TZID=Europe/London:20211012T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Hello and welcome to our first programming café of the year!\n
+ This is a much more laid back event than our workshops and talks, just rock up and work on a project, and speak to other people about their projects! We’ll be encouraging people to do a brief show-and-tell towards the end, and you may end up spotlit in our newsletter!\n
+ The event will take place in the A32 Ada Lovelace laboratory. If you do not have access to the building (e.g. you are not a CompSci student) let us know when you arrive and we will let you into the building. \nMore details can be found at http://hacksocnotts.co.uk/events/2021-09-30-programming-cafe/
+DTSTART;TZID=Europe/London:20210923T190000
+DTEND;TZID=Europe/London:20210923T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:2021 Welcome Week Event
+DESCRIPTION:Welcome to HackSoc! To kick off the new academic year, we’ve got our try-it introduction event. In this event, we’ll have talks on the following:\n
+ Introduction to cyber security Asteroids to the Oscilloscope Coding for an art gallery In addition to an overall introduction to the society, and an overview of how you can get involved in the wider Nottingham tech community.\n
+ The event will take place in the Keighton Auditorium, just down the hill from the Portland building, but will also be streamed on our YouTube channel because we may have to limit the number of people attending due to COVID rules.\n
+ There will be pizza! 🍕 \nMore details can be found at http://hacksocnotts.co.uk/events/2021-welcome-week-up/
+DTSTART;TZID=Europe/London:20210928T183000
+DTEND;TZID=Europe/London:20210928T203000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:2021 Welcome Week Event
+DESCRIPTION:Welcome to HackSoc! To kick off the new academic year, we’ve got our try-it introduction event. In this event, we’ll have talks on the following:\n
+ Introduction to game development JPEG compression Docker & why it should be your friend In addition to an overall introduction to the society, and an overview of how you can get involved in the wider Nottingham tech community.\n
+ The event will take place in the large Business School South lecture theatre on Jubilee Campus, but will also be streamed on our YouTube channel because we may have to limit the number of people attending due to COVID rules.\n
+ There will be pizza! 🍕 \nMore details can be found at http://hacksocnotts.co.uk/events/2021-welcome-week-ju/
+DTSTART;TZID=Europe/London:20210923T183000
+DTEND;TZID=Europe/London:20210923T203000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:EGM
+DESCRIPTION:Nominations for the remaining roles on the committee are now open, so be sure to nominate yourself if interested! On Tuesday the 13th of July at 7pm on our Discord we have an Extraordinary General Meeting (EGM) to fill out the roles on our committee. Make sure you come along to vote, and apply for a role if you are interested in contributing! If you want to run for committee yourself, please apply at https://hacksoc.net/nominate. You can apply for multiple roles, so don’t hold back! The details about the roles are in section 5.3 of our constitution. We are also looking for people interested in organising HackNotts 2021, our annual hackathon. If you are interested please apply at https://hacknotts.com/organise, and we will get back to you.\n
+ Here are the available committee positions:\n
+ Vice President Welfare and Inclusivity Secretary Social Media Secretary* Marketing Secretary* Graphics Officer Industrial Partners Secretary If you are interested in running for committee, please apply at https://hacksoc.net/nominate *If we don’t fill both positions, we will put forth a motion to merge the Social Media and Marketing Secretary roles into one, so if you apply, keep in mind that you may end up doing both. \nMore details can be found at http://hacksocnotts.co.uk/events/2021-egm/
+DTSTART;TZID=Europe/London:20210713T190000
+DTEND;TZID=Europe/London:20210713T210000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:HackNotts 2021
+DESCRIPTION:HackNotts is our annual hackathon, and the largest event that HackSoc runs. Hundreds of hackers from all over the country will gather, and spend 24 hours making cool things! Hackathons are a great place to meet new people, learn new skills, and build your CV!\n
+ Find more info, and get your tickets at hacknotts.com! \nMore details can be found at http://hacksocnotts.co.uk/events/2022-02-12-hacknotts/
+DTSTART;TZID=Europe/London:20220212T090000
+DTEND;TZID=Europe/London:20220213T140000
+
+
+END:VEVENT
+
+END:VCALENDAR
