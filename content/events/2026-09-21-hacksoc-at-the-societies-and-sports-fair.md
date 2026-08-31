@@ -7,4 +7,4 @@ end: "2026-09-21T17:00:00+01:00"
 location: "David Ross Sports Village, University Park"
 ---
 
-Come and meet the HackSoc team at the UoNSU Societies and Sports Fair, learn more about what we get up to and what events we have planned for the upcoming week.
+Come and meet the HackSoc team at the UoNSU Societies and Sports Fair, learn more about what we get up to and what events we have planned for the upcoming semester.
