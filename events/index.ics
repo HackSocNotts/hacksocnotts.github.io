@@ -4,6 +4,67 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:HackNotts '26
+DESCRIPTION:The thirteenth installment of HackNotts will be returning on the 24th and 25th of October! Find out more at https://hacknotts.com\n
+ Note that this is a ticketed event. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-10-24-hacknotts-26/
+DTSTART;TZID=Europe/London:20261024T100000
+DTEND;TZID=Europe/London:20261025T163000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Halloween Scratchathon
+DESCRIPTION:Whilst we’re a little early for halloween this year, our scratchathon is back!! Spend 90 minutes working in everyone’s favourite programming language, Scratch! Prizes will be avaliable for the winner, so come prepared! :D \nMore details can be found at http://hacksocnotts.co.uk/events/2026-10-15-halloween-scratchathon/
+DTSTART;TZID=Europe/London:20261015T183000
+DTEND;TZID=Europe/London:20261015T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Web Development Workshop
+DESCRIPTION:Join us on our first workshop of the year, led by our Workshops Sec, Sami! Learn more about the history of web development, the current state of the industry and more about the tools being used today! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-10-08-web-development-workshop/
+DTSTART;TZID=Europe/London:20261008T183000
+DTEND;TZID=Europe/London:20261008T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Welcome to HackSoc
+DESCRIPTION:Welcome to HackSoc, the University of Nottingham’s free-to-join technology, computing, recreational programming and hacking society! Get to know a little more about us, how we operate, as well as a brief talk about Hackathons! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-10-01-welcome-to-hacksoc/
+DTSTART;TZID=Europe/London:20261001T183000
+DTEND;TZID=Europe/London:20261001T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:HackSoc at the Societies and Sports Fair
+DESCRIPTION:Come and meet the HackSoc team at the UoNSU Societies and Sports Fair, learn more about what we get up to and what events we have planned for the upcoming week. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-09-22-hacksoc-at-the-societies-and-sports-fair/
+DTSTART;TZID=Europe/London:20260921T100000
+DTEND;TZID=Europe/London:20260921T170000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:HackSoc at the Societies and Sports Fair
+DESCRIPTION:Come and meet the HackSoc team at the UoNSU Societies and Sports Fair, learn more about what we get up to and what events we have planned for the upcoming week. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-09-21-hacksoc-at-the-societies-and-sports-fair/
+DTSTART;TZID=Europe/London:20260921T100000
+DTEND;TZID=Europe/London:20260921T170000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Board Games Night
 DESCRIPTION:For our final event of the year, relax and unwind with a board game night. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-05-07-board-games/
 DTSTART;TZID=Europe/London:20260507T183000
