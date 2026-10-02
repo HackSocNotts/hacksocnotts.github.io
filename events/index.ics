@@ -4,11 +4,61 @@ CALSCALE:GREGORIAN
 
 BEGIN:VEVENT
 
+SUMMARY:Programming Café
+DESCRIPTION:Programming Café is our casual, bi-weekly lunchtime social at Spokes Café! We grab a table, some drinks and some food, and work on whatever programming we’re burdened with at the current moment! Come with side projects, coursework or just yourself! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-12-16-programming-caf%C3%A9/
+DTSTART;TZID=Europe/London:20261216T130000
+DTEND;TZID=Europe/London:20261216T140000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Programming Café is our casual, bi-weekly lunchtime social at Spokes Café! We grab a table, some drinks and some food, and work on whatever programming we’re burdened with at the current moment! Come with side projects, coursework or just yourself! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-12-02-programming-caf%C3%A9/
+DTSTART;TZID=Europe/London:20261202T130000
+DTEND;TZID=Europe/London:20261202T140000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Programming Café is our casual, bi-weekly lunchtime social at Spokes Café! We grab a table, some drinks and some food, and work on whatever programming we’re burdened with at the current moment! Come with side projects, coursework or just yourself! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-11-18-programming-caf%C3%A9/
+DTSTART;TZID=Europe/London:20261118T130000
+DTEND;TZID=Europe/London:20261118T140000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Programming Café is our casual, bi-weekly lunchtime social at Spokes Café! We grab a table, some drinks and some food, and work on whatever programming we’re burdened with at the current moment! Come with side projects, coursework or just yourself! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-11-04-programming-caf%C3%A9/
+DTSTART;TZID=Europe/London:20261104T130000
+DTEND;TZID=Europe/London:20261104T140000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:HackNotts '26
 DESCRIPTION:The thirteenth installment of HackNotts will be returning on the 24th and 25th of October! Find out more at https://hacknotts.com\n
  Note that this is a ticketed event. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-10-24-hacknotts-26/
 DTSTART;TZID=Europe/London:20261024T100000
 DTEND;TZID=Europe/London:20261025T163000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Programming Café is our casual, bi-weekly lunchtime social at Spokes Café! We grab a table, some drinks and some food, and work on whatever programming we’re burdened with at the current moment! Come with side projects, coursework or just yourself! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-10-21-programming-caf%C3%A9/
+DTSTART;TZID=Europe/London:20261021T130000
+DTEND;TZID=Europe/London:20261021T140000
 
 
 END:VEVENT
@@ -29,6 +79,16 @@ SUMMARY:Web Development Workshop
 DESCRIPTION:Join us on our first workshop of the year, led by our Workshops Sec, Sami! Learn more about the history of web development, the current state of the industry and more about the tools being used today! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-10-08-web-development-workshop/
 DTSTART;TZID=Europe/London:20261008T183000
 DTEND;TZID=Europe/London:20261008T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Programming Café
+DESCRIPTION:Programming Café is our casual, bi-weekly lunchtime social at Spokes Café! We grab a table, some drinks and some food, and work on whatever programming we’re burdened with at the current moment! Come with side projects, coursework or just yourself! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-10-07-programming-caf%C3%A9/
+DTSTART;TZID=Europe/London:20261007T130000
+DTEND;TZID=Europe/London:20261007T140000
 
 
 END:VEVENT
