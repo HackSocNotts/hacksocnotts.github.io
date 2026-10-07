@@ -3,7 +3,7 @@ title: "Programming Café"
 date: "2026-12-02"
 time: "13:00"
 start: "2026-12-02T13:00:00+00:00"
-end: "2026-12-02T14:00:00+00:00"
+end: "2026-12-02T14:30:00+00:00"
 location: "Spokes Café, Jubilee Campus"
 ---
 
