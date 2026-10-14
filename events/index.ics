@@ -55,6 +55,16 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Placement and Internship Workshop
+DESCRIPTION:Want to learn more about the wonderful(ish) world of employment? Join us at our Placement and Internship Workshop to hear firsthand from students who have completed placements and internships, and find out their advice and tips! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-10-22-placement-and-internship-workshop/
+DTSTART;TZID=Europe/London:20261022T183000
+DTEND;TZID=Europe/London:20261022T203000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Programming Café
 DESCRIPTION:Programming Café is our casual, bi-weekly lunchtime social at Spokes Café! We grab a table, some drinks and some food, and work on whatever programming we’re burdened with at the current moment! Come with side projects, coursework or just yourself! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-10-21-programming-caf%C3%A9/
 DTSTART;TZID=Europe/London:20261021T130000
