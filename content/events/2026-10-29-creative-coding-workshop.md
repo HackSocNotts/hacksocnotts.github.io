@@ -2,8 +2,8 @@
 title: "Creative Coding Workshop"
 date: "2026-10-29"
 time: "18:30"
-start: "2026-10-29T13:00:00+00:00"
-end: "2026-10-29T14:30:00+00:00"
+start: "2026-10-29T18:30:00+00:00"
+end: "2026-10-29T20:00:00+00:00"
 location: "A01, School of Computer Science"
 ---
 
