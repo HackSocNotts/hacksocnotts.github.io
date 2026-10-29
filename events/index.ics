@@ -44,6 +44,17 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Programming Café
+DESCRIPTION:Curious about creative coding, or just wanting to make som cool art??? Well, our next event is going to be a beginner-friendly creative coding workshop. This will be in A01 in the Computer Science building at 6:30pm! The workshop will be presented by Elizabeth Hickmott, current General Secretary.\n
+ This event was inspired by Lana Valentine’s event back in 2024! We’ll start by exploring p5.js (sorry in advance for the JavaScript). Then we will create interactive kaleidoscope artwork on a web page. No previous experience with JavaScript or web development is needed! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-10-29-creative-coding-workshop/
+DTSTART;TZID=Europe/London:20261029T130000
+DTEND;TZID=Europe/London:20261029T143000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:HackNotts '26
 DESCRIPTION:The thirteenth installment of HackNotts will be returning on the 24th and 25th of October! Find out more at https://hacknotts.com\n
  Note that this is a ticketed event. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-10-24-hacknotts-26/
