@@ -94,16 +94,6 @@ END:VEVENT
 
 BEGIN:VEVENT
 
-SUMMARY:Metafiction and Game Analysis Workshop
-DESCRIPTION:This workshop will discuss games as unique pieces of art, and the possibilities this medium brings, looking at architectures, systems and mechanics from a different perspective. As well, this workshop will introduce metafiction and the unique way games are equipped to implement it, with case studies such as Undertale, FF7 Remake, Expedition 33 and The Stanley Parable. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-11-05-metafiction-and-game-analysis-workshop/
-DTSTART;TZID=Europe/London:20261105T183000
-DTEND;TZID=Europe/London:20261105T200000
-
-
-END:VEVENT
-
-BEGIN:VEVENT
-
 SUMMARY:Programming Café
 DESCRIPTION:Programming Café is our casual, bi-weekly lunchtime social at Spokes Café! We grab a table, some drinks and some food, and work on whatever programming we’re burdened with at the current moment! Come with side projects, coursework or just yourself! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-11-04-programming-caf%C3%A9/
 DTSTART;TZID=Europe/London:20261104T130000
