@@ -14,10 +14,50 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:HackSoc Christmas Party
+DESCRIPTION:Come and celebrate the end of the semester and calendar year with HackSoc! We’ll have a variety of fun events and games to play together before we all head off home for the holidays to get all our coursework (finally) finished :') \nMore details can be found at http://hacksocnotts.co.uk/events/2026-12-10-christmas-party/
+DTSTART;TZID=Europe/London:20261210T180000
+DTEND;TZID=Europe/London:20261210T220000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Advent of Code Workshop
+DESCRIPTION:Now that we’ve entered the final month of the year, the Advent of Code is starting back up again! Come and hear from our Marketing Secretary, Joel, to hear more about the Advent of Code, what is it, how to take part, and join the HackSoc leaderboard! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-12-03-advent-of-code/
+DTSTART;TZID=Europe/London:20261203T180000
+DTEND;TZID=Europe/London:20261203T220000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Programming Café
 DESCRIPTION:Programming Café is our casual, bi-weekly lunchtime social at Spokes Café! We grab a table, some drinks and some food, and work on whatever programming we’re burdened with at the current moment! Come with side projects, coursework or just yourself! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-12-02-programming-caf%C3%A9/
 DTSTART;TZID=Europe/London:20261202T130000
 DTEND;TZID=Europe/London:20261202T143000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:HackSoc Lightning Talks
+DESCRIPTION:HackSoc Lightning Talks return! Come and join us in the Rose & Crown function room for a night of food, drinks, and presentations! Attendees will have the opportunity to host a quick 5-10 minute talk on whatever topic they wish (really, anything at all)! Come armed with powerpoint slides or just improvise on the spot! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-11-24-lightning-talks/
+DTSTART;TZID=Europe/London:20261124T180000
+DTEND;TZID=Europe/London:20261124T220000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Workshop - TBD
+DESCRIPTION:A workshop by HackSoc. More details to come! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-11-19-workshop/
+DTSTART;TZID=Europe/London:20261119T183000
+DTEND;TZID=Europe/London:20261119T200000
 
 
 END:VEVENT
@@ -34,10 +74,30 @@ END:VEVENT
 
 BEGIN:VEVENT
 
+SUMMARY:Academic Talk - TBD
+DESCRIPTION:A talk by an academic from the University of Nottingham’s School of Computer Science. More details to come! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-11-12-academic-talk/
+DTSTART;TZID=Europe/London:20261112T183000
+DTEND;TZID=Europe/London:20261112T200000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
 SUMMARY:Metafiction and game analysis workshop
 DESCRIPTION:Come join for a workshop which will analyze games as unique pieces of art, teaching some methods to analyze and create them. Additionally, we will explore what metafiction is, and how games are uniquely positioned to implement it, with case studies such as Undertale, FF7 Remake, Expedition 33 and The Stanley Parable. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-11-05-metafiction-games-workshop/
 DTSTART;TZID=Europe/London:20261105T183000
 DTEND;TZID=Europe/London:20261104T193000
+
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SUMMARY:Metafiction and Game Analysis Workshop
+DESCRIPTION:This workshop will discuss games as unique pieces of art, and the possibilities this medium brings, looking at architectures, systems and mechanics from a different perspective. As well, this workshop will introduce metafiction and the unique way games are equipped to implement it, with case studies such as Undertale, FF7 Remake, Expedition 33 and The Stanley Parable. \nMore details can be found at http://hacksocnotts.co.uk/events/2026-11-05-metafiction-and-game-analysis-workshop/
+DTSTART;TZID=Europe/London:20261105T183000
+DTEND;TZID=Europe/London:20261105T200000
 
 
 END:VEVENT
