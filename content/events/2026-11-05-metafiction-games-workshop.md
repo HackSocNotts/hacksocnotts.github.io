@@ -1,5 +1,5 @@
 ---
-title: "Metafiction and game analysis workshop"
+title: "Metafiction and Game Analysis Workshop"
 date: "2026-11-05"
 time: "18:30"
 start: "2026-11-05T18:30:00+00:00"
