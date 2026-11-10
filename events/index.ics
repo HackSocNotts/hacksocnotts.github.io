@@ -74,19 +74,6 @@ END:VEVENT
 
 BEGIN:VEVENT
 
-SUMMARY:Academic Talk
-DESCRIPTION:A talk by Dr Xavier Carpent from the University of Nottingham’s School of Computer Science. In Dr Xavier’s words:\n
- “In this talk, we will introduce pre-image search, a fundamental problem in cryptography, and explore some of its implications. We will look at iterated random functions and use them to construct time-memory trade-offs to answer pre-image queries.\n
- Through relatively simple maths and some hands-on Python experiments, we will rediscover some of the techniques behind attacks such as the A5/1 GSM attack, NTLM password cracking, and a 2024 passive attack on 2.5G networks.”\n
- Hope to see as many of you there for this exciting talk! \nMore details can be found at http://hacksocnotts.co.uk/events/2026-11-12-academic-talk/
-DTSTART;TZID=Europe/London:20261112T183000
-DTEND;TZID=Europe/London:20261112T200000
-
-
-END:VEVENT
-
-BEGIN:VEVENT
-
 SUMMARY:An Exploration of Cryptanalytic Time Memory Tradeoffs by Dr Xavier Carpent
 DESCRIPTION:In our first guest talk of the year, Dr Xavier Carpent presents a talk on Cryptanalytic Time Memory Tradeoffs:\n
  In this talk, we will introduce pre-image search, a fundamental problem in cryptography, and explore some of its implications. We will look at iterated random functions and use them to construct time-memory trade-offs to answer pre-image queries.\n
